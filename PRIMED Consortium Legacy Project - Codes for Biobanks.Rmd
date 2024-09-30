@@ -1,0 +1,122 @@
+---
+title: "Codes for vocabularies"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+library(DBI)
+library(RPostgreSQL)
+library(DatabaseConnector)
+library(SqlRender)
+```
+
+# Vocabularies
+
+Vocabularies were obtained through the [Athena Vocabulary Download API](https://athena.ohdsi.org/vocabulary/list). The latest update date is provided for each vocabulary. The AKM_30Sept2024 download list includes only the vocabularies selected by default.
+
+If additional vocabularies are needed, please email Alisa Manning at amanning\@broadinstitute.org.
+
+Detailed documentation about [Standardized Vocabularies](https://ohdsi.github.io/TheBookOfOhdsi/StandardizedVocabularies.html) are available in [The Book Of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/).
+
+| ID (CDM v4.5) | CODE (CDM v5) | Name | Required | Latest Update |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| 1 | SNOMED | Systematic Nomenclature of Medicine - Clinical Terms (IHTSDO) |  | 31-Jan-2024 |
+| 2 | ICD9CM | International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 1 and 2 (NCHS) |  | 30-Sep-2014 |
+| 3 | ICD9Proc | International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 3 (NCHS) |  | 30-Sep-2014 |
+| 4 | CPT4 | Current Procedural Terminology version 4 (AMA) | EULA required | 05-May-2024 |
+| 5 | HCPCS | Healthcare Common Procedure Coding System (CMS) |  | 30-Jun-2024 |
+| 6 | LOINC | Logical Observation Identifiers Names and Codes (Regenstrief Institute) |  | 26-Feb-2024 |
+| 8 | RxNorm | RxNorm (NLM) |  | 05-May-2024 |
+| 9 | NDC | National Drug Code (FDA and manufacturers) |  | 24-Aug-2024 |
+| 12 | Gender | OMOP Gender |  |  |
+| 13 | Race | Race and Ethnicity Code Set (USBC) |  |  |
+| 14 | CMS Place of Service | Place of Service Codes for Professional Claims (CMS) |  | 04-Aug-2024 |
+| 21 | ATC | WHO Anatomic Therapeutic Chemical Classification |  | 02-Jul-2024 |
+| 43 | Revenue Code | UB04/CMS1450 Revenue Codes (CMS) |  |  |
+| 44 | Ethnicity | OMOP Ethnicity |  |  |
+| 47 | NUCC | National Uniform Claim Committee Health Care Provider Taxonomy Code Set (NUCC) |  | 25-Jun-2018 |
+| 48 | Medicare Specialty | Medicare provider/supplier specialty codes (CMS) |  | 25-Jun-2018 |
+| 50 | SPL | Structured Product Labeling (FDA) |  | 24-Aug-2024 |
+| 65 | Currency | International Currency Symbol (ISO 4217) |  |  |
+| 70 | ICD10CM | International Classification of Diseases, Tenth Revision, Clinical Modification (NCHS) |  | 30-Sep-2024 |
+| 71 | ABMS | Provider Specialty (American Board of Medical Specialties) |  | 25-Jun-2018 |
+| 82 | RxNorm Extension | OMOP RxNorm Extension |  | 30-Jun-2024 |
+| 128 | OMOP Extension | OMOP Extension (OHDSI) |  | 15-Jul-2024 |
+
+# Drugs
+
+## Query function, based on "D11: Find source codes by drug class"
+
+Query source: <https://data.ohdsi.org/QueryLibrary/> Name = "D11 Find source codes by drug class"
+
+```{r}
+find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
+  connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+  
+  sql <- render("SELECT  d.concept_code, d.concept_name, 
+        d.domain_id, d.concept_class_id, d.standard_concept,
+        d.vocabulary_id,
+        v.vocabulary_name
+ FROM primed.concept_ancestor ca
+        JOIN primed.concept d on d.concept_id = ca.descendant_concept_id
+        JOIN primed.concept a on a.concept_id = ca.ancestor_concept_id
+        JOIN primed.vocabulary v on d.vocabulary_id = v.vocabulary_id
+ WHERE  ca.ancestor_concept_id = @class_concept_id
+   AND  a.vocabulary_id = 'ATC'
+   AND  d.domain_id = 'Drug'
+   AND  (getdate() >= d.valid_start_date)
+   AND  (getdate() <= d.valid_end_date);",
+                    class_concept_id=class_concept_id)
+  #print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  return(results)
+}
+
+```
+
+# Diabetes Medications
+
+ATC 2nd level A10: DRUGS USED IN DIABETES <https://athena.ohdsi.org/search-terms/terms/21600712>
+
+```{r}
+drugs_used_in_diabetes_OMOP_21600712 <- find_drugs_by_ATC_class_concept_id(21600712)
+write.table(drugs_used_in_diabetes_OMOP_21600712,file="drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+```
+
+```{r}
+table(drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_NAME, drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID)
+```
+
+# Blood Pressure Medications
+
+ATC 2nd level C02: ANTIHYPERTENSIVES <https://athena.ohdsi.org/search-terms/terms/21600381>
+
+```{r}
+drugs_used_in_hypertension_OMOP_21600381 <- find_drugs_by_ATC_class_concept_id(21600381)
+write.table(drugs_used_in_hypertension_OMOP_21600381,file="drugs_used_in_hypertension_OMOP_21600381_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+```
+
+```{r}
+table(drugs_used_in_hypertension_OMOP_21600381$VOCABULARY_NAME, drugs_used_in_hypertension_OMOP_21600381$CONCEPT_CLASS_ID)
+```
+
+# Lipid Lowering Medication
+
+ATC 2nd level C10: LIPID MODYFYING AGENTS <https://athena.ohdsi.org/search-terms/terms/21601853>
+
+```{r}
+drugs_used_in_lipid_OMOP_21601853 <- find_drugs_by_ATC_class_concept_id(21601853)
+write.table(drugs_used_in_lipid_OMOP_21601853,file="drugs_used_in_lipid_OMOP_21601853_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+```
+
+```{r}
+table(drugs_used_in_lipid_OMOP_21601853$VOCABULARY_NAME, drugs_used_in_lipid_OMOP_21601853$CONCEPT_CLASS_ID)
+```

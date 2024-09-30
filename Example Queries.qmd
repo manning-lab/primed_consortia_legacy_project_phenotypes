@@ -1,0 +1,134 @@
+---
+title: "Example Queries"
+format: html
+editor: visual
+server: shiny
+---
+
+```{r}
+library(DBI)
+library(RPostgreSQL)
+library(DatabaseConnector)
+library(SqlRender)
+
+```
+
+# Database connection
+
+```{r}
+connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+
+```
+
+# **D01: Find drug concept by concept ID**
+
+Example Drug: **mitiglinide; oral** <https://athena.ohdsi.org/search-terms/terms/21600796>
+
+```{r}
+sql_query <- "SELECT 
+    c.concept_id AS drug_concept_id,
+    c.concept_name AS drug_concept_name,
+    c.concept_code AS drug_concept_code,
+    c.concept_class_id AS drug_concept_class,
+    c.standard_concept AS drug_standard_concept,
+    c.vocabulary_id AS drug_concept_vocab_id,
+    (CASE c.domain_id WHEN 'Drug' THEN 'Yes' ELSE 'No' END) AS is_drug_concept_flag
+FROM primed.concept AS c
+WHERE getdate() >= c.valid_start_date AND getdate() <= c.valid_end_date 
+  AND c.concept_id = 21600796
+;"
+translate(sql_query, targetDialect = "postgresql")
+
+```
+
+```{r}
+conn <- connect(connectionDetails = connectionDetails)
+querySql(conn,translate(sql_query, targetDialect = "postgresql"))
+disconnect(conn)
+```
+
+## D09: Find Drugs by Drug Class
+
+```{r}
+sql <- translate(sql="SELECT  
+        c.concept_id      AS  drug_concept_id,
+        c.concept_name     AS drug_concept_name,
+        c.domain_id       AS  drug_domain_id,
+        c.concept_class_id AS drug_concept_class,
+        c.concept_code     AS drug_concept_code,
+        c.vocabulary_id   AS drug_vocabulary
+FROM primed.concept AS c
+  JOIN primed.concept_ancestor AS ca
+    ON c.concept_id = ca.descendant_concept_id
+WHERE ca.ancestor_concept_id = 21600796
+      AND c.domain_id = 'Drug'
+      AND c.standard_concept = 'S'
+      AND getdate() >= c.valid_start_date
+      AND getdate() <= c.valid_end_date
+;", targetDialect = "postgresql")
+
+conn <- connect(connectionDetails = connectionDetails)
+results <- querySql(conn,sql)
+disconnect(conn)
+```
+
+```{r}
+results
+print(table(results$DRUG_CONCEPT_CLASS, results$DRUG_VOCABULARY))
+```
+
+```{r}
+library(tidyverse)
+# filter to rows that contain metformin
+table(grepl(pattern="metformin",results$DRUG_CONCEPT_NAME))
+
+filter(results,grepl(pattern="metformin",results$DRUG_CONCEPT_NAME))
+```
+
+## D11**: Find source codes by drug class**
+
+```{r}
+sql <- translate(sql="SELECT  d.concept_code, d.concept_name, 
+        d.vocabulary_id,
+        v.vocabulary_name
+ FROM primed.concept_ancestor ca
+        JOIN primed.concept d on d.concept_id = ca.descendant_concept_id
+        JOIN primed.concept a on a.concept_id = ca.ancestor_concept_id
+        JOIN primed.vocabulary v on d.vocabulary_id = v.vocabulary_id
+ WHERE  ca.ancestor_concept_id = 21600712
+   AND  a.vocabulary_id = 'ATC'
+   AND  d.domain_id = 'Drug'
+   AND  (getdate() >= d.valid_start_date)
+   AND  (getdate() <= d.valid_end_date);", targetDialect = "postgresql")
+
+conn <- connect(connectionDetails = connectionDetails)
+results <- querySql(conn,sql)
+disconnect(conn)
+```
+
+```{r}
+results
+```
+
+```{r}
+table(results$VOCABULARY_ID)
+```
+
+# Using QueryLibrary package
+
+## code to install and run Shiny app
+
+```{r}
+devtools::install_github("ohdsi/QueryLibrary")
+```
+
+```{r}
+library(QueryLibrary)
+```
+
+```{r}
+launchQueryLibrary()
+```
