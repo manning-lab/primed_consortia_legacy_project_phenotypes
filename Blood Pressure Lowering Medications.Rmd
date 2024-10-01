@@ -1,0 +1,18 @@
+---
+title: "Blood Pressure Lowering Medications"
+output: html_document
+date: "2024-10-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(DT)
+library(readr)
+```
+
+Current release: [drugs_used_in_hypertension](https://raw.githubusercontent.com/manning-lab/primed_consortia_legacy_project_phenotypes/refs/heads/main/drugs_used_in_hypertension_OMOP_21600381_AKM_30Sept2024.tsv)
+
+```{r}
+drugs_used_in_hypertension_OMOP_21600381 <- read_delim("drugs_used_in_hypertension_OMOP_21600381_AKM_30Sept2024.tsv", delim = "\t")
+DT::datatable(drugs_used_in_hypertension_OMOP_21600381, rownames = FALSE, filter="top", extensions = 'Buttons', options = list(dom = 'Bfrtip', buttons = c('copy', 'csv', 'excel')))
+```
