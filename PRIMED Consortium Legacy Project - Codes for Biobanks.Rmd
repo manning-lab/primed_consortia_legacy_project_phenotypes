@@ -7,6 +7,9 @@ output:
     number_sections: true
 ---
 
+# NHGRI's PRIMED Consortium "EMR Codes for Legacy Project"
+
+Table of Contents
 ```{r setup, include=FALSE}
 library(DBI)
 library(RPostgreSQL)
@@ -14,8 +17,12 @@ library(DatabaseConnector)
 library(SqlRender)
 ```
 
+<<<<<<< HEAD
 # NHGRI's PRIMED Consortium "EMR Codes for Legacy Project"
 ## Common Data Model Vocabularies
+=======
+# Common Data Model Vocabularies
+>>>>>>> 29d353b6ee0697fbff06cd10c6cd85968cbf3b8e
 
 Vocabularies were obtained through the [Athena Vocabulary Download API](https://athena.ohdsi.org/vocabulary/list). The latest update date is provided for each vocabulary. The AKM_30Sept2024 download list includes only the vocabularies selected by default.
 
@@ -50,7 +57,11 @@ For documentation detailing the setup of a local database, please see [Set_up_da
 | 82 | RxNorm Extension | OMOP RxNorm Extension |  | 30-Jun-2024 |
 | 128 | OMOP Extension | OMOP Extension (OHDSI) |  | 15-Jul-2024 |
 
+<<<<<<< HEAD
 ## Drugs Query 
+=======
+# Drugs Query 
+>>>>>>> 29d353b6ee0697fbff06cd10c6cd85968cbf3b8e
 
 This query is based on "D11: Find source codes by drug class"
 
