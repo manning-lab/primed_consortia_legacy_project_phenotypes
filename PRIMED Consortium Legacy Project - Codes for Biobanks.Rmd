@@ -1,10 +1,15 @@
 ---
 title: "Codes for vocabularies"
 output:
-  html_document:
-    df_print: paged
+  html_document: 
+    df_print: kable
+    toc: true
+    number_sections: true
 ---
 
+# NHGRI's PRIMED Consortium "EMR Codes for Legacy Project"
+
+Table of Contents
 ```{r setup, include=FALSE}
 library(DBI)
 library(RPostgreSQL)
@@ -12,13 +17,15 @@ library(DatabaseConnector)
 library(SqlRender)
 ```
 
-# Vocabularies
+# Common Data Model Vocabularies
 
 Vocabularies were obtained through the [Athena Vocabulary Download API](https://athena.ohdsi.org/vocabulary/list). The latest update date is provided for each vocabulary. The AKM_30Sept2024 download list includes only the vocabularies selected by default.
 
 If additional vocabularies are needed, please email Alisa Manning at amanning\@broadinstitute.org.
 
 Detailed documentation about [Standardized Vocabularies](https://ohdsi.github.io/TheBookOfOhdsi/StandardizedVocabularies.html) are available in [The Book Of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/).
+
+For documentation detailing the setup of a local database, please see [Set_up_database.html](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Set_up_database.html)
 
 | ID (CDM v4.5) | CODE (CDM v5) | Name | Required | Latest Update |
 |:--------------|:--------------|:--------------|:--------------|:--------------|
@@ -45,13 +52,13 @@ Detailed documentation about [Standardized Vocabularies](https://ohdsi.github.io
 | 82 | RxNorm Extension | OMOP RxNorm Extension |  | 30-Jun-2024 |
 | 128 | OMOP Extension | OMOP Extension (OHDSI) |  | 15-Jul-2024 |
 
-# Drugs
+# Drugs Query 
 
-## Query function, based on "D11: Find source codes by drug class"
+This query is based on "D11: Find source codes by drug class"
 
 Query source: <https://data.ohdsi.org/QueryLibrary/> Name = "D11 Find source codes by drug class"
 
-```{r}
+```{r echo=TRUE}
 find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
   connectionDetails <- createConnectionDetails(dbms="postgresql", 
                                              user="primed", password="primed", 
@@ -86,37 +93,52 @@ find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
 
 ATC 2nd level A10: DRUGS USED IN DIABETES <https://athena.ohdsi.org/search-terms/terms/21600712>
 
-```{r}
+```{r echo=FALSE}
 drugs_used_in_diabetes_OMOP_21600712 <- find_drugs_by_ATC_class_concept_id(21600712)
 write.table(drugs_used_in_diabetes_OMOP_21600712,file="drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
+## Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
 
 ```{r}
-table(drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_NAME, drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID)
+table(drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID,drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_ID)
 ```
+
+## Download Current Release and Search/Filter Table
+
+[Drugs used in Diabetes](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Drugs-used-in-Diabetes.html) for data download.
 
 # Blood Pressure Medications
 
 ATC 2nd level C02: ANTIHYPERTENSIVES <https://athena.ohdsi.org/search-terms/terms/21600381>
 
-```{r}
+```{r echo=FALSE}
 drugs_used_in_hypertension_OMOP_21600381 <- find_drugs_by_ATC_class_concept_id(21600381)
 write.table(drugs_used_in_hypertension_OMOP_21600381,file="drugs_used_in_hypertension_OMOP_21600381_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
+## Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
 
 ```{r}
-table(drugs_used_in_hypertension_OMOP_21600381$VOCABULARY_NAME, drugs_used_in_hypertension_OMOP_21600381$CONCEPT_CLASS_ID)
+table(drugs_used_in_hypertension_OMOP_21600381$CONCEPT_CLASS_ID, drugs_used_in_hypertension_OMOP_21600381$VOCABULARY_ID)
 ```
+## Download Current Release and Search/Filter Table
+
+See [Blood Pressure Lowering Medications](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Blood-Pressure-Lowering-Medications.html) for data download.
 
 # Lipid Lowering Medication
 
 ATC 2nd level C10: LIPID MODYFYING AGENTS <https://athena.ohdsi.org/search-terms/terms/21601853>
 
-```{r}
+```{r echo=FALSE}
 drugs_used_in_lipid_OMOP_21601853 <- find_drugs_by_ATC_class_concept_id(21601853)
 write.table(drugs_used_in_lipid_OMOP_21601853,file="drugs_used_in_lipid_OMOP_21601853_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
 
+## Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
+
 ```{r}
-table(drugs_used_in_lipid_OMOP_21601853$VOCABULARY_NAME, drugs_used_in_lipid_OMOP_21601853$CONCEPT_CLASS_ID)
+table(drugs_used_in_lipid_OMOP_21601853$CONCEPT_CLASS_ID,
+      drugs_used_in_lipid_OMOP_21601853$VOCABULARY_ID)
 ```
+## Download Current Release and Search/Filter Table
+
+See [Lipid Lowering Medications](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Lipid-Lowering-Medications.html) for data download.
