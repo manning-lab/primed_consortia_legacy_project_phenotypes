@@ -1,0 +1,24 @@
+SOURCE_CODE	SOURCE_VOCABULARY_ID	SOURCE_DOMAIN_ID	TARGET_CONCEPT_ID	TARGET_CONCEPT_NAME	TARGET_CONCEPT_CODE	TARGET_CONCEPT_CLASS_ID	TARGET_CONCEPT_VOCAB_ID
+113079009	SNOMED	Measurement	4012479	Low density lipoprotein cholesterol measurement	113079009	Procedure	SNOMED
+113079009	SNOMED	Measurement	3039873	Cholesterol in LDL [Moles/volume] in Body fluid	53133-5	Lab Test	LOINC
+113079009	SNOMED	Measurement	3028288	Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation	13457-7	Lab Test	LOINC
+113079009	SNOMED	Measurement	36031404	Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins	96259-7	Lab Test	LOINC
+113079009	SNOMED	Measurement	40758569	Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP	55440-2	Lab Test	LOINC
+113079009	SNOMED	Measurement	3008631	Cholesterol in LDL [Percentile]	14155-6	Lab Test	LOINC
+113079009	SNOMED	Measurement	36031267	Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins	96258-9	Lab Test	LOINC
+113079009	SNOMED	Measurement	1761709	Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a)	100733-5	Lab Test	LOINC
+113079009	SNOMED	Measurement	3001308	Cholesterol in LDL [Moles/volume] in Serum or Plasma	22748-8	Lab Test	LOINC
+113079009	SNOMED	Measurement	4042758	Plasma random LDL cholesterol measurement	167074000	Procedure	SNOMED
+113079009	SNOMED	Measurement	4041556	Serum LDL cholesterol measurement	166833005	Procedure	SNOMED
+113079009	SNOMED	Measurement	3035899	Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate	18261-8	Lab Test	LOINC
+113079009	SNOMED	Measurement	4042062	Serum random LDL cholesterol measurement	166841005	Procedure	SNOMED
+113079009	SNOMED	Measurement	3035009	Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis	12773-8	Lab Test	LOINC
+113079009	SNOMED	Measurement	4210878	Plasma LDL cholesterol measurement	314036004	Procedure	SNOMED
+113079009	SNOMED	Measurement	3009966	Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay	18262-6	Lab Test	LOINC
+113079009	SNOMED	Measurement	3038988	Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation	39469-2	Lab Test	LOINC
+113079009	SNOMED	Measurement	3053341	Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis	49132-4	Lab Test	LOINC
+113079009	SNOMED	Measurement	36032416	Cholesterol in LDL [Mass/volume] in DBS by Direct assay	96597-0	Lab Test	LOINC
+113079009	SNOMED	Measurement	42870529	Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay	69419-0	Lab Test	LOINC
+113079009	SNOMED	Measurement	3028437	Cholesterol in LDL [Mass/volume] in Serum or Plasma	2089-1	Lab Test	LOINC
+113079009	SNOMED	Measurement	4041721	Plasma fasting LDL cholesterol measurement	167075004	Procedure	SNOMED
+113079009	SNOMED	Measurement	4042061	Serum fasting LDL cholesterol measurement	166840006	Procedure	SNOMED

@@ -1,0 +1,20 @@
+SOURCE_CODE	SOURCE_VOCABULARY_ID	SOURCE_DOMAIN_ID	TARGET_CONCEPT_ID	TARGET_CONCEPT_NAME	TARGET_CONCEPT_CODE	TARGET_CONCEPT_CLASS_ID	TARGET_CONCEPT_VOCAB_ID
+28036006	SNOMED	Measurement	4101713	High density lipoprotein cholesterol measurement	28036006	Procedure	SNOMED
+28036006	SNOMED	Measurement	36032229	Cholesterol in HDL [Mass/volume] in DBS	96596-2	Lab Test	LOINC
+28036006	SNOMED	Measurement	3033638	Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis	12771-2	Lab Test	LOINC
+28036006	SNOMED	Measurement	3011884	Cholesterol in HDL [Presence] in Serum or Plasma	27340-9	Lab Test	LOINC
+28036006	SNOMED	Measurement	3040815	Cholesterol in HDL [Moles/volume] in Dialysis fluid	53135-0	Lab Test	LOINC
+28036006	SNOMED	Measurement	4055665	Serum random HDL cholesterol measurement	166839009	Procedure	SNOMED
+28036006	SNOMED	Measurement	40757503	Cholesterol in HDL [Mass/volume] in Body fluid	54372-8	Lab Test	LOINC
+28036006	SNOMED	Measurement	3013473	Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate	18263-4	Lab Test	LOINC
+28036006	SNOMED	Measurement	4042059	Serum HDL cholesterol measurement	166832000	Procedure	SNOMED
+28036006	SNOMED	Measurement	4042081	Plasma random HDL cholesterol measurement	167072001	Procedure	SNOMED
+28036006	SNOMED	Measurement	3023602	Cholesterol in HDL [Moles/volume] in Serum or Plasma	14646-4	Lab Test	LOINC
+28036006	SNOMED	Measurement	4041557	Serum fasting HDL cholesterol measurement	166838001	Procedure	SNOMED
+28036006	SNOMED	Measurement	4019543	HDL/total cholesterol ratio measurement	104583003	Procedure	SNOMED
+28036006	SNOMED	Measurement	4195503	Plasma HDL cholesterol measurement	314035000	Procedure	SNOMED
+28036006	SNOMED	Measurement	4041720	Plasma fasting HDL cholesterol measurement	167073006	Procedure	SNOMED
+28036006	SNOMED	Measurement	3007070	Cholesterol in HDL [Mass/volume] in Serum or Plasma	2085-9	Lab Test	LOINC
+28036006	SNOMED	Measurement	3030792	Cholesterol in HDL [Moles/volume] in Body fluid	50840-8	Lab Test	LOINC
+28036006	SNOMED	Measurement	3034482	Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis	12772-0	Lab Test	LOINC
+28036006	SNOMED	Measurement	3053286	Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis	49130-8	Lab Test	LOINC

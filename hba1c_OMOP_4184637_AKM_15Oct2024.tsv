@@ -1,0 +1,6 @@
+SOURCE_CODE	SOURCE_VOCABULARY_ID	SOURCE_DOMAIN_ID	TARGET_CONCEPT_ID	TARGET_CONCEPT_NAME	TARGET_CONCEPT_CODE	TARGET_CONCEPT_CLASS_ID	TARGET_CONCEPT_VOCAB_ID
+43396009	SNOMED	Measurement	3034639	Hemoglobin A1c [Mass/volume] in Blood	41995-2	Lab Test	LOINC
+43396009	SNOMED	Measurement	2106238	Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated)	3045F	CPT4	CPT4
+43396009	SNOMED	Measurement	44793001	Hb A1c (Haemoglobin A1c) measurement - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	371981000000106	Procedure	SNOMED
+43396009	SNOMED	Measurement	4184637	Hemoglobin A1c measurement	43396009	Procedure	SNOMED
+43396009	SNOMED	Measurement	4197971	HbA1c measurement (DCCT aligned)	313835008	Procedure	SNOMED

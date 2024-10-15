@@ -9,7 +9,12 @@ output:
 
 # NHGRI's PRIMED Consortium "EMR Codes for Legacy Project"
 
+Release notes:
+ - 15October2024: Added the codes to use for Trait queries
+ - 30Sept2024.tsv: Added the codes to use for Drug queries
+
 Table of Contents
+
 ```{r setup, include=FALSE}
 library(DBI)
 library(RPostgreSQL)
@@ -17,12 +22,7 @@ library(DatabaseConnector)
 library(SqlRender)
 ```
 
-<<<<<<< HEAD
-# NHGRI's PRIMED Consortium "EMR Codes for Legacy Project"
 ## Common Data Model Vocabularies
-=======
-# Common Data Model Vocabularies
->>>>>>> 29d353b6ee0697fbff06cd10c6cd85968cbf3b8e
 
 Vocabularies were obtained through the [Athena Vocabulary Download API](https://athena.ohdsi.org/vocabulary/list). The latest update date is provided for each vocabulary. The AKM_30Sept2024 download list includes only the vocabularies selected by default.
 
@@ -57,15 +57,195 @@ For documentation detailing the setup of a local database, please see [Set_up_da
 | 82 | RxNorm Extension | OMOP RxNorm Extension |  | 30-Jun-2024 |
 | 128 | OMOP Extension | OMOP Extension (OHDSI) |  | 15-Jul-2024 |
 
-<<<<<<< HEAD
-## Drugs Query 
-=======
-# Drugs Query 
->>>>>>> 29d353b6ee0697fbff06cd10c6cd85968cbf3b8e
+Common Data Model Queries
+
+The queries we used were based on the ODSI Query Library
+
+The query used to generate the codes for traits, conditions and procedures is based on "**G06: Find concepts and their descendants that are covered by a given source code**
+
+```{r eval=FALSE, echo=FALSE}
+
+find_descendants_for_a_given_concept_id <- function(concept_id) {
+  connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+  
+  sql <- render("SELECT
+  c.concept_id               AS descendant_concept_id,
+  c.concept_name             AS descendant_concept_name,
+  c.concept_code             AS descendant_concept_code,
+  c.concept_class_id         AS descendant_concept_class_id,
+  c.vocabulary_id            AS vocabulary_id,
+  a.min_levels_of_separation AS min_separation,
+  a.max_levels_of_separation AS max_separation,
+  c.invalid_reason           AS invalid_reason
+FROM primed.concept_ancestor AS a
+  JOIN primed.concept AS c ON a.descendant_concept_id = c.concept_id
+WHERE 
+  a.ancestor_concept_id != a.descendant_concept_id AND 
+  a.ancestor_concept_id = @concept_id
+ORDER BY vocabulary_id, min_separation
+;",
+                    concept_id=concept_id)
+  print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  return(results)
+}
+
+# G06: Find concepts and their descendants that are covered by a given source code
+```
+
+```{r eval=TRUE, echo=TRUE}
+
+find_descendants_for_a_given_concept_id <- function(concept_id) {
+  connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+  
+  sql <- render("WITH dm AS ( -- collect direct maps
+    SELECT
+      c1.concept_code     AS source_code,
+      c1.vocabulary_id    AS source_vocabulary_id,
+      c1.domain_id        AS source_domain_id,
+      c2.concept_id       AS target_concept_id,
+      c2.concept_name     AS target_concept_name,
+      c2.concept_code     AS target_concept_code,
+      c2.concept_class_id AS target_concept_class_id,
+      c2.vocabulary_id    AS target_concept_vocab_id
+    FROM primed.concept_relationship AS cr
+      JOIN primed.concept AS c1 ON cr.concept_id_1 = c1.concept_id
+      JOIN primed.concept AS c2 ON cr.concept_id_2 = c2.concept_id
+    WHERE
+      cr.relationship_id = 'Maps to' AND
+      c1.concept_id IN (@concept_id) AND
+      c1.vocabulary_id = 'SNOMED'
+)
+SELECT
+  dm.source_code,
+  dm.source_vocabulary_id,
+  dm.source_domain_id,
+  dc.concept_id       AS target_concept_id,
+  dc.concept_name     AS target_concept_name,
+  dc.concept_code     AS target_concept_code,
+  dc.concept_class_id AS target_concept_class_id,
+  dc.vocabulary_id    AS target_concept_vocab_id
+FROM primed.concept_ancestor AS ca -- collect descendants which includes ancestor itself
+  JOIN dm ON ca.ancestor_concept_id = dm.target_concept_id
+  JOIN primed.concept AS dc ON ca.descendant_concept_id = dc.concept_id
+WHERE dc.standard_concept = 'S'
+;",
+                    concept_id=concept_id)
+#  print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  return(results)
+}
+
+
+```
+
+## Codes to use for Trait Queries
+
+### White Blood Cell Count
+```{r echo=TRUE}
+white_blood_cell_count_OMOP_4298431 <- find_descendants_for_a_given_concept_id(4298431)
+write.table(white_blood_cell_count_OMOP_4298431,file="white_blood_cell_count_OMOP_4298431_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(white_blood_cell_count_OMOP_4298431$TARGET_CONCEPT_CLASS_ID, white_blood_cell_count_OMOP_4298431$TARGET_CONCEPT_VOCAB_ID)
+```
+Download file: [white_blood_cell_count_OMOP_4298431_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_OMOP_4298431_AKM_15Oct2024.tsv)
+
+### HbA1C
+```{r echo=TRUE}
+hba1c_OMOP_4184637 <- find_descendants_for_a_given_concept_id(4184637)
+write.table(hba1c_OMOP_4184637,file="hba1c_OMOP_4184637_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(hba1c_OMOP_4184637$TARGET_CONCEPT_CLASS_ID, hba1c_OMOP_4184637$TARGET_CONCEPT_VOCAB_ID)
+```
+Download file: [hba1c_OMOP_4184637_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_OMOP_4184637_AKM_15Oct2024.tsv)
+
+### SBP
+
+```{r echo=TRUE}
+sbp_OMOP_4152194 <- find_descendants_for_a_given_concept_id(4152194)
+write.table(sbp_OMOP_4152194,file="sbp_OMOP_4152194_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(sbp_OMOP_4152194$TARGET_CONCEPT_CLASS_ID, sbp_OMOP_4152194$TARGET_CONCEPT_VOCAB_ID)
+```
+
+Download file: [sbp_OMOP_4152194_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_OMOP_4152194_AKM_15Oct2024.tsv)
+
+```{r echo=TRUE}
+dbp_OMOP_4154790 <- find_descendants_for_a_given_concept_id(4154790)
+write.table(dbp_OMOP_4154790,file="dbp_OMOP_4154790_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(dbp_OMOP_4154790$TARGET_CONCEPT_CLASS_ID, dbp_OMOP_4154790$TARGET_CONCEPT_VOCAB_ID)
+```
+
+Download file: [dbp_OMOP_4154790_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_OMOP_4154790_AKM_15Oct2024.tsv)
+
+### HDLC
+
+```{r echo=TRUE}
+hdlc_OMOP_4101713 <- find_descendants_for_a_given_concept_id(4101713)
+write.table(hdlc_OMOP_4101713,file="hdlc_OMOP_4101713_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(hdlc_OMOP_4101713$TARGET_CONCEPT_CLASS_ID, hdlc_OMOP_4101713$TARGET_CONCEPT_VOCAB_ID)
+```
+Download file: [hdlc_OMOP_4101713_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_OMOP_4101713_AKM_15Oct2024.tsv)
+
+### LDLC
+```{r echo=TRUE}
+ldlc_OMOP_4012479 <- find_descendants_for_a_given_concept_id(4012479)
+write.table(ldlc_OMOP_4012479,file="ldlc_OMOP_4012479_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(ldlc_OMOP_4012479$TARGET_CONCEPT_CLASS_ID, ldlc_OMOP_4012479$TARGET_CONCEPT_VOCAB_ID)
+```
+Download file: [ldlc_OMOP_4012479_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_OMOP_4012479_AKM_15Oct2024.tsv)
+
+### TG
+```{r echo=TRUE}
+tg_OMOP_4017787 <- find_descendants_for_a_given_concept_id(4017787)
+write.table(tg_OMOP_4017787,file="tg_OMOP_4017787_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(tg_OMOP_4017787$TARGET_CONCEPT_CLASS_ID, tg_OMOP_4017787$TARGET_CONCEPT_VOCAB_ID)
+```
+
+Download file: [tg_OMOP_4017787_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_OMOP_4017787_AKM_15Oct2024.tsv)
+
+### Weight
+```{r echo=TRUE}
+
+weight_OMOP_4099154 <- find_descendants_for_a_given_concept_id(4099154)
+write.table(weight_OMOP_4099154,file="weight_OMOP_4099154_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(weight_OMOP_4099154$TARGET_CONCEPT_CLASS_ID, weight_OMOP_4099154$TARGET_CONCEPT_VOCAB_ID)
+```
+
+Download file: [weight_OMOP_4099154_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_OMOP_4099154_AKM_15Oct2024.tsv)
+
+### height
+```{r echo=TRUE}
+height_OMOP_607590 <- find_descendants_for_a_given_concept_id(607590)
+write.table(height_OMOP_607590,file="height_OMOP_607590_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+table(height_OMOP_607590$TARGET_CONCEPT_CLASS_ID, height_OMOP_607590$TARGET_CONCEPT_VOCAB_ID)
+```
+
+Download file: [height_OMOP_607590_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_OMOP_607590_AKM_15Oct2024.tsv)
+
+## Codes to use for Drugs Queries
 
 This query is based on "D11: Find source codes by drug class"
 
-Query source: <https://data.ohdsi.org/QueryLibrary/> Name = "D11 Find source codes by drug class"
+Query source: <https://data.ohdsi.org/QueryLibrary/>
 
 ```{r echo=TRUE}
 find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
@@ -98,56 +278,60 @@ find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
 
 ```
 
-# Diabetes Medications
+### Diabetes Medications
 
 ATC 2nd level A10: DRUGS USED IN DIABETES <https://athena.ohdsi.org/search-terms/terms/21600712>
 
-```{r echo=FALSE}
+```{r echo=TRUE}
 drugs_used_in_diabetes_OMOP_21600712 <- find_drugs_by_ATC_class_concept_id(21600712)
 write.table(drugs_used_in_diabetes_OMOP_21600712,file="drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
-## Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
 
-```{r}
+#### Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
+
+```{r echo=TRUE}
 table(drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID,drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_ID)
 ```
 
-## Download Current Release and Search/Filter Table
+#### Download Current Release and Search/Filter Table
 
 [Drugs used in Diabetes](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Drugs-used-in-Diabetes.html) for data download.
 
-# Blood Pressure Medications
+### Blood Pressure Medications
 
 ATC 2nd level C02: ANTIHYPERTENSIVES <https://athena.ohdsi.org/search-terms/terms/21600381>
 
-```{r echo=FALSE}
+```{r echo=TRUE}
 drugs_used_in_hypertension_OMOP_21600381 <- find_drugs_by_ATC_class_concept_id(21600381)
 write.table(drugs_used_in_hypertension_OMOP_21600381,file="drugs_used_in_hypertension_OMOP_21600381_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
-## Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
 
-```{r}
+#### Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
+
+```{r  echo=TRUE}
 table(drugs_used_in_hypertension_OMOP_21600381$CONCEPT_CLASS_ID, drugs_used_in_hypertension_OMOP_21600381$VOCABULARY_ID)
 ```
-## Download Current Release and Search/Filter Table
+
+#### Download Current Release and Search/Filter Table
 
 See [Blood Pressure Lowering Medications](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Blood-Pressure-Lowering-Medications.html) for data download.
 
-# Lipid Lowering Medication
+### Lipid Lowering Medication
 
 ATC 2nd level C10: LIPID MODYFYING AGENTS <https://athena.ohdsi.org/search-terms/terms/21601853>
 
-```{r echo=FALSE}
+```{r echo=TRUE}
 drugs_used_in_lipid_OMOP_21601853 <- find_drugs_by_ATC_class_concept_id(21601853)
 write.table(drugs_used_in_lipid_OMOP_21601853,file="drugs_used_in_lipid_OMOP_21601853_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
 
-## Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
+#### Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
 
-```{r}
+```{r  echo=TRUE}
 table(drugs_used_in_lipid_OMOP_21601853$CONCEPT_CLASS_ID,
       drugs_used_in_lipid_OMOP_21601853$VOCABULARY_ID)
 ```
-## Download Current Release and Search/Filter Table
+
+#### Download Current Release and Search/Filter Table
 
 See [Lipid Lowering Medications](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Lipid-Lowering-Medications.html) for data download.

@@ -1,0 +1,96 @@
+SOURCE_CODE	SOURCE_VOCABULARY_ID	SOURCE_DOMAIN_ID	TARGET_CONCEPT_ID	TARGET_CONCEPT_NAME	TARGET_CONCEPT_CODE	TARGET_CONCEPT_CLASS_ID	TARGET_CONCEPT_VOCAB_ID
+767002	SNOMED	Measurement	4298431	White blood cell count	767002	Procedure	SNOMED
+767002	SNOMED	Measurement	4152974	Plasma cell count	270924002	Procedure	SNOMED
+767002	SNOMED	Measurement	4015169	Lymphocytes and monocytes, count, blood	104105003	Procedure	SNOMED
+767002	SNOMED	Measurement	4016236	White blood cell count, automated, synovial fluid	104126003	Procedure	SNOMED
+767002	SNOMED	Measurement	4014490	Neutrophil count, automated, urine	104123006	Procedure	SNOMED
+767002	SNOMED	Measurement	2721185	Eosinophil count, blood, direct	S3630	HCPCS	HCPCS
+767002	SNOMED	Measurement	3017128	Prolymphocytes [#/volume] in Blood by Manual count	6863-5	Lab Test	LOINC
+767002	SNOMED	Measurement	44809936	Natural killer (bright) cell percentage of lymphocytes	876681000000107	Procedure	SNOMED
+767002	SNOMED	Measurement	4268302	Total B lymphocyte count	401074004	Procedure	SNOMED
+767002	SNOMED	Measurement	44807689	Count of cells negative for CD33 antigen and positive for CD34 antigen	797791000000108	Procedure	SNOMED
+767002	SNOMED	Measurement	4041971	B lymphocyte count	118135005	Procedure	SNOMED
+767002	SNOMED	Measurement	44809933	Natural killer (dim) cell absolute count	876601000000102	Procedure	SNOMED
+767002	SNOMED	Measurement	37208689	Lymphocyte count in blood	1107961000000106	Procedure	SNOMED
+767002	SNOMED	Measurement	4193711	Promyelocyte percent differential count	313478005	Procedure	SNOMED
+767002	SNOMED	Measurement	4100147	Neutrophil band count	25340006	Procedure	SNOMED
+767002	SNOMED	Measurement	37208690	Lymphocyte percent count in blood	1107971000000104	Procedure	SNOMED
+767002	SNOMED	Measurement	4195185	Myelocyte percent differential count	313696009	Procedure	SNOMED
+767002	SNOMED	Measurement	4016931	White blood cell count, automated, pleural fluid	104119003	Procedure	SNOMED
+767002	SNOMED	Measurement	4154342	Granulocyte percent differential count	271042003	Procedure	SNOMED
+767002	SNOMED	Measurement	4039856	T lymphocyte count	118136006	Procedure	SNOMED
+767002	SNOMED	Measurement	4013251	Differential white blood cell count procedure	165511009	Procedure	SNOMED
+767002	SNOMED	Measurement	4174071	White blood cell estimate	42396003	Procedure	SNOMED
+767002	SNOMED	Measurement	4014488	White blood cell count, automated, cerebrospinal fluid	104112007	Procedure	SNOMED
+767002	SNOMED	Measurement	4014756	T cells, total count	104373001	Procedure	SNOMED
+767002	SNOMED	Measurement	4001671	Eosinophil count, nasal	10967009	Procedure	SNOMED
+767002	SNOMED	Measurement	4070314	Eosinophil count, stool	20592001	Procedure	SNOMED
+767002	SNOMED	Measurement	3033822	Leukocytes [#/volume] in Peritoneal fluid by Automated count	809-4	Lab Test	LOINC
+767002	SNOMED	Measurement	3017680	Myelocytes [#/volume] in Blood by Manual count	748-4	Lab Test	LOINC
+767002	SNOMED	Measurement	3002125	Leukocytes [#/volume] in Cerebral spinal fluid by Automated count	805-2	Lab Test	LOINC
+767002	SNOMED	Measurement	3021120	Myelocytes [#/volume] in Blood	30446-9	Lab Test	LOINC
+767002	SNOMED	Measurement	4016229	Prolymphocyte count, blood	104101007	Procedure	SNOMED
+767002	SNOMED	Measurement	44807941	Band neutrophil percent differential count	827591000000105	Procedure	SNOMED
+767002	SNOMED	Measurement	4212899	Total white blood count	391558003	Procedure	SNOMED
+767002	SNOMED	Measurement	4041974	Macrophage count	118140002	Procedure	SNOMED
+767002	SNOMED	Measurement	4016392	Metamyelocyte count, blood	103759004	Procedure	SNOMED
+767002	SNOMED	Measurement	40487382	Total lymphocyte count	446325007	Procedure	SNOMED
+767002	SNOMED	Measurement	4216098	Eosinophil count	71960002	Procedure	SNOMED
+767002	SNOMED	Measurement	4024539	Polymorphonuclear leukocyte count	116708001	Procedure	SNOMED
+767002	SNOMED	Measurement	4254663	Lymphocyte count	74765001	Procedure	SNOMED
+767002	SNOMED	Measurement	4015164	Segmented neutrophil count, blood	104096007	Procedure	SNOMED
+767002	SNOMED	Measurement	4306234	Promyelocyte count procedure	165549008	Procedure	SNOMED
+767002	SNOMED	Measurement	4015165	Hypersegmented neutrophil count, blood	104097003	Procedure	SNOMED
+767002	SNOMED	Measurement	4121153	Determination of percentage differential white blood cells	302560003	Procedure	SNOMED
+767002	SNOMED	Measurement	4150335	Monocyte percent differential count	271037006	Procedure	SNOMED
+767002	SNOMED	Measurement	4022146	Leukocyte count corrected for nucleated erythrocytes	116786000	Procedure	SNOMED
+767002	SNOMED	Measurement	4306419	Myeloblast count procedure	165552000	Procedure	SNOMED
+767002	SNOMED	Measurement	44810444	HLA-DR+ percentage of lymphocytes/blast cells	887911000000101	Procedure	SNOMED
+767002	SNOMED	Measurement	4194332	Monocyte count	67776007	Procedure	SNOMED
+767002	SNOMED	Measurement	4015174	Neutrophil count, automated, peritoneal fluid	104116005	Procedure	SNOMED
+767002	SNOMED	Measurement	4307434	Percentage CD10 count	391305007	Procedure	SNOMED
+767002	SNOMED	Measurement	4015171	Neutrophil count, automated, cerebrospinal fluid	104110004	Procedure	SNOMED
+767002	SNOMED	Measurement	4016932	Neutrophil count, automated, pleural fluid	104120009	Procedure	SNOMED
+767002	SNOMED	Measurement	4306263	Myelocyte count procedure	165550008	Procedure	SNOMED
+767002	SNOMED	Measurement	3024507	Metamyelocytes [#/volume] in Blood	30433-7	Lab Test	LOINC
+767002	SNOMED	Measurement	3027270	Segmented neutrophils [#/volume] in Blood by Manual count	768-2	Lab Test	LOINC
+767002	SNOMED	Measurement	46235445	Prolymphocytes [Presence] in Blood	75663-5	Lab Test	LOINC
+767002	SNOMED	Measurement	3001552	Prolymphocytes [#/volume] in Blood	30464-2	Lab Test	LOINC
+767002	SNOMED	Measurement	3015586	Segmented neutrophils [#/volume] in Blood	30451-9	Lab Test	LOINC
+767002	SNOMED	Measurement	3038189	Leukocytes [#/volume] in Synovial fluid by Automated count	813-6	Lab Test	LOINC
+767002	SNOMED	Measurement	4022016	Mononuclear cell count	116710004	Procedure	SNOMED
+767002	SNOMED	Measurement	4172647	Basophil count	42351005	Procedure	SNOMED
+767002	SNOMED	Measurement	4035727	Lymphocyte count by cell surface antigen phenotype	117620005	Procedure	SNOMED
+767002	SNOMED	Measurement	4149456	Eosinophil percent differential count	310540006	Procedure	SNOMED
+767002	SNOMED	Measurement	4212900	T cell total percent	391560001	Procedure	SNOMED
+767002	SNOMED	Measurement	4016228	Promyelocyte count, blood	104100008	Procedure	SNOMED
+767002	SNOMED	Measurement	4156654	Smear cell percent differential count	271041005	Procedure	SNOMED
+767002	SNOMED	Measurement	4156652	Lymphocyte percent differential count	271036002	Procedure	SNOMED
+767002	SNOMED	Measurement	46285876	Absolute smear cell count	977691000000102	Procedure	SNOMED
+767002	SNOMED	Measurement	4153002	Metamyelocyte percent differential count	271039009	Procedure	SNOMED
+767002	SNOMED	Measurement	4293725	Lymphocyte subsets	401133001	Procedure	SNOMED
+767002	SNOMED	Measurement	44809935	Natural killer (dim) cell percentage of lymphocytes	876661000000103	Procedure	SNOMED
+767002	SNOMED	Measurement	4255263	Absolute atypical mononuclear cell count	408221008	Procedure	SNOMED
+767002	SNOMED	Measurement	2108451	Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer	38215	CPT4	CPT4
+767002	SNOMED	Measurement	4236306	Percentage plasma cell count	407663004	Procedure	SNOMED
+767002	SNOMED	Measurement	40484040	Count of eosinophils in urine specimen	442562007	Procedure	SNOMED
+767002	SNOMED	Measurement	3037296	Leukocytes [#/volume] in Pleural fluid by Automated count	807-8	Lab Test	LOINC
+767002	SNOMED	Measurement	4015166	Myelocyte count, blood	104099000	Procedure	SNOMED
+767002	SNOMED	Measurement	3012392	Metamyelocytes [#/volume] in Blood by Manual count	739-3	Lab Test	LOINC
+767002	SNOMED	Measurement	3001687	Leukocytes [#/volume] in Semen by Automated count	811-0	Lab Test	LOINC
+767002	SNOMED	Measurement	3039014	Metamyelocytes [Presence] in Blood	40651-2	Lab Test	LOINC
+767002	SNOMED	Measurement	4148615	Neutrophil count	30630007	Procedure	SNOMED
+767002	SNOMED	Measurement	44809932	Natural killer (bright) cell absolute count	876581000000106	Procedure	SNOMED
+767002	SNOMED	Measurement	4097616	Reversed neutrophil/lymphocyte ratio measurement	250298004	Procedure	SNOMED
+767002	SNOMED	Measurement	4153003	Blast cell percent differential count	271040006	Procedure	SNOMED
+767002	SNOMED	Measurement	4156653	Basophil percent differential count	271038001	Procedure	SNOMED
+767002	SNOMED	Measurement	4041973	Granulocyte count	118138007	Procedure	SNOMED
+767002	SNOMED	Measurement	4016930	White blood cell count, automated, peritoneal fluid	104115009	Procedure	SNOMED
+767002	SNOMED	Measurement	4193954	Total T lymphocyte count	391575009	Procedure	SNOMED
+767002	SNOMED	Measurement	4293721	Natural killer cell level	401094008	Procedure	SNOMED
+767002	SNOMED	Measurement	44807688	Count of cells positive for both CD33 antigen and CD34 antigen	797781000000106	Procedure	SNOMED
+767002	SNOMED	Measurement	4235100	Percentage atypical mononuclear cell count	408222001	Procedure	SNOMED
+767002	SNOMED	Measurement	4306264	Metamyelocyte count procedure	165551007	Procedure	SNOMED
+767002	SNOMED	Measurement	4016933	White blood cell count, automated, semen	104124000	Procedure	SNOMED
+767002	SNOMED	Measurement	4153001	Neutrophil percent differential count	271035003	Procedure	SNOMED
+767002	SNOMED	Measurement	4313853	Reactive lymphocyte count	86528005	Procedure	SNOMED
