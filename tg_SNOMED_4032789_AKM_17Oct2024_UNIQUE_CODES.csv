@@ -1,0 +1,124 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3000637,Triglyceride [Mass/volume] in Body fluid,Lab Test,LOINC
+1029650,Mass Concentration,LOINC Property,LOINC
+3004911,Deprecated Triglyceride [Mass/volume] in Body fluid,Lab Test,LOINC
+1029816,Point in time (spot),LOINC Time,LOINC
+40772572,Triglyceride,LOINC Component,LOINC
+1030397,Body fluid,LOINC System,LOINC
+1033751,Qn,LOINC Scale,LOINC
+3028507,Deprecated Triglyceride [Mass/volume] in fluid,Lab Test,LOINC
+1028907,Calculated,LOINC Method,LOINC
+3007943,Triglyceride [Mass/volume] in Serum or Plasma by calculation,Lab Test,LOINC
+1033306,Serum or Plasma,LOINC System,LOINC
+3009192,Triglyceride [Mass/volume] in Semen,Lab Test,LOINC
+1033439,Semen,LOINC System,LOINC
+1015176,Presence or Threshold,LOINC Property,LOINC
+3012391,Triglyceride [Presence] in Serum or Plasma,Lab Test,LOINC
+1033749,Ord,LOINC Scale,LOINC
+3012789,Triglyceride [Moles/volume] in Specimen,Lab Test,LOINC
+1029726,Substance Concentration,LOINC Property,LOINC
+21496667,XXX,LOINC System,LOINC
+1022951,Triglyceride^post 12H CFst,LOINC Component,LOINC
+3013678,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,Lab Test,LOINC
+1033459,Synovial fluid,LOINC System,LOINC
+3014110,Triglyceride [Mass/volume] in Synovial fluid,Lab Test,LOINC
+3014600,Triglyceride [Percentile],Lab Test,LOINC
+1029715,Percentile,LOINC Property,LOINC
+3968295,SemiQn,LOINC Scale,LOINC
+3019038,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,Lab Test,LOINC
+3022038,Triglyceride [Mass/volume] in Blood,Lab Test,LOINC
+1029919,Blood,LOINC System,LOINC
+3013898,Deprecated Triglyceride [Mass/volume] in Serum or Plasma,Lab Test,LOINC
+3022192,Triglyceride [Mass/volume] in Serum or Plasma,Lab Test,LOINC
+1032584,Peritoneal fluid,LOINC System,LOINC
+3023386,Triglyceride [Mass/volume] in Peritoneal fluid,Lab Test,LOINC
+3025839,Triglyceride [Moles/volume] in Serum or Plasma,Lab Test,LOINC
+3026101,Triglyceride [Moles/volume] in Body fluid,Lab Test,LOINC
+3034111,Deprecated Triglyceride [Mass/volume] in Serum or Plasma --post CFst,Lab Test,LOINC
+3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,Lab Test,LOINC
+1022952,Triglyceride^post CFst,LOINC Component,LOINC
+3034207,Triglyceride [Mass/volume] in Pleural fluid,Lab Test,LOINC
+1032362,Pleural fluid,LOINC System,LOINC
+1029847,Amniotic fluid,LOINC System,LOINC
+3036306,Triglyceride [Mass/volume] in Amniotic fluid,Lab Test,LOINC
+1033714,Urine,LOINC System,LOINC
+3036647,Triglyceride [Mass/volume] in Urine,Lab Test,LOINC
+3036816,Triglyceride [Mass/volume] in Cerebral spinal fluid,Lab Test,LOINC
+1030067,Cerebral spinal fluid,LOINC System,LOINC
+3039084,Triglyceride [Moles/volume] in Synovial fluid,Lab Test,LOINC
+3042010,Triglyceride [Moles/volume] in Pleural fluid,Lab Test,LOINC
+3048773,Triglyceride [Moles/volume] in Serum or Plasma --fasting,Lab Test,LOINC
+4224820,Cholesterol,Substance,SNOMED
+4042999,Ratio,Qualifier Value,SNOMED
+4016950,Cholesterol/triglyceride ratio measurement,Procedure,SNOMED
+4044177,Measurement - action,Qualifier Value,SNOMED
+4311687,Triacylglycerol,Substance,SNOMED
+4020119,Triglyceride and ester in LDL measurement,Procedure,SNOMED
+4020697,Triglyceride and ester in IDL measurement,Procedure,SNOMED
+4020698,Triglyceride and ester in VLDL measurement,Procedure,SNOMED
+4021289,Triglyceride and ester in HDL measurement,Procedure,SNOMED
+3572267,Triglyceride level,Undefined,SNOMED
+4136579,Fluid sample triglyceride measurement,Procedure,SNOMED
+40762129,Triglyceride [Mass/volume] in Peritoneal dialysis fluid,Lab Test,LOINC
+40762633,Triglyceride [Moles/time] in 24 hour Urine,Lab Test,LOINC
+4156816,Measurement of serum triglyceride level,Procedure,SNOMED
+36032380,Triglyceride [Mass/volume] in DBS,Lab Test,LOINC
+45757280,Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus,Disorder,SNOMED
+3552985,Triglyceride level,Undefined,SNOMED
+40484105,Measurement of total cholesterol and triglycerides,Procedure,SNOMED
+4041722,Plasma fasting triglyceride measurement,Procedure,SNOMED
+42868692,Triglyceride [Moles/volume] in Blood,Lab Test,LOINC
+46236066,Triglyceride [Mass/time] in 24 hour Stool,Lab Test,LOINC
+46236065,Triglyceride [Mass/mass] in 24 hour Stool,Lab Test,LOINC
+42868436,Triglyceride [Moles/volume] in Pericardial fluid,Lab Test,LOINC
+44808857,Triglyceride level,Observable Entity,SNOMED
+4055696,Plasma random triglyceride measurement,Procedure,SNOMED
+4042590,Serum fasting triglyceride measurement,Procedure,SNOMED
+40762634,Triglyceride [Moles/volume] in Urine,Lab Test,LOINC
+4032789,Triglycerides measurement,Procedure,SNOMED
+40769427,Triglyceride [Moles/volume] in Peritoneal fluid,Lab Test,LOINC
+36660413,Triglyceride [Mass/volume] corrected for glycerol in Serum,Lab Test,LOINC
+4267671,Triglyceride level - finding,Clinical Finding,SNOMED
+4055667,Serum random triglyceride measurement,Procedure,SNOMED
+40308383,Plasma fasting triglyceride level,Procedure,SNOMED
+37394386,Plasma fasting triglyceride level,Observable Entity,SNOMED
+37394095,Serum fasting triglyceride level,Observable Entity,SNOMED
+40307757,Serum fasting triglyceride level,Procedure,SNOMED
+37394096,Serum random triglyceride level,Observable Entity,SNOMED
+40307758,Serum random triglyceride level,Procedure,SNOMED
+40308380,Plasma triglyceride level,Procedure,SNOMED
+4055695,Plasma triglyceride measurement,Procedure,SNOMED
+37398563,Plasma triglyceride level,Observable Entity,SNOMED
+4000626,Plasma specimen,Specimen,SNOMED
+37394233,Plasma random triglyceride level,Observable Entity,SNOMED
+40308382,Plasma random triglyceride level,Procedure,SNOMED
+3571905,Fluid sample triglyceride level,Undefined,SNOMED
+37393389,Fluid sample triglyceride level,Observable Entity,SNOMED
+3552338,Fluid sample triglyceride level,Undefined,SNOMED
+4122251,Fluid specimen,Specimen,SNOMED
+40307760,Serum triglycerides NOS,Procedure,SNOMED
+40307753,Serum triglycerides (& level),Procedure,SNOMED
+40307754,Serum triglycerides normal,Clinical Finding,SNOMED
+3030875,Triglyceride [Mass or Moles/volume] in Serum or Plasma,Lab Test,LOINC
+40329067,Serum triglycerides (& level),Procedure,SNOMED
+4042591,Serum triglycerides NOS,Procedure,SNOMED
+40307756,Serum triglycerides raised,Clinical Finding,SNOMED
+4041558,Serum triglycerides above reference range,Clinical Finding,SNOMED
+4055666,Serum triglycerides within reference range,Clinical Finding,SNOMED
+4042589,Serum triglycerides borderline,Clinical Finding,SNOMED
+40307755,Serum triglycerides borderline,Clinical Finding,SNOMED
+40483583,Serum triglycerides borderline low,Clinical Finding,SNOMED
+4276570,Serum triglyceride levels - finding,Clinical Finding,SNOMED
+40482279,Serum triglycerides borderline high,Clinical Finding,SNOMED
+37392563,Serum triglycerides level,Observable Entity,SNOMED
+1015160,DBS,LOINC System,LOINC
+1033211,Serum,LOINC System,LOINC
+36661967,Triglyceride^^corrected for glycerol,LOINC Component,LOINC
+4199405,Total cholesterol,Substance,SNOMED
+1030089,Dialysis fluid peritoneal,LOINC System,LOINC
+1029732,Substance Rate,LOINC Property,LOINC
+1029790,24 hours,LOINC Time,LOINC
+1032158,Pericardial fluid,LOINC System,LOINC
+1033499,Stool,LOINC System,LOINC
+1029652,Mass Content,LOINC Property,LOINC
+1029404,Mass Rate,LOINC Property,LOINC

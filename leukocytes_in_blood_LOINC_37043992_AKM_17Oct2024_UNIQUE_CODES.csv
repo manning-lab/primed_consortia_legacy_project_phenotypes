@@ -1,0 +1,16 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3000905,Leukocytes [#/volume] in Blood by Automated count,Lab Test,LOINC
+1028881,Automated count,LOINC Method,LOINC
+1029816,Point in time (spot),LOINC Time,LOINC
+1033751,Qn,LOINC Scale,LOINC
+40782521,Leukocytes,LOINC Component,LOINC
+1029672,Number Concentration,LOINC Property,LOINC
+1029919,Blood,LOINC System,LOINC
+3001657,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,Lab Test,LOINC
+1023812,Leukocytes^^corrected for nucleated erythrocytes,LOINC Component,LOINC
+3003282,Leukocytes [#/volume] in Blood by Manual count,Lab Test,LOINC
+1029133,Manual count,LOINC Method,LOINC
+3010813,Leukocytes [#/volume] in Blood,Lab Test,LOINC
+3032393,Leukocytes [#/volume] in Blood by Estimate,Lab Test,LOINC
+1029203,Estimate,LOINC Method,LOINC
+3046900,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,Lab Test,LOINC

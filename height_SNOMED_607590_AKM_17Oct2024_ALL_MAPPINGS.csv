@@ -1,0 +1,72 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+600652,1149101003,Recumbent body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Mapped from,4172710,Infant length,276351002,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Mapped from,600652,Recumbent body height,1149101003,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Maps to,600652,Recumbent body height,1149101003,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Subsumes,4014465,Birth length,169886007,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Concept replaces,4169807,Crown heel length,276353004,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Mapped from,4169807,Crown heel length,276353004,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Concept replaces,4172710,Infant length,276351002,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Has precondition,4009887,Recumbent body position,102538003,Clinical Finding,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Concept poss_eq from,4087492,Length of body,248334005,Observable Entity,SNOMED
+600652,1149101003,Recumbent body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+607590,1153637007,Body height,SNOMED,Subsumes,37160441,Estimated body height,1162418000,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Subsumes,4093975,Standing height,248333004,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Subsumes,600652,Recumbent body height,1149101003,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Subsumes,37160428,Pre-amputation measured body height,1162392001,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,37163796,Microcephalic primordial dwarfism, insulin resistance syndrome,1220596009,Disorder,SNOMED
+607590,1153637007,Body height,SNOMED,Concept poss_eq from,4087492,Length of body,248334005,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,4075151,Leri-Weill dyschondrosteosis,17818006,Disorder,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,37163548,Craniofacial dysplasia, short stature, ectodermal anomalies, intellectual disability syndrome,1217229007,Disorder,SNOMED
+607590,1153637007,Body height,SNOMED,Subsumes,37160442,Self reported body height,1162419008,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,37163586,Severe myopia, generalized joint laxity, short stature syndrome,1217372003,Disorder,SNOMED
+607590,1153637007,Body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+607590,1153637007,Body height,SNOMED,Maps to,607590,Body height,1153637007,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Mapped from,607590,Body height,1153637007,Observable Entity,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,37163797,Retinitis pigmentosa, juvenile cataract, short stature, intellectual disability syndrome,1220597000,Disorder,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,37163768,QRICH1-related intellectual disability, chondrodysplasia syndrome,1220568003,Disorder,SNOMED
+607590,1153637007,Body height,SNOMED,Interprets of,37163794,Cataract, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, skeletal dysplasia syndrome,1220595008,Disorder,SNOMED
+4014465,169886007,Birth length,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+4014465,169886007,Birth length,SNOMED,Maps to,4014465,Birth length,169886007,Observable Entity,SNOMED
+4014465,169886007,Birth length,SNOMED,Concept replaces,40312272,Birth length,147119007,Observable Entity,SNOMED
+4014465,169886007,Birth length,SNOMED,Concept same_as from,40312272,Birth length,147119007,Observable Entity,SNOMED
+4014465,169886007,Birth length,SNOMED,Mapped from,40312272,Birth length,147119007,Observable Entity,SNOMED
+4014465,169886007,Birth length,SNOMED,Has precondition,4009887,Recumbent body position,102538003,Clinical Finding,SNOMED
+4014465,169886007,Birth length,SNOMED,Mapped from,4014465,Birth length,169886007,Observable Entity,SNOMED
+4014465,169886007,Birth length,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4014465,169886007,Birth length,SNOMED,Has precondition,4123429,Early neonatal period,303114002,Qualifier Value,SNOMED
+4093975,248333004,Standing height,SNOMED,Mapped from,4093975,Standing height,248333004,Observable Entity,SNOMED
+4093975,248333004,Standing height,SNOMED,Maps to,4093975,Standing height,248333004,Observable Entity,SNOMED
+4093975,248333004,Standing height,SNOMED,Has precondition,4033753,Orthostatic body position,10904000,Clinical Finding,SNOMED
+4093975,248333004,Standing height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4093975,248333004,Standing height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+37160428,1162392001,Pre-amputation measured body height,SNOMED,Mapped from,37160428,Pre-amputation measured body height,1162392001,Observable Entity,SNOMED
+37160428,1162392001,Pre-amputation measured body height,SNOMED,Has technique,4154182,Measurement technique,272391002,Qualifier Value,SNOMED
+37160428,1162392001,Pre-amputation measured body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160428,1162392001,Pre-amputation measured body height,SNOMED,Maps to,37160428,Pre-amputation measured body height,1162392001,Observable Entity,SNOMED
+37160428,1162392001,Pre-amputation measured body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+37160440,1162417005,Pre-amputation estimated body height,SNOMED,Mapped from,37160440,Pre-amputation estimated body height,1162417005,Observable Entity,SNOMED
+37160440,1162417005,Pre-amputation estimated body height,SNOMED,Maps to,37160440,Pre-amputation estimated body height,1162417005,Observable Entity,SNOMED
+37160440,1162417005,Pre-amputation estimated body height,SNOMED,Has technique,42538440,Estimation technique,761996005,Qualifier Value,SNOMED
+37160440,1162417005,Pre-amputation estimated body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160440,1162417005,Pre-amputation estimated body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+37160441,1162418000,Estimated body height,SNOMED,Has technique,42538440,Estimation technique,761996005,Qualifier Value,SNOMED
+37160441,1162418000,Estimated body height,SNOMED,Mapped from,37160441,Estimated body height,1162418000,Observable Entity,SNOMED
+37160441,1162418000,Estimated body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160441,1162418000,Estimated body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+37160441,1162418000,Estimated body height,SNOMED,Maps to,37160441,Estimated body height,1162418000,Observable Entity,SNOMED
+37160441,1162418000,Estimated body height,SNOMED,Subsumes,37160440,Pre-amputation estimated body height,1162417005,Observable Entity,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Mapped from,37160442,Self reported body height,1162419008,Observable Entity,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Subsumes,37164398,Self reported peak adult body height,1230278008,Observable Entity,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Maps to,37160442,Self reported body height,1162419008,Observable Entity,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Concept same_as from,37151108,Self reported body height,1047021000000101,Observable Entity,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Has technique,603082,Self reported,1156040003,Qualifier Value,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Mapped from,37151108,Self reported body height,1047021000000101,Observable Entity,SNOMED
+37160442,1162419008,Self reported body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+37164398,1230278008,Self reported peak adult body height,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37164398,1230278008,Self reported peak adult body height,SNOMED,Maps to,37164398,Self reported peak adult body height,1230278008,Observable Entity,SNOMED
+37164398,1230278008,Self reported peak adult body height,SNOMED,Has property,4256605,Length,410668003,Qualifier Value,SNOMED
+37164398,1230278008,Self reported peak adult body height,SNOMED,Has technique,603082,Self reported,1156040003,Qualifier Value,SNOMED
+37164398,1230278008,Self reported peak adult body height,SNOMED,Mapped from,37164398,Self reported peak adult body height,1230278008,Observable Entity,SNOMED

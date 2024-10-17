@@ -1,0 +1,574 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+2108451,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4
+4129835,Buffy coat smear evaluation,Procedure,SNOMED
+4016240,Bone marrow processing to eliminate cells,Procedure,SNOMED
+4141733,Hematology procedure,Procedure,SNOMED
+4022016,Mononuclear cell count,Procedure,SNOMED
+2721185,Eosinophil count, blood, direct,HCPCS,HCPCS
+1029919,Blood,LOINC System,LOINC
+40792411,Prolymphocytes,LOINC Component,LOINC
+3001552,Prolymphocytes [#/volume] in Blood,Lab Test,LOINC
+1029816,Point in time (spot),LOINC Time,LOINC
+1033751,Qn,LOINC Scale,LOINC
+1029672,Number Concentration,LOINC Property,LOINC
+1033439,Semen,LOINC System,LOINC
+3001687,Leukocytes [#/volume] in Semen by Automated count,Lab Test,LOINC
+1028881,Automated count,LOINC Method,LOINC
+40782521,Leukocytes,LOINC Component,LOINC
+3002125,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,Lab Test,LOINC
+1030067,Cerebral spinal fluid,LOINC System,LOINC
+40779190,Metamyelocytes,LOINC Component,LOINC
+3012392,Metamyelocytes [#/volume] in Blood by Manual count,Lab Test,LOINC
+1029133,Manual count,LOINC Method,LOINC
+3015586,Segmented neutrophils [#/volume] in Blood,Lab Test,LOINC
+40792738,Segmented neutrophils,LOINC Component,LOINC
+3017128,Prolymphocytes [#/volume] in Blood by Manual count,Lab Test,LOINC
+40779191,Myelocytes,LOINC Component,LOINC
+3017680,Myelocytes [#/volume] in Blood by Manual count,Lab Test,LOINC
+3021120,Myelocytes [#/volume] in Blood,Lab Test,LOINC
+3024507,Metamyelocytes [#/volume] in Blood,Lab Test,LOINC
+3027270,Segmented neutrophils [#/volume] in Blood by Manual count,Lab Test,LOINC
+3033822,Leukocytes [#/volume] in Peritoneal fluid by Automated count,Lab Test,LOINC
+1032584,Peritoneal fluid,LOINC System,LOINC
+3037296,Leukocytes [#/volume] in Pleural fluid by Automated count,Lab Test,LOINC
+1032362,Pleural fluid,LOINC System,LOINC
+3038189,Leukocytes [#/volume] in Synovial fluid by Automated count,Lab Test,LOINC
+1033459,Synovial fluid,LOINC System,LOINC
+1015176,Presence or Threshold,LOINC Property,LOINC
+3039014,Metamyelocytes [Presence] in Blood,Lab Test,LOINC
+1033749,Ord,LOINC Scale,LOINC
+4044177,Measurement - action,Qualifier Value,SNOMED
+4001671,Eosinophil count, nasal,Procedure,SNOMED
+4133456,Eosinophilic granulocytic cell,Body Structure,SNOMED
+40301791,Diff. white cell count NOS,Procedure,SNOMED
+40301788,Differential white blood cell count,Procedure,SNOMED
+40301790,Diff. white count abnormal,Clinical Finding,SNOMED
+4121153,Determination of percentage differential white blood cells,Procedure,SNOMED
+4013992,Differential white cell count within reference range,Clinical Finding,SNOMED
+3557381,Diff. white cell count NOS,Procedure,SNOMED
+40301789,Diff. white cell count normal,Clinical Finding,SNOMED
+4013251,Differential white blood cell count procedure,Procedure,SNOMED
+4306253,Differential white cell count outside reference range,Clinical Finding,SNOMED
+4306254,Diff. white cell count NOS,Procedure,SNOMED
+4198678,Leukocyte,Body Structure,SNOMED
+4124259,Cerebrospinal fluid specimen,Specimen,SNOMED
+4014488,White blood cell count, automated, cerebrospinal fluid,Procedure,SNOMED
+4198194,Segmented neutrophil,Body Structure,SNOMED
+4046280,Urine specimen,Specimen,SNOMED
+4014490,Neutrophil count, automated, urine,Procedure,SNOMED
+4014756,T cells, total count,Procedure,SNOMED
+4212900,T cell total percent,Procedure,SNOMED
+4238820,T lymphocyte,Body Structure,SNOMED
+4001225,Blood specimen,Specimen,SNOMED
+4015164,Segmented neutrophil count, blood,Procedure,SNOMED
+4015165,Hypersegmented neutrophil count, blood,Procedure,SNOMED
+4027902,Myelocyte,Body Structure,SNOMED
+4077505,Myelocytes in blood,Clinical Finding,SNOMED
+4015166,Myelocyte count, blood,Procedure,SNOMED
+4211531,Lymphocyte,Body Structure,SNOMED
+4015169,Lymphocytes and monocytes, count, blood,Procedure,SNOMED
+4208122,Monocyte,Body Structure,SNOMED
+4015171,Neutrophil count, automated, cerebrospinal fluid,Procedure,SNOMED
+4043942,Peritoneal fluid specimen,Specimen,SNOMED
+4015174,Neutrophil count, automated, peritoneal fluid,Procedure,SNOMED
+4016228,Promyelocyte count, blood,Procedure,SNOMED
+4184786,Promyelocyte,Body Structure,SNOMED
+4016229,Prolymphocyte count, blood,Procedure,SNOMED
+3552004,Prolymphocyte count,Procedure,SNOMED
+3551322,Prolymphocyte count,Undefined,SNOMED
+4023589,Prolymphocyte,Body Structure,SNOMED
+46235445,Prolymphocytes [Presence] in Blood,Lab Test,LOINC
+4016236,White blood cell count, automated, synovial fluid,Procedure,SNOMED
+4002875,Synovial fluid specimen,Specimen,SNOMED
+4016392,Metamyelocyte count, blood,Procedure,SNOMED
+4307366,Metamyelocyte,Body Structure,SNOMED
+4016930,White blood cell count, automated, peritoneal fluid,Procedure,SNOMED
+4302933,Pleural fluid specimen,Specimen,SNOMED
+4016931,White blood cell count, automated, pleural fluid,Procedure,SNOMED
+4016932,Neutrophil count, automated, pleural fluid,Procedure,SNOMED
+4002881,Seminal fluid specimen,Specimen,SNOMED
+4016933,White blood cell count, automated, semen,Procedure,SNOMED
+4235100,Percentage atypical mononuclear cell count,Procedure,SNOMED
+4024223,Mononuclear cell (histiocyte, lymphocyte, plasma cell),Body Structure,SNOMED
+4255263,Absolute atypical mononuclear cell count,Procedure,SNOMED
+4022146,Leukocyte count corrected for nucleated erythrocytes,Procedure,SNOMED
+4024539,Polymorphonuclear leukocyte count,Procedure,SNOMED
+40557850,Polymorphonuclear leukocyte count,Procedure,SNOMED
+40562850,Polymorphonuclear leukocyte count,Procedure,SNOMED
+4169076,Granulocytic cell,Body Structure,SNOMED
+40564524,Polymorphonuclear leukocyte count,Procedure,SNOMED
+4024224,Polymorphonuclear leukocyte,Body Structure,SNOMED
+4035727,Lymphocyte count by cell surface antigen phenotype,Procedure,SNOMED
+4039856,T lymphocyte count,Procedure,SNOMED
+4193954,Total T lymphocyte count,Procedure,SNOMED
+37206728,Monoclonal B-cell lymphocytosis chronic lymphocytic leukemia-type,Disorder,SNOMED
+37397341,Monoclonal B-cell lymphocytosis,Disorder,SNOMED
+4041971,B lymphocyte count,Procedure,SNOMED
+4011536,B lymphocyte,Body Structure,SNOMED
+37204530,Non-chronic lymphocytic leukemia monoclonal B-cell lymphocytosis,Disorder,SNOMED
+4268302,Total B lymphocyte count,Procedure,SNOMED
+604666,B cell lymphocyte aplasia caused by drug,Disorder,SNOMED
+4218497,Granulocytopenic disorder,Disorder,SNOMED
+4172647,Basophil count,Procedure,SNOMED
+4041973,Granulocyte count,Procedure,SNOMED
+4105062,Granulocyte,Body Structure,SNOMED
+4030593,Benign granulocytopenia in childhood,Disorder,SNOMED
+608323,Granulocyte count within reference range,Clinical Finding,SNOMED
+600710,Granulocyte count above reference range,Clinical Finding,SNOMED
+4216098,Eosinophil count,Procedure,SNOMED
+4122938,Chronic benign granulocytopenia,Disorder,SNOMED
+4220307,Granulocyte count below reference range,Clinical Finding,SNOMED
+4143553,Febrile granulocytopenia,Disorder,SNOMED
+4306263,Myelocyte count procedure,Procedure,SNOMED
+4154342,Granulocyte percent differential count,Procedure,SNOMED
+4148615,Neutrophil count,Procedure,SNOMED
+4243353,Macrophage,Body Structure,SNOMED
+4041974,Macrophage count,Procedure,SNOMED
+4070314,Eosinophil count, stool,Procedure,SNOMED
+4097616,Reversed neutrophil/lymphocyte ratio measurement,Procedure,SNOMED
+3559251,Band neutrophil count,Procedure,SNOMED
+40481861,Band neutrophil count above reference range,Clinical Finding,SNOMED
+44822964,Bandemia,5-dig billing code,ICD9CM
+45557095,Bandemia,6-char billing code,ICD10CM
+45765692,Band neutrophil,Body Structure,SNOMED
+3559252,Band neutrophil count,Undefined,SNOMED
+4100147,Neutrophil band count,Procedure,SNOMED
+4193711,Promyelocyte percent differential count,Procedure,SNOMED
+4156654,Smear cell percent differential count,Procedure,SNOMED
+4153002,Metamyelocyte percent differential count,Procedure,SNOMED
+4195185,Myelocyte percent differential count,Procedure,SNOMED
+4153003,Blast cell percent differential count,Procedure,SNOMED
+36674950,Autosomal dominant severe congenital neutropenia,Disorder,SNOMED
+4230679,Reticular dysgenesis with congenital aleukocytosis,Disorder,SNOMED
+37206119,Pyoderma gangrenosum, acne, suppurative hidradenitis syndrome,Disorder,SNOMED
+4031725,Hereditary neutrophilia,Disorder,SNOMED
+36716754,Transient neonatal neutropenia due to neonatal bacterial sepsis,Disorder,SNOMED
+37393856,Neutrophil count,Observable Entity,SNOMED
+42536512,Constitutional neutropenia,Clinical Finding,SNOMED
+4291463,Bowel-bypass syndrome,Disorder,SNOMED
+36678497,Congenital neutropenia, myelofibrosis, nephromegaly syndrome,Disorder,SNOMED
+4325456,Neutrophilic leukemoid reaction,Disorder,SNOMED
+4032353,Chronic idiopathic immunoneutropenia in adult,Disorder,SNOMED
+35624757,Neutropenia due to and following chemotherapy,Disorder,SNOMED
+36716753,Transient neonatal neutropenia due to congenital viral infection,Disorder,SNOMED
+37165184,Acute febrile neutrophilic dermatosis due to neoplastic disease,Disorder,SNOMED
+36675666,Poikiloderma with neutropenia,Disorder,SNOMED
+4232037,De Vaal's syndrome,Disorder,SNOMED
+4120603,X-linked hypogammaglobulinemia,Disorder,SNOMED
+4189647,Neutrophilia disorder,Disorder,SNOMED
+40332452,Neutrophil count,Procedure,SNOMED
+45557094,Neutropenia, unspecified,4-char billing code,ICD10CM
+4296208,Sweet's disease following infection,Disorder,SNOMED
+4097998,Severe combined immunodeficiency with reticular dysgenesis,Disorder,SNOMED
+40301794,Neutropenia,Clinical Finding,SNOMED
+40629082,Neutrophilia,Disorder,SNOMED
+4211956,Neutropenia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4030703,Alloimmune neonatal neutropenia,Disorder,SNOMED
+4143354,Neutropenia due to irradiation,Disorder,SNOMED
+4250734,Febrile neutropenia,Disorder,SNOMED
+37205095,Adult chronic idiopathic neutropenia,Disorder,SNOMED
+4211401,Dose-related drug-induced neutropenia,Disorder,SNOMED
+4121120,Metabolic neutropenia,Disorder,SNOMED
+439149,Transient neonatal neutropenia,Disorder,SNOMED
+4095623,Chronic idiopathic neutropenia,Disorder,SNOMED
+4197402,Maternal transfer neutropenia,Disorder,SNOMED
+4171104,Neutropenia of the small for gestational age baby,Disorder,SNOMED
+40301795,Neutrophilia,Clinical Finding,SNOMED
+40390876,(Agranulocytosis) or (Kostmann's syndrome) or (neutropenia),Disorder,SNOMED
+4008700,Neutropenia associated with autoimmune disease,Disorder,SNOMED
+4085181,Familial neutropenia,Disorder,SNOMED
+4219985,Neutropenia with dysgranulopoiesis,Disorder,SNOMED
+4306255,Neutrophil count within reference range,Clinical Finding,SNOMED
+40301793,Neutrophil count normal,Clinical Finding,SNOMED
+432589,Neutropenia associated with infectious disease,Disorder,SNOMED
+37204236,X-linked dyserythropoietic anemia with abnormal platelets and neutropenia,Disorder,SNOMED
+4306441,Neutrophil count NOS,Procedure,SNOMED
+4299992,Parastomal pyoderma gangrenosum,Disorder,SNOMED
+4101125,Primary splenic neutropenia,Disorder,SNOMED
+46273559,Periodontitis co-occurrent with infantile genetic agranulocytosis,Disorder,SNOMED
+1567865,Neutropenia,3-char nonbill code,ICD10CM
+4306410,Neutrophil count outside reference range,Clinical Finding,SNOMED
+320073,Neutropenia,Clinical Finding,SNOMED
+4153001,Neutrophil percent differential count,Procedure,SNOMED
+4006469,Reticular dysgenesis,Disorder,SNOMED
+37204523,Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency,Disorder,SNOMED
+4306106,Neutrophilia,Clinical Finding,SNOMED
+3557382,Neutrophil count NOS,Procedure,SNOMED
+42539535,Acquired neutropenia,Clinical Finding,SNOMED
+4197658,Chronic neutrophilia,Disorder,SNOMED
+4292677,Sweet's disease caused by drug,Disorder,SNOMED
+4295456,Neutrophilic eccrine hidradenitis due to cytotoxic therapy,Disorder,SNOMED
+4122939,Chronic benign neutropenia,Disorder,SNOMED
+42536515,Constitutional neutrophilia,Disorder,SNOMED
+37204524,Autosomal recessive severe congenital neutropenia due to CSF3R deficiency,Disorder,SNOMED
+4232178,Shwachman syndrome,Disorder,SNOMED
+4030443,Chronic hypoplastic neutropenia,Disorder,SNOMED
+36713881,X-linked severe congenital neutropenia,Disorder,SNOMED
+4187371,Acute neutrophilia,Disorder,SNOMED
+4125805,Chronic familial neutropenia,Disorder,SNOMED
+37117238,Neutropenia, monocytopenia, deafness syndrome,Disorder,SNOMED
+4123092,Warts, hypogammaglobulinemia, infections, and myelokathexis,Disorder,SNOMED
+604592,Onycho-tricho-dysplasia neutropenia syndrome,Disorder,SNOMED
+4174297,Chloramphenicol-induced neutropenia,Disorder,SNOMED
+4093513,Myelokathexis,Disorder,SNOMED
+4125635,Autoimmune neutropenia,Disorder,SNOMED
+604243,Acquired neutropenia,Disorder,SNOMED
+36674945,Kostmann syndrome,Disorder,SNOMED
+42536514,Acquired neutrophilia,Disorder,SNOMED
+4300659,Isoimmune neutropenia,Disorder,SNOMED
+4272149,Drug-induced neutrophilia,Disorder,SNOMED
+45547611,Other neutropenia,4-char billing code,ICD10CM
+46273778,Periodontitis co-occurrent with acquired neutropenia,Disorder,SNOMED
+4225434,Acute febrile neutrophilic dermatosis,Disorder,SNOMED
+4133848,Neutrophilic granulocytic cell,Body Structure,SNOMED
+37203832,Autosomal recessive severe congenital neutropenia due to JAGN1 deficiency,Disorder,SNOMED
+4130196,Stress neutrophilia,Disorder,SNOMED
+4119158,Neutropenic disorder,Disorder,SNOMED
+40301792,Neutrophil count,Procedure,SNOMED
+46272545,Periodontitis co-occurrent with cyclical neutropenia,Disorder,SNOMED
+4190716,Non dose-related drug-induced neutropenia,Disorder,SNOMED
+4276649,Immune neutropenia,Disorder,SNOMED
+40484176,Neutropenic sepsis,Disorder,SNOMED
+4101126,Acquired neutropenia in newborn,Disorder,SNOMED
+40301797,Neutrophil count abnormal,Clinical Finding,SNOMED
+46272544,Periodontitis co-occurrent with familial neutropenia,Disorder,SNOMED
+604245,Benign ethnic neutropenia,Disorder,SNOMED
+37165210,Classical type acute febrile neutrophilic dermatosis,Disorder,SNOMED
+37204406,Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency,Disorder,SNOMED
+4030442,Chronic benign neutropenia of childhood,Disorder,SNOMED
+432289,Drug-induced neutropenia,Disorder,SNOMED
+4120605,Corticosteroid-induced neutrophilia,Disorder,SNOMED
+434895,Congenital neutropenia,Disorder,SNOMED
+40301798,Neutrophil count NOS,Procedure,SNOMED
+44833395,Neutropenia,4-dig nonbill code,ICD9CM
+432297,Cyclical neutropenia,Disorder,SNOMED
+4135712,Toxic neutropenia,Disorder,SNOMED
+37165473,Acute febrile neutrophilic dermatosis of hand,Disorder,SNOMED
+4322386,Chemotherapy-induced neutropenia,Disorder,SNOMED
+40302874,Percentage eosinophil count,Procedure,SNOMED
+4149456,Eosinophil percent differential count,Procedure,SNOMED
+40324183,Percentage eosinophil count,Procedure,SNOMED
+40302438,Percentage monocytes (& level),Procedure,SNOMED
+40324177,Percentage monocytes (& level),Procedure,SNOMED
+4150335,Monocyte percent differential count,Procedure,SNOMED
+4152974,Plasma cell count,Procedure,SNOMED
+37397928,Plasma cell count,Observable Entity,SNOMED
+40302434,Plasma cell count (& level),Procedure,SNOMED
+40324172,Plasma cell count (& level),Procedure,SNOMED
+4034507,Plasma cell,Body Structure,SNOMED
+4236306,Percentage plasma cell count,Procedure,SNOMED
+44807941,Band neutrophil percent differential count,Procedure,SNOMED
+40302436,Percentage neutrophils (& level),Procedure,SNOMED
+40324175,Percentage neutrophils (& level),Procedure,SNOMED
+40324179,Percentage metamyelocytes (& level),Procedure,SNOMED
+40302441,Percentage metamyelocytes (& level),Procedure,SNOMED
+40302442,Percentage blast cells (& level),Procedure,SNOMED
+40324180,Percentage blast cells (& level),Procedure,SNOMED
+40302872,Percentage granulocytes (& level),Procedure,SNOMED
+40324182,Percentage granulocytes (& level),Procedure,SNOMED
+40301813,Relative lymphocytosis,Clinical Finding,SNOMED
+4156652,Lymphocyte percent differential count,Procedure,SNOMED
+40302437,Percentage lymphocytes (& level),Procedure,SNOMED
+40324176,Percentage lymphocytes (& level),Procedure,SNOMED
+4306412,Relative lymphocytosis,Clinical Finding,SNOMED
+40324178,Percentage basophils (& level),Procedure,SNOMED
+4156653,Basophil percent differential count,Procedure,SNOMED
+4133457,Basophilic granulocytic cell,Body Structure,SNOMED
+40302439,Percentage basophils (& level),Procedure,SNOMED
+40324181,Percentage smear cells (& level),Procedure,SNOMED
+40302443,Percentage smear cells (& level),Procedure,SNOMED
+40301809,Basophil count NOS,Procedure,SNOMED
+4306107,Basophil count NOS,Procedure,SNOMED
+37398676,Basophil count,Observable Entity,SNOMED
+604240,Basophil count below reference range,Clinical Finding,SNOMED
+3557283,Basophil count NOS,Procedure,SNOMED
+4306257,Basophil count within reference range,Clinical Finding,SNOMED
+40332463,Basophil count,Procedure,SNOMED
+4306258,Basophil count outside reference range,Clinical Finding,SNOMED
+314617,Basophilia,Clinical Finding,SNOMED
+40301805,Basophil count normal,Clinical Finding,SNOMED
+40301807,Basophil count abnormal,Clinical Finding,SNOMED
+40301804,Basophil count,Procedure,SNOMED
+4174071,White blood cell estimate,Procedure,SNOMED
+40324186,Percentage promyelocyte count,Procedure,SNOMED
+40302876,Percentage promyelocyte count,Procedure,SNOMED
+40557853,Total T lymphocyte count,Procedure,SNOMED
+40562853,Total T lymphocyte count,Procedure,SNOMED
+37398469,Total T lymphocyte count,Observable Entity,SNOMED
+434910,Monocytosis,Disorder,SNOMED
+40301824,Monocyte count NOS,Procedure,SNOMED
+40301818,Monocyte count normal,Clinical Finding,SNOMED
+4306417,Monocyte count outside reference range,Clinical Finding,SNOMED
+3557471,Monocyte count NOS,Procedure,SNOMED
+4273306,Monocyte count - finding,Clinical Finding,SNOMED
+4194332,Monocyte count,Procedure,SNOMED
+40301823,Monocyte count abnormal,Clinical Finding,SNOMED
+4306260,Monocytopenia,Clinical Finding,SNOMED
+4306442,Monocyte count NOS,Procedure,SNOMED
+4107045,Monocytic leukemoid reaction,Disorder,SNOMED
+40301817,Monocyte count,Procedure,SNOMED
+4242854,Reactive monocytosis,Disorder,SNOMED
+4329853,Chronic idiopathic monocytosis,Disorder,SNOMED
+4306415,Monocyte count within reference range,Clinical Finding,SNOMED
+4305823,Blood monocyte number above reference range,Clinical Finding,SNOMED
+37393859,Monocyte count,Observable Entity,SNOMED
+40301821,Monocytopenia,Clinical Finding,SNOMED
+40302875,Percentage myelocyte count,Procedure,SNOMED
+40324184,Percentage myelocyte count,Procedure,SNOMED
+40557852,Total WBC (IMM),Procedure,SNOMED
+40562851,Total white blood count,Procedure,SNOMED
+4310477,Total WBC (IMM),Procedure,SNOMED
+40557851,Total white blood count,Procedure,SNOMED
+40562852,Total WBC (IMM),Procedure,SNOMED
+4212899,Total white blood count,Procedure,SNOMED
+40562874,T cell total %,Procedure,SNOMED
+40557875,T cell total %,Procedure,SNOMED
+42536521,Constitutional eosinophilia,Disorder,SNOMED
+4189795,Panleukopenia,Disorder,SNOMED
+4303531,Blood eosinophil number below reference range,Clinical Finding,SNOMED
+40452023,Eosinophil count raised,Clinical Finding,SNOMED
+725250,Eosinophilia in diseases classified elsewhere,5-char billing code,ICD10CM
+44828821,Eosinophilia,4-dig billing code,ICD9CM
+258828,Eosinophilia myalgia syndrome,Disorder,SNOMED
+3661596,Eosinophilia due to infectious disease,Disorder,SNOMED
+40301802,Eosinophil count raised,Clinical Finding,SNOMED
+40301799,Eosinophil count,Procedure,SNOMED
+4081994,Tropical pulmonary eosinophilia,Disorder,SNOMED
+3557470,Eosinophil count NOS,Procedure,SNOMED
+4184190,Eosinopenia,Disorder,SNOMED
+40301800,Eosinophil count normal,Clinical Finding,SNOMED
+4086978,Eosinophilic ulcerative colitis,Disorder,SNOMED
+36716162,Severe combined immunodeficiency with hypereosinophilia,Disorder,SNOMED
+4343929,Toxic oil syndrome,Disorder,SNOMED
+40367177,Eosinophilia,Disorder,SNOMED
+4098893,Hereditary eosinophilia,Disorder,SNOMED
+77923,Eosinophilic colitis,Disorder,SNOMED
+4306256,Eosinophil count within reference range,Clinical Finding,SNOMED
+4269696,Eosinophil count - finding,Clinical Finding,SNOMED
+4272496,Allergic eosinophilia,Disorder,SNOMED
+4304002,Eosinophil count above reference range,Clinical Finding,SNOMED
+439279,Eosinophilic disorder,Disorder,SNOMED
+36680602,Idiopathic eosinophilic myositis,Disorder,SNOMED
+4307857,Disseminated eosinophilic collagen disease,Disorder,SNOMED
+40484040,Count of eosinophils in urine specimen,Procedure,SNOMED
+4083100,Fasciitis with eosinophilia syndrome,Disorder,SNOMED
+37165593,Immunoglobulin G4 related eosinophilic angiocentric fibrosis,Disorder,SNOMED
+4306411,Eosinophil count NOS,Procedure,SNOMED
+4301289,Eosinophilia-myalgia syndrome from tryptophan,Disorder,SNOMED
+3661597,Eosinopenia due to infectious disease,Disorder,SNOMED
+4193787,Familial eosinophilia,Disorder,SNOMED
+4279553,Pulmonary eosinophilia,Disorder,SNOMED
+4153777,Idiopathic eosinophilia,Disorder,SNOMED
+4153651,Eosinophilic myositis,Disorder,SNOMED
+725251,Other eosinophilia,5-char billing code,ICD10CM
+4100240,Drug-induced eosinophilia,Disorder,SNOMED
+4302954,Disorder characterized by eosinophilia,Disorder,SNOMED
+4277596,Simple pulmonary eosinophilia,Disorder,SNOMED
+4299977,Eosinophilic fasciitis caused by L-tryptophan,Disorder,SNOMED
+4149277,Secondary eosinophilia,Disorder,SNOMED
+316376,Eosinophilia,Clinical Finding,SNOMED
+40332461,Eosinophil count raised,Clinical Finding,SNOMED
+4057610,Sputum: eosinophilia,Clinical Finding,SNOMED
+252942,Asthmatic pulmonary eosinophilia,Disorder,SNOMED
+42536522,Acquired eosinophilia,Disorder,SNOMED
+42536520,Acquired eosinopenia,Disorder,SNOMED
+4270865,Episodic angioedema with eosinophilia,Disorder,SNOMED
+37203807,Eosinophilia of peritoneal fluid,Clinical Finding,SNOMED
+35206777,Eosinophilia,4-char nonbill code,ICD10CM
+4120262,Cryptogenic pulmonary eosinophilia,Disorder,SNOMED
+40301803,Eosinophil count NOS,Procedure,SNOMED
+4296601,Eosinophilic myopathy,Disorder,SNOMED
+42536519,Constitutional eosinopenia,Disorder,SNOMED
+37393857,Eosinophil count,Observable Entity,SNOMED
+725243,Eosinophilia, unspecified,5-char billing code,ICD10CM
+3571373,Percentage atypical mononuclear cell count,Undefined,SNOMED
+3551324,Percentage atypical mononuclear cell count,Undefined,SNOMED
+35609946,Percentage atypical mononuclear cell count,Observable Entity,SNOMED
+37398405,Percentage plasma cell count,Observable Entity,SNOMED
+3551604,Percentage plasma cell count,Undefined,SNOMED
+3521741,Percentage plasma cell count,Undefined,SNOMED
+3661631,Lymphocytopenia due to COVID-19,Disorder,SNOMED
+3557383,Lymphocyte count NOS,Procedure,SNOMED
+37393858,Lymphocyte count,Observable Entity,SNOMED
+320074,Blood lymphocyte number above reference range,Clinical Finding,SNOMED
+40301814,Abnormal lymphocytes (& level),Procedure,SNOMED
+4168792,Acute infectious lymphocytosis,Disorder,SNOMED
+4106717,Lymphocytic leukemoid reaction,Disorder,SNOMED
+37208689,Lymphocyte count in blood,Procedure,SNOMED
+4307434,Percentage CD10 count,Procedure,SNOMED
+4306414,Lymphocyte count NOS,Procedure,SNOMED
+4313853,Reactive lymphocyte count,Procedure,SNOMED
+3661625,Lymphopenia due to infection,Disorder,SNOMED
+37162067,Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome,Disorder,SNOMED
+4254663,Lymphocyte count,Procedure,SNOMED
+4306259,Lymphocyte count within reference range,Clinical Finding,SNOMED
+40301810,Lymphocyte count,Procedure,SNOMED
+42536524,Acquired lymphocytosis,Disorder,SNOMED
+40301811,Lymphocyte count normal,Clinical Finding,SNOMED
+4178155,Infectious lymphocytosis,Disorder,SNOMED
+4104252,Episodic lymphocytopenia,Disorder,SNOMED
+604242,Lymphocyte count below reference range,Clinical Finding,SNOMED
+37162756,Combined immunodeficiency, enteropathy spectrum,Disorder,SNOMED
+4306108,Lymphocytosis - absolute,Disorder,SNOMED
+4293725,Lymphocyte subsets,Procedure,SNOMED
+40332908,Abnormal lymphocytes (& level),Procedure,SNOMED
+40301816,Lymphocyte count NOS,Procedure,SNOMED
+44807689,Count of cells negative for CD33 antigen and positive for CD34 antigen,Procedure,SNOMED
+35622391,Persistent polyclonal B-cell lymphocytosis,Disorder,SNOMED
+441541,Lymphocytopenia,Disorder,SNOMED
+4293721,Natural killer cell level,Procedure,SNOMED
+4317962,Neonatal lymphocytopenia,Disorder,SNOMED
+37208690,Lymphocyte percent count in blood,Procedure,SNOMED
+4306413,Lymphocyte count outside reference range,Clinical Finding,SNOMED
+40487382,Total lymphocyte count,Procedure,SNOMED
+4122937,T-cell lymphocytosis,Disorder,SNOMED
+40301815,Lymphocyte count abnormal,Clinical Finding,SNOMED
+42536523,Acquired lymphocytopenia,Disorder,SNOMED
+4281826,Lymphocytosis,Disorder,SNOMED
+44807688,Count of cells positive for both CD33 antigen and CD34 antigen,Procedure,SNOMED
+4086265,Persistent lymphocytosis,Disorder,SNOMED
+37394155,Absolute atypical mononuclear cell count,Observable Entity,SNOMED
+3551323,Absolute atypical mononuclear cell count,Undefined,SNOMED
+3571372,Absolute atypical mononuclear cell count,Undefined,SNOMED
+3551098,Total B lymphocyte count,Undefined,SNOMED
+37398166,Total B lymphocyte count,Observable Entity,SNOMED
+3550893,Total B lymphocyte count,Undefined,SNOMED
+3550895,Natural killer cell level,Undefined,SNOMED
+3550993,Natural killer cell level,Undefined,SNOMED
+37399644,Natural killer cell level,Observable Entity,SNOMED
+44809933,Natural killer (dim) cell absolute count,Procedure,SNOMED
+44809936,Natural killer (bright) cell percentage of lymphocytes,Procedure,SNOMED
+44809935,Natural killer (dim) cell percentage of lymphocytes,Procedure,SNOMED
+3550894,Lymphocyte subsets,Undefined,SNOMED
+3550992,Lymphocyte subsets,Undefined,SNOMED
+44809932,Natural killer (bright) cell absolute count,Procedure,SNOMED
+37398167,Lymphocyte subsets,Observable Entity,SNOMED
+4101582,Aplastic anemia due to chronic disease,Disorder,SNOMED
+3661511,Down syndrome co-occurrent with leukemoid reaction associated transient neonatal pustulosis,Disorder,SNOMED
+4306264,Metamyelocyte count procedure,Procedure,SNOMED
+4125494,Pancytopenia with pancreatitis,Disorder,SNOMED
+140681,Constitutional aplastic anemia,Disorder,SNOMED
+4186108,Aplastic anemia associated with metabolic alteration,Disorder,SNOMED
+4345236,Parvoviral aplastic crisis,Disorder,SNOMED
+40321723,WBC: [other diseases] or [lymphocytosis] or [leukocytosis],Disorder,SNOMED
+42536958,Pancytopenia caused by medication,Disorder,SNOMED
+4077348,Pancytopenia-dysmelia,Disorder,SNOMED
+4326815,Basophilic leukemoid reaction,Disorder,SNOMED
+4101583,Aplastic anemia due to infection,Disorder,SNOMED
+81097,Felty's syndrome,Disorder,SNOMED
+438398,Leukocytosis,Disorder,SNOMED
+432283,Leukemoid reaction,Disorder,SNOMED
+4306234,Promyelocyte count procedure,Procedure,SNOMED
+37160421,Felty syndrome with seronegative rheumatoid arthritis,Disorder,SNOMED
+4097615,Reversed differential,Clinical Finding,SNOMED
+1567869,Elevated white blood cell count,5-char nonbill code,ICD10CM
+4146088,Aplastic anemia due to drugs,Disorder,SNOMED
+4177177,Cellular immunologic aplastic anemia,Disorder,SNOMED
+601066,Pancytopenia caused by antithyroid drug,Disorder,SNOMED
+320682,White blood cell number - finding,Clinical Finding,SNOMED
+4187773,Aplastic anemia associated with pregnancy,Disorder,SNOMED
+37117164,Revesz syndrome,Disorder,SNOMED
+40301781,White cell count normal,Clinical Finding,SNOMED
+4298431,White blood cell count,Procedure,SNOMED
+4100998,Aplastic anemia caused by toxic cause,Disorder,SNOMED
+40332442,White blood cell count,Procedure,SNOMED
+1246249,Pancytopenia caused by non-steroidal anti-inflammatory agent,Disorder,SNOMED
+4188208,Estren-Dameshek anemia,Disorder,SNOMED
+37168560,Fanconi anemia of complementation group C,Disorder,SNOMED
+40301787,Total white cell count NOS,Procedure,SNOMED
+432881,Pancytopenia,Disorder,SNOMED
+606834,Leukopenia caused by drug,Disorder,SNOMED
+4325600,Leukoerythroblastotic reaction,Disorder,SNOMED
+4239484,Acquired pancytopenia,Disorder,SNOMED
+4125496,Pure red cell aplasia, acquired,Disorder,SNOMED
+44810444,HLA-DR+ percentage of lymphocytes/blast cells,Procedure,SNOMED
+435224,Leukopenia,Disorder,SNOMED
+40301785,White cell count abnormal,Clinical Finding,SNOMED
+40301779,White blood cell count,Procedure,SNOMED
+46285876,Absolute smear cell count,Procedure,SNOMED
+4306261,Immature white blood cells not detected,Clinical Finding,SNOMED
+36716406,Severe fever with thrombocytopenia syndrome,Disorder,SNOMED
+3552545,Leucocyte count,Procedure,SNOMED
+4098027,Aplastic anemia due to radiation,Disorder,SNOMED
+4013094,Total white cell count NOS,Procedure,SNOMED
+4101586,Leukemoid reaction of the newborn,Disorder,SNOMED
+3032907,Deprecated Monocytes+Macrophages/100 lymphocytes,Lab Test,LOINC
+1246248,Pancytopenia caused by colchicine,Disorder,SNOMED
+3552564,Leucocyte count,Undefined,SNOMED
+4298690,Immunologic aplastic anemia,Disorder,SNOMED
+601067,Pancytopenia caused by anticonvulsant,Disorder,SNOMED
+137829,Aplastic anemia,Disorder,SNOMED
+4305588,Doan-Wright syndrome,Disorder,SNOMED
+4306419,Myeloblast count procedure,Procedure,SNOMED
+37160417,Felty syndrome with seronegative erosive rheumatoid arthritis,Disorder,SNOMED
+4170270,Blood leukocyte number below reference range,Clinical Finding,SNOMED
+4013991,White blood cell count outside reference range,Clinical Finding,SNOMED
+4098145,Idiopathic aplastic anemia,Disorder,SNOMED
+4125657,Post-splenectomy leukocytosis,Disorder,SNOMED
+4051056,Autoimmune leukopenia,Disorder,SNOMED
+4148471,Fanconi's anemia,Disorder,SNOMED
+35625536,Ataxia pancytopenia syndrome,Disorder,SNOMED
+37019055,Aplastic anemia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37209558,Pancytopenia caused by immunosuppressant,Disorder,SNOMED
+37204551,Hereditary isolated aplastic anemia,Disorder,SNOMED
+36713112,Pancytopenia due to antineoplastic chemotherapy,Disorder,SNOMED
+4190500,Blood leukocyte number above reference range,Clinical Finding,SNOMED
+4146086,Constitutional aplastic anemia with malformation,Disorder,SNOMED
+4082738,Autoimmune pancytopenia,Disorder,SNOMED
+37016151,Aplastic anemia caused by antineoplastic agent,Disorder,SNOMED
+4013538,White blood cell count within reference range,Clinical Finding,SNOMED
+36674474,Pancytopenia with developmental delay syndrome,Disorder,SNOMED
+36713970,WT limb blood syndrome,Disorder,SNOMED
+4184758,Acquired aplastic anemia,Disorder,SNOMED
+37204478,Pancytopenia due to IKZF1 mutations,Disorder,SNOMED
+4146135,Febrile leukopenia,Disorder,SNOMED
+4211348,Aplastic anemia associated with pancreatitis,Disorder,SNOMED
+4225810,Aplastic anemia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+37109690,Hematopoietic subsyndrome of acute radiation syndrome,Disorder,SNOMED
+4184200,Secondary aplastic anemia,Disorder,SNOMED
+4031699,Humoral immunologic aplastic anemia,Disorder,SNOMED
+40301832,Promyelocyte count,Procedure,SNOMED
+40301833,Myelocyte count,Procedure,SNOMED
+4152670,Myelocytes present,Clinical Finding,SNOMED
+40301827,Myelocytes present (& in blood),Clinical Finding,SNOMED
+40332920,Myelocyte (& present),Procedure,SNOMED
+3556995,Myelocyte level,Procedure,SNOMED
+4306418,Metamyelocytes present,Clinical Finding,SNOMED
+40301834,Metamyelocyte count,Procedure,SNOMED
+40301828,Metamyelocytes present (& in blood),Clinical Finding,SNOMED
+40354159,Metamyelocytes present (& in blood),Clinical Finding,SNOMED
+40301835,Myeloblast count,Procedure,SNOMED
+4164934,Lymphocyte antigen,Substance,SNOMED
+40562894,Percentage CD10 count,Procedure,SNOMED
+37392247,Percentage CD10 count,Observable Entity,SNOMED
+40558293,Percentage CD10 count,Procedure,SNOMED
+4042999,Ratio,Qualifier Value,SNOMED
+4022165,Lymphocyte positive for CD10 antigen,Body Structure,SNOMED
+40356330,Atypical lymphocytes,Body Structure,SNOMED
+3551591,Reactive lymphocyte count,Undefined,SNOMED
+37398412,Reactive lymphocyte count,Observable Entity,SNOMED
+40560672,Reactive lymphocyte count,Procedure,SNOMED
+37174016,Lymphocyte count in blood,Observable Entity,SNOMED
+37174059,Lymphocyte percent count in blood,Observable Entity,SNOMED
+4310465,Total lymphocyte count (IMM),Procedure,SNOMED
+40557855,Total lymphocyte count (IMM),Procedure,SNOMED
+40562855,Total lymphocyte count (IMM),Procedure,SNOMED
+4037034,Lymphocyte positive for both CD33 antigen and CD44 antigen,Body Structure,SNOMED
+42872777,Lymphocyte negative for CD33 antigen and positive for CD34 antigen,Body Structure,SNOMED
+3559287,Percent band neutrophil count,Undefined,SNOMED
+3560025,Natural killer (bright) cell absolute count,Undefined,SNOMED
+37392457,Natural killer (bright) cell absolute count,Observable Entity,SNOMED
+37392456,Natural killer (dim) cell absolute count,Observable Entity,SNOMED
+3560026,Natural killer (dim) cell absolute count,Undefined,SNOMED
+37392460,Natural killer (dim) cell percentage of lymphocytes,Observable Entity,SNOMED
+3574049,Natural killer (dim) cell percentage of lymphocytes,Undefined,SNOMED
+3574050,Natural killer (bright) cell percentage of lymphocytes,Undefined,SNOMED
+37399128,Natural killer (bright) cell percentage of lymphocytes,Observable Entity,SNOMED
+37392146,HLA-DR+ percentage of lymphocytes/blast cells,Observable Entity,SNOMED
+3560153,HLA-DR+ percentage of lymphocytes/blast cells,Undefined,SNOMED
+45878582,None,Answer,LOINC
+45878239,Few,Answer,LOINC
+45880913,Many,Answer,LOINC
+45877983,Moderate,Answer,LOINC
+3574293,Absolute smear cell count,Undefined,SNOMED
+37398589,Absolute smear cell count,Observable Entity,SNOMED

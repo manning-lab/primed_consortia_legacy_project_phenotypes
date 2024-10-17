@@ -1,0 +1,39 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4152194,Systolic blood pressure,Observable Entity,SNOMED
+44789315,Ambulatory systolic blood pressure,Observable Entity,SNOMED
+44806887,Systolic blood pressure centile,Observable Entity,SNOMED
+4292062,Standing systolic blood pressure,Observable Entity,SNOMED
+4197167,24 hour systolic blood pressure,Observable Entity,SNOMED
+4232915,Sitting systolic blood pressure,Observable Entity,SNOMED
+4149267,Quantitative,Qualifier Value,SNOMED
+4217013,Systolic arterial pressure,Observable Entity,SNOMED
+37160570,Self reported systolic blood pressure,Observable Entity,SNOMED
+4014241,Structure of cardiovascular system,Body Structure,SNOMED
+37396683,Baseline systolic blood pressure,Observable Entity,SNOMED
+36716283,Pressure,Qualifier Value,SNOMED
+4161413,Systolic blood pressure on admission,Observable Entity,SNOMED
+36716960,Systolic phase,Qualifier Value,SNOMED
+45769778,Systolic blood pressure of neonate at birth,Observable Entity,SNOMED
+4248525,Lying systolic blood pressure,Observable Entity,SNOMED
+4047939,24 hours,Qualifier Value,SNOMED
+4044183,Normal systolic arterial pressure,Clinical Finding,SNOMED
+4217168,Decreased systolic arterial pressure,Clinical Finding,SNOMED
+45768795,Post exercise systolic blood pressure response abnormal,Clinical Finding,SNOMED
+4084684,Abnormal systolic arterial pressure,Clinical Finding,SNOMED
+4199457,Arterial structure,Body Structure,SNOMED
+4109301,Increased systolic arterial pressure,Clinical Finding,SNOMED
+3551314,Sitting systolic blood pressure,Undefined,SNOMED
+4142787,Sitting position,Clinical Finding,SNOMED
+3551583,Sitting systolic blood pressure,Undefined,SNOMED
+3551584,Lying systolic blood pressure,Undefined,SNOMED
+3551316,Lying systolic blood pressure,Undefined,SNOMED
+4009887,Recumbent body position,Clinical Finding,SNOMED
+4033753,Orthostatic body position,Clinical Finding,SNOMED
+3550889,Standing systolic blood pressure,Undefined,SNOMED
+3550987,Standing systolic blood pressure,Undefined,SNOMED
+603082,Self reported,Qualifier Value,SNOMED
+46284421,Baseline systolic blood pressure,Observable Entity,SNOMED
+3561124,Baseline systolic blood pressure,Undefined,SNOMED
+3553854,Ambulatory systolic blood pressure,Undefined,SNOMED
+3553853,Ambulatory systolic blood pressure,Undefined,SNOMED
+3559136,Systolic blood pressure centile,Undefined,SNOMED

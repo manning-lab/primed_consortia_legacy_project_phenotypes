@@ -1,0 +1,64 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4184637,Hemoglobin A1c measurement,Procedure,SNOMED
+2106238,Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated),CPT4,CPT4
+1029919,Blood,LOINC System,LOINC
+40758583,Deprecated Hemoglobin A1c in Blood,Lab Test,LOINC
+3034639,Hemoglobin A1c [Mass/volume] in Blood,Lab Test,LOINC
+1033751,Qn,LOINC Scale,LOINC
+1029816,Point in time (spot),LOINC Time,LOINC
+1029650,Mass Concentration,LOINC Property,LOINC
+40789263,Hemoglobin A1c,LOINC Component,LOINC
+40324189,HbA1 less than 7% - good control,Clinical Finding,SNOMED
+37174831,Hemoglobin A1c within reference range,Clinical Finding,SNOMED
+764124,Hemoglobin A1c between 7%-9% indicating borderline diabetic control,Clinical Finding,SNOMED
+3040295,HEDIS 2009-2011 Codes to identify HbA1c tests (CDC-D),Lab Test,LOINC
+44786901,HEDIS 2014 Value Set - HbA1c Tests,Lab Test,LOINC
+1552826,Most recent hemoglobin a1c level > 9.0%,HCPCS,HCPCS
+40770369,HEDIS 2012, 2013 Codes to identify HbA1c tests (CDC-D),Lab Test,LOINC
+4223625,Glucohemoglobin measurement,Procedure,SNOMED
+4197971,HbA1c measurement (DCCT aligned),Procedure,SNOMED
+40302881,HbA1 greater than 10% - bad control,Clinical Finding,SNOMED
+40329570,Hemoglobin A1 level,Procedure,SNOMED
+40333052,Hb. A1C - glycated hemoglobin (& [diabetic control]),Procedure,SNOMED
+40480694,High hemoglobin A1c level,Clinical Finding,SNOMED
+4276582,Hemoglobin A1C - diabetic control finding,Clinical Finding,SNOMED
+36032066,HEDIS MY 2020 Value Set - HbA1C Tests,Lab Test,LOINC
+40517281,HbA1 less than 7% - good control,Clinical Finding,SNOMED
+40329569,Hemoglobin A1c level,Procedure,SNOMED
+37392407,Haemoglobin A1c level,Observable Entity,SNOMED
+4306250,Hemoglobin A1c greater than 10 percent indicating poor diabetic control,Clinical Finding,SNOMED
+4150368,Hemoglobin A,Substance,SNOMED
+37395615,Hemoglobin A1C test not done,Context-dependent,SNOMED
+40302398,Hb. A1C - glycated hemoglobin (& [diabetic control]),Procedure,SNOMED
+3656327,Hemoglobin A1C test declined,Context-dependent,SNOMED
+40517283,HbA1 greater than 10% - bad control,Clinical Finding,SNOMED
+4044177,Measurement - action,Qualifier Value,SNOMED
+40302401,Hb. A1C 7-10% - borderline,Clinical Finding,SNOMED
+40302880,HbA1 7-10% - borderline control,Clinical Finding,SNOMED
+4306438,Hemoglobin A1c less than 7 percent indicating good diabetic control,Clinical Finding,SNOMED
+40302879,HbA1 less than 7% - good control,Clinical Finding,SNOMED
+44793001,Hb A1c (Haemoglobin A1c) measurement - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised,Procedure,SNOMED
+40324190,HbA1 7-10% - borderline control,Clinical Finding,SNOMED
+4147407,Hemoglobin A1 measurement,Procedure,SNOMED
+37116827,Glycated hemoglobin-A1c,Substance,SNOMED
+40517282,HbA1 7-10% - borderline control,Clinical Finding,SNOMED
+40302402,Hb. A1C > 10% - bad control,Clinical Finding,SNOMED
+46235675,HEDIS 2015-2020 Value Set - HbA1C Tests,Lab Test,LOINC
+4306587,Hemoglobin A1c between 7 percent to 10 percent indicating borderline diabetic control,Clinical Finding,SNOMED
+764125,Hemoglobin A1c greater than 9% indicating poor diabetic control,Clinical Finding,SNOMED
+40217293,Most recent hemoglobin a1c (hba1c) level 7.0 to 9.0% (Deprecated),HCPCS,HCPCS
+40302400,Hb. A1C < 7% - good control,Clinical Finding,SNOMED
+40307813,Hemoglobin A1c level,Procedure,SNOMED
+4143304,Glycosylated hemoglobin A,Substance,SNOMED
+40307814,Hemoglobin A1 level,Procedure,SNOMED
+40324191,HbA1 greater than 10% - bad control,Clinical Finding,SNOMED
+40324145,HbA1c level (DCCT aligned),Procedure,SNOMED
+40302403,HbA1c level (DCCT aligned),Procedure,SNOMED
+40302883,HbA1 level (DCCT aligned),Procedure,SNOMED
+37393623,HbA1c level (Diabetes Control and Complications Trial aligned),Observable Entity,SNOMED
+40324192,HbA1 level (DCCT aligned),Procedure,SNOMED
+4210712,HbA1 measurement (DCCT aligned),Procedure,SNOMED
+3556271,HbA1c level (IFCC aligned),Undefined,SNOMED
+37208641,HbA1c (haemoglobin A1c) substance concentration in blood,Observable Entity,SNOMED
+3556272,HbA1c level (IFCC aligned),Undefined,SNOMED
+37398434,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised,Observable Entity,SNOMED

@@ -1,0 +1,2661 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+40482271,Screening for sickle cell disease,Procedure,SNOMED
+45757146,Sickle cell anemia in mother complicating childbirth,Disorder,SNOMED
+4050803,Family history of sickle cell anemia,Context-dependent,SNOMED
+4098750,Sickle cell anemia of unspecified type,Disorder,SNOMED
+4131914,Sickle cell anemia with coexistent alpha-thalassemia,Disorder,SNOMED
+40480067,Measurement of total hemoglobin concentration,Procedure,SNOMED
+4178879,Hemoglobin S,Substance,SNOMED
+22281,Sickle cell-hemoglobin SS disease,Disorder,SNOMED
+40479193,History of sickle cell anemia,Context-dependent,SNOMED
+4121115,Sickle cell anemia with high hemoglobin F,Disorder,SNOMED
+44799040,[X]Other sickle cell disorders,Disorder,SNOMED
+40626820,Hemoglobin S disease,Disorder,SNOMED
+254062,Acute chest syndrome,Disorder,SNOMED
+603017,Acute chest syndrome due to sickle cell hemoglobin C disease with crisis,Disorder,SNOMED
+30683,Hemoglobin SS disease without crisis,Disorder,SNOMED
+40361415,Sickle cell syndrome,Disorder,SNOMED
+4109401,Proliferative retinopathy due to sickle cell disease,Disorder,SNOMED
+1567844,Sickle-cell disorders,3-char nonbill code,ICD10CM
+4014320,Antenatal sickle cell screening,Procedure,SNOMED
+3542412,History of sickle cell anaemia,Undefined,SNOMED
+607429,Acute chest syndrome due to sickle cell thalassemia with crisis,Disorder,SNOMED
+45542708,Hb-SS disease with acute chest syndrome,5-char billing code,ICD10CM
+765385,Acute chest syndrome due to sickle cell-hemoglobin C disease with crisis,Disorder,SNOMED
+40390035,Sickle cell anemia,Disorder,SNOMED
+4100993,Sickle cell anemia NOS,Disorder,SNOMED
+37310723,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SS (sickle cell-Haemoglobin SS) disease,Context-dependent,SNOMED
+40390968,[X]Other sickle cell disorders,Disorder,SNOMED
+3530067,History of sickle cell anaemia,Context-dependent,SNOMED
+40321273,Sickle cell anemia,Disorder,SNOMED
+26942,Hemoglobin SS disease with crisis,Disorder,SNOMED
+785896,Hb-SS disease with dactylitis,5-char billing code,ICD10CM
+22288,Hereditary elliptocytosis,Disorder,SNOMED
+4281394,Hereditary elliptocytosis due to beta spectrin-ankyrin interaction,Disorder,SNOMED
+4125633,Hereditary elliptocytosis with transient poikilocytosis,Disorder,SNOMED
+4076717,Congenital elliptocytosis,Disorder,SNOMED
+4224294,Hemolysis,Observable Entity,SNOMED
+4327824,Hereditary elliptocytosis due to abnormal protein 4.1,Disorder,SNOMED
+607421,Homozygous hereditary elliptocytosis,Disorder,SNOMED
+40351344,(Hereditary: [elliptocytosis] or [stomatocytosis] or [other hemalytic anemias]) or (favism),Disorder,SNOMED
+4034711,Hereditary elliptocytosis due to glycophorin C deficiency,Disorder,SNOMED
+40607536,Hereditary elliptocytosis,Disorder,SNOMED
+4030871,Red blood cell count,Procedure,SNOMED
+44820697,Hereditary elliptocytosis,4-dig billing code,ICD9CM
+40321689,(Hereditary: [elliptocytosis] or [stomatocytosis] or [other hemalytic anemias]) or (favism),Disorder,SNOMED
+35206727,Hereditary elliptocytosis,4-char billing code,ICD10CM
+4243676,Hereditary elliptocytosis due to deficiency of protein 4.1,Disorder,SNOMED
+4218794,Hereditary elliptocytosis due to beta spectrin defect in self-association,Disorder,SNOMED
+4228681,Hereditary elliptocytosis due to alpha spectrin defect,Disorder,SNOMED
+36715351,Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome,Disorder,SNOMED
+4100990,Other specified hemolytic anemia due to glutathione metabolism disorder,Disorder,SNOMED
+44827637,Anemias due to disorders of glutathione metabolism,4-dig billing code,ICD9CM
+23988,Hemolytic anemia due to glutathione metabolism disorder,Disorder,SNOMED
+35206712,Anemia due to other disorders of glutathione metabolism,4-char billing code,ICD10CM
+4101575,Hemolytic anemia due to glutathione metabolism disorder NOS,Disorder,SNOMED
+3557872,Haemolytic anaemia due to glutathione metabolism disorder NOS,Disorder,SNOMED
+1567846,Sickle-cell/Hb-C disease,4-char nonbill code,ICD10CM
+37310722,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SC (sickle cell-haemoglobin C) disease,Context-dependent,SNOMED
+24006,Sickle cell-hemoglobin C disease,Disorder,SNOMED
+443721,Sickle cell-hemoglobin C disease with crisis,Disorder,SNOMED
+443726,Sickle cell-hemoglobin C disease without crisis,Disorder,SNOMED
+785897,Sickle-cell/Hb-C disease with dactylitis,6-char billing code,ICD10CM
+4334887,Sickle cell-hemoglobin C retinopathy,Disorder,SNOMED
+24909,Hereditary spherocytosis,Disorder,SNOMED
+4051567,FH: Hereditary spherocytosis,Context-dependent,SNOMED
+35206726,Hereditary spherocytosis,4-char billing code,ICD10CM
+40321270,Hereditary spherocytosis,Disorder,SNOMED
+4099224,Hereditary spherocytosis due to spectrin deficiency,Disorder,SNOMED
+4320651,Hereditary spherocytosis due to beta spectrin defect,Disorder,SNOMED
+4144956,Hereditary spherocytosis due to deficiency of protein 4.2,Disorder,SNOMED
+44832209,Hereditary spherocytosis,4-dig billing code,ICD9CM
+4202331,FH: Spherocytosis,Context-dependent,SNOMED
+25518,Sickle cell trait,Disorder,SNOMED
+40554940,Drepanocytosis,Clinical Finding,SNOMED
+45773070,Sickle cell trait in mother complicating pregnancy,Disorder,SNOMED
+4130189,Sickle cell trait with coexistent alpha-thalassemia,Disorder,SNOMED
+4178147,Suspected sickle cell trait,Context-dependent,SNOMED
+44804979,Sickle cell trait not suspected, no other haemoglobin or thalassaemia excluded,Context-dependent,SNOMED
+606971,Glomerular disorder due to sickle cell trait,Disorder,SNOMED
+44828818,Sickle-cell trait,4-dig billing code,ICD9CM
+37164725,Retinopathy due to sickle cell trait,Disorder,SNOMED
+45757147,Sickle cell trait in mother complicating childbirth,Disorder,SNOMED
+35206725,Sickle-cell trait,4-char billing code,ICD10CM
+606968,Gouty arthropathy due to sickle-cell trait,Disorder,SNOMED
+4050804,FH: Sickle cell trait,Context-dependent,SNOMED
+37310708,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb S (haemoglobin S) carrier,Context-dependent,SNOMED
+46284523,Haemoglobin S not suspected (by DNA), no other haemoglobin or thalassaemia excluded,Context-dependent,SNOMED
+40321272,Hemoglobin S trait,Disorder,SNOMED
+4325188,Sickle cell trait not suspected,Context-dependent,SNOMED
+4209085,Hemoglobin SS disease with vasoocclusive crisis,Disorder,SNOMED
+40390038,Sickle cell anemia with crisis,Disorder,SNOMED
+40485018,Acute sickle cell splenic sequestration crisis,Disorder,SNOMED
+40621358,Hemoglobin S disease with crisis,Disorder,SNOMED
+1567845,Hb-SS disease with crisis,4-char nonbill code,ICD10CM
+45595765,Hb-SS disease with crisis, unspecified,5-char billing code,ICD10CM
+44825277,Other sickle-cell disease with crisis,5-dig billing code,ICD9CM
+44825276,Hb-SS disease with crisis,5-dig billing code,ICD9CM
+4121287,Glutathione synthetase deficiency,Disorder,SNOMED
+4101577,Other specified hereditary hemolytic anemias,Disorder,SNOMED
+4100991,Hemolytic anemia due to triose phosphate isomerase deficiency,Disorder,SNOMED
+438869,Perinatal jaundice due to hereditary hemolytic anemia,Clinical Finding,SNOMED
+35206730,Hereditary hemolytic anemia, unspecified,4-char billing code,ICD10CM
+28396,Hereditary hemolytic anemia,Disorder,SNOMED
+4098746,Hemolytic anemia due to pyruvate kinase deficiency,Disorder,SNOMED
+40390971,[X]Other specified hereditary hemolytic anemias,Disorder,SNOMED
+4098748,Enzyme deficiency hemolytic anemia NOS,Disorder,SNOMED
+44800470,[X]Other specified hereditary haemolytic anaemias,Disorder,SNOMED
+44836941,Hereditary hemolytic anemias,3-dig nonbill code,ICD9CM
+40351342,(Hereditary hemolytic anemia) or (hemoglobinopathy),Disorder,SNOMED
+40321269,(Hereditary hemolytic anemia) or (hemoglobinopathy),Disorder,SNOMED
+3557698,Hereditary haemolytic anaemia NOS,Disorder,SNOMED
+4098752,Hereditary hemolytic anemia NOS,Disorder,SNOMED
+4115393,Hereditary nonspherocytic hemolytic anemia,Disorder,SNOMED
+4098745,Other enzyme deficiency hemolytic anemia,Disorder,SNOMED
+35206729,Other specified hereditary hemolytic anemias,4-char billing code,ICD10CM
+44824097,Hereditary hemolytic anemia, unspecified,4-dig billing code,ICD9CM
+3557788,Enzyme deficiency haemolytic anaemia NOS,Disorder,SNOMED
+44828819,Other specified hereditary hemolytic anemias,4-dig billing code,ICD9CM
+4098016,Other specified hereditary hemolytic anemia NOS,Disorder,SNOMED
+1567851,Other hereditary hemolytic anemias,3-char nonbill code,ICD10CM
+44827638,Hb-SS disease without crisis,5-dig billing code,ICD9CM
+40390037,Sickle cell anemia with no crisis,Disorder,SNOMED
+35206724,Sickle-cell disease without crisis,4-char billing code,ICD10CM
+40420250,Hemoglobin S disease without crisis,Disorder,SNOMED
+44836942,Other sickle-cell disease without crisis,5-dig billing code,ICD9CM
+45552357,Other sickle-cell disorders without crisis,5-char billing code,ICD10CM
+4287844,Alpha thalassemia,Disorder,SNOMED
+4143353,Thalassemia NOS,Disorder,SNOMED
+40390022,(Thalassemia (& Mediterranean anemia)) or (leptocytosis, hereditary),Disorder,SNOMED
+4039785,Delta thalassemia,Disorder,SNOMED
+45773071,Thalassemia in mother complicating pregnancy,Disorder,SNOMED
+35206722,Other thalassemias,4-char billing code,ICD10CM
+4023612,Heterozygous thalassemia,Disorder,SNOMED
+4122932,Gamma thalassemia,Disorder,SNOMED
+45757189,Thalassemia in mother complicating childbirth,Disorder,SNOMED
+40390033,Thalassemia,Disorder,SNOMED
+4222774,Thalassemia syndrome,Disorder,SNOMED
+44820698,Other thalassemia,5-dig billing code,ICD9CM
+44834572,Thalassemia, unspecified,5-dig billing code,ICD9CM
+4247579,Thalassemia intermedia,Disorder,SNOMED
+4290233,Hb Lepore thalassemia,Disorder,SNOMED
+40351343,(Thalassemia) or (pyruvate kinase deficiency),Disorder,SNOMED
+4097898,Thalassemia screening,Procedure,SNOMED
+37310506,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with no evidence of thalassaemia,Context-dependent,SNOMED
+44799727,[X]Other thalassaemias,Disorder,SNOMED
+40321271,(Thalassemia) or (pyruvate kinase deficiency),Disorder,SNOMED
+4061151,Hereditary persistence of fetal hemoglobin thalassemia,Disorder,SNOMED
+40390034,(Mediterranean anemia) or (thalassemia NOS),Disorder,SNOMED
+3557875,Thalassaemia NOS,Disorder,SNOMED
+44822956,Thalassemias,4-dig nonbill code,ICD9CM
+35206723,Thalassemia, unspecified,4-char billing code,ICD10CM
+30978,Thalassemia,Disorder,SNOMED
+3557874,Thalassaemia major NEC,Disorder,SNOMED
+40390967,[X]Other thalassemias,Disorder,SNOMED
+4122931,Alpha-beta thalassemia,Disorder,SNOMED
+37016760,Antenatal thalassemia screening,Procedure,SNOMED
+4050802,FH: Thalassemia,Context-dependent,SNOMED
+4327045,Thalassemia major,Disorder,SNOMED
+4150152,Thalassemia major NEC,Disorder,SNOMED
+4080702,Alpha thalassemia-mental retardation syndrome,Disorder,SNOMED
+1567843,Thalassemia,3-char nonbill code,ICD10CM
+4278669,Beta thalassemia,Disorder,SNOMED
+4139556,Acquired hemoglobin H disease,Disorder,SNOMED
+4188474,Thalassemia with other hemoglobinopathy,Disorder,SNOMED
+44830160,Eosinophilic colitis,5-dig billing code,ICD9CM
+3557245,Eosinophilic colitis,Disorder,SNOMED
+4086978,Eosinophilic ulcerative colitis,Disorder,SNOMED
+77923,Eosinophilic colitis,Disorder,SNOMED
+4216098,Eosinophil count,Procedure,SNOMED
+45533607,Eosinophilic colitis,5-char billing code,ICD10CM
+44821123,Felty's syndrome,4-dig billing code,ICD9CM
+1569972,Felty's syndrome, hip,5-char nonbill code,ICD10CM
+45577090,Felty's syndrome, left hip,6-char billing code,ICD10CM
+1569970,Felty's syndrome, wrist,5-char nonbill code,ICD10CM
+45553036,Felty's syndrome, unspecified ankle and foot,6-char billing code,ICD10CM
+45606039,Felty's syndrome, right shoulder,6-char billing code,ICD10CM
+45582002,Felty's syndrome, right wrist,6-char billing code,ICD10CM
+45577092,Felty's syndrome, multiple sites,5-char billing code,ICD10CM
+45548249,Felty's syndrome, right hand,6-char billing code,ICD10CM
+45591685,Felty's syndrome, right hip,6-char billing code,ICD10CM
+45548252,Felty's syndrome, left ankle and foot,6-char billing code,ICD10CM
+45567404,Felty's syndrome, left wrist,6-char billing code,ICD10CM
+45567405,Felty's syndrome, unspecified hand,6-char billing code,ICD10CM
+4298431,White blood cell count,Procedure,SNOMED
+1569969,Felty's syndrome, elbow,5-char nonbill code,ICD10CM
+45548248,Felty's syndrome, unspecified elbow,6-char billing code,ICD10CM
+45533689,Felty's syndrome, left shoulder,6-char billing code,ICD10CM
+45557752,Felty's syndrome, right elbow,6-char billing code,ICD10CM
+40320314,Felty's syndrome,Disorder,SNOMED
+1569967,Felty's syndrome,4-char nonbill code,ICD10CM
+37160421,Felty syndrome with seronegative rheumatoid arthritis,Disorder,SNOMED
+81097,Felty's syndrome,Disorder,SNOMED
+45548250,Felty's syndrome, left hand,6-char billing code,ICD10CM
+45572326,Felty's syndrome, left knee,6-char billing code,ICD10CM
+45548251,Felty's syndrome, right knee,6-char billing code,ICD10CM
+1569974,Felty's syndrome, ankle and foot,5-char nonbill code,ICD10CM
+45562581,Felty's syndrome, left elbow,6-char billing code,ICD10CM
+1569971,Felty's syndrome, hand,5-char nonbill code,ICD10CM
+45577091,Felty's syndrome, unspecified knee,6-char billing code,ICD10CM
+1569973,Felty's syndrome, knee,5-char nonbill code,ICD10CM
+45533690,Felty's syndrome, right ankle and foot,6-char billing code,ICD10CM
+45567403,Felty's syndrome, unspecified shoulder,6-char billing code,ICD10CM
+45543428,Felty's syndrome, unspecified hip,6-char billing code,ICD10CM
+45586833,Felty's syndrome, unspecified site,5-char billing code,ICD10CM
+1569968,Felty's syndrome, shoulder,5-char nonbill code,ICD10CM
+45538622,Felty's syndrome, unspecified wrist,6-char billing code,ICD10CM
+4230471,Aregenerative anemia,Disorder,SNOMED
+37019055,Aplastic anemia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4298690,Immunologic aplastic anemia,Disorder,SNOMED
+35206745,Aplastic anemia due to other external agents,4-char billing code,ICD10CM
+40390977,[X]Other specified aplastic anemias,Disorder,SNOMED
+44835768,Aplastic anemia, unspecified,4-dig billing code,ICD9CM
+4100998,Aplastic anemia caused by toxic cause,Disorder,SNOMED
+40351346,Anemia: [aplastic and other] or [aplastic] or [hypoblastic],Disorder,SNOMED
+4323478,History of aplastic anemia,Context-dependent,SNOMED
+4100999,Aplastic anemia NOS,Disorder,SNOMED
+4098027,Aplastic anemia due to radiation,Disorder,SNOMED
+137829,Aplastic anemia,Disorder,SNOMED
+44836943,Other specified aplastic anemias,5-dig billing code,ICD9CM
+40390403,Aplastic anemia,Disorder,SNOMED
+4184758,Acquired aplastic anemia,Disorder,SNOMED
+4101582,Aplastic anemia due to chronic disease,Disorder,SNOMED
+40503489,Aplastic anemia,Disorder,SNOMED
+140681,Constitutional aplastic anemia,Disorder,SNOMED
+4083869,Decreased erythrocyte production,Clinical Finding,SNOMED
+35206747,Aplastic anemia, unspecified,4-char billing code,ICD10CM
+44825279,Other specified aplastic anemias,4-dig nonbill code,ICD9CM
+40632168,Aplastic anemia,Disorder,SNOMED
+4098145,Idiopathic aplastic anemia,Disorder,SNOMED
+44799555,[X]Other specified aplastic anaemias,Disorder,SNOMED
+4254680,Hemostatic function,Observable Entity,SNOMED
+4184200,Secondary aplastic anemia,Disorder,SNOMED
+40321695,Anemia: [aplastic and other] or [aplastic] or [hypoblastic],Disorder,SNOMED
+4267147,Platelet count,Procedure,SNOMED
+4186108,Aplastic anemia associated with metabolic alteration,Disorder,SNOMED
+603009,Osteonecrosis due to acquired red cell aplasia,Disorder,SNOMED
+44832213,Red cell aplasia (acquired)(adult)(with thymoma),5-dig billing code,ICD9CM
+4234973,Chronic acquired pure red cell aplasia,Disorder,SNOMED
+35623407,Adult pure red cell aplasia,Disorder,SNOMED
+4125496,Pure red cell aplasia, acquired,Disorder,SNOMED
+35206743,Acquired pure red cell aplasia, unspecified,4-char billing code,ICD10CM
+40390976,[X]Other acquired pure red cell aplasias,Disorder,SNOMED
+37017607,Antibody mediated acquired pure red cell aplasia caused by erythropoiesis stimulating agent,Disorder,SNOMED
+44796122,[X]Acquired pure red cell aplasia, unspecified,Disorder,SNOMED
+35206742,Other acquired pure red cell aplasias,4-char billing code,ICD10CM
+45770674,Erythropoiesis stimulating agent induced antibody mediated acquired pure red cell aplasia,Disorder,SNOMED
+44801156,[X]Other acquired pure red cell aplasias,Disorder,SNOMED
+138723,Acquired red cell aplasia,Disorder,SNOMED
+1567853,Acquired pure red cell aplasia [erythroblastopenia],3-char nonbill code,ICD10CM
+40390429,[X]Acquired pure red cell aplasia, unspecified,Disorder,SNOMED
+40390425,Anemia: [acquired aplastic NOS] or [acquired pure red cell aplasia] or [red cell hypoplasia] or [secondary red cell aplasia or hypoplasia NEC],Disorder,SNOMED
+40390982,[X]Acquired pure red cell aplasia, unspecified,Disorder,SNOMED
+4098028,Transient acquired pure red cell aplasia,Disorder,SNOMED
+4125498,Constitutional red cell hypoplasia,Disorder,SNOMED
+3557956,Secondary red cell aplasia NEC,Disorder,SNOMED
+4125495,Secondary red cell aplasia NEC,Disorder,SNOMED
+4120453,Congenital pure red cell aplasia,Disorder,SNOMED
+4146087,Constitutional red cell aplasia and hypoplasia,Disorder,SNOMED
+140065,Pure red cell aplasia,Disorder,SNOMED
+4211695,Acute pure red cell aplasia,Disorder,SNOMED
+45532992,Constitutional (pure) red blood cell aplasia,5-char billing code,ICD10CM
+40390424,Pure red cell aplasia,Disorder,SNOMED
+4125499,Transient erythroblastopenia of childhood,Disorder,SNOMED
+45557087,Other constitutional aplastic anemia,5-char billing code,ICD10CM
+37117164,Revesz syndrome,Disorder,SNOMED
+40321696,Constitutional aplastic anemia,Disorder,SNOMED
+37204551,Hereditary isolated aplastic anemia,Disorder,SNOMED
+40351306,Constitutional aplastic anemia,Disorder,SNOMED
+44831067,Constitutional aplastic anemia,4-dig nonbill code,ICD9CM
+4148471,Fanconi's anemia,Disorder,SNOMED
+3557732,Other specified constitutional aplastic anaemia,Disorder,SNOMED
+4120452,Constitutional aplastic anemia without mention of malformation,Disorder,SNOMED
+44826482,Other constitutional aplastic anemia,5-dig billing code,ICD9CM
+4146086,Constitutional aplastic anemia with malformation,Disorder,SNOMED
+3557746,Constitutional aplastic anaemia NOS,Disorder,SNOMED
+4098025,Other specified constitutional aplastic anemia,Disorder,SNOMED
+36674474,Pancytopenia with developmental delay syndrome,Disorder,SNOMED
+4098026,Constitutional aplastic anemia NOS,Disorder,SNOMED
+1567855,Constitutional aplastic anemia,4-char nonbill code,ICD10CM
+40390406,Anemia: [congenital hypoplastic] or [constitutional aplastic without mention of malformation],Disorder,SNOMED
+36713970,WT limb blood syndrome,Disorder,SNOMED
+40431438,Adenosine deaminase superactivity,Disorder,SNOMED
+44829910,Constitutional red blood cell aplasia,5-dig billing code,ICD9CM
+37402340,Hereditary hemolytic-uremic syndrome,5-char billing code,ICD10CM
+40288715,Hemolytic uremic syndrome,Disorder,SNOMED
+37402341,Other hemolytic-uremic syndrome,5-char billing code,ICD10CM
+4159967,Diarrhea-negative hemolytic uremic syndrome,Disorder,SNOMED
+606436,Glomerular disorder due to hemolytic uremic syndrome,Disorder,SNOMED
+37402339,Infection-associated hemolytic-uremic syndrome,5-char billing code,ICD10CM
+36717581,Familial hemolytic uremic syndrome,Disorder,SNOMED
+35206734,Hemolytic-uremic syndrome,4-char nonbill code,ICD10CM
+197253,Hemolytic uremic syndrome,Disorder,SNOMED
+35609905,Suspected haemolytic uraemic syndrome,Context-dependent,SNOMED
+37402338,Hemolytic-uremic syndrome, unspecified,5-char billing code,ICD10CM
+4267646,Hemolytic uremic syndrome of childhood,Disorder,SNOMED
+44833392,Hemolytic-uremic syndrome,5-dig billing code,ICD9CM
+40282772,Renal function,Observable Entity,SNOMED
+37167956,Hemolytic uremic syndrome with DGKE deficiency,Disorder,SNOMED
+40481595,Congenital hemolytic uremic syndrome,Disorder,SNOMED
+4302298,Hemolytic uremic syndrome, adult type,Disorder,SNOMED
+37167983,Infection-related hemolytic uremic syndrome,Disorder,SNOMED
+37312165,Atypical hemolytic uremic syndrome,Disorder,SNOMED
+36674324,Hemolytic uremic syndrome suspected,Context-dependent,SNOMED
+252942,Asthmatic pulmonary eosinophilia,Disorder,SNOMED
+40646797,Pulmonary eosinophilia,Disorder,SNOMED
+40316598,Pulmonary eosinophilia,Disorder,SNOMED
+258828,Eosinophilia myalgia syndrome,Disorder,SNOMED
+4301289,Eosinophilia-myalgia syndrome from tryptophan,Disorder,SNOMED
+44833803,Eosinophilia myalgia syndrome,4-dig billing code,ICD9CM
+315523,Sickle cell-thalassemia disease,Disorder,SNOMED
+1567847,Sickle-cell thalassemia,4-char nonbill code,ICD10CM
+785898,Sickle-cell thalassemia, unspecified, with dactylitis,6-char billing code,ICD10CM
+4130067,Sickle cell-beta-thalassemia,Disorder,SNOMED
+321263,Sickle cell-thalassemia disease without crisis,Disorder,SNOMED
+443738,Sickle cell-thalassemia disease with crisis,Disorder,SNOMED
+318397,Chronic idiopathic thrombocytopenic purpura,Disorder,SNOMED
+45561925,Sickle-cell thalassemia without crisis,5-char billing code,ICD10CM
+725222,Sickle-cell thalassemia beta zero without crisis,5-char billing code,ICD10CM
+44829908,Sickle-cell thalassemia without crisis,5-dig billing code,ICD9CM
+4035282,Pearson's syndrome,Disorder,SNOMED
+4101585,Sideroblastic anemia NOS,Disorder,SNOMED
+44797459,[X]Other sideroblastic anaemias,Disorder,SNOMED
+4003186,Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia,Disorder,SNOMED
+37397036,Autosomal recessive sideroblastic anemia,Disorder,SNOMED
+4031204,Autosomal-linked pyridoxine refractory sideroblastic anemia,Disorder,SNOMED
+40599994,X chromosome-linked sideroblastic anemia,Disorder,SNOMED
+432282,Sideroblastic anemia,Disorder,SNOMED
+4173028,Idiopathic sideroblastic anemia,Disorder,SNOMED
+36715009,Adult-onset autosomal recessive sideroblastic anemia,Disorder,SNOMED
+44836944,Sideroblastic anemia,4-dig billing code,ICD9CM
+35623048,Congenital sideroblastic anemia, B-cell immunodeficiency, periodic fever, developmental delay syndrome,Disorder,SNOMED
+37110070,Mitochondrial myopathy with sideroblastic anemia syndrome,Disorder,SNOMED
+35206754,Other sideroblastic anemias,4-char billing code,ICD10CM
+37110923,Severe congenital hypochromic anemia with ringed sideroblasts,Disorder,SNOMED
+37166856,Myelodysplastic neoplasm with low blasts and SF3B1 mutation,Disorder,SNOMED
+40321698,Sideroblastic anemia,Disorder,SNOMED
+4098762,Pyridoxine-responsive sideroblastic anemia,Disorder,SNOMED
+4231887,Secondary acquired sideroblastic anemia,Disorder,SNOMED
+37165049,Hydrops, lactic acidosis, sideroblastic anemia, multisystemic failure syndrome,Disorder,SNOMED
+40390979,[X]Other sideroblastic anemias,Disorder,SNOMED
+606965,Autosomal dominant sideroblastic anemia,Disorder,SNOMED
+4269075,Hereditary sideroblastic anemia,Disorder,SNOMED
+4326815,Basophilic leukemoid reaction,Disorder,SNOMED
+4106717,Lymphocytic leukemoid reaction,Disorder,SNOMED
+432283,Leukemoid reaction,Disorder,SNOMED
+45547612,Leukemoid reaction,6-char billing code,ICD10CM
+44834577,Leukemoid reaction,5-dig billing code,ICD9CM
+4107045,Monocytic leukemoid reaction,Disorder,SNOMED
+4101586,Leukemoid reaction of the newborn,Disorder,SNOMED
+4325456,Neutrophilic leukemoid reaction,Disorder,SNOMED
+432289,Drug-induced neutropenia,Disorder,SNOMED
+4174297,Chloramphenicol-induced neutropenia,Disorder,SNOMED
+40390885,Drug-associated neutropenia,Disorder,SNOMED
+40390879,Drug induced: [agranulocytosis] or [neutropenia],Disorder,SNOMED
+44827639,Drug induced neutropenia,5-dig billing code,ICD9CM
+4254051,Drug or medicament,Substance,SNOMED
+4211401,Dose-related drug-induced neutropenia,Disorder,SNOMED
+4190716,Non dose-related drug-induced neutropenia,Disorder,SNOMED
+4322386,Chemotherapy-induced neutropenia,Disorder,SNOMED
+4148615,Neutrophil count,Procedure,SNOMED
+45581328,Other drug-induced agranulocytosis,4-char billing code,ICD10CM
+40389974,Pernicious anemia (& [Biermer's congenital] or [congenital deficiency of intrinsic factor]),Disorder,SNOMED
+603007,Pernicious anemia due to autoimmune disorder,Disorder,SNOMED
+432295,Pernicious anemia,Disorder,SNOMED
+44819527,Pernicious anemia,4-dig billing code,ICD9CM
+4121110,Selective malabsorption of cyanocobalamin,Disorder,SNOMED
+4261354,Megaloblastic anemia due to decreased intake of vitamin B-12,Disorder,SNOMED
+40321263,Pernicious anemia,Disorder,SNOMED
+4178539,Family history of pernicious anemia,Context-dependent,SNOMED
+35206696,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,4-char billing code,ICD10CM
+4122926,Biermer's congenital pernicious anemia,Disorder,SNOMED
+4121109,Congenital deficiency of intrinsic factor,Disorder,SNOMED
+4105643,Myasthenic syndrome due to pernicious anemia,Disorder,SNOMED
+4100822,Cobalamin deficiency,Disorder,SNOMED
+432297,Cyclical neutropenia,Disorder,SNOMED
+46272545,Periodontitis co-occurrent with cyclical neutropenia,Disorder,SNOMED
+40618256,Cyclic neutropenia,Disorder,SNOMED
+45766062,Periodontitis associated with cyclical neutropenia,Disorder,SNOMED
+45557093,Cyclic neutropenia,4-char billing code,ICD10CM
+44822961,Cyclic neutropenia,5-dig billing code,ICD9CM
+40432397,Cyclical neutropenia,Disorder,SNOMED
+432452,Anemia of prematurity,Disorder,SNOMED
+35210601,Anemia of prematurity,4-char billing code,ICD10CM
+36675035,Prematurity of infant,Disorder,SNOMED
+44824612,Anemia of prematurity,4-dig billing code,ICD9CM
+40389980,[X]Vitamin B12 deficiency anemia, unspecified,Disorder,SNOMED
+40390963,[X]Vitamin B12 deficiency anemia, unspecified,Disorder,SNOMED
+432588,Megaloblastic anemia due to vitamin B-12 deficiency,Disorder,SNOMED
+42536530,Hereditary vitamin B12 deficiency anemia,Disorder,SNOMED
+4101456,Other vitamin B12 deficiency anemia NOS,Disorder,SNOMED
+40390958,[X]Other vitamin B12 deficiency anemias,Disorder,SNOMED
+40321264,B12 deficiency anemia (& other),Disorder,SNOMED
+4098740,Vitamin B12 deficiency anemia due to malabsorption with proteinuria,Disorder,SNOMED
+44794774,[X]Vitamin B12 deficiency anaemia, unspecified,Disorder,SNOMED
+36713572,Vitamin B12 deficiency anemia caused by drug,Disorder,SNOMED
+40302037,H/O: Anemia vit.B12 deficient,Context-dependent,SNOMED
+3520224,Other vitamin B12 deficiency anaemia NOS,Disorder,SNOMED
+44796276,[X]Other vitamin B12 deficiency anaemias,Disorder,SNOMED
+4059187,History of anemia vitamin B12 deficient,Context-dependent,SNOMED
+35206700,Other vitamin B12 deficiency anemias,4-char billing code,ICD10CM
+4150151,Other vitamin B12 deficiency anemias,Disorder,SNOMED
+40351341,B12 deficiency anemia (& other),Disorder,SNOMED
+35206701,Vitamin B12 deficiency anemia, unspecified,4-char billing code,ICD10CM
+4101458,Combined B12 and folate deficiency anemia,Disorder,SNOMED
+36713571,Megaloblastic anemia due to vitamin B12 deficiency secondary to intestinal disease,Disorder,SNOMED
+40389976,Vitamin B12 deficiency anemia (& pleural),Disorder,SNOMED
+607426,Vitamin B12 deficiency anemia due to chronic atrophic gastritis,Disorder,SNOMED
+44799845,[X]Other dietary vitamin B12 deficiency anaemia,Disorder,SNOMED
+37160905,Vitamin B12 deficiency anemia following gastrectomy,Disorder,SNOMED
+44833390,Other vitamin B12 deficiency anemia,4-dig billing code,ICD9CM
+1567839,Vitamin B12 deficiency anemia,3-char nonbill code,ICD10CM
+4147491,Vitamin B12 deficiency anemia due to dietary causes,Disorder,SNOMED
+432589,Neutropenia associated with infectious disease,Disorder,SNOMED
+40390882,Infection: [agranulocytosis] or [neutropenia],Disorder,SNOMED
+432250,Infectious disease,Disorder,SNOMED
+44820704,Neutropenia due to infection,5-dig billing code,ICD9CM
+4211956,Neutropenia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+45552363,Neutropenia due to infection,4-char billing code,ICD10CM
+36715493,Megaloblastic anemia due to folate deficiency in pregnancy and lactation,Disorder,SNOMED
+4125629,Erythrocyte enzyme deficiency,Disorder,SNOMED
+4007103,[D]Red blood cell abnormality,Context-dependent,SNOMED
+601103,Hemolytic disease of fetus due to ABO immunization,Disorder,SNOMED
+37110336,Acquired iron deficiency anemia due to decreased absorption,Disorder,SNOMED
+36715494,Megaloblastic anemia due to folate deficiency in prematurity,Disorder,SNOMED
+4198102,Microangiopathic hemolytic anemia,Disorder,SNOMED
+4131915,Primary (idiopathic) autoimmune hemolytic anemia,Disorder,SNOMED
+42539567,Neonatal hemolysis with systemic bacterial infection,Disorder,SNOMED
+36674478,Neonatal autoimmune hemolytic anemia,Disorder,SNOMED
+37395652,Anemia in chronic kidney disease stage 5,Disorder,SNOMED
+432739,Red blood cell disorder,Disorder,SNOMED
+36713573,Acquired iron deficiency anemia due to increased iron requirement,Disorder,SNOMED
+606027,Nutritional anemia of pregnancy,Disorder,SNOMED
+4122936,Erythrocyte membrane abnormality,Disorder,SNOMED
+3661615,Primaquine sensitivity anemia,Disorder,SNOMED
+4122921,Non-anemic red cell disorder,Disorder,SNOMED
+4297537,Hemolytic anemia due to infection,Disorder,SNOMED
+432868,Hemoglobinopathy,Disorder,SNOMED
+4214409,Hereditary red blood cell disorder,Disorder,SNOMED
+37398911,Anemia in chronic kidney disease stage 4,Disorder,SNOMED
+4316361,Red blood cell sequestration in liver,Disorder,SNOMED
+3655917,Post-artesunate delayed hemolysis,Disorder,SNOMED
+36715492,Megaloblastic anemia due to folate deficiency due to increased requirement,Disorder,SNOMED
+606061,Hemolytic anemia of pregnancy,Disorder,SNOMED
+4049428,Hemoglobinemia,Disorder,SNOMED
+4218193,Hemolytic transfusion reaction,Disorder,SNOMED
+4175331,Congenital hemolytic anemia,Disorder,SNOMED
+40320427,[D]Red blood cell abnormality,Context-dependent,SNOMED
+4130681,Erythrocytosis,Disorder,SNOMED
+600662,Mechanical hemolysis following insertion of prosthetic heart valve,Disorder,SNOMED
+37018722,Anemia caused by zidovudine,Disorder,SNOMED
+606052,Macrocytic anemia of pregnancy,Disorder,SNOMED
+4223384,Hemoglobinopathy with cyanosis,Disorder,SNOMED
+4144746,Hereditary hemoglobinopathy,Disorder,SNOMED
+3533303,Other haemoglobinopathies,Disorder,SNOMED
+4067848,Osteonecrosis due to hemoglobinopathy,Disorder,SNOMED
+4131125,Acquired hemoglobinopathy,Disorder,SNOMED
+44794488,[X]Osteonecrosis due to haemoglobinopathy classified elsewhere,Disorder,SNOMED
+4122933,High affinity hemoglobin,Disorder,SNOMED
+37160422,Osteonecrosis of shoulder region due to hemoglobinopathy,Disorder,SNOMED
+4325871,Hemoglobinopathy education,Procedure,SNOMED
+37160420,Osteonecrosis of pelvic region due to hemoglobinopathy,Disorder,SNOMED
+4194396,Hemoglobinopathy screening test,Procedure,SNOMED
+4120449,von Jaksch's anemia,Disorder,SNOMED
+4327329,Hemoglobinopathy with erythrocytosis,Disorder,SNOMED
+432882,Methemoglobinemia,Disorder,SNOMED
+4100996,Other hemoglobinopathy NOS,Disorder,SNOMED
+37165515,Pseudoxanthoma elasticum due to hemoglobinopathy,Disorder,SNOMED
+37169793,Osteonecrosis of bone of forearm due to hemoglobinopathy,Disorder,SNOMED
+37160400,Osteonecrosis of femur due to hemoglobinopathy,Disorder,SNOMED
+764798,Family history of hemoglobinopathy C,Context-dependent,SNOMED
+37160395,Osteonecrosis of foot due to hemoglobinopathy,Disorder,SNOMED
+35206728,Other hemoglobinopathies,4-char billing code,ICD10CM
+40390969,[X]Other hemoglobinopathies,Disorder,SNOMED
+37160392,Osteonecrosis of multiple sites due to hemoglobinopathy,Disorder,SNOMED
+4295183,Mixed hemoglobin disorder,Disorder,SNOMED
+4167910,Arthropathy secondary to hemoglobinopathy,Disorder,SNOMED
+37160394,Osteonecrosis of humerus due to hemoglobinopathy,Disorder,SNOMED
+46270581,Family history of hemoglobinopathy,Context-dependent,SNOMED
+4100995,Other specified other hemoglobinopathy,Disorder,SNOMED
+44831066,Other hemoglobinopathies,4-dig billing code,ICD9CM
+4098751,Other hemoglobinopathies,Disorder,SNOMED
+4100994,Hemoglobin Zurich disease,Disorder,SNOMED
+37160402,Osteonecrosis of ankle due to hemoglobinopathy,Disorder,SNOMED
+44797125,[X]Other haemoglobinopathies,Disorder,SNOMED
+618636,Fetal hemoglobinopathy,Disorder,SNOMED
+4121116,Low affinity hemoglobin,Disorder,SNOMED
+37160393,Osteonecrosis of hand due to hemoglobinopathy,Disorder,SNOMED
+37160391,Osteonecrosis of lower leg due to hemoglobinopathy,Disorder,SNOMED
+4101604,Thrombocytopenia NOS,Disorder,SNOMED
+4272928,Thrombocytopenia due to hypersplenism,Disorder,SNOMED
+40321716,Secondary thrombocytopenia,Disorder,SNOMED
+40332931,Thrombocytopenia (& [auto-immune]),Procedure,SNOMED
+44825284,Thrombocytopenia, unspecified,4-dig billing code,ICD9CM
+4301128,Thrombocytopenia due to diminished platelet production,Disorder,SNOMED
+4103532,Immune thrombocytopenia,Disorder,SNOMED
+4159749,Idiopathic maternal thrombocytopenia,Disorder,SNOMED
+4338386,Thrombocytopenia due to non-immune destruction,Disorder,SNOMED
+4345464,Hemorrhagic rubella,Disorder,SNOMED
+1340478,Exacerbation of thrombocytopenia,Disorder,OMOP Extension
+440372,Acquired thrombocytopenia,Disorder,SNOMED
+40321717,Thrombocytopenia NOS,Disorder,SNOMED
+3661632,Thrombocytopenia due to COVID-19,Disorder,SNOMED
+605416,Fetal thrombocytopenia,Disorder,SNOMED
+4264464,Mediterranean macrothrombocytopenia,Disorder,SNOMED
+4166754,Perinatal thrombocytopenia,Disorder,SNOMED
+441264,Primary thrombocytopenia,Disorder,SNOMED
+4292425,Sex-linked thrombocytopenia,Disorder,SNOMED
+35206772,Thrombocytopenia, unspecified,4-char billing code,ICD10CM
+37017165,GATA binding protein 1 related thrombocytopenia with dyserythropoiesis,Disorder,SNOMED
+37207457,History of thrombocytopenia,Context-dependent,SNOMED
+40624797,Thrombocytopenia,Disorder,SNOMED
+37155424,TAFRO syndrome,Disorder,SNOMED
+40390497,[X]Essential thrombocytopenia NOS,Disorder,SNOMED
+4235220,Hereditary thrombocytopenic disorder,Disorder,SNOMED
+42537688,Congenital thrombocytopenia,Disorder,SNOMED
+40390986,[X]Other primary thrombocytopenia,Disorder,SNOMED
+44795907,[X]Other primary thrombocytopenia,Disorder,SNOMED
+432870,Thrombocytopenic disorder,Disorder,SNOMED
+4052838,T activation syndrome,Disorder,SNOMED
+4119134,Thrombocytopenic purpura,Disorder,SNOMED
+40301839,Thrombocytopenia (& [auto-immune]),Clinical Finding,SNOMED
+4123074,Megakaryocytic thrombocytopenia,Disorder,SNOMED
+4221109,Neonatal thrombocytopenia,Disorder,SNOMED
+4120620,Amegakaryocytic thrombocytopenia,Disorder,SNOMED
+4156233,Thrombocytopenia due to sequestration,Disorder,SNOMED
+36674972,Macrothrombocytopenia with mitral valve insufficiency,Disorder,SNOMED
+36715586,Refractory thrombocytopenia,Disorder,SNOMED
+4219476,Thrombocytopenia due to defective platelet production,Disorder,SNOMED
+4172008,Cyclic thrombocytopenia,Disorder,SNOMED
+437312,Bleeding,Clinical Finding,SNOMED
+432875,Anemia due to chronic blood loss,Disorder,SNOMED
+4120450,Normocytic anemia due to chronic blood loss,Disorder,SNOMED
+40431413,Iron deficiency anemia due to chronic blood loss,Disorder,SNOMED
+40468608,Iron deficiency anemia secondary to chronic blood loss,Disorder,SNOMED
+44836940,Iron deficiency anemia secondary to blood loss (chronic),4-dig billing code,ICD9CM
+40389961,Anemia due to chronic blood loss: [iron deficiency] or [normocytic],Disorder,SNOMED
+40483629,Blood loss anemia,Disorder,SNOMED
+4239484,Acquired pancytopenia,Disorder,SNOMED
+3557877,Pancytopenia NOS,Disorder,SNOMED
+4146089,Pancytopenia NOS,Disorder,SNOMED
+37204478,Pancytopenia due to IKZF1 mutations,Disorder,SNOMED
+42536958,Pancytopenia caused by medication,Disorder,SNOMED
+1340424,Exacerbation of pancytopenia,Disorder,OMOP Extension
+45595770,Other pancytopenia,6-char billing code,ICD10CM
+432881,Pancytopenia,Disorder,SNOMED
+45566706,Pancytopenia,5-char nonbill code,ICD10CM
+44832210,Pancytopenia,4-dig nonbill code,ICD9CM
+4082738,Autoimmune pancytopenia,Disorder,SNOMED
+44821806,Other pancytopenia,5-dig billing code,ICD9CM
+4077348,Pancytopenia-dysmelia,Disorder,SNOMED
+35625536,Ataxia pancytopenia syndrome,Disorder,SNOMED
+4125494,Pancytopenia with pancreatitis,Disorder,SNOMED
+40351334,Methemoglobinemia,Disorder,SNOMED
+4101132,Methemoglobinemia NOS,Disorder,SNOMED
+35206787,Other methemoglobinemias,4-char billing code,ICD10CM
+40391372,[X]Other methemoglobinemias,Disorder,SNOMED
+4101131,Familial methemoglobinemia,Disorder,SNOMED
+44796809,[X]Other methaemoglobinaemias,Disorder,SNOMED
+1567872,Methemoglobinemia,3-char nonbill code,ICD10CM
+4098157,Drug-induced methemoglobinemia,Disorder,SNOMED
+4146093,Congenital methemoglobinemia,Disorder,SNOMED
+4103123,Idiopathic methemoglobinemia,Disorder,SNOMED
+4131911,Toxic methemoglobinemia with cyanosis,Disorder,SNOMED
+3538290,Methaemoglobinaemia NOS,Disorder,SNOMED
+4120457,Methemoglobin reductase deficiency,Disorder,SNOMED
+40390931,(Methemoglobinemia) or (Stokvis' disease) or (sulfemoglobinemia),Disorder,SNOMED
+44831076,Methemoglobinemia,4-dig billing code,ICD9CM
+35206788,Methemoglobinemia, unspecified,4-char billing code,ICD10CM
+4170982,Acquired methemoglobinemia,Disorder,SNOMED
+4231981,Methemoglobinemia due to nitrate poisoning,Disorder,SNOMED
+433168,Iron deficiency anemia secondary to inadequate dietary iron intake,Disorder,SNOMED
+40628370,Iron deficiency anemia secondary to inadequate dietary iron intake,Disorder,SNOMED
+44827636,Iron deficiency anemia secondary to inadequate dietary iron intake,4-dig billing code,ICD9CM
+4146209,Iron deficiency,Disorder,SNOMED
+4145893,Rhesus isoimmunization due to anti-D,Disorder,SNOMED
+4013087,Red blood cell size determination,Procedure,SNOMED
+4139549,Rhesus isoimmunization due to anti-c,Disorder,SNOMED
+433603,Hemolytic disease of fetus OR newborn due to RhD isoimmunization,Disorder,SNOMED
+35210578,Rh isoimmunization of newborn,4-char billing code,ICD10CM
+40323007,Rhesus isoimmunization of the newborn,Disorder,SNOMED
+40405833,(Hemolytic disease due to rhesus isoimmunization) or (erythroblastosis fetalis) or (rhesus isoimmunization of the newborn),Disorder,SNOMED
+40323005,(Hemolytic disease) or (erythroblastosis foetalis) or (jaundice - Rh. disease),Disorder,SNOMED
+4139550,Rhesus isoimmunization due to anti-Cw,Disorder,SNOMED
+44823436,Hemolytic disease of fetus or newborn due to Rh isoimmunization,4-dig billing code,ICD9CM
+4143895,Rhesus isoimmunization due to anti-E,Disorder,SNOMED
+44821809,Familial polycythemia,4-dig billing code,ICD9CM
+36674691,Chuvash erythrocytosis,Disorder,SNOMED
+37204848,Autosomal recessive secondary polycythemia not associated with VHL (Von Hippel Lindau) gene,Disorder,SNOMED
+433741,Familial erythrocytosis,Disorder,SNOMED
+40321731,(Other blood diseases) or (familial erythrocytosis) or (hypergammaglobulinemia),Disorder,SNOMED
+40351359,(Other blood diseases) or (familial erythrocytosis) or (hypergammaglobulinemia),Disorder,SNOMED
+4190447,High oxygen affinity hemoglobin polycythemia,Disorder,SNOMED
+4130682,Familial erythrocytosis due to diphosphoglycerate mutase deficiency,Disorder,SNOMED
+4131920,Familial polycythemia vera,Disorder,SNOMED
+4141733,Hematology procedure,Procedure,SNOMED
+35206789,Familial erythrocytosis,4-char billing code,ICD10CM
+45537936,Heparin induced thrombocytopenia (HIT),5-char nonbill code,ICD10CM
+44825286,Heparin-induced thrombocytopenia (HIT),5-dig billing code,ICD9CM
+433749,Heparin-induced thrombocytopenia,Disorder,SNOMED
+37402356,Heparin-induced thrombocytopenia, unspecified,6-char billing code,ICD10CM
+37402353,Non-immune heparin-induced thrombocytopenia,6-char billing code,ICD10CM
+607375,Skin necrosis due to heparin induced thrombocytopenia,Disorder,SNOMED
+3560171,Heparin-induced thrombocytopenia,Undefined,SNOMED
+4159634,Heparin,Substance,SNOMED
+37402354,Immune-mediated heparin-induced thrombocytopenia,6-char billing code,ICD10CM
+37402355,Other heparin-induced thrombocytopenia syndrome,6-char billing code,ICD10CM
+4009307,Heparin-induced thrombocytopenia with thrombosis,Disorder,SNOMED
+4031726,Myeloperoxidase deficiency syndrome,Disorder,SNOMED
+4122067,Granulation anomaly,Disorder,SNOMED
+4023315,Non-malignant lymphocyte AND/OR plasma cell disorder,Disorder,SNOMED
+44828823,Unspecified disease of white blood cells,4-dig billing code,ICD9CM
+4101129,Other specified other white blood cell disease,Disorder,SNOMED
+4100246,Other specified white blood cell or other blood diseases,Disorder,SNOMED
+4122744,Granulocyte granule deficiency,Disorder,SNOMED
+3533306,Other specified other white blood cell disease,Disorder,SNOMED
+4219296,Disorder of basophils,Disorder,SNOMED
+44824104,Other specified disease of white blood cells,4-dig billing code,ICD9CM
+438398,Leukocytosis,Disorder,SNOMED
+4143355,Other white blood cell disease,Disorder,SNOMED
+4180020,Disorder involving basophils and mast cells,Disorder,SNOMED
+3538291,White blood cell or other blood diseases NOS,Disorder,SNOMED
+3520203,Other specified white blood cell or other blood diseases,Disorder,SNOMED
+37203808,Eosinophilic peritonitis,Disorder,SNOMED
+4200726,Qualitative abnormality of granulocyte,Disorder,SNOMED
+435775,Genetic anomaly of leukocyte,Disorder,SNOMED
+4125634,Non-malignant white cell disorder,Disorder,SNOMED
+35206778,Disorder of white blood cells, unspecified,4-char billing code,ICD10CM
+3533305,White blood cell and other blood disorders,Disorder,SNOMED
+1567867,Other specified disorders of white blood cells,4-char nonbill code,ICD10CM
+4100242,White blood cell disease NOS,Disorder,SNOMED
+4101135,White blood cell or other blood diseases NOS,Disorder,SNOMED
+1567866,Other disorders of white blood cells,3-char nonbill code,ICD10CM
+40390907,(Other white blood cell disease) or (leukocytosis),Disorder,SNOMED
+4098150,White blood cell and other blood disorders,Disorder,SNOMED
+4079274,Malignant white blood cell disorder,Disorder,SNOMED
+4146092,Other white blood cell disease NOS,Disorder,SNOMED
+435224,Leukopenia,Disorder,SNOMED
+44832216,Diseases of white blood cells,3-dig nonbill code,ICD9CM
+439412,Mast cell disorder,Disorder,SNOMED
+439279,Eosinophilic disorder,Disorder,SNOMED
+40321719,White blood cell disorder,Disorder,SNOMED
+45542716,Other specified disorders of white blood cells,5-char billing code,ICD10CM
+40391368,[X]Other specified disorders of white blood cells,Disorder,SNOMED
+4022199,Disorder of neutrophils,Disorder,SNOMED
+4185785,Hereditary white blood cell disorder,Disorder,SNOMED
+44797142,[X]Other specified disorders of white blood cells,Disorder,SNOMED
+434008,White blood cell disorder,Disorder,SNOMED
+4138840,Lymphocyte disorder,Disorder,SNOMED
+4203353,Granulocytosis,Disorder,SNOMED
+44834814,Eosinophilic gastroenteritis and colitis,4-dig nonbill code,ICD9CM
+4166872,Disorder of eosinophil,Disorder,SNOMED
+4228194,Congenital hypoplastic anemia,Disorder,SNOMED
+4079852,Physiological anemia of infancy,Disorder,SNOMED
+4308062,Ghosal hematodiaphyseal dysplasia,Disorder,SNOMED
+37399441,Alpha thalassemia X-linked intellectual disability syndrome,Disorder,SNOMED
+40406768,[X]Other congenital anemias, not elsewhere classified,Disorder,SNOMED
+4174701,HNSHA due to hexokinase deficiency,Disorder,SNOMED
+44820048,Congenital anemia,4-dig billing code,ICD9CM
+4121107,Congenital transferrin deficiency,Disorder,SNOMED
+4173191,Late anemia of newborn,Disorder,SNOMED
+4204062,Congenital dyserythropoietic anemia,Disorder,SNOMED
+4320919,HNSHA due to NADH-methemoglobin reductase deficiency,Disorder,SNOMED
+44795293,[X]Other congenital anaemias, not elsewhere classified,Disorder,SNOMED
+4097998,Severe combined immunodeficiency with reticular dysgenesis,Disorder,SNOMED
+434156,Congenital anemia,Disorder,SNOMED
+36714258,Lethal hemolytic anemia and genital anomaly syndrome,Disorder,SNOMED
+4125497,Congenital red cell hypoplasia,Disorder,SNOMED
+4049030,Congenital anemia from fetal blood loss,Disorder,SNOMED
+437242,Congenital thrombocytopenic purpura,Disorder,SNOMED
+4248254,Epsilon gamma delta beta0 thalassemia,Disorder,SNOMED
+42539413,Alpha-thalassemia intellectual disability syndrome linked to chromosome 16,Disorder,SNOMED
+37311954,Gamma delta beta thalassemia,Disorder,SNOMED
+4311397,Alpha plus thalassemia deletion type,Disorder,SNOMED
+4147911,Megaloblastic anemia due to inborn errors of metabolism,Disorder,SNOMED
+4311538,Alpha plus thalassemia non deletion type,Disorder,SNOMED
+4171026,HNSHA due to NADH diaphorase deficiency,Disorder,SNOMED
+35210603,Other congenital anemias, not elsewhere classified,4-char billing code,ICD10CM
+4082253,Unstable hemoglobin disease,Disorder,SNOMED
+4200254,Hemoglobin Bart's hydrops syndrome,Disorder,SNOMED
+35206737,Hemoglobinuria due to hemolysis from other external causes,4-char billing code,ICD10CM
+3557701,Other specified haemoglobinuria due to haemolysis from external cause,Disorder,SNOMED
+4125626,Paroxysmal hemoglobinuria NOS,Disorder,SNOMED
+4150153,Hemoglobinuria due to hemolysis from external cause NOS,Disorder,SNOMED
+3557876,Haemoglobinuria due to haemolysis from external cause NOS,Disorder,SNOMED
+4098757,Other specified hemoglobinuria due to hemolysis from external cause,Disorder,SNOMED
+4121111,Acquired hemolytic anemia with hemoglobinuria NEC,Disorder,SNOMED
+44822958,Hemoglobinuria due to hemolysis from external causes,4-dig billing code,ICD9CM
+434616,Hemoglobinuria due to hemolysis from external causes,Disorder,SNOMED
+3557957,Acquired haemolytic anaemia with haemoglobinuria NEC,Disorder,SNOMED
+44824095,Unspecified deficiency anemia,4-dig billing code,ICD9CM
+4098012,Other specified nutritional deficiency anemia NOS,Disorder,SNOMED
+4227834,Deficiency anemia associated with AIDS,Disorder,SNOMED
+4101574,Deficiency anemias NOS,Disorder,SNOMED
+4100988,Other specified nutritional deficiency anemia,Disorder,SNOMED
+40538664,AIDS with deficiency anemia,Disorder,SNOMED
+40389959,Deficiency anemiasm (& [asiderotic] or [sideropenic]),Disorder,SNOMED
+4098011,Other specified other nutritional deficiency anemia,Disorder,SNOMED
+3558071,Other deficiency anaemias NOS,Disorder,SNOMED
+4100989,Other specified deficiency anemias,Disorder,SNOMED
+3557873,Other deficiency anaemias,Disorder,SNOMED
+4122080,Nutritional anemias NOS,Disorder,SNOMED
+3557795,Other specified other nutritional deficiency anaemia,Disorder,SNOMED
+40321268,Nutritional anemias NOS,Disorder,SNOMED
+40390003,Anemia NOS: [other deficiency] or [megaloblastic],Disorder,SNOMED
+3557740,Other specified nutritional deficiency anaemia NOS,Disorder,SNOMED
+434622,Deficiency anemias,Disorder,SNOMED
+4143350,Other deficiency anemias,Disorder,SNOMED
+4098743,Vitamin E deficiency anemia,Disorder,SNOMED
+36715580,Acquired thiamine deficiency anemia,Disorder,SNOMED
+40390004,[X]Megaloblastic anemia NOS,Disorder,SNOMED
+3558186,Nutritional anaemias NOS,Disorder,SNOMED
+438722,Non megaloblastic anemia associated with nutritional deficiency,Disorder,SNOMED
+3557777,Deficiency anaemias NOS,Disorder,SNOMED
+4122079,Deficiency anemias, excluding iron,Disorder,SNOMED
+3556580,[X]Megaloblastic anaemia NOS,Disorder,SNOMED
+436083,Protein-deficiency anemia,Disorder,SNOMED
+44831061,Other deficiency anemias,3-dig nonbill code,ICD9CM
+4143352,Other deficiency anemias NOS,Disorder,SNOMED
+3557748,Other specified deficiency anaemias,Disorder,SNOMED
+4058247,Anemia during pregnancy/childbirth/puerperium NOS,Disorder,SNOMED
+3557895,Anaemia during pregnancy/childbirth/puerperium NOS,Disorder,SNOMED
+434701,Anemia in mother complicating pregnancy, childbirth AND/OR puerperium,Disorder,SNOMED
+4060423,Anemia - unspecified whether during pregnancy or the puerperium,Disorder,SNOMED
+432968,Anemia during pregnancy - baby delivered,Disorder,SNOMED
+3557894,Anaemia - unspecified whether during pregnancy or the puerperium,Disorder,SNOMED
+1571924,Anemia complicating pregnancy, childbirth and the puerperium,4-char nonbill code,ICD10CM
+432967,Anemia during pregnancy - baby not yet delivered,Disorder,SNOMED
+44829114,Anemia of mother, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+45757092,Anemia in mother complicating childbirth,Disorder,SNOMED
+40318692,Anemia during pregnancy, childbirth and the puerperium,Disorder,SNOMED
+44822101,Anemia of mother, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+44833725,Anemia of mother, delivered, with mention of postpartum complication,5-dig billing code,ICD9CM
+44825602,Anemia of mother, antepartum condition or complication,5-dig billing code,ICD9CM
+4099889,Anemia of pregnancy,Disorder,SNOMED
+44830223,Anemia complicating pregnancy, childbirth, or the puerperium,4-dig nonbill code,ICD9CM
+4209094,Anemia during the puerperium,Disorder,SNOMED
+4187773,Aplastic anemia associated with pregnancy,Disorder,SNOMED
+35206748,Acute posthemorrhagic anemia,3-char billing code,ICD10CM
+4116343,Normocytic anemia following acute bleed,Disorder,SNOMED
+40582638,Anemia due to acute blood loss,Disorder,SNOMED
+40321700,Acute posthemorrhagic anemia,Disorder,SNOMED
+434894,Acute posthemorrhagic anemia,Disorder,SNOMED
+44825280,Acute posthemorrhagic anemia,4-dig billing code,ICD9CM
+40390437,Acute posthemorrhagic anemia (& normocytic ),Disorder,SNOMED
+37016121,Anemia following acute postoperative blood loss,Disorder,SNOMED
+37204236,X-linked dyserythropoietic anemia with abnormal platelets and neutropenia,Disorder,SNOMED
+4232178,Shwachman syndrome,Disorder,SNOMED
+37204524,Autosomal recessive severe congenital neutropenia due to CSF3R deficiency,Disorder,SNOMED
+37117238,Neutropenia, monocytopenia, deafness syndrome,Disorder,SNOMED
+46273559,Periodontitis co-occurrent with infantile genetic agranulocytosis,Disorder,SNOMED
+40351326,Congenital neutropenia,Disorder,SNOMED
+37204523,Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency,Disorder,SNOMED
+4006469,Reticular dysgenesis,Disorder,SNOMED
+40390876,(Agranulocytosis) or (Kostmann's syndrome) or (neutropenia),Disorder,SNOMED
+45532997,Congenital agranulocytosis,4-char billing code,ICD10CM
+604592,Onycho-tricho-dysplasia neutropenia syndrome,Disorder,SNOMED
+3557958,Congenital agranulocytosis NEC,Disorder,SNOMED
+36678497,Congenital neutropenia, myelofibrosis, nephromegaly syndrome,Disorder,SNOMED
+36674945,Kostmann syndrome,Disorder,SNOMED
+36674950,Autosomal dominant severe congenital neutropenia,Disorder,SNOMED
+4123092,Warts, hypogammaglobulinemia, infections, and myelokathexis,Disorder,SNOMED
+4120602,Congenital agranulocytosis NEC,Disorder,SNOMED
+434895,Congenital neutropenia,Disorder,SNOMED
+36713881,X-linked severe congenital neutropenia,Disorder,SNOMED
+37163360,Periodontitis due to congenital neutropenia,Disorder,SNOMED
+40390883,Congenital: [neutropenia] or [agranulocytosis NEC],Disorder,SNOMED
+37204406,Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency,Disorder,SNOMED
+44833396,Congenital neutropenia,5-dig billing code,ICD9CM
+37203832,Autosomal recessive severe congenital neutropenia due to JAGN1 deficiency,Disorder,SNOMED
+434910,Monocytosis,Disorder,SNOMED
+45595774,Monocytosis (symptomatic),6-char billing code,ICD10CM
+4329853,Chronic idiopathic monocytosis,Disorder,SNOMED
+44829912,Monocytosis (symptomatic),5-dig billing code,ICD9CM
+4194332,Monocyte count,Procedure,SNOMED
+4242854,Reactive monocytosis,Disorder,SNOMED
+4049028,Transient neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia,Disorder,SNOMED
+4345345,Neonatal alloimmune thrombocytopenia,Disorder,SNOMED
+40626555,Neonatal thrombocytopenia due to isoimmunization,Disorder,SNOMED
+35210599,Transient neonatal thrombocytopenia,4-char billing code,ICD10CM
+4153572,Other specified transient neonatal thrombocytopenia,Disorder,SNOMED
+4071193,Transient neonatal thrombocytopenia NOS,Disorder,SNOMED
+44837420,Transient neonatal thrombocytopenia,4-dig billing code,ICD9CM
+4048742,Transient neonatal thrombocytopenia due to isoimmunization,Disorder,SNOMED
+435076,Transient neonatal thrombocytopenia,Disorder,SNOMED
+4048930,Transient neonatal thrombocytopenia due to exchange transfusion,Disorder,SNOMED
+441541,Lymphocytopenia,Disorder,SNOMED
+40301782,Leukopenia,Clinical Finding,SNOMED
+45566711,Decreased white blood cell count, unspecified,6-char billing code,ICD10CM
+44829911,Leukocytopenia, unspecified,5-dig billing code,ICD9CM
+44836949,Decreased white blood cell count,4-dig nonbill code,ICD9CM
+4218497,Granulocytopenic disorder,Disorder,SNOMED
+44828822,Other decreased white blood cell count,5-dig billing code,ICD9CM
+4146135,Febrile leukopenia,Disorder,SNOMED
+45576413,Other decreased white blood cell count,6-char billing code,ICD10CM
+606834,Leukopenia caused by drug,Disorder,SNOMED
+4119158,Neutropenic disorder,Disorder,SNOMED
+4051056,Autoimmune leukopenia,Disorder,SNOMED
+4184190,Eosinopenia,Disorder,SNOMED
+40390889,Leukopenia,Disorder,SNOMED
+1567868,Decreased white blood cell count,5-char nonbill code,ICD10CM
+44796118,[X]Haemolytic anaemias,Disorder,SNOMED
+4059188,History of hemolytic anemia,Context-dependent,SNOMED
+444238,Anemia due to enzyme deficiency,Disorder,SNOMED
+4008273,Coombs negative hemolytic anemia,Disorder,SNOMED
+4098013,Hemolytic anemia due to hexokinase deficiency,Disorder,SNOMED
+435503,Hemolytic anemia,Disorder,SNOMED
+4185887,Anemia due to abnormality extrinsic to the red cell,Disorder,SNOMED
+4098022,Hemolytic anemias NOS,Disorder,SNOMED
+4009785,Anemia due to membrane defect,Disorder,SNOMED
+45768941,Chronic hemolytic anemia,Disorder,SNOMED
+440979,Acquired hemolytic anemia,Disorder,SNOMED
+4156842,Intracorpuscular hemolytic anemia,Disorder,SNOMED
+4254380,Coombs positive hemolytic anemia,Disorder,SNOMED
+4098021,Other specified hemolytic anemias,Disorder,SNOMED
+40302038,H/O: hemolytic anemia,Context-dependent,SNOMED
+4032352,Hemolytic anemia caused by hyperbaric oxygen,Disorder,SNOMED
+40351329,Genetic leukocyte anomalies,Disorder,SNOMED
+44831072,Genetic anomalies of leukocytes,4-dig billing code,ICD9CM
+35206776,Genetic anomalies of leukocytes,4-char billing code,ICD10CM
+4311674,Pelger-Huët anomaly,Disorder,SNOMED
+40390898,(Anomaly: [genetic leukocyte] or [Alder's] or [Chediak - Steinbrinck] or [Jordan's] or [May - Hegglin] or [Pegler - Huet]) or (Chediak-Higashi syndrome),Disorder,SNOMED
+4237017,Genetic test,Procedure,SNOMED
+40321267,Megaloblastic anemia NOS,Disorder,SNOMED
+4101457,Other specified megaloblastic anemia NEC,Disorder,SNOMED
+4096927,Megaloblastic anemia due to vitamin B-12 malabsorption with proteinuria,Disorder,SNOMED
+435789,Megaloblastic anemia,Disorder,SNOMED
+4008663,Megaloblastic anemia due to exfoliative dermatitis,Disorder,SNOMED
+4284415,Megaloblastic anemia due to increased requirements,Disorder,SNOMED
+35206707,Other megaloblastic anemias, not elsewhere classified,4-char billing code,ICD10CM
+44794616,[X]Other megaloblastic anaemias, not elsewhere classified,Disorder,SNOMED
+4045142,Megaloblastic anemia due to gastrectomy,Disorder,SNOMED
+4150499,Refractory megaloblastic anemia,Disorder,SNOMED
+4135713,Megaloblastic anemia caused by fish tapeworm,Disorder,SNOMED
+4291002,Megaloblastic anemia caused by drugs,Disorder,SNOMED
+40390961,[X]Other megaloblastic anemias, not elsewhere classified,Disorder,SNOMED
+4168772,Megaloblastic anemia due to chronic hemolytic anemia,Disorder,SNOMED
+40321262,Anemia: [deficiency excluding iron] or [megaloblastic],Disorder,SNOMED
+4099603,Megaloblastic anemia due to hemodialysis,Disorder,SNOMED
+40389973,Anemia: [megaloblastic] or [other deficiency],Disorder,SNOMED
+4090690,Megaloblastic anemia of premature infant,Disorder,SNOMED
+3661626,Megaloblastic anemia due to dihydrofolate reductase deficiency,Disorder,SNOMED
+3557955,Megaloblastic anaemia NOS,Disorder,SNOMED
+4035316,Goats' milk anemia,Disorder,SNOMED
+44829907,Other specified megaloblastic anemias not elsewhere classified,4-dig billing code,ICD9CM
+3557793,Other specified megaloblastic anaemia NEC NOS,Disorder,SNOMED
+4098742,Other specified megaloblastic anemia NEC NOS,Disorder,SNOMED
+4021911,Megaloblastic anemia due to poor nutrition,Disorder,SNOMED
+4243950,Megaloblastic anemia due to blind loop syndrome,Disorder,SNOMED
+4220697,Acute megaloblastic anemia,Disorder,SNOMED
+4121108,Megaloblastic anemia NOS,Disorder,SNOMED
+4181743,Megaloblastic anemia due to hyperalimentation,Disorder,SNOMED
+4147600,Megaloblastic anemia due to pancreatic insufficiency,Disorder,SNOMED
+40351340,Anemia: [deficiency excluding iron] or [megaloblastic],Disorder,SNOMED
+4125491,Megaloblastic anemia due to dietary causes,Disorder,SNOMED
+440977,Megaloblastic anemia due to folate deficiency,Disorder,SNOMED
+4184603,Megaloblastic anemia due to Zollinger-Ellison syndrome,Disorder,SNOMED
+4195271,Megaloblastic anemia due to vegetarianism,Disorder,SNOMED
+3557569,Secondary polycythaemia NOS,Disorder,SNOMED
+4055357,Erythrocytosis due to tissue hypoxemia,Disorder,SNOMED
+4273627,Secondary polycythemia with excess erythropoietin,Disorder,SNOMED
+4122935,Secondary polycythemia without excess erythropoietin,Disorder,SNOMED
+40431465,Relative polycythemia,Disorder,SNOMED
+4308044,Relative polycythemia,Disorder,SNOMED
+4195320,Inappropriate secondary erythrocytosis,Disorder,SNOMED
+607388,Polycythemia due to HIF2A mutation,Disorder,SNOMED
+35206790,Secondary polycythemia,4-char billing code,ICD10CM
+607386,Polycythemia due to PHD2 mutation,Disorder,SNOMED
+37204525,Autosomal dominant secondary polycythemia,Disorder,SNOMED
+435790,Secondary polycythemia,Disorder,SNOMED
+40321726,Secondary polycythemia,Disorder,SNOMED
+4098152,Secondary polycythemia NOS,Disorder,SNOMED
+4103465,Erythrocytosis due to autotransfusion,Disorder,SNOMED
+4049332,Erythrocytosis due to cerebellar hemangioma,Disorder,SNOMED
+44822966,Polycythemia, secondary,4-dig billing code,ICD9CM
+607422,Hereditary iron deficiency anemia,Disorder,SNOMED
+606928,Iron deficiency anemia due to celiac disease,Disorder,SNOMED
+4101454,Unspecified iron deficiency anemia,Disorder,SNOMED
+40302036,H/O: anemia - iron deficient,Context-dependent,SNOMED
+4198185,Plummer-Vinson syndrome,Disorder,SNOMED
+40431416,Iron deficiency anemia syndrome,Disorder,SNOMED
+36716126,Iron-refractory iron deficiency anemia,Disorder,SNOMED
+436659,Iron deficiency anemia,Disorder,SNOMED
+4100985,Iron deficiency anemia due to dietary causes,Disorder,SNOMED
+40351339,(Anemia: [iron deficiency] or [microcytic]) or (Kelly-Paterson syndrome) or (Plummer-Vinson syndrome),Disorder,SNOMED
+44828816,Iron deficiency anemia, unspecified,4-dig billing code,ICD9CM
+35206694,Other iron deficiency anemias,4-char billing code,ICD10CM
+1244157,Postpartum iron deficiency anemia,Disorder,SNOMED
+4101455,Chlorotic anemia,Disorder,SNOMED
+40390956,[X]Other iron deficiency anemias,Disorder,SNOMED
+4100986,Other specified iron deficiency anemia NOS,Disorder,SNOMED
+4058246,Iron deficiency anemia of pregnancy,Disorder,SNOMED
+4058711,H/O: anemia - iron deficient,Context-dependent,SNOMED
+1567838,Iron deficiency anemia,3-char nonbill code,ICD10CM
+4098006,Iron deficiency anemia NOS,Disorder,SNOMED
+44821803,Iron deficiency anemias,3-dig nonbill code,ICD9CM
+606924,Iron deficiency anemia due to increased requirement in infancy,Disorder,SNOMED
+40321261,(Anemia: [iron deficiency] or [microcytic]) or (Kelly-Paterson syndrome) or (Plummer-Vinson syndrome),Disorder,SNOMED
+35206695,Iron deficiency anemia, unspecified,4-char billing code,ICD10CM
+606921,Post gastrectomy iron deficiency anemia,Disorder,SNOMED
+605330,Restless leg syndrome due to iron deficiency anemia,Disorder,SNOMED
+44794389,[X]Other iron deficiency anaemias,Disorder,SNOMED
+3557745,Unspecified iron deficiency anaemia,Disorder,SNOMED
+4157495,Sideropenic anemia with reticuloendothelial siderosis,Disorder,SNOMED
+606923,Iron deficiency anemia due to increased requirement in adolescence,Disorder,SNOMED
+37119138,Iron deficiency anemia due to blood loss,Disorder,SNOMED
+4147490,Other specified iron deficiency anemia,Disorder,SNOMED
+44824094,Other specified iron deficiency anemias,4-dig billing code,ICD9CM
+40389960,Iron deficiency anemias (& [hypochromic - microcytic]),Disorder,SNOMED
+436820,Late anemia due to isoimmunization,Disorder,SNOMED
+4262256,Warm antibody,Substance,SNOMED
+45557091,Evans syndrome,5-char billing code,ICD10CM
+436956,Evans syndrome,Disorder,SNOMED
+40390494,(Thrombocytopenia: [primary] or [idopathic purpuric] or [idiopathic] or [purpuric]) or (Evan's syndrome),Disorder,SNOMED
+44826484,Evans' syndrome,5-dig billing code,ICD9CM
+437090,Hemolytic disease of fetus OR newborn due to ABO immunization,Disorder,SNOMED
+35210579,ABO isoimmunization of newborn,4-char billing code,ICD10CM
+44832705,Hemolytic disease of fetus or newborn due to ABO isoimmunization,4-dig billing code,ICD9CM
+36713168,Hemolytic disease of newborn co-occurrent and due to ABO immunization,Disorder,SNOMED
+40323008,ABO isoimmunization of the newborn,Disorder,SNOMED
+437241,Qualitative platelet disorder,Disorder,SNOMED
+35206768,Qualitative platelet defects,4-char billing code,ICD10CM
+4134436,Hereditary platelet function disorder,Disorder,SNOMED
+4030446,Storage pool disease of platelets,Disorder,SNOMED
+44820702,Qualitative platelet defects,4-dig billing code,ICD9CM
+4101004,Qualitative platelet deficiency NOS,Disorder,SNOMED
+4028066,Acquired platelet function disorder,Disorder,SNOMED
+3537966,Qualitative platelet deficiency NOS,Disorder,SNOMED
+40390487,Platelet defects: [qualitative] or [Bernard - Soulier thrombopathy],Disorder,SNOMED
+40506553,Qualitative platelet disorder,Disorder,SNOMED
+37312032,Anemia due to chronic infectious disease,Disorder,SNOMED
+44836945,Anemia of chronic disease,4-dig nonbill code,ICD9CM
+3549554,Secondary anemia,Disorder,SNOMED
+35206750,Anemia in other chronic diseases classified elsewhere,4-char billing code,ICD10CM
+437247,Anemia of chronic disease,Disorder,SNOMED
+45768812,Anemia in chronic kidney disease,Disorder,SNOMED
+443783,Chronic disease,Disorder,SNOMED
+44835769,Anemia of other chronic disease,5-dig billing code,ICD9CM
+40627762,Anemia of chronic disease,Disorder,SNOMED
+40571990,Anaemia of chronic disorder,Disorder,SNOMED
+1567857,Anemia in chronic diseases classified elsewhere,3-char nonbill code,ICD10CM
+4098020,Other specified non-autoimmune hemolytic anemia,Disorder,SNOMED
+4098756,Infective hemolytic anemia,Disorder,SNOMED
+44800501,[X]Other nonautoimmune haemolytic anaemias,Disorder,SNOMED
+4098019,Toxic hemolytic anemia,Disorder,SNOMED
+44834573,Non-autoimmune hemolytic anemia, unspecified,5-dig billing code,ICD9CM
+35206735,Other nonautoimmune hemolytic anemias,4-char billing code,ICD10CM
+4100997,Non-autoimmune hemolytic anemia NOS,Disorder,SNOMED
+3557700,Non-autoimmune haemolytic anaemia NOS,Disorder,SNOMED
+606940,Drug-induced non autoimmune hemolytic anemia,Disorder,SNOMED
+4098018,Mechanical hemolytic anemia,Disorder,SNOMED
+437834,Non-autoimmune hemolytic anemia,Disorder,SNOMED
+40390973,[X]Other nonautoimmune hemolytic anemias,Disorder,SNOMED
+44835767,Other non-autoimmune hemolytic anemias,5-dig billing code,ICD9CM
+40321692,Non-autoimmune hemolytic anemia,Disorder,SNOMED
+44824098,Non-autoimmune hemolytic anemias,4-dig nonbill code,ICD9CM
+40431958,Essential thrombocythemia,Disorder,SNOMED
+438383,Essential thrombocythemia,Disorder,SNOMED
+3656047,Post-essential thrombocythemia myelofibrosis,Disorder,SNOMED
+40390873,Essential thrombocytosis,Disorder,SNOMED
+40390334,Essential thrombocythemia,Disorder,SNOMED
+44833360,Essential thrombocythemia,5-dig billing code,ICD9CM
+40515159,Idiopathic thrombocythemia,Disorder,SNOMED
+37397536,Inherited predisposition to essential thrombocythemia,Disorder,SNOMED
+40390335,Idiopathic thrombocythemia,Disorder,SNOMED
+35206679,Essential (hemorrhagic) thrombocythemia,4-char billing code,ICD10CM
+40390328,(Neoplasm of uncert behav of other lymphat and hematopoietic tissue) or (neoplasm of uncert behav of blood) or (idiopathic thrombocythemia) or (megakaryocytic myelosclerosis) or (myelodysplasia),Disorder,SNOMED
+4125657,Post-splenectomy leukocytosis,Disorder,SNOMED
+4281826,Lymphocytosis,Disorder,SNOMED
+45542715,Other elevated white blood cell count,6-char billing code,ICD10CM
+4325600,Leukoerythroblastotic reaction,Disorder,SNOMED
+40301783,Leukocytosis,Clinical Finding,SNOMED
+40321723,WBC: [other diseases] or [lymphocytosis] or [leukocytosis],Disorder,SNOMED
+4302954,Disorder characterized by eosinophilia,Disorder,SNOMED
+40351355,WBC: [other diseases] or [lymphocytosis] or [leukocytosis],Disorder,SNOMED
+44836950,Elevated white blood cell count,4-dig nonbill code,ICD9CM
+44826486,Other elevated white blood cell count,5-dig billing code,ICD9CM
+44822962,Leukocytosis, unspecified,5-dig billing code,ICD9CM
+40390911,(Other white blood cell disease NOS) or (leukocytosis),Disorder,SNOMED
+45537933,Elevated white blood cell count, unspecified,6-char billing code,ICD10CM
+4189647,Neutrophilia disorder,Disorder,SNOMED
+40390962,[X]Anemia (nonmegaloblastic) associated with other specified nutritional deficiencies,Disorder,SNOMED
+4144811,Anemia due to zinc deficiency,Disorder,SNOMED
+4101573,Vitamin C deficiency anemia,Disorder,SNOMED
+4092893,Anemia due to vitamin E deficiency,Disorder,SNOMED
+444289,Anemia due to protein deficiency,Disorder,SNOMED
+4311676,Anemia due to vitamin A deficiency,Disorder,SNOMED
+4303199,Anemia due to pantothenic deficiency,Disorder,SNOMED
+44801219,[X]Anaemia (nonmegaloblastic) associated with other specified nutritional deficiencies,Disorder,SNOMED
+4276524,Amino acid deficiency anemia,Disorder,SNOMED
+4201444,Anemia due to riboflavin deficiency,Disorder,SNOMED
+4312853,Anemia due to vitamin B-6 deficiency,Disorder,SNOMED
+4015896,Anemia due to niacin deficiency,Disorder,SNOMED
+435227,Nutritional deficiency disorder,Disorder,SNOMED
+4049029,Polycythemia neonatorum NOS,Disorder,SNOMED
+40648809,Polycythemia neonatorum,Disorder,SNOMED
+35210600,Polycythemia neonatorum,4-char billing code,ICD10CM
+42537678,Neonatal polycythemia due to placental insufficiency,Disorder,SNOMED
+439140,Neonatal polycythemia,Disorder,SNOMED
+4305235,Polycythemia due to donor twin transfusion,Disorder,SNOMED
+4297988,Polycythemia due to maternal-fetal transfusion,Disorder,SNOMED
+36716549,Polycythemia neonatorum following blood transfusion,Disorder,SNOMED
+36716548,Polycythemia neonatorum due to inherited disorder of erythropoietin production,Disorder,SNOMED
+4067525,Fetal OR neonatal jaundice from polycythemia,Disorder,SNOMED
+42537679,Neonatal polycythemia due to intra-uterine growth retardation,Disorder,SNOMED
+44821232,Polycythemia neonatorum,4-dig billing code,ICD9CM
+36716754,Transient neonatal neutropenia due to neonatal bacterial sepsis,Disorder,SNOMED
+4048744,Transient neonatal neutropenia NOS,Disorder,SNOMED
+44833908,Transient neonatal neutropenia,4-dig billing code,ICD9CM
+439149,Transient neonatal neutropenia,Disorder,SNOMED
+36716753,Transient neonatal neutropenia due to congenital viral infection,Disorder,SNOMED
+4171104,Neutropenia of the small for gestational age baby,Disorder,SNOMED
+35210604,Transient neonatal neutropenia,4-char billing code,ICD10CM
+4197402,Maternal transfer neutropenia,Disorder,SNOMED
+4216396,Non malignant mast cell disease,Disorder,SNOMED
+37309640,Mast cell activation syndrome,Disorder,SNOMED
+42536527,Anaphylaxis due to mast cell disorder,Disorder,SNOMED
+35211159,Congenital cutaneous mastocytosis,4-char billing code,ICD10CM
+37312136,Mast cell gastritis,Disorder,SNOMED
+4006468,Anemia caused by physical agent,Disorder,SNOMED
+439777,Anemia,Disorder,SNOMED
+4187768,Anemia due to blood loss,Disorder,SNOMED
+3557520,O/E - anaemia NOS,Disorder,SNOMED
+40354171,Anemia due to chemical agent,Disorder,SNOMED
+4042927,Anemia caused by insect venom,Disorder,SNOMED
+4031662,Anemia due to disturbance of hemoglobin synthesis,Disorder,SNOMED
+40304549,O/E - equivocally anemic,Clinical Finding,SNOMED
+3655189,No anemia present,Context-dependent,SNOMED
+44794611,[X]Aplastic and other anaemias,Disorder,SNOMED
+4098747,Anemia due to disorders of nucleotide metabolism,Disorder,SNOMED
+4280354,Nutritional anemia,Disorder,SNOMED
+4105919,Anemia caused by oxygen,Disorder,SNOMED
+35624756,Anemia due to and following chemotherapy,Disorder,SNOMED
+1340246,Exacerbation of anemia,Disorder,OMOP Extension
+1567858,Other anemias,3-char nonbill code,ICD10CM
+4260689,Anemia due to multiple mechanisms,Disorder,SNOMED
+40624900,Anemia,Disorder,SNOMED
+37158756,Anemia suspected,Context-dependent,SNOMED
+4314111,Non megaloblastic anemia due to alcoholism,Disorder,SNOMED
+3558110,Other anaemias,Disorder,SNOMED
+4121106,Microcytic anemia,Disorder,SNOMED
+4150157,Other anemias,Disorder,SNOMED
+4062587,O/E - anemia NOS,Disorder,SNOMED
+40321260,Anemia,Disorder,SNOMED
+40304551,O/E - profoundly anemic,Clinical Finding,SNOMED
+3557641,Other specified anaemia NOS,Disorder,SNOMED
+44794388,[X]Nutritional anaemias,Disorder,SNOMED
+4003185,Refractory anemia (clinical),Disorder,SNOMED
+4098761,Other and unspecified anemia,Disorder,SNOMED
+40302039,H/O: anemia NOS,Context-dependent,SNOMED
+44810002,Recurrent anaemia,Disorder,SNOMED
+4135931,Anemia of endocrine disorder,Disorder,SNOMED
+44793896,[X]Anaemia in other chronic diseases classified elsewhere,Disorder,SNOMED
+4174412,Anemia caused by copper,Disorder,SNOMED
+4009305,Anemia due to unknown or multiple mechanisms,Disorder,SNOMED
+40332688,H/O: blood disorder (& [anemia]),Context-dependent,SNOMED
+4002495,Refractory anemia with excess blasts in transformation (clinical),Disorder,SNOMED
+4077222,History of anemia,Context-dependent,SNOMED
+4278920,Anemia caused by lead,Disorder,SNOMED
+4323223,Anemia caused by medication,Disorder,SNOMED
+3557642,Other specified anaemias,Disorder,SNOMED
+4263315,Normocytic normochromic anemia,Disorder,SNOMED
+4195171,Normocytic hypochromic anemia,Disorder,SNOMED
+37111627,Central nervous system calcification, deafness, tubular acidosis, anemia syndrome,Disorder,SNOMED
+40390975,[X]Aplastic and other anemias,Disorder,SNOMED
+4122924,Anemia of renal disease,Disorder,SNOMED
+4063216,O/E - profoundly anemic,Disorder,SNOMED
+4018378,Relative anemia,Disorder,SNOMED
+4244129,Anemia due to decreased red cell production,Disorder,SNOMED
+40302035,H/O: blood disorder (& [anemia]),Context-dependent,SNOMED
+4307469,Sports anemia,Disorder,SNOMED
+37167038,Benign intracranial hypertension due to anemia,Disorder,SNOMED
+44832214,Other and unspecified anemias,3-dig nonbill code,ICD9CM
+4062928,O/E - clinically anemic,Disorder,SNOMED
+3557643,Other anaemias NOS,Disorder,SNOMED
+4150154,Anemia unspecified,Disorder,SNOMED
+4122922,Secondary anemia NOS,Disorder,SNOMED
+4148404,FH: Anemia,Context-dependent,SNOMED
+4063215,O/E - equivocally anemic,Disorder,SNOMED
+4312008,Anemia due to substance,Disorder,SNOMED
+4306199,Perinatal anemia,Disorder,SNOMED
+4121105,Normocytic anemia due to unspecified cause,Disorder,SNOMED
+4101001,Chronic anemia,Disorder,SNOMED
+4098763,Other specified anemia NOS,Disorder,SNOMED
+37174268,At increased risk of anemia,Clinical Finding,SNOMED
+40390451,Anemia: [unspecified] or [secondary NOS] or [normocytic or macrocytic of unspecified cause],Disorder,SNOMED
+4062491,Anemia screening,Procedure,SNOMED
+4098131,Myelophthisic anemia,Disorder,SNOMED
+40321702,Other anemias,Disorder,SNOMED
+44825282,Anemia, unspecified,4-dig billing code,ICD9CM
+4308125,Macrocytic anemia,Disorder,SNOMED
+40390966,[X]Other anemias due to enzyme disorders,Disorder,SNOMED
+4339722,Neonatal anemia,Disorder,SNOMED
+40304547,O/E - anemia,Clinical Finding,SNOMED
+37017132,Anemia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+42537687,Anemia due to metabolic disorder,Disorder,SNOMED
+40304553,O/E - anemia NOS,Clinical Finding,SNOMED
+35206756,Other specified anemias,4-char nonbill code,ICD10CM
+40390980,[X]Other specified anemias,Disorder,SNOMED
+4088386,Acquired Heinz body anemia,Disorder,SNOMED
+43022052,Fetal anemia,Disorder,SNOMED
+4219253,Anemia caused by arsenic hydride,Disorder,SNOMED
+4098023,Aplastic and other anemias,Disorder,SNOMED
+4223031,Anemia associated with AIDS,Disorder,SNOMED
+4114026,Normocytic anemia,Disorder,SNOMED
+40304550,O/E - clinically anemic,Clinical Finding,SNOMED
+4101002,Other specified anemias,Disorder,SNOMED
+4194519,Anemia due to unknown mechanism,Disorder,SNOMED
+40321701,Anemia unspecified,Disorder,SNOMED
+4101587,Other specified other anemia,Disorder,SNOMED
+4098146,Other anemias NOS,Disorder,SNOMED
+4019001,Regenerative anemia,Disorder,SNOMED
+4207240,Anemia due to intrinsic red cell abnormality,Disorder,SNOMED
+35206757,Anemia, unspecified,4-char billing code,ICD10CM
+44795001,[X]Other specified anaemias,Disorder,SNOMED
+4006467,Anemia due to infection,Disorder,SNOMED
+45586119,Other specified anemias,5-char billing code,ICD10CM
+4059800,H/O: anemia NOS,Context-dependent,SNOMED
+4313413,Anemia caused by chlorate,Disorder,SNOMED
+44828820,Other specified anemias,4-dig billing code,ICD9CM
+4158891,Anemia due to isoimmunization,Disorder,SNOMED
+4122923,Dilutional anemia,Disorder,SNOMED
+40390978,[X]Anemia in other chronic diseases classified elsewhere,Disorder,SNOMED
+40547761,Anemia of chronic disorder, NOS,Disorder,SNOMED
+4022198,Anemia related to disturbed DNA synthesis,Disorder,SNOMED
+44797516,[X]Other anaemias due to enzyme disorders,Disorder,SNOMED
+441258,Anemia in neoplastic disease,Disorder,SNOMED
+40288714,Erythroblastosis fetalis,Disorder,SNOMED
+4071734,Hemolytic disease of fetus and newborn due to isoimmunization NOS,Disorder,SNOMED
+4231903,Amniotic fluid analysis for hemolytic disease of the newborn,Procedure,SNOMED
+4234285,Amniotic fluid analysis for erythroblastosis fetalis,Procedure,SNOMED
+437681,Kernicterus due to isoimmunization,Disorder,SNOMED
+40533717,Hemolytic disease of fetus OR newborn,Disorder,SNOMED
+40405831,Hemolytic disease of fetus and newborn due to isoimmunization,Disorder,SNOMED
+4071072,Hemolytic disease due to isoimmunization NOS,Disorder,SNOMED
+35210580,Other hemolytic diseases of newborn,4-char billing code,ICD10CM
+40390052,(Autoimmune hemolytic anemias) or (Coombs positive hemolysis),Disorder,SNOMED
+35210581,Hemolytic disease of newborn, unspecified,4-char billing code,ICD10CM
+40321691,Autoimmune hemolytic anemia,Disorder,SNOMED
+44835076,Hemolytic disease of fetus or newborn, due to isoimmunization,3-dig nonbill code,ICD9CM
+4014482,Hemolytic disease of newborn screen,Procedure,SNOMED
+40274836,Hemolytic disease of fetus OR newborn due to isoimmunization,Disorder,SNOMED
+4173192,Atypical isoimmunization of newborn,Disorder,SNOMED
+40455443,Autoimmune hemolytic anemia,Disorder,SNOMED
+3557654,Haemolytic disease of foetus and newborn due to isoimmunisation NOS,Disorder,SNOMED
+40357687,(Hemolytic disease) or (erythroblastosis foetalis) or (jaundice - Rh. disease),Disorder,SNOMED
+4139553,Other isoimmunization of the newborn,Disorder,SNOMED
+3557726,Haemolytic disease due to isoimmunisation NOS,Disorder,SNOMED
+40362614,Hemolytic disease of fetus OR newborn,Disorder,SNOMED
+4139551,Duffy isoimmunization of the newborn,Disorder,SNOMED
+44821230,Hemolytic disease of fetus or newborn due to other and unspecified isoimmunization,4-dig billing code,ICD9CM
+1572019,Hemolytic disease of newborn,3-char nonbill code,ICD10CM
+4122929,Kell isoimmunization of the newborn,Disorder,SNOMED
+4009645,Hemolytic disease of the newborn due to non-ABO, non-Rh isoimmunization,Disorder,SNOMED
+4139552,Kidd isoimmunization of the newborn,Disorder,SNOMED
+440218,Hemolytic disease of fetus OR newborn due to isoimmunization,Disorder,SNOMED
+440367,Plasmacytosis,Disorder,SNOMED
+40390908,Plasmacytosis,Disorder,SNOMED
+45581329,Plasmacytosis,6-char billing code,ICD10CM
+44834578,Plasmacytosis,5-dig billing code,ICD9CM
+37164069,Primary cutaneous plasmacytosis,Disorder,SNOMED
+4197574,Dilutional thrombocytopenia,Disorder,SNOMED
+4101603,Thrombocytopenia due to extracorporeal circulation of blood,Disorder,SNOMED
+4098149,Other specified secondary thrombocytopenia,Disorder,SNOMED
+3557991,Other specified secondary thrombocytopenia,Disorder,SNOMED
+4146091,Secondary thrombocytopenia NOS,Disorder,SNOMED
+37110394,Isolated thrombocytopenia,Disorder,SNOMED
+4173278,Thrombocytopenia due to blood loss,Disorder,SNOMED
+4218171,Uremic thrombocytopenia,Disorder,SNOMED
+40390864,Secondary thrombocytopenia: [dilutional] or [NOS],Disorder,SNOMED
+4098148,Thrombocytopenia caused by drugs,Disorder,SNOMED
+4133981,Benign gestational thrombocytopenia,Disorder,SNOMED
+4316372,HELLP syndrome,Disorder,SNOMED
+4145458,Thrombocytopenia due to hypothermia,Disorder,SNOMED
+4147049,Thrombocytopenia due to extracorporeal circulation,Disorder,SNOMED
+4159736,Radiation thrombocytopenia,Disorder,SNOMED
+40321720,Agranulocytosis,Disorder,SNOMED
+4318382,Mucositis necroticans agranulocytica,Disorder,SNOMED
+37017282,Agranulocytosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4100228,Schultz disease,Disorder,SNOMED
+606394,Secondary agranulocytosis,Disorder,SNOMED
+4215928,Agranulocytic angina,Disorder,SNOMED
+40332444,Agranulocytosis,Clinical Finding,SNOMED
+37169796,Agranulocytosis caused by antithyroid agent,Disorder,SNOMED
+440689,Agranulocytosis,Disorder,SNOMED
+4150156,Agranulocytopenic disorder,Disorder,SNOMED
+601107,Agranulocytosis due to and following administration of antineoplastic agent,Disorder,SNOMED
+40301784,Agranulocytosis,Disorder,SNOMED
+35206704,Other folate deficiency anemias,4-char billing code,ICD10CM
+44797050,[X]Other folate deficiency anaemias,Disorder,SNOMED
+1567840,Folate deficiency anemia,3-char nonbill code,ICD10CM
+4100987,Folate deficiency anemia, drug-induced,Disorder,SNOMED
+42536531,Hereditary folate deficiency anemia,Disorder,SNOMED
+36714965,Cystic fibrosis with gastritis and megaloblastic anemia syndrome,Disorder,SNOMED
+40321266,Folate-deficient megaloblastic anemia,Disorder,SNOMED
+4143351,Folate deficiency anemia due to dietary causes,Disorder,SNOMED
+4101280,Folic acid deficiency,Disorder,SNOMED
+4098741,Folate deficiency anemia NOS,Disorder,SNOMED
+40390960,[X]Other folate deficiency anemias,Disorder,SNOMED
+4098008,Folate deficiency anemia due to malabsorption,Disorder,SNOMED
+4098009,Folate deficiency anemia due to liver disorders,Disorder,SNOMED
+44831062,Folate-deficiency anemia,4-dig billing code,ICD9CM
+35206705,Folate deficiency anemia, unspecified,4-char billing code,ICD10CM
+4098007,Congenital folate malabsorption anemia,Disorder,SNOMED
+4100962,Megaloblastic anemia due to impaired absorption of folate,Disorder,SNOMED
+40321694,Acquired hemolytic anemia NOS,Disorder,SNOMED
+40321690,Acquired hemolytic anemia,Disorder,SNOMED
+4098758,Acquired spherocytosis,Disorder,SNOMED
+35206738,Other acquired hemolytic anemias,4-char billing code,ICD10CM
+44825278,Acquired hemolytic anemias,3-dig nonbill code,ICD9CM
+4101579,Acquired hemolytic anemia NOS,Disorder,SNOMED
+44799734,[X]Other acquired haemolytic anaemias,Disorder,SNOMED
+4218100,Hemolytic anemia caused by drugs,Disorder,SNOMED
+4140545,Post infectious thrombocytopenic purpura,Disorder,SNOMED
+1567852,Acquired hemolytic anemia,3-char nonbill code,ICD10CM
+4204900,Acquired thrombotic thrombocytopenic purpura,Disorder,SNOMED
+4176884,Hemolytic anemia due to nonlymphoid neoplasm,Disorder,SNOMED
+4228444,Acquired hemolytic anemia associated with AIDS,Disorder,SNOMED
+4098759,Infantile pyknocytosis,Disorder,SNOMED
+37017285,Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40390974,[X]Other acquired hemolytic anemias,Disorder,SNOMED
+441269,Autoimmune hemolytic anemia,Disorder,SNOMED
+35206739,Acquired hemolytic anemia, unspecified,4-char billing code,ICD10CM
+44833393,Acquired hemolytic anemia, unspecified,4-dig billing code,ICD9CM
+440982,Wiskott-Aldrich syndrome,Disorder,SNOMED
+4300464,Wiskott-Aldrich autosomal dominant variant syndrome,Disorder,SNOMED
+44833389,Wiskott-aldrich syndrome,5-dig billing code,ICD9CM
+35206817,Wiskott-Aldrich syndrome,4-char billing code,ICD10CM
+4146771,Anemia in ovarian carcinoma,Disorder,SNOMED
+44825281,Anemia in neoplastic disease,5-dig billing code,ICD9CM
+45773534,Anemia in malignant neoplastic disease,Disorder,SNOMED
+35206749,Anemia in neoplastic disease,4-char billing code,ICD10CM
+4125653,Essential thrombocytopenia NOS,Disorder,SNOMED
+44826483,Primary thrombocytopenia,4-dig nonbill code,ICD9CM
+40390500,Thrombocytopenia: [primary NOS] or [essential NOS],Disorder,SNOMED
+40351354,Thrombocytopenic purpura: [primary] or [idiopathic],Disorder,SNOMED
+44819531,Other primary thrombocytopenia,5-dig billing code,ICD9CM
+44824101,Primary thrombocytopenia,unspecified,5-dig billing code,ICD9CM
+40321715,Thrombocytopenic purpura: [primary] or [idiopathic],Disorder,SNOMED
+1567864,Other primary thrombocytopenia,4-char nonbill code,ICD10CM
+45542714,Other primary thrombocytopenia,5-char billing code,ICD10CM
+607389,Lymphocyte passenger syndrome following organ transplantation,Disorder,SNOMED
+35206732,Other autoimmune hemolytic anemias,4-char nonbill code,ICD10CM
+4179385,History of autoimmune hemolytic anemia,Context-dependent,SNOMED
+4219853,Warm autoimmune hemolytic anemia,Disorder,SNOMED
+40390972,[X]Other autoimmune hemolytic anemias,Disorder,SNOMED
+4098755,Autoimmune hemolytic anemia NOS,Disorder,SNOMED
+725238,Autoimmune hemolytic anemia, unspecified,5-char billing code,ICD10CM
+4098017,Primary cold-type hemolytic anemia,Disorder,SNOMED
+4130680,Autoimmune hemolytic anemia, categorized by antibody class AND/OR complement,Disorder,SNOMED
+4131917,Paroxysmal cold hemoglobinuria,Disorder,SNOMED
+4131127,Secondary autoimmune hemolytic anemia,Disorder,SNOMED
+4160887,Cold autoimmune hemolytic anemia,Disorder,SNOMED
+44833391,Autoimmune hemolytic anemias,4-dig billing code,ICD9CM
+44795774,[X]Other autoimmune haemolytic anaemias,Disorder,SNOMED
+4098754,Secondary cold-type hemolytic anemia,Disorder,SNOMED
+725242,Other autoimmune hemolytic anemia,5-char billing code,ICD10CM
+4288455,Antibody,Substance,SNOMED
+4146936,Drug-induced autoimmune hemolytic anemia,Disorder,SNOMED
+4121112,Maternal autoimmune hemolytic anemia,Disorder,SNOMED
+37162067,Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome,Disorder,SNOMED
+4189795,Panleukopenia,Disorder,SNOMED
+42536523,Acquired lymphocytopenia,Disorder,SNOMED
+44835771,Lymphocytopenia,5-dig billing code,ICD9CM
+37162756,Combined immunodeficiency, enteropathy spectrum,Disorder,SNOMED
+45552365,Lymphocytopenia,6-char billing code,ICD10CM
+4104252,Episodic lymphocytopenia,Disorder,SNOMED
+4254663,Lymphocyte count,Procedure,SNOMED
+3661625,Lymphopenia due to infection,Disorder,SNOMED
+45576406,Sickle-cell/Hb-C disease with acute chest syndrome,6-char billing code,ICD10CM
+44819529,Sickle-cell/Hb-C disease with crisis,5-dig billing code,ICD9CM
+45561924,Sickle-cell/Hb-C disease with crisis, unspecified,6-char billing code,ICD10CM
+725218,Sickle-cell/Hb-C disease with cerebral vascular involvement,6-char billing code,ICD10CM
+45542711,Sickle-cell/Hb-C disease with crisis,5-char nonbill code,ICD10CM
+725219,Sickle-cell/Hb-C disease with crisis with other specified complication,6-char billing code,ICD10CM
+603018,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,Disorder,SNOMED
+3540961,Other blood diseases,Disorder,SNOMED
+45572835,Fetal anemia and thrombocytopenia, third trimester, fetus 1,7-char billing code,ICD10CM
+10103,Fetal anemia and thrombocytopenia, unspecified trimester,6-char nonbill code,ICD10CM
+4053378,FH: Blood disorder,Context-dependent,SNOMED
+40321725,Other blood diseases,Disorder,SNOMED
+35225351,Personal history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,4-char billing code,ICD10CM
+45563134,Fetal anemia and thrombocytopenia, third trimester, fetus 2,7-char billing code,ICD10CM
+45577622,Fetal anemia and thrombocytopenia, second trimester, other fetus,7-char billing code,ICD10CM
+44797097,[V]Personal history of blood or blood-forming organ disease,Context-dependent,SNOMED
+44826481,Aplastic anemia and other bone marrow failure syndromes,3-dig nonbill code,ICD9CM
+37166028,Pyoderma gangrenosum due to hematological disorder,Disorder,SNOMED
+4214408,Hereditary disorder of cellular element of blood,Disorder,SNOMED
+45577620,Fetal anemia and thrombocytopenia, first trimester, fetus 5,7-char billing code,ICD10CM
+45582525,Fetal anemia and thrombocytopenia, unspecified trimester, other fetus,7-char billing code,ICD10CM
+4143050,H/O: blood disorder,Context-dependent,SNOMED
+45592242,Fetal anemia and thrombocytopenia, second trimester, fetus 4,7-char billing code,ICD10CM
+1571795,Fetal anemia and thrombocytopenia,5-char nonbill code,ICD10CM
+42538682,Screening for hematological disorder,Procedure,SNOMED
+4058713,H/O: blood disorder NOS,Context-dependent,SNOMED
+45553536,Fetal anemia and thrombocytopenia, unspecified trimester, fetus 3,7-char billing code,ICD10CM
+4332151,Platelet disorder,Disorder,SNOMED
+45606603,Fetal anemia and thrombocytopenia, second trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45539164,Fetal anemia and thrombocytopenia, first trimester, fetus 3,7-char billing code,ICD10CM
+40302044,H/O: blood disorder NOS,Context-dependent,SNOMED
+4028780,Blood dyscrasia puerperal,Disorder,SNOMED
+44805379,Family history of thrombophilia,Context-dependent,SNOMED
+37017423,Disorder of cellular component of blood caused by antiretroviral drug,Disorder,SNOMED
+45543989,Fetal anemia and thrombocytopenia, third trimester, fetus 4,7-char billing code,ICD10CM
+40321259,Blood diseases,Disorder,SNOMED
+40321734,Blood diseases NOS,Disorder,SNOMED
+45582523,Fetal anemia and thrombocytopenia, first trimester, other fetus,7-char billing code,ICD10CM
+10102,Fetal anemia and thrombocytopenia, third trimester,6-char nonbill code,ICD10CM
+45572834,Fetal anemia and thrombocytopenia, second trimester, fetus 3,7-char billing code,ICD10CM
+45548779,Fetal anemia and thrombocytopenia, first trimester, fetus 4,7-char billing code,ICD10CM
+4077956,T-cell mediated cytopenia,Disorder,SNOMED
+4147496,Blood diseases NOS,Disorder,SNOMED
+45596994,Fetal anemia and thrombocytopenia, first trimester, fetus 2,7-char billing code,ICD10CM
+45577621,Fetal anemia and thrombocytopenia, second trimester, fetus 5,7-char billing code,ICD10CM
+3532200,H/O: blood disorder NOS,Context-dependent,SNOMED
+443723,Disorder of cellular component of blood,Disorder,SNOMED
+45558283,Fetal anemia and thrombocytopenia, second trimester, fetus 2,7-char billing code,ICD10CM
+45563135,Fetal anemia and thrombocytopenia, third trimester, fetus 5,7-char billing code,ICD10CM
+4058277,H/O: Failed blood donor test,Context-dependent,SNOMED
+40321703,Other blood diseases,Disorder,SNOMED
+45606604,Fetal anemia and thrombocytopenia, third trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45577623,Fetal anemia and thrombocytopenia, third trimester, other fetus,7-char billing code,ICD10CM
+10100,Fetal anemia and thrombocytopenia, first trimester,6-char nonbill code,ICD10CM
+45563133,Fetal anemia and thrombocytopenia, first trimester, fetus 1,7-char billing code,ICD10CM
+46273899,Gingivitis due to disorder of cellular component of blood,Disorder,SNOMED
+45592243,Fetal anemia and thrombocytopenia, third trimester, fetus 3,7-char billing code,ICD10CM
+45558284,Fetal anemia and thrombocytopenia, unspecified trimester, fetus 1,7-char billing code,ICD10CM
+10101,Fetal anemia and thrombocytopenia, second trimester,6-char nonbill code,ICD10CM
+4147495,Other blood diseases,Disorder,SNOMED
+40351338,Blood diseases,Disorder,SNOMED
+45582524,Fetal anemia and thrombocytopenia, unspecified trimester, fetus 4,7-char billing code,ICD10CM
+4133980,Hemolytic disorder,Disorder,SNOMED
+45534252,Fetal anemia and thrombocytopenia, unspecified trimester, not applicable or unspecified,7-char billing code,ICD10CM
+4212884,Disorder of cellular component of blood in newborn,Disorder,SNOMED
+45553537,Fetal anemia and thrombocytopenia, unspecified trimester, fetus 5,7-char billing code,ICD10CM
+45606605,Fetal anemia and thrombocytopenia, unspecified trimester, fetus 2,7-char billing code,ICD10CM
+45567953,Fetal anemia and thrombocytopenia, second trimester, fetus 1,7-char billing code,ICD10CM
+606937,Glomerular disease due to hematological disease,Disorder,SNOMED
+45548778,Fetal anemia and thrombocytopenia, first trimester, not applicable or unspecified,7-char billing code,ICD10CM
+44835766,Sickle-cell/Hb-C disease without crisis,5-dig billing code,ICD9CM
+45542710,Sickle-cell/Hb-C disease without crisis,5-char billing code,ICD10CM
+725223,Sickle-cell thalassemia beta zero with crisis,5-char nonbill code,ICD10CM
+725228,Sickle-cell thalassemia beta zero with crisis, unspecified,6-char billing code,ICD10CM
+725226,Sickle-cell thalassemia beta zero with cerebral vascular involvement,6-char billing code,ICD10CM
+725235,Sickle-cell thalassemia beta plus with crisis, unspecified,6-char billing code,ICD10CM
+725230,Sickle-cell thalassemia beta plus with crisis,5-char nonbill code,ICD10CM
+725234,Sickle-cell thalassemia beta plus with crisis with other specified complication,6-char billing code,ICD10CM
+1567848,Sickle-cell thalassemia, unspecified, with crisis,5-char nonbill code,ICD10CM
+725227,Sickle-cell thalassemia beta zero with crisis with other specified complication,6-char billing code,ICD10CM
+725220,Sickle-cell thalassemia, unspecified, with cerebral vascular involvement,6-char billing code,ICD10CM
+725221,Sickle-cell thalassemia, unspecified, with crisis with other specified complication,6-char billing code,ICD10CM
+607430,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,Disorder,SNOMED
+44824096,Sickle-cell thalassemia with crisis,5-dig billing code,ICD9CM
+725217,Hb-SS disease with crisis with other specified complication,5-char billing code,ICD10CM
+45566702,Sickle-cell thalassemia, unspecified, with crisis,6-char billing code,ICD10CM
+45586115,Sickle-cell thalassemia, unspecified, with acute chest syndrome,6-char billing code,ICD10CM
+40390443,Anemia secondary to chronic renal failure,Disorder,SNOMED
+42872405,Anemia, pre-end stage renal disease on erythropoietin protocol,Disorder,SNOMED
+443961,Anemia of chronic renal failure,Disorder,SNOMED
+198185,Chronic renal failure,Disorder,SNOMED
+4265915,HNSHA due to diphosphoglycerate mutase deficiency,Disorder,SNOMED
+4104541,Anemia due to pentose phosphate pathway defect,Disorder,SNOMED
+4193514,HNSHA due to decreased adenosine deaminase activity,Disorder,SNOMED
+4242111,HNSHA due to phosphoglycerate kinase deficiency,Disorder,SNOMED
+4145277,HNSHA due to pyrimidine-5'-nucleotidase deficiency,Disorder,SNOMED
+4258685,HNSHA due to triosephosphate isomerase deficiency,Disorder,SNOMED
+4269764,Glucose-6-phosphate dehydrogenase deficiency anemia,Disorder,SNOMED
+766343,Anemia due to other disorders of glycolytic enzymes,5-char billing code,ICD10CM
+4009788,HNSHA due to glutathione synthetase deficiency,Disorder,SNOMED
+4178731,HNSHA due to glutathione reductase deficiency,Disorder,SNOMED
+35206715,Other anemias due to enzyme disorders,4-char billing code,ICD10CM
+442575,Enzymopathy,Disorder,SNOMED
+4187034,HNSHA due to phosphofructokinase deficiency,Disorder,SNOMED
+4101917,HNSHA due to gamma glutamyl cysteine synthetase deficiency,Disorder,SNOMED
+4009787,HNSHA due to aldolase A deficiency,Disorder,SNOMED
+606950,Hemolytic anemia due to red cell enolase deficiency,Disorder,SNOMED
+606948,Hemolytic anemia due to glyceraldehyde-3-phosphate dehydrogenase deficiency,Disorder,SNOMED
+4254249,HNSHA (hereditary nonspherocytic hemolytic anemia) due to pyruvate kinase deficiency,Disorder,SNOMED
+4035974,Drug-induced enzyme deficiency anemia,Disorder,SNOMED
+44821804,Other hemolytic anemias due to enzyme deficiency,4-dig billing code,ICD9CM
+4181143,HNSHA due to glucose phosphate isomerase deficiency,Disorder,SNOMED
+40389994,Amino acid deficiency anemia,Disorder,SNOMED
+44835765,Protein-deficiency anemia,4-dig billing code,ICD9CM
+4157389,Protein deficiency disease,Disorder,SNOMED
+35206706,Protein deficiency anemia,4-char billing code,ICD10CM
+3557794,Protein-deficiency anaemia NOS,Disorder,SNOMED
+4098010,Protein-deficiency anemia NOS,Disorder,SNOMED
+4145119,Heart valve replacement,Procedure,SNOMED
+601066,Pancytopenia caused by antithyroid drug,Disorder,SNOMED
+4302787,Antithyroid agent,Substance,SNOMED
+4114692,Anticonvulsant,Substance,SNOMED
+601067,Pancytopenia caused by anticonvulsant,Disorder,SNOMED
+4181511,Administration of antineoplastic agent,Procedure,SNOMED
+601114,Anemia due to enzymopathy,Disorder,SNOMED
+35206716,Anemia due to enzyme disorder, unspecified,4-char billing code,ICD10CM
+35206713,Anemia due to disorders of glycolytic enzymes,4-char nonbill code,ICD10CM
+37110727,Nonspherocytic hemolytic anemia due to deficiency of adenosinetriphosphatase,Disorder,SNOMED
+35624317,Hemolytic anemia due to adenylate kinase deficiency,Disorder,SNOMED
+1567842,Anemia due to enzyme disorders,3-char nonbill code,ICD10CM
+443614,Chronic kidney disease stage 1,Disorder,SNOMED
+602143,Anemia due to chronic kidney disease stage 1,Disorder,SNOMED
+602959,Bullous diffuse cutaneous mastocytosis,Disorder,SNOMED
+602960,Hemoglobin Paksé disease,Disorder,SNOMED
+434621,Autoimmune disease,Disorder,SNOMED
+603011,Vitamin B12 deficiency anemia following total gastrectomy,Disorder,SNOMED
+4274025,Disease,Disorder,SNOMED
+37204312,Acquired hemophagocytic lymphohistiocytosis associated with malignant disease,Disorder,SNOMED
+4098617,Hemophagocytic lymphohistiocytosis due to infection,Disorder,SNOMED
+603020,Secondary hemophagocytic lymphohistiocytosis,Disorder,SNOMED
+603150,Macrophage activation syndrome due to juvenile systemic onset arthritis,Disorder,SNOMED
+4302666,Body temperature,Observable Entity,SNOMED
+4116447,Systemic onset juvenile chronic arthritis,Disorder,SNOMED
+37200024,Idiopathic mast cell activation syndrome,5-char billing code,ICD10CM
+603322,Idiopathic mast cell activation syndrome,Disorder,SNOMED
+604243,Acquired neutropenia,Disorder,SNOMED
+4030442,Chronic benign neutropenia of childhood,Disorder,SNOMED
+37205095,Adult chronic idiopathic neutropenia,Disorder,SNOMED
+4101126,Acquired neutropenia in newborn,Disorder,SNOMED
+4030703,Alloimmune neonatal neutropenia,Disorder,SNOMED
+42539535,Acquired neutropenia,Clinical Finding,SNOMED
+604245,Benign ethnic neutropenia,Disorder,SNOMED
+42536512,Constitutional neutropenia,Clinical Finding,SNOMED
+604666,B cell lymphocyte aplasia caused by drug,Disorder,SNOMED
+4041971,B lymphocyte count,Procedure,SNOMED
+605090,Severe deficiency of glucose-6-phosphate dehydrogenase,Disorder,SNOMED
+4090739,Nutritional disorder,Disorder,SNOMED
+606065,Congenital megaloblastic anemia due to transcobalamin II deficiency,Disorder,SNOMED
+4029726,Transcobalamin II deficiency,Disorder,SNOMED
+606652,Deficiency of glucose-6-phosphate dehydrogenase with normal enzyme activity,Disorder,SNOMED
+194992,Celiac disease,Disorder,SNOMED
+4050144,Deficiency of glyceraldehyde-3-phosphate dehydrogenase,Disorder,SNOMED
+4052587,Deficiency of enolase,Disorder,SNOMED
+606952,Hemoglobin Seal Rock disease,Disorder,SNOMED
+1246708,Hemoglobin C beta zero thalassemia,Disorder,SNOMED
+606961,Hemoglobin C beta thalassemia,Disorder,SNOMED
+1246707,Hemoglobin C beta plus thalassemia,Disorder,SNOMED
+607378,Relative polycythemia due to acute loss of plasma volume,Disorder,SNOMED
+607379,Relative polycythemia due to chronic loss of plasma volume,Disorder,SNOMED
+607380,Pseudoxanthomatous nodular cutaneous mastocytosis,Disorder,SNOMED
+607385,Primary familial polycythemia due to erythropoietin receptor mutation,Disorder,SNOMED
+603281,VITT - vaccine-induced immune thrombotic thrombocytopenia,Disorder,SNOMED
+608022,Vaccine-induced prothrombotic immune thrombocytopenia,Disorder,SNOMED
+608088,X-linked thrombocytopenia with normal platelets,Disorder,SNOMED
+608596,Anemia caused by antineoplastic agent,Disorder,SNOMED
+36713112,Pancytopenia due to antineoplastic chemotherapy,Disorder,SNOMED
+37016151,Aplastic anemia caused by antineoplastic agent,Disorder,SNOMED
+4159470,Antineoplastic agent,Substance,SNOMED
+618728,Moderate deficiency of glucose-6-phosphate dehydrogenase,Disorder,SNOMED
+760844,Homozygous hemoglobin H constant spring thalassemia,Disorder,SNOMED
+760845,Hemoglobin C/beta thalassemia disease,Disorder,SNOMED
+765176,Hemoglobin D/beta thalassemia disease,Disorder,SNOMED
+45772084,Iron deficiency anemia in mother complicating childbirth,Disorder,SNOMED
+1244473,Iron deficiency anemia during maternal intrapartum period,Disorder,SNOMED
+1244690,Infection-associated macrophage activation syndrome,Disorder,SNOMED
+1244954,Atypical hemolytic uremic syndrome with anti-factor H antibodies,Disorder,SNOMED
+1244936,Atypical hemolytic uremic syndrome with complement gene abnormality,Disorder,SNOMED
+4125818,Complement regulatory factor defect,Disorder,SNOMED
+1245854,Delta beta thalassemia trait,Disorder,SNOMED
+1245886,Congenital cutaneous mastocytosis,Disorder,SNOMED
+1246248,Pancytopenia caused by colchicine,Disorder,SNOMED
+4305902,Colchicine,Substance,SNOMED
+1246249,Pancytopenia caused by non-steroidal anti-inflammatory agent,Disorder,SNOMED
+4156857,Non-steroidal anti-inflammatory agent,Substance,SNOMED
+1246709,Hemoglobin D beta plus thalassemia,Disorder,SNOMED
+1246710,Hemoglobin D beta zero thalassemia,Disorder,SNOMED
+1246711,Hemoglobin E beta plus thalassemia,Disorder,SNOMED
+3657472,HbE (haemoglobin E) beta plus thalassaemia,Disorder,SNOMED
+3657471,HbE (haemoglobin E) beta zero thalassaemia,Disorder,SNOMED
+1246712,Hemoglobin E beta zero thalassemia,Disorder,SNOMED
+3661511,Down syndrome co-occurrent with leukemoid reaction associated transient neonatal pustulosis,Disorder,SNOMED
+3661596,Eosinophilia due to infectious disease,Disorder,SNOMED
+3661597,Eosinopenia due to infectious disease,Disorder,SNOMED
+4182421,Primaquine,Substance,SNOMED
+3661631,Lymphocytopenia due to COVID-19,Disorder,SNOMED
+4049434,Deficiency of dihydrofolate reductase,Disorder,SNOMED
+37311061,COVID-19,Disorder,SNOMED
+4000065,Drug-induced immune thrombocytopenia,Disorder,SNOMED
+35206668,Refractory anemia with ring sideroblasts,4-char billing code,ICD10CM
+40367584,Refractory anemia with ringed sideroblasts,Disorder,SNOMED
+40390330,Refractory anemia with sideroblasts,Disorder,SNOMED
+36715052,Attenuated Chédiak-Higashi syndrome,Disorder,SNOMED
+40388140,Chediak-Higashi syndrome,Disorder,SNOMED
+4006317,Chédiak-Higashi syndrome,Disorder,SNOMED
+40288716,Chediak-Higashi syndrome,Disorder,SNOMED
+45542761,Chediak-Higashi syndrome,6-char billing code,ICD10CM
+46271357,Periodontitis co-occurrent with Chédiak-Higashi syndrome,Disorder,SNOMED
+40498041,Anemia of infection,Disorder,SNOMED
+4130193,Cold agglutinin disease due to and following Epstein-Barr virus infection,Disorder,SNOMED
+4101583,Aplastic anemia due to infection,Disorder,SNOMED
+4223896,Mycoplasmal anemia,Disorder,SNOMED
+4302764,Physical force,Physical Force,SNOMED
+4319914,Anemia due to radiation,Disorder,SNOMED
+4185253,Anemia caused by heat,Disorder,SNOMED
+4232037,De Vaal's syndrome,Disorder,SNOMED
+4230679,Reticular dysgenesis with congenital aleukocytosis,Disorder,SNOMED
+4007461,Basophilic hyperplasia,Disorder,SNOMED
+36674519,Primary CD59 deficiency,Disorder,SNOMED
+4008700,Neutropenia associated with autoimmune disease,Disorder,SNOMED
+4009304,Beta zero thalassemia non deletion type,Disorder,SNOMED
+4009306,Anemia due to copper deficiency,Disorder,SNOMED
+4024266,Hypocupremia,Disorder,SNOMED
+40291261,Hemolytic disease due to other isoimmunization, NEC,Disorder,SNOMED
+4009723,Reactive mastocytosis,Disorder,SNOMED
+4009784,Congenital atransferrinemia,Disorder,SNOMED
+4009786,Acquired stomatocytosis,Disorder,SNOMED
+4053310,Deficiency of glutathione synthase,Disorder,SNOMED
+4303664,Niacin deficiency,Disorder,SNOMED
+4021466,Severe hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin,Disorder,SNOMED
+4054551,Neutrophil cytomatrix disorder,Disorder,SNOMED
+4123097,Neutrophil lactoferrin deficiency,Disorder,SNOMED
+37162782,Functional disorder of polymorphonuclear neutrophil,Disorder,SNOMED
+40486779,Qualitative abnormality of granulocyte,Disorder,SNOMED
+4300113,Heritable disorder of neutrophil production,Disorder,SNOMED
+42536516,Acquired disorder of neutrophil function,Disorder,SNOMED
+4300478,Chronic granulomatous disease,Disorder,SNOMED
+4221240,Congenital neutrophil actin dysfunction,Disorder,SNOMED
+4023314,Quantitative abnormality of granulocytes,Disorder,SNOMED
+42536517,Disorder of neutrophil adhesion,Disorder,SNOMED
+4147906,Neutrophil motility disorder,Disorder,SNOMED
+4294303,Heritable disorder of neutrophil function,Disorder,SNOMED
+4290541,Pseudoneutrophilia,Disorder,SNOMED
+4023313,Quantitative disorder of neutrophils,Disorder,SNOMED
+4323972,Plasma cell hyperplasia of bone marrow,Disorder,SNOMED
+4086265,Persistent lymphocytosis,Disorder,SNOMED
+4061402,Mononucleosis syndrome,Disorder,SNOMED
+4098749,Alpha trait thalassemia,Disorder,SNOMED
+4101576,Thalassemia minor NEC,Disorder,SNOMED
+40625267,Thalassemia minor,Disorder,SNOMED
+4149681,Beta thalassemia trait,Disorder,SNOMED
+3557564,Thalassaemia minor NEC,Disorder,SNOMED
+35206720,Thalassemia minor,4-char billing code,ICD10CM
+44831064,Thalassemia minor,5-dig billing code,ICD9CM
+40390028,Beta thalassemia trait,Disorder,SNOMED
+4024671,Paroxysmal nocturnal hemoglobinuria,Disorder,SNOMED
+40481388,Thrombophilia due to paroxysmal nocturnal hemoglobinuria,Disorder,SNOMED
+37165201,Occlusion of microvasculature of skin due to platelet thrombus associated with paroxysmal nocturnal hemoglobinuria,Disorder,SNOMED
+35206736,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],4-char billing code,ICD10CM
+40351345,Hemoglobinuria: [external cause] or [hemolytic] or [paroxysmal nocturnal],Disorder,SNOMED
+40321693,Hemoglobinuria: [external cause] or [hemolytic] or [paroxysmal nocturnal],Disorder,SNOMED
+4027374,Alloimmune platelet transfusion refractoriness,Disorder,SNOMED
+4027375,Scott syndrome,Disorder,SNOMED
+36713635,White platelet syndrome,Disorder,SNOMED
+4134437,Mixed alpha granule and dense body deficiency,Disorder,SNOMED
+4027376,Platelet storage pool defect,Disorder,SNOMED
+4197685,Gray platelet syndrome,Disorder,SNOMED
+4121132,Dense body defect,Disorder,SNOMED
+4027378,Platelet factor V deficiency (factor V Quebec),Disorder,SNOMED
+4028065,Primary ITP (immune thrombocytopenia),Disorder,SNOMED
+4133983,Secondary autoimmune thrombocytopenia,Disorder,SNOMED
+4172999,Autoimmune neonatal thrombocytopenia,Disorder,SNOMED
+4102469,Acute idiopathic thrombocytopenic purpura,Disorder,SNOMED
+4230266,Autoimmune thrombotic thrombocytopenic purpura,Disorder,SNOMED
+4137430,Idiopathic thrombocytopenic purpura,Disorder,SNOMED
+40359195,Autoimmune thrombocytopenia,Disorder,SNOMED
+40295413,Acquired thrombocytopathy,Disorder,SNOMED
+4069584,Platelet dysfunction caused by aspirin,Disorder,SNOMED
+4222080,Platelet dysfunction associated with uremia,Disorder,SNOMED
+4189319,Platelet dysfunction due to drugs,Disorder,SNOMED
+4028075,B lymphocyte disorder,Disorder,SNOMED
+40393982,Puerperal: [other complications NOS] or [blood dyscrasia],Disorder,SNOMED
+37169699,Postpartum hemolysis-elevated liver enzymes-low platelet count syndrome,Disorder,SNOMED
+4030443,Chronic hypoplastic neutropenia,Disorder,SNOMED
+4030445,Acquired PF-3 disease,Disorder,SNOMED
+4041973,Granulocyte count,Procedure,SNOMED
+4030593,Benign granulocytopenia in childhood,Disorder,SNOMED
+4213893,Achlorhydric anemia,Disorder,SNOMED
+4234087,Hypersensitivity reaction mediated by antibody,Disorder,SNOMED
+4031699,Humoral immunologic aplastic anemia,Disorder,SNOMED
+4031725,Hereditary neutrophilia,Disorder,SNOMED
+37204308,Hereditary cryohydrocytosis with reduced stomatin,Disorder,SNOMED
+4031827,Hereditary stomatocytosis,Disorder,SNOMED
+36676579,Hereditary cryohydrocytosis with normal stomatin,Disorder,SNOMED
+4032006,Dimorphic anemia,Disorder,SNOMED
+4082209,Oxygen,Substance,SNOMED
+4032354,Adult G6PD deficiency of leukocytes syndrome,Disorder,SNOMED
+4033929,Eosinophilic cellulitis,Disorder,SNOMED
+40397888,Eosinophilic cellulitis,Disorder,SNOMED
+35208718,Eosinophilic cellulitis [Wells],4-char billing code,ICD10CM
+4034180,Hereditary acanthocytosis,Disorder,SNOMED
+4097680,Chorea acanthocytosis syndrome,Disorder,SNOMED
+37110098,McLeod neuroacanthocytosis syndrome,Disorder,SNOMED
+37204336,Genetic disease,Disorder,SNOMED
+4186287,Hearing,Observable Entity,SNOMED
+4034963,Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness,Disorder,SNOMED
+4035032,Granulocyte abnormality due to immune defect,Disorder,SNOMED
+4035266,Glutathione synthase deficiency without 5-oxoprolinuria,Disorder,SNOMED
+40542387,Glutathione synthase deficiency without 5-oxoprolinuria,Disorder,SNOMED
+40389983,Anemia: [folate-deficiency or megaloblastic due to dietary causes] or [goat's milk],Disorder,SNOMED
+4308447,Goat's milk,Substance,SNOMED
+40390012,Drug-induced enzyme deficiency anemia,Disorder,SNOMED
+4035988,beta+ Thalassemia normal Hb A-2 type 2,Disorder,SNOMED
+44822957,Delta-beta thalassemia,5-dig billing code,ICD9CM
+4052711,Epsilon gamma delta beta thalassemia,Disorder,SNOMED
+4038772,Delta beta thalassemia,Disorder,SNOMED
+4297017,Delta beta zero thalassemia,Disorder,SNOMED
+35206719,Delta-beta thalassemia,4-char billing code,ICD10CM
+40390032,Delta-beta thalassemia,Disorder,SNOMED
+4143167,Autoimmune hemolytic anemia caused by immunoglobulin A plus complement,Disorder,SNOMED
+4269919,Autoimmune hemolytic anemia caused by immunoglobulin G plus complement,Disorder,SNOMED
+4039536,Autoimmune hemolytic anemia caused by complement,Disorder,SNOMED
+4267282,Delta zero thalassemia,Disorder,SNOMED
+4091698,Insect venom,Substance,SNOMED
+4044728,Thiamine-responsive megaloblastic anemia,Disorder,SNOMED
+4050620,Deficiency of glucose-6-phosphate dehydrogenase,Disorder,SNOMED
+4046563,G-6-PD class I variant anemia,Disorder,SNOMED
+37310316,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with compound heterozygous haemoglobin variant of unknown clinical significance,Context-dependent,SNOMED
+37310317,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with compound heterozygous haemoglobin variant not clinically significant,Context-dependent,SNOMED
+37310323,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with heterozygous haemoglobin variant clinically significant,Context-dependent,SNOMED
+4262394,Hemoglobin E trait,Disorder,SNOMED
+37310325,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with heterozygous haemoglobin variant of unknown clinical significance,Context-dependent,SNOMED
+4047524,Heterozygous hemoglobinopathy,Disorder,SNOMED
+37310324,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with heterozygous haemoglobin variant not clinically significant,Context-dependent,SNOMED
+40484201,Hemoglobin O-Arab trait,Disorder,SNOMED
+37310318,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with compound heterozygous haemoglobin variant clinically significant,Context-dependent,SNOMED
+4296149,Hemoglobin C trait,Disorder,SNOMED
+4252396,Hemoglobin D trait,Disorder,SNOMED
+37310320,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with homozygous haemoglobin variant not clinically significant,Context-dependent,SNOMED
+4048205,Homozygous hemoglobinopathy,Disorder,SNOMED
+37310321,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with homozygous haemoglobin variant clinically significant,Context-dependent,SNOMED
+35626024,Vaso-occlusive pain episode in sickle cell disease,Disorder,SNOMED
+37310319,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with homozygous haemoglobin variant of unknown clinical significance,Context-dependent,SNOMED
+4130190,Sickle cell-Hemoglobin O Arab disease,Disorder,SNOMED
+4049095,Double heterozygous sickling disorder,Disorder,SNOMED
+4103763,Sickle cell-hemoglobin D disease,Disorder,SNOMED
+606969,Glomerular disease due to double heterozygous sickling disorder,Disorder,SNOMED
+4131126,Sickle cell-hemoglobin Lepore disease,Disorder,SNOMED
+606962,Gouty arthropathy due to double heterozygous sickling disorder,Disorder,SNOMED
+4264046,Sickle cell-hemoglobin E disease,Disorder,SNOMED
+4242198,Benign neoplasm of blood vessel of head,Disorder,SNOMED
+4049579,Deficiency of hexokinase,Disorder,SNOMED
+4050151,Deficiency of glutathione reductase (NAD(P)H),Disorder,SNOMED
+1553744,Glucose-6-phosphate dehydrogenase (G6PD) deficiency without anemia,4-char billing code,ICD10CM
+4048290,Neonatal jaundice due to glucose-6-phosphate dehydrogenase deficiency,Clinical Finding,SNOMED
+4144077,G-6-PD class II variant anemia,Disorder,SNOMED
+4214023,G-6-PD class V variant anemia,Disorder,SNOMED
+4079181,G-6-PD class III variant anemia,Disorder,SNOMED
+4098744,Favism,Disorder,SNOMED
+4336555,G-6-PD variant enzyme deficiency anemia,Disorder,SNOMED
+4219359,G-6-PD class IV variant anemia,Disorder,SNOMED
+40321207,(Other amino acid/carbohydrate) or (albinism) or (cystinuria) or (glucose-6-phosphate dehydrogenase deficiency) or (galactosemia) or (glycogen storage disease) or (Von Gierke's disease),Disorder,SNOMED
+4125635,Autoimmune neutropenia,Disorder,SNOMED
+4301874,Erythrocytosis due to pulmonary disease,Disorder,SNOMED
+4151360,Erythrocytosis due to cardiovascular disease,Disorder,SNOMED
+4093608,Erythrocytosis caused by low atmospheric pressure,Disorder,SNOMED
+4234995,Erythrocytosis due to defective oxygen transport,Disorder,SNOMED
+4249398,Erythrocytosis due to alveolar hypoventilation,Disorder,SNOMED
+4060269,X chromosome-linked pyridoxine refractory sideroblastic anemia,Disorder,SNOMED
+4213820,HPFH A gamma beta+ thalassemia,Disorder,SNOMED
+4206913,HPFH nondeletion type,Disorder,SNOMED
+4140101,HPFH unlinked to beta-globulin gene cluster,Disorder,SNOMED
+4311673,HPFH deletion type,Disorder,SNOMED
+4264017,Hereditary persistence of fetal hemoglobin G gamma beta plus thalassemia,Disorder,SNOMED
+4203904,Hereditary persistence of fetal hemoglobin delta beta plus thalassemia,Disorder,SNOMED
+4231453,HPFH linked to beta-globulin gene cluster,Disorder,SNOMED
+4063010,Chronic granulomatous disease, type IV,Disorder,SNOMED
+4306886,Aspirin,Substance,SNOMED
+4071073,Late anemia of newborn due to isoimmunization,Disorder,SNOMED
+44831576,Late anemia of fetus or newborn due to isoimmunization,4-dig billing code,ICD9CM
+4071444,Anemia of thyroid dysfunction,Disorder,SNOMED
+141253,Disorder of thyroid gland,Disorder,SNOMED
+4144191,Basophilic leukemia,Disorder,SNOMED
+4220833,Reactive immunoproliferative disease,Disorder,SNOMED
+36683266,Classic mast cell leukemia,Disorder,SNOMED
+4081520,Alcoholic macrocytosis,Disorder,SNOMED
+4302633,Ethanol,Substance,SNOMED
+4208951,Ingestible alcohol,Substance,SNOMED
+40396477,Tropical eosinophilia,Disorder,SNOMED
+4081994,Tropical pulmonary eosinophilia,Disorder,SNOMED
+40598412,Tropical eosinophilia,Disorder,SNOMED
+4026675,Superfamily Filarioidea,Organism,SNOMED
+4082917,Drug-induced immune hemolytic anemia, immune complex type,Disorder,SNOMED
+4084639,Idiopathic anaphylaxis,Disorder,SNOMED
+4085181,Familial neutropenia,Disorder,SNOMED
+40604177,Chronic idiopathic neutropenia,Disorder,SNOMED
+46272544,Periodontitis co-occurrent with familial neutropenia,Disorder,SNOMED
+4146056,Babesia,Organism,SNOMED
+4085853,Hemolytic anemia due to babesiosis,Disorder,SNOMED
+439730,Babesiosis,Disorder,SNOMED
+35622391,Persistent polyclonal B-cell lymphocytosis,Disorder,SNOMED
+4020630,Bacteria antigen,Substance,SNOMED
+4203927,Vitamin E deficiency,Disorder,SNOMED
+4093513,Myelokathexis,Disorder,SNOMED
+4093515,Mild hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin,Disorder,SNOMED
+4227600,High altitude,Physical Force,SNOMED
+4094597,Hemoglobin E disease,Disorder,SNOMED
+4120455,Hemoglobin E/beta thalassemia disease,Disorder,SNOMED
+37109466,Family history of hemoglobinopathy E,Context-dependent,SNOMED
+40390877,Idiopathic: [agranulocytosis] or [neutropenia],Disorder,SNOMED
+40431870,Chronic idiopathic neutropenia,Disorder,SNOMED
+4095623,Chronic idiopathic neutropenia,Disorder,SNOMED
+40351323,Chronic idiopathic neutropaenia,Disorder,SNOMED
+4095849,Chronic granulomatous disease, type IIA,Disorder,SNOMED
+35206697,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,4-char billing code,ICD10CM
+4097214,Congenital dyserythropoietic anemia, type III,Disorder,SNOMED
+4032243,Dialysis procedure,Procedure,SNOMED
+4097961,Acute megaloblastic anemia due to dialysis,Disorder,SNOMED
+35206808,Severe combined immunodeficiency [SCID] with reticular dysgenesis,4-char billing code,ICD10CM
+4098015,Hereditary persistence of fetal hemoglobin,Disorder,SNOMED
+37204550,Hereditary persistence of fetal hemoglobin with sickle cell disease syndrome,Disorder,SNOMED
+35206721,Hereditary persistence of fetal hemoglobin [HPFH],4-char billing code,ICD10CM
+40501065,Aplastic anemia secondary to radiation,Disorder,SNOMED
+444128,Exposure to ionizing radiation,Event,SNOMED
+4054326,Ionizing radiation,Physical Force,SNOMED
+35206741,Transient acquired pure red cell aplasia,4-char billing code,ICD10CM
+35206746,Idiopathic aplastic anemia,4-char billing code,ICD10CM
+37018663,Thrombocytopenia co-occurrent and due to alcoholism,Disorder,SNOMED
+44782445,Thrombocytopenia caused by alcohol,Disorder,SNOMED
+4098151,Polycythemia due to cyanotic respiratory disease,Disorder,SNOMED
+40625027,Infection-associated hemophagocytic syndrome,Disorder,SNOMED
+35206795,Hemophagocytic syndrome, infection-associated,4-char billing code,ICD10CM
+4098627,Idiopathic hypochromic anemia,Disorder,SNOMED
+40630134,Vicia faba poisoning,Disorder,SNOMED
+35206714,Anemia due to disorders of nucleotide metabolism,4-char billing code,ICD10CM
+40321274,Alpha thalassemia trait,Disorder,SNOMED
+46270580,Family history of alpha thalassemia,Context-dependent,SNOMED
+40431449,Alpha thalassemia trait,Disorder,SNOMED
+4130679,Primary (idiopathic) warm autoimmune hemolytic anemia,Disorder,SNOMED
+4098753,Primary warm-type hemolytic anemia,Disorder,SNOMED
+4266755,Red blood cell morphology,Observable Entity,SNOMED
+4098760,Transient hypoplastic anemia,Disorder,SNOMED
+36716162,Severe combined immunodeficiency with hypereosinophilia,Disorder,SNOMED
+4098893,Hereditary eosinophilia,Disorder,SNOMED
+4099005,Beta zero thalassemia deletion type,Disorder,SNOMED
+4168441,Hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin,Disorder,SNOMED
+4298813,Severe hereditary spherocytosis due to spectrin deficiency,Disorder,SNOMED
+4138560,Mild hereditary spherocytosis due to spectrin deficiency,Disorder,SNOMED
+45582591,Anemia complicating pregnancy, third trimester,6-char billing code,ICD10CM
+45539222,Anemia complicating pregnancy, second trimester,6-char billing code,ICD10CM
+44829115,Anemia of mother, postpartum condition or complication,5-dig billing code,ICD9CM
+1571925,Anemia complicating pregnancy,5-char nonbill code,ICD10CM
+45568004,Anemia complicating pregnancy, first trimester,6-char billing code,ICD10CM
+45606669,Anemia complicating pregnancy, unspecified trimester,6-char billing code,ICD10CM
+4238731,Megaloblastic anemia due to pregnancy,Disorder,SNOMED
+4100240,Drug-induced eosinophilia,Disorder,SNOMED
+4221567,Megaloblastic anemia due to disease of small intestine,Disorder,SNOMED
+40605005,Drug-induced folate deficiency anemia,Disorder,SNOMED
+4125631,Triose phosphate isomerase deficiency,Disorder,SNOMED
+4100992,Beta thalassemia intermedia,Disorder,SNOMED
+40600609,Aplastic anemia secondary to chemicals,Disorder,SNOMED
+4160238,Simple chronic anemia,Disorder,SNOMED
+37019193,Anemia co-occurrent and due to chronic kidney disease stage 3,Disorder,SNOMED
+45768813,Anemia in end stage renal disease,Disorder,SNOMED
+4183718,Pericarditis associated with severe chronic anemia,Disorder,SNOMED
+45766392,Majeed syndrome,Disorder,SNOMED
+4101125,Primary splenic neutropenia,Disorder,SNOMED
+40602312,Combined B-12 AND folate deficiency anemia,Disorder,SNOMED
+35206708,Scorbutic anemia,4-char billing code,ICD10CM
+439787,Ascorbic acid deficiency,Disorder,SNOMED
+40619968,Anemia due to vitamin C deficiency,Disorder,SNOMED
+4101578,Secondary warm-type hemolytic anemia,Disorder,SNOMED
+40617529,Aplastic anemia secondary to chronic systemic disease,Disorder,SNOMED
+40640807,Aplastic anemia secondary to infection,Disorder,SNOMED
+4184982,Aplastic anemia associated with infection,Disorder,SNOMED
+4345236,Parvoviral aplastic crisis,Disorder,SNOMED
+4101584,Secondary sideroblastic anemia due to disease,Disorder,SNOMED
+35206752,Secondary sideroblastic anemia due to disease,4-char billing code,ICD10CM
+4281620,Glutamate-cysteine ligase deficiency,Disorder,SNOMED
+4102056,X chromosome-linked pyridoxine responsive sideroblastic anemia,Disorder,SNOMED
+4103122,Polycythemia due to cyanotic heart disease,Disorder,SNOMED
+4120621,Immune thrombocytopenic purpura,Disorder,SNOMED
+40479556,History of immune thrombocytopenia,Context-dependent,SNOMED
+4226905,Thrombocytopenia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+36716406,Severe fever with thrombocytopenia syndrome,Disorder,SNOMED
+4133984,Alloimmune thrombocytopenia,Disorder,SNOMED
+35206770,Immune thrombocytopenic purpura,4-char billing code,ICD10CM
+44834576,Immune thrombocytopenic purpura,5-dig billing code,ICD9CM
+4166099,Sickle cell-hemoglobin D disease without crisis,Disorder,SNOMED
+4167364,Sickle cell-hemoglobin D disease with crisis,Disorder,SNOMED
+37310721,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SD (sickle cell-haemoglobin D) disease,Context-dependent,SNOMED
+40390945,Idiopathic erythrocytosis,Disorder,SNOMED
+4112805,Idiopathic erythrocytosis,Disorder,SNOMED
+4113376,Intravascular hemolysis following abortive pregnancy,Disorder,SNOMED
+37165066,CAD-CDG - carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase congenital disorder of glycosylation,Disorder,SNOMED
+4120448,Normocytic anemia due to aplasia,Disorder,SNOMED
+4203291,Hemolytic anemia due to erythrocyte adenosine deaminase overproduction,Disorder,SNOMED
+40508858,HNSHA,Disorder,SNOMED
+40639002,Congenital nonspherocytic hemolytic anemia,Disorder,SNOMED
+4178677,Congenital nonspherocytic hemolytic anemia due to inborn error of metabolism,Disorder,SNOMED
+4150155,Primary thrombocytopenia NOS,Disorder,SNOMED
+45571640,Congenital and hereditary thrombocytopenia purpura,5-char billing code,ICD10CM
+4299560,Thrombocytopenic purpura due to defective platelet production,Disorder,SNOMED
+4098768,Other specified primary thrombocytopenia,Disorder,SNOMED
+4292531,Thrombocytopenic purpura due to platelet consumption,Disorder,SNOMED
+3558008,Primary thrombocytopenia NOS,Disorder,SNOMED
+4247776,Posttransfusion purpura,Disorder,SNOMED
+40321712,(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura),Disorder,SNOMED
+44795880,[X]Essential thrombocytopenia NOS,Disorder,SNOMED
+40351351,(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura),Disorder,SNOMED
+4301602,Thrombotic thrombocytopenic purpura,Disorder,SNOMED
+4214947,Thrombocytopenic purpura associated with metabolic disorder,Disorder,SNOMED
+4125655,Metabolic thrombocytopenic purpura,Disorder,SNOMED
+40607421,Amegakaryocytic thrombocytopenia with congenital malformation,Disorder,SNOMED
+4147493,Acquired neutropenia NEC,Disorder,SNOMED
+3558009,Acquired neutropenia NEC,Disorder,SNOMED
+46273778,Periodontitis co-occurrent with acquired neutropenia,Disorder,SNOMED
+44824103,Neutropenia, unspecified,5-dig billing code,ICD9CM
+4103120,Agranulocytosis NOS,Disorder,SNOMED
+46270542,History of neutropenia,Context-dependent,SNOMED
+44826485,Other neutropenia,5-dig billing code,ICD9CM
+4276649,Immune neutropenia,Disorder,SNOMED
+36675666,Poikiloderma with neutropenia,Disorder,SNOMED
+4300659,Isoimmune neutropenia,Disorder,SNOMED
+3557566,Other specified agranulocytosis,Disorder,SNOMED
+4250734,Febrile neutropenia,Disorder,SNOMED
+35624757,Neutropenia due to and following chemotherapy,Disorder,SNOMED
+4098772,Other specified agranulocytosis,Disorder,SNOMED
+40390887,Acquired: [neutropenia NEC] or [agranulocytosis NEC],Disorder,SNOMED
+4219985,Neutropenia with dysgranulopoiesis,Disorder,SNOMED
+4125805,Chronic familial neutropenia,Disorder,SNOMED
+4121120,Metabolic neutropenia,Disorder,SNOMED
+4135712,Toxic neutropenia,Disorder,SNOMED
+4120603,X-linked hypogammaglobulinemia,Disorder,SNOMED
+4143354,Neutropenia due to irradiation,Disorder,SNOMED
+4122939,Chronic benign neutropenia,Disorder,SNOMED
+725353,Chronic eosinophilic pneumonia,5-char billing code,ICD10CM
+4120262,Cryptogenic pulmonary eosinophilia,Disorder,SNOMED
+4120446,Iron deficiency without anemia,Disorder,SNOMED
+4120447,Alcohol-related macrocytosis,Disorder,SNOMED
+40390414,Anemia: [acquired aplastic] or [normocytic due to aplasia],Disorder,SNOMED
+40390445,Anemia: [other specified] or [Von Jaksch's],Disorder,SNOMED
+4120451,Thiamine-responsive macrocytosis,Disorder,SNOMED
+40390026,Alpha thalassemia (& homozygous),Disorder,SNOMED
+4120454,Homozygous alpha thalassemia,Disorder,SNOMED
+45532989,Hemoglobin E-beta thalassemia,4-char billing code,ICD10CM
+44819528,Hemoglobin E-beta thalassemia,5-dig billing code,ICD9CM
+40390932,Congenital methemoglobinemia (& [abnormal methemoglobins] or [defective methemoglobin-reducing system],Disorder,SNOMED
+4120456,Congenital methemoglobinemia with abnormal methemoglobins,Disorder,SNOMED
+4120458,Phosphoglycerokinase deficiency,Disorder,SNOMED
+4120459,Blood group deletion syndrome,Disorder,SNOMED
+4120600,Abnormal cation transport syndrome,Disorder,SNOMED
+4120601,Alpha/beta lipoproteinemia,Disorder,SNOMED
+4120605,Corticosteroid-induced neutrophilia,Disorder,SNOMED
+4304717,Glucocorticoid,Substance,SNOMED
+4120606,Monocytoid disorder,Disorder,SNOMED
+4120607,Lymphocytoid disorder,Disorder,SNOMED
+35623565,Glycoprotein VI deficiency,Disorder,SNOMED
+4120615,Platelet membrane defect,Disorder,SNOMED
+4125651,Glycoprotein Ib defect,Disorder,SNOMED
+4139942,Glanzmann's thrombasthenia,Disorder,SNOMED
+4120616,Glycoprotein Ia defect,Disorder,SNOMED
+4120617,Thromboxane generation defect,Disorder,SNOMED
+4120618,Cyclooxygenase deficiency,Disorder,SNOMED
+4120619,Thromboxane synthetase deficiency,Disorder,SNOMED
+37204520,Bleeding diathesis due to thromboxane synthesis deficiency,Disorder,SNOMED
+37396502,Congenital amegakaryocytic thrombocytopenia,Disorder,SNOMED
+4311682,Radial aplasia-thrombocytopenia syndrome,Disorder,SNOMED
+4230228,Amegakaryocytic thrombocytopenia with congenital malformation,Disorder,SNOMED
+4120622,Reactive thrombocytosis,Disorder,SNOMED
+3559065,Reactive thrombocytosis,Undefined,SNOMED
+4120773,Neutrophil secondary granule deficiency,Disorder,SNOMED
+4172446,Microcytic normochromic anemia,Disorder,SNOMED
+4262948,Microcytic hypochromic anemia,Disorder,SNOMED
+4247416,Megaloblastic anemia due to congenital deficiency of intrinsic factor,Disorder,SNOMED
+40389977,Vitamin B12 deficiency anemia: [dietary causes] or [Imerslund - Grasbeck syndrome] or [Imerslund's syndrome] or [Vegan's anemia],Disorder,SNOMED
+40623746,Familial megaloblastic anemia,Disorder,SNOMED
+4121113,Alpha thalassemia-2 trait,Disorder,SNOMED
+4121114,Hemoglobin Lepore trait,Disorder,SNOMED
+37310707,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb (haemoglobin) Lepore carrier,Context-dependent,SNOMED
+4121117,Glucose phosphate isomerase deficiency,Disorder,SNOMED
+4121119,Uridine monophosphate hydrolase deficiency,Disorder,SNOMED
+602879,Recurrent infection due to specific granule deficiency,Disorder,SNOMED
+4121121,Specific granule deficiency,Disorder,SNOMED
+4121122,Hereditary hypersegmentation,Disorder,SNOMED
+44825285,Hemophagocytic syndromes,4-dig billing code,ICD9CM
+4161829,Familial hemophagocytic lymphohistiocytosis,Disorder,SNOMED
+40389142,Hemophagocytic lymphohistiocytosis,Disorder,SNOMED
+602958,Hemophagocytic lymphohistiocytosis due to malignant disease,Disorder,SNOMED
+4121123,Hemophagocytic lymphohistiocytosis,Disorder,SNOMED
+37017209,Hemophagocytic syndrome with human immunodeficiency virus infection,Disorder,SNOMED
+37110397,Primary hemophagocytic lymphohistiocytosis,Disorder,SNOMED
+439789,Hemophagocytic syndrome,Disorder,SNOMED
+4325546,Macrophage activation syndrome,Disorder,SNOMED
+35206794,Hemophagocytic lymphohistiocytosis,4-char billing code,ICD10CM
+36675176,Thrombocythemia with distal limb defect,Disorder,SNOMED
+40295412,Hereditary platelet disorder,Disorder,SNOMED
+4121133,Giant platelet syndrome,Disorder,SNOMED
+36716047,Radioulnar synostosis with amegakaryocytic thrombocytopenia syndrome,Disorder,SNOMED
+36715327,Familial thrombocytosis,Disorder,SNOMED
+4159966,Upshaw-Schulman syndrome,Disorder,SNOMED
+4121131,Inherited platelet disorder,Disorder,SNOMED
+4287541,May Hegglin syndrome,Disorder,SNOMED
+37110713,Familial platelet syndrome with predisposition to acute myelogenous leukemia,Disorder,SNOMED
+4246348,Platelet dense granule deficiency,Disorder,SNOMED
+4245912,Hermansky-Pudlak syndrome,Disorder,SNOMED
+37162402,Severe autosomal recessive macrothrombocytopenia,Disorder,SNOMED
+4185078,Bernard Soulier syndrome,Disorder,SNOMED
+36715053,Autosomal dominant macrothrombocytopenia,Disorder,SNOMED
+36713636,Medich giant platelet syndrome,Disorder,SNOMED
+4121265,Mediterranean thrombocytopenia,Disorder,SNOMED
+4192278,Glutathione synthase deficiency with 5-oxoprolinuria,Disorder,SNOMED
+40614980,Granulocyte granule deficiency,Disorder,SNOMED
+4125489,Macrocytosis - no anemia,Disorder,SNOMED
+4150547,Anemia secondary to renal failure,Disorder,SNOMED
+198124,Kidney disease,Disorder,SNOMED
+4122927,Combined deficiency anemia,Disorder,SNOMED
+4122928,Alcohol-related sideroblastic anemia,Disorder,SNOMED
+4122930,Delta-beta-Lepore thalassemia,Disorder,SNOMED
+4122934,Congenital methemoglobinaema with defective methemoglobin-reducing system,Disorder,SNOMED
+4290596,Rh deficiency syndrome,Disorder,SNOMED
+4176854,Phosphatidylcholine-sterol acyltransferase deficiency,Disorder,SNOMED
+4312021,Hereditary pyropoikilocytosis,Disorder,SNOMED
+4122937,T-cell lymphocytosis,Disorder,SNOMED
+4122938,Chronic benign granulocytopenia,Disorder,SNOMED
+4122940,Chemotactic disorder,Disorder,SNOMED
+4120608,CR3-receptor deficiency,Disorder,SNOMED
+4177007,Hyperimmunoglobulin E syndrome,Disorder,SNOMED
+4325091,Lazy leukocyte syndrome,Disorder,SNOMED
+37160971,Macrothrombocytopenia, lymphedema, developmental delay, facial dysmorphism, camptodactyly syndrome,Disorder,SNOMED
+4123076,Montreal platelet syndrome,Disorder,SNOMED
+36713443,MYH9 macrothrombocytopenia syndrome,Disorder,SNOMED
+4121264,Epstein syndrome,Disorder,SNOMED
+4123075,May-Hegglin anomaly,Disorder,SNOMED
+4123079,Post-splenectomy thrombocytosis,Disorder,SNOMED
+4123096,Leukocyte adhesion deficiency - type 1,Disorder,SNOMED
+4123098,Gluthathione peroxidase deficiency,Disorder,SNOMED
+40390949,(Macrocytosis - no anemia) or (other specified disease of blood or blood forming organ NOS),Disorder,SNOMED
+37116373,Osteosarcoma, limb anomalies, erythroid macrocytosis syndrome,Disorder,SNOMED
+4125493,Vegan's anemia,Disorder,SNOMED
+40390421,Pancytopenia: [with malformation] or [with pancreatitis] or [NOS],Disorder,SNOMED
+3551801,Transient erythroblastopenia of childhood,Undefined,SNOMED
+4125628,Hemoglobin Constant Spring trait,Disorder,SNOMED
+4125630,Chronic non-spherocytic hemolytic anemia,Disorder,SNOMED
+4125632,Adenosine deaminase overproduction,Disorder,SNOMED
+36716203,Overhydrated hereditary stomatocytosis,Disorder,SNOMED
+37399453,Dehydrated hereditary stomatocytosis,Disorder,SNOMED
+4038342,Screening test for red cell enzyme deficiency,Procedure,SNOMED
+4121118,Muscle phosphofructokinase deficiency,Disorder,SNOMED
+37397197,Familial pseudohyperkalemia,Disorder,SNOMED
+37109777,Southeast Asian ovalocytosis,Disorder,SNOMED
+40285114,Deficiency of triose-phosphate isomerase,Disorder,SNOMED
+4122941,Alders syndrome,Disorder,SNOMED
+46272743,Eosinophil peroxidase deficiency,Disorder,SNOMED
+4147488,Acatalasemia,Disorder,SNOMED
+4125636,Myeloperoxidase deficiency,Disorder,SNOMED
+4125637,Hemolytic erythrophagocytic syndrome,Disorder,SNOMED
+4123073,Platelet type von Willebrand's disease,Disorder,SNOMED
+4125652,Acquired platelet disorder,Disorder,SNOMED
+4182351,Exhausted platelets,Disorder,SNOMED
+4178859,Acquired storage pool deficiency (platelets),Disorder,SNOMED
+4233407,Megakaryocytic aplasia,Disorder,SNOMED
+45766061,Periodontitis associated with chronic familial neutropenia,Disorder,SNOMED
+4125808,Leukocyte adhesion deficiency - type 2,Disorder,SNOMED
+36674516,Monocytopenia with susceptibility to infections,Disorder,SNOMED
+4125811,Combined phagocytic defect,Disorder,SNOMED
+4130066,Hereditary hemoglobinopathy due to globin chain mutation,Disorder,SNOMED
+4280961,Hemoglobin D disease,Disorder,SNOMED
+4327189,Hemoglobin M disease,Disorder,SNOMED
+4214191,Hereditary hemoglobin S,Disorder,SNOMED
+4176425,Hemoglobin C disease,Disorder,SNOMED
+40390025,Hemoglobin S/beta thalassemia,Disorder,SNOMED
+37310718,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with sickle cell beta-thalassaemia,Context-dependent,SNOMED
+4130678,Sickle cell beta plus thalassemia,Disorder,SNOMED
+4131913,Sickle cell-delta beta0-thalassemia,Disorder,SNOMED
+4130068,Sickle cell-beta0-thalassemia,Disorder,SNOMED
+725225,Sickle-cell thalassemia beta zero with splenic sequestration,6-char billing code,ICD10CM
+725224,Sickle-cell thalassemia beta zero with acute chest syndrome,6-char billing code,ICD10CM
+785899,Sickle-cell thalassemia beta zero with dactylitis,6-char billing code,ICD10CM
+37310720,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SO Arab (sickle cell-haemoglobin O Arab) disease,Context-dependent,SNOMED
+4130191,Secondary warm autoimmune hemolytic anemia,Disorder,SNOMED
+4130192,Post-infectious cold agglutinin disease,Disorder,SNOMED
+4345472,Epstein-Barr virus disease,Disorder,SNOMED
+4130194,Chronic cold agglutinin disease associated with B-cell neoplasm,Disorder,SNOMED
+434592,B-cell lymphoma (clinical),Disorder,SNOMED
+4079147,Lymphoproliferative disorder,Disorder,SNOMED
+435739,Late syphilis,Disorder,SNOMED
+4130195,Paroxysmal cold hemoglobinuria associated with tertiary syphilis,Disorder,SNOMED
+4130196,Stress neutrophilia,Disorder,SNOMED
+725229,Sickle-cell thalassemia beta plus without crisis,5-char billing code,ICD10CM
+785900,Sickle-cell thalassemia beta plus with dactylitis,6-char billing code,ICD10CM
+725231,Sickle-cell thalassemia beta plus with acute chest syndrome,6-char billing code,ICD10CM
+725232,Sickle-cell thalassemia beta plus with splenic sequestration,6-char billing code,ICD10CM
+725233,Sickle-cell thalassemia beta plus with cerebral vascular involvement,6-char billing code,ICD10CM
+4209139,Autoimmune hemolytic anemia caused by immunoglobulin G,Disorder,SNOMED
+4215784,Autoimmune hemolytic anemia caused by immunoglobulin M,Disorder,SNOMED
+4238904,Autoimmune hemolytic anemia caused by immunoglobulin A,Disorder,SNOMED
+37162690,Multiple paraganglioma associated with polycythemia,Disorder,SNOMED
+36713680,TEMPI syndrome,Disorder,SNOMED
+762409,Family history of polycythemia,Context-dependent,SNOMED
+4071736,Perinatal jaundice due to polycythemia,Clinical Finding,SNOMED
+4189309,Erythrocytosis due to polycythemia vera,Disorder,SNOMED
+4052597,Deficiency of bisphosphoglycerate mutase,Disorder,SNOMED
+4130835,Reactive follicular hyperplasia in the elderly,Disorder,SNOMED
+4167291,Acquired methemoglobinuria,Disorder,SNOMED
+4137763,Sulfhemoglobinemia,Disorder,SNOMED
+37310719,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb S Lepore (sickle cell-haemoglobin Lepore) disease,Context-dependent,SNOMED
+37116301,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,Disorder,SNOMED
+4281372,Hemolytic anemia associated with lymphoproliferative disorder,Disorder,SNOMED
+37116297,Secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease,Disorder,SNOMED
+37116298,Secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder,Disorder,SNOMED
+37116300,Secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder,Disorder,SNOMED
+4174376,Secondary paroxysmal cold hemoglobinuria,Disorder,SNOMED
+4077896,Hemolytic anemia associated with chronic inflammatory disease,Disorder,SNOMED
+37117740,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,Disorder,SNOMED
+4273847,Idiopathic chronic cold agglutinin disease,Disorder,SNOMED
+4131128,Chronic cold agglutinin disease,Disorder,SNOMED
+4131130,Erythrocytosis due to cyanotic congenital heart disease,Disorder,SNOMED
+4132742,Cyanotic congenital heart disease,Disorder,SNOMED
+4271197,Idiopathic paroxysmal cold hemoglobinuria,Disorder,SNOMED
+4318674,Chronic idiopathic autoimmune hemolytic anemia,Disorder,SNOMED
+40390393,Cold Donath Landsteiner type autoimmune hemolytic anemia,Disorder,SNOMED
+40310689,Cold autoimmune hemolytic anemia,Disorder,SNOMED
+40431447,Cold hemagglutinin disease,Disorder,SNOMED
+4149042,Post-viral paroxysmal cold hemoglobinuria,Disorder,SNOMED
+40390395,Hemoglobinuria: [due to hemolysis from external cause NOS] or [cold] or [acquired hemolytic anemia with hemoglobinuria NEC] or [paroxysmal NOS],Disorder,SNOMED
+4131919,Drug-induced immune hemolytic anemia, hapten type,Disorder,SNOMED
+4196102,Hapten type low affinity hemolytic anemia,Disorder,SNOMED
+4313581,Hapten type high affinity hemolytic anemia,Disorder,SNOMED
+4024656,Transfusion of blood product,Procedure,SNOMED
+4132085,Anemia caused by alloimmune destruction of transfused red cells,Disorder,SNOMED
+40390023,Thalassemia major: [NEC] or [Cooley's anemia],Disorder,SNOMED
+4132431,Homozygous beta thalassemia,Disorder,SNOMED
+4260543,Failed attempted termination of pregnancy with intravascular hemolysis,Disorder,SNOMED
+4243963,Hemolytic jaundice,Disorder,SNOMED
+40302596,H/O: hemolytic disease,Context-dependent,SNOMED
+4058737,History of hemolytic disease,Context-dependent,SNOMED
+40323009,Hemolytic disease NOS,Disorder,SNOMED
+439931,Perinatal hemolytic jaundice,Disorder,SNOMED
+4122895,Hemolytic disease NOS,Disorder,SNOMED
+3542186,Haemolytic disease NOS,Disorder,SNOMED
+433029,Perinatal jaundice due to excessive hemolysis,Clinical Finding,SNOMED
+4300473,March hemoglobinuria,Disorder,SNOMED
+4133985,Isolated collagen aggregation defect,Disorder,SNOMED
+4155386,Platelet type pseudo-von Willebrand disease,Disorder,SNOMED
+40528246,Platelet type pseudo-von Willebrand disease,Disorder,SNOMED
+4133988,Pseudo von Willebrand disease,Disorder,SNOMED
+37161030,Cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder,Disorder,SNOMED
+4134438,Familial alpha-2 adrenergic receptor defect in platelets,Disorder,SNOMED
+4184188,Platelet procoagulant activity deficiency,Disorder,SNOMED
+37203819,Bleeding diathesis due to collagen receptor defect,Disorder,SNOMED
+37110834,Defect of purinergic receptor p2y G protein-coupled 12,Disorder,SNOMED
+4201288,Platelet secretory disorder,Disorder,SNOMED
+37110748,Bleeding disorder due to calcium and DAG-regulated guanine exchange factor-1 deficiency,Disorder,SNOMED
+4223628,Diphyllobothrium latum,Organism,SNOMED
+4307799,Anemia due to diabetes mellitus,Disorder,SNOMED
+4211348,Aplastic anemia associated with pancreatitis,Disorder,SNOMED
+4243831,Anemia of pituitary deficiency,Disorder,SNOMED
+31821,Disorder of endocrine system,Disorder,SNOMED
+4147365,Anemia of adrenal dysfunction,Disorder,SNOMED
+4329173,Anemia of gonadal dysfunction,Disorder,SNOMED
+4287402,Anemia of parathyroid dysfunction,Disorder,SNOMED
+40390937,Sulfemoglobinemia,Disorder,SNOMED
+4195021,T lymphocyte disorder,Disorder,SNOMED
+4286058,Lymphocytic hypoplasia,Disorder,SNOMED
+40390501,Post-transfusion: [purpura] or [thrombocytopenia],Disorder,SNOMED
+4139555,Thrombocytopenia due to massive blood transfusion,Disorder,SNOMED
+4079128,Massive blood transfusion,Procedure,SNOMED
+40390049,Stomatocytosis,Clinical Finding,SNOMED
+4139775,Stomatocytosis,Disorder,SNOMED
+40390488,Glycoprotein IIb/IIIa defect,Disorder,SNOMED
+197236,Uterine leiomyoma,Disorder,SNOMED
+4142351,Erythrocytosis due to uterine myoma,Disorder,SNOMED
+35206702,Dietary folate deficiency anemia,4-char billing code,ICD10CM
+35206703,Drug-induced folate deficiency anemia,4-char billing code,ICD10CM
+40390880,Radiation: [agranulocytosis] or [neutropenia],Disorder,SNOMED
+4143553,Febrile granulocytopenia,Disorder,SNOMED
+4143629,Anemia due to mechanical damage,Disorder,SNOMED
+4155187,Traumatic cardiac hemolytic anemia,Disorder,SNOMED
+4159651,Traumatic hemolytic anemia,Disorder,SNOMED
+37204287,Hemoglobinopathy Toms River,Disorder,SNOMED
+4029274,Zinc deficiency,Disorder,SNOMED
+4110148,Low temperature,Physical Force,SNOMED
+435371,Hypothermia,Clinical Finding,SNOMED
+4174894,Core body temperature,Observable Entity,SNOMED
+40390405,(Anemia: [constitutional aplastic] or [familial hypoplastic]) or (pancytopenia with malformations) or (Blackfan - Diamond syndrome),Disorder,SNOMED
+40390408,(Constitutional aplastic anemia with malformation) or (pancytopenia - dysmelia),Disorder,SNOMED
+40390416,Anemia: [aplastic due to drugs] or [hypoplastic due to drug or chemical substance],Disorder,SNOMED
+4146088,Aplastic anemia due to drugs,Disorder,SNOMED
+40651694,Aplastic anemia secondary to drugs,Disorder,SNOMED
+35206744,Drug-induced aplastic anemia,4-char billing code,ICD10CM
+4048203,Hereditary methemoglobinemia, enzymatic type,Disorder,SNOMED
+35206786,Congenital methemoglobinemia,4-char billing code,ICD10CM
+35624651,Autosomal recessive congenital methemoglobinemia,Disorder,SNOMED
+40390439,Anemia in ovarian carcinoma,Disorder,SNOMED
+4131918,Drug-induced immune hemolytic anemia,Disorder,SNOMED
+40562656,Drug-induced immune hemolytic anemia, autoantibody type,Disorder,SNOMED
+40390058,Drug-induced autoimmune hemolytic anemia,Disorder,SNOMED
+35206731,Drug-induced autoimmune hemolytic anemia,4-char billing code,ICD10CM
+4147317,Cutaneous mastocytosis, adult form,Disorder,SNOMED
+40389138,Acatalasia,Disorder,SNOMED
+4006315,Acatalasia,Disorder,SNOMED
+40390957,[X]Other dietary vitamin B12 deficiency anemia,Disorder,SNOMED
+35206699,Other dietary vitamin B12 deficiency anemia,4-char billing code,ICD10CM
+42536518,Disorder of neutrophil chemotaxis,Disorder,SNOMED
+4171201,Juvenile type megaloblastic anemia,Disorder,SNOMED
+4149183,Megaloblastic anemia due to error of folate metabolism,Disorder,SNOMED
+4235788,Familial megaloblastic anemia,Disorder,SNOMED
+4287574,Megaloblastic anemia due to error of cobalamin metabolism,Disorder,SNOMED
+4188208,Estren-Dameshek anemia,Disorder,SNOMED
+40479638,History of Fanconi anemia,Context-dependent,SNOMED
+1102626,Fanconi anemia,5-char billing code,ICD10CM
+37168560,Fanconi anemia of complementation group C,Disorder,SNOMED
+4103121,Secondary eosinophilia NOS,Disorder,SNOMED
+4149277,Secondary eosinophilia,Disorder,SNOMED
+40321687,Beta thalassemia trait,Disorder,SNOMED
+40390442,Anemia secondary to renal failure,Disorder,SNOMED
+192359,Renal failure syndrome,Disorder,SNOMED
+4167506,Gaisbock's syndrome,Disorder,SNOMED
+4211252,Clostridial infection,Disorder,SNOMED
+4151502,Hemolytic anemia caused by Clostridium welchii,Disorder,SNOMED
+4307974,Clostridium perfringens,Organism,SNOMED
+4153651,Eosinophilic myositis,Disorder,SNOMED
+36680602,Idiopathic eosinophilic myositis,Disorder,SNOMED
+40390901,Idiopathic eosinophilia,Disorder,SNOMED
+4153777,Idiopathic eosinophilia,Disorder,SNOMED
+4155128,Platelet sequestration,Disorder,SNOMED
+40607602,Thrombocytopenia due to sequestration,Disorder,SNOMED
+40600916,Anemia due to intrinsic red cell abnormality,Disorder,SNOMED
+40323012,Anemia due to isoimmunization,Disorder,SNOMED
+36674407,Traumatic event,Event,SNOMED
+4264166,Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia,Disorder,SNOMED
+40390496,Thrombocytopenia: [congenital purpura] or [hereditary NEC],Disorder,SNOMED
+4125654,Hereditary thrombocytopenia NEC,Disorder,SNOMED
+44831070,Congenital and hereditary thrombocytopenic purpura,5-dig billing code,ICD9CM
+4146745,Cold erythema associated with hemolysins,Disorder,SNOMED
+725240,Cold autoimmune hemolytic anemia,5-char billing code,ICD10CM
+36713763,Autoimmune hemolytic anemia mixed type,Disorder,SNOMED
+40432416,Familial erythrophagocytic lymphohistiocytosis,Disorder,SNOMED
+40390895,Familial erythrophagocytic lymphohistiocytosis,Disorder,SNOMED
+40529748,Familial hemophagocytic lymphohistiocytosis,Disorder,SNOMED
+4163335,Chronic granulomatous disease, type I,Disorder,SNOMED
+4211932,Sickle cell-hemoglobin E disease without crisis,Disorder,SNOMED
+4166115,Hemoglobin S sickling disorder without crisis,Disorder,SNOMED
+40323029,Perinatal thrombocytopenia,Disorder,SNOMED
+42536521,Constitutional eosinophilia,Disorder,SNOMED
+4319592,Eosinophilic keratitis,Disorder,SNOMED
+42536522,Acquired eosinophilia,Disorder,SNOMED
+40610427,Eosinophilic syndrome,Disorder,SNOMED
+4270865,Episodic angioedema with eosinophilia,Disorder,SNOMED
+44810118,Eosinophilic bronchitis,Disorder,SNOMED
+4192425,Urine methemoglobin level,Procedure,SNOMED
+40541076,Relative erythrocytosis,Disorder,SNOMED
+40431464,Relative polycythemia,Disorder,SNOMED
+4168286,Anemia due to starvation,Disorder,SNOMED
+443082,Starvation,Disorder,SNOMED
+4168792,Acute infectious lymphocytosis,Disorder,SNOMED
+4168911,Hemoglobin H disease,Disorder,SNOMED
+37310706,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbH (haemoglobin H) disease,Context-dependent,SNOMED
+40390938,Acquired methemoglobinemia,Disorder,SNOMED
+4211545,Stokvis' disease,Disorder,SNOMED
+40642162,Acquired methemoglobinemia,Disorder,SNOMED
+4024544,Chloramphenicol (class of antibiotic),Substance,SNOMED
+4187024,Chloramphenicol,Substance,SNOMED
+35624452,Copper and/or copper compound,Substance,SNOMED
+4022345,Copper AND/OR copper compound,Substance,SNOMED
+4130518,Neoplasm of liver,Disorder,SNOMED
+4175334,Erythrocytosis due to hepatoma,Disorder,SNOMED
+4264909,Thalassemia-hemoglobin C disease,Disorder,SNOMED
+40390893,(Functional disorders of polymorphonuclear neutrophils) or (Job's syndrome) or (lipochrome histiocytosis - familial),Disorder,SNOMED
+35206821,Hyperimmunoglobulin E [IgE] syndrome,4-char billing code,ICD10CM
+40389200,Hyperimmunoglobulin E syndrome,Disorder,SNOMED
+40590728,Hyperimmunoglobulin E syndrome,Disorder,SNOMED
+4177177,Cellular immunologic aplastic anemia,Disorder,SNOMED
+4101555,Cell-mediated immune reaction,Disorder,SNOMED
+4178155,Infectious lymphocytosis,Disorder,SNOMED
+40297548,Acquired storage pool deficiency (platelets),Disorder,SNOMED
+4246065,Platelet aggregation,Observable Entity,SNOMED
+4215791,Acute megaloblastic anemia secondary to total parenteral nutrition,Disorder,SNOMED
+4021169,Total parenteral nutrition,Procedure,SNOMED
+42536520,Acquired eosinopenia,Disorder,SNOMED
+40332460,Eosinopenia,Clinical Finding,SNOMED
+40301801,Eosinopenia,Clinical Finding,SNOMED
+42536519,Constitutional eosinopenia,Disorder,SNOMED
+40321697,Acquired aplastic anemia,Disorder,SNOMED
+40351309,Acquired aplastic anemia,Disorder,SNOMED
+4147492,Acquired aplastic anemia NOS,Disorder,SNOMED
+4230800,Heat,Physical Force,SNOMED
+4131748,Neoplasm of kidney,Disorder,SNOMED
+4185407,Erythrocytosis due to renal tumor,Disorder,SNOMED
+37162286,Leukocyte adhesion deficiency,Disorder,SNOMED
+36716445,Hennekam Beemer syndrome,Disorder,SNOMED
+37165107,Short stature, optic nerve atrophy, Pelger-Huët anomaly syndrome,Disorder,SNOMED
+37162801,Periodic fever, infantile enterocolitis, autoinflammatory syndrome,Disorder,SNOMED
+4280070,Antibody-mediated anemia,Disorder,SNOMED
+40618302,Aplastic anemia secondary to metabolic alteration,Disorder,SNOMED
+436670,Metabolic disease,Disorder,SNOMED
+4187256,Beta plus thalassemia normal hemoglobin A-2 type 1 silent,Disorder,SNOMED
+4187371,Acute neutrophilia,Disorder,SNOMED
+4206007,Anemia following fetal blood loss,Disorder,SNOMED
+40488644,Aplastic anemia secondary to pregnancy,Disorder,SNOMED
+135214,Polycythemia vera (clinical),Disorder,SNOMED
+4189321,Anemia due to disturbance of proliferation AND/OR differentiation of erythroid precursor cells,Disorder,SNOMED
+42536515,Constitutional neutrophilia,Disorder,SNOMED
+42536514,Acquired neutrophilia,Disorder,SNOMED
+40629082,Neutrophilia,Disorder,SNOMED
+4197658,Chronic neutrophilia,Disorder,SNOMED
+4272149,Drug-induced neutrophilia,Disorder,SNOMED
+4190190,Diarrhea-associated hemolytic uremic syndrome,Disorder,SNOMED
+4134607,Diarrheal disorder,Disorder,SNOMED
+4193787,Familial eosinophilia,Disorder,SNOMED
+42709912,Diffuse infiltrative lymphocytosis syndrome,Disorder,SNOMED
+4231976,CD4 T lymphocyte deficiency,Disorder,SNOMED
+4197910,Erythrocytosis due to endocrine disorder,Disorder,SNOMED
+4216559,Erythrocytosis due to renal cyst,Disorder,SNOMED
+4312942,Erythrocytosis due to hydronephrosis,Disorder,SNOMED
+4196206,Beta plus thalassemia,Disorder,SNOMED
+40431938,Dilutional thrombocytopenia,Disorder,SNOMED
+40389963,(Kelly-Paterson syndrome) or (Plummer-Vinson syndrome) or (other specified iron deficiency anemia),Disorder,SNOMED
+4264843,Functional observable,Observable Entity,SNOMED
+35206693,Sideropenic dysphagia,4-char billing code,ICD10CM
+4298213,Congenital leukocyte adherence deficiency,Disorder,SNOMED
+37162293,Autosomal dominant thrombocytopenia with platelet secretion defect,Disorder,SNOMED
+432580,Ariboflavinosis,Disorder,SNOMED
+36716460,X-linked congenital dyserythropoietic anemia with thrombocytopenia,Disorder,SNOMED
+35206755,Congenital dyserythropoietic anemia,4-char billing code,ICD10CM
+40390446,Congenital anemia: [dyshematopoietic] or [dyserythropoietic (& NEC)],Disorder,SNOMED
+36716259,Pancreatic insufficiency, dyserythropoietic anemia, calvarial hyperostosis syndrome,Disorder,SNOMED
+4286660,Congenital dyserythropoietic anemia, type II,Disorder,SNOMED
+36714288,Congenital dyserythropoietic anemia type IV,Disorder,SNOMED
+4241982,Congenital dyserythropoietic anemia, type I,Disorder,SNOMED
+4258261,Drug induced thrombotic thrombocytopenic purpura,Disorder,SNOMED
+35210602,Congenital anemia from fetal blood loss,4-char billing code,ICD10CM
+4101581,Erythrogenesis imperfecta,Disorder,SNOMED
+4339113,Xerocytosis,Disorder,SNOMED
+4207877,Congenital dysmegakaryopoietic thrombocytopenia, Paris Trousseau type,Disorder,SNOMED
+725216,Hb-SS disease with cerebral vascular involvement,5-char billing code,ICD10CM
+45534311,Anemia of the puerperium,5-char billing code,ICD10CM
+442922,Anemia in the puerperium - baby delivered during previous episode of care,Disorder,SNOMED
+45606670,Anemia complicating the puerperium,5-char billing code,ICD10CM
+442923,Anemia in the puerperium - baby delivered during current episode of care,Disorder,SNOMED
+40523926,Aplastic anemia secondary to pancreatitis,Disorder,SNOMED
+4192640,Pancreatitis,Disorder,SNOMED
+608203,Blood oxygen concentration below reference range,Clinical Finding,SNOMED
+4083786,Color of skin or mucosa,Observable Entity,SNOMED
+4078242,Human immunodeficiency virus,Organism,SNOMED
+44825793,Other specified transient hematological disorders of fetus or newborn,4-dig billing code,ICD9CM
+4317962,Neonatal lymphocytopenia,Disorder,SNOMED
+44831578,Unspecified hematological disorder specific to newborn,4-dig billing code,ICD9CM
+44824610,Hematological disorders of newborn,3-dig nonbill code,ICD9CM
+1572027,Other perinatal hematological disorders,3-char nonbill code,ICD10CM
+43022001,Sickle cell disease not suspected,Context-dependent,SNOMED
+725236,Other sickle-cell disorders with cerebral vascular involvement,6-char billing code,ICD10CM
+4216915,Hemoglobin S sickling disorder with crisis,Disorder,SNOMED
+44831065,Sickle-cell disease, unspecified,5-dig billing code,ICD9CM
+4029479,Sickle cell nephropathy,Disorder,SNOMED
+43021379,Suspected sickle cell disease,Context-dependent,SNOMED
+37018856,Priapism due to sickle cell disease,Disorder,SNOMED
+44820699,Sickle-cell disease,4-dig nonbill code,ICD9CM
+785901,Other sickle-cell disorders with dactylitis,6-char billing code,ICD10CM
+4213628,Sickling disorder due to hemoglobin S,Disorder,SNOMED
+46271102,Sickle cell arthropathy,Disorder,SNOMED
+36716221,Focal segmental glomerulosclerosis due to sickle cell disease,Disorder,SNOMED
+35621839,Sickle cell hepatopathy,Disorder,SNOMED
+36717529,Renal papillary necrosis due to sickle cell disease,Disorder,SNOMED
+1567849,Other sickle-cell disorders,4-char nonbill code,ICD10CM
+4159748,Hand-foot syndrome in sickle cell anemia,Disorder,SNOMED
+43020655,Disorder of myocardium due to sickle cell hemoglobinopathy,Disorder,SNOMED
+4242755,A-gamma beta+ HPFH AND beta0 thalassemia in cis,Disorder,SNOMED
+40389969,Achlorhydric anemia,Disorder,SNOMED
+37168687,Nonproliferative sickle cell retinopathy,Disorder,SNOMED
+4021365,Sickle cell retinopathy,Disorder,SNOMED
+4217370,Aase syndrome,Disorder,SNOMED
+40537389,Hereditary disorder of hematologic system,Disorder,SNOMED
+766418,Abnormal findings on neonatal screening for congenital hematologic disorders,4-char billing code,ICD10CM
+766347,Hereditary alpha tryptasemia,5-char billing code,ICD10CM
+4269229,Localized extracutaneous mastocytosis,Disorder,SNOMED
+4246283,Cutaneous mastocytosis,Disorder,SNOMED
+36716270,Cyst of kidney,Disorder,SNOMED
+193016,Cystic disease of kidney,Disorder,SNOMED
+1567850,Other sickle-cell disorders with crisis,5-char nonbill code,ICD10CM
+725237,Other sickle-cell disorders with crisis with other specified complication,6-char billing code,ICD10CM
+45595766,Other sickle-cell disorders with acute chest syndrome,6-char billing code,ICD10CM
+45581324,Other sickle-cell disorders with crisis, unspecified,6-char billing code,ICD10CM
+4219568,Sickle cell-hemoglobin E disease with crisis,Disorder,SNOMED
+35206733,Drug-induced nonautoimmune hemolytic anemia,4-char billing code,ICD10CM
+4261202,Uremia,Disorder,SNOMED
+45551470,Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, initial encounter,7-char billing code,ICD10CM
+45580384,Rh incompatibility with hemolytic transfusion reaction, unspecified, subsequent encounter,7-char billing code,ICD10CM
+19321,Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed,6-char nonbill code,ICD10CM
+4277354,Immediate hemolytic transfusion reaction,Disorder,SNOMED
+44823659,Hemolytic transfusion reaction, incompatibility unspecified,5-dig billing code,ICD9CM
+1575180,ABO incompatibility with hemolytic transfusion reaction,5-char nonbill code,ICD10CM
+45609303,ABO incompatibility with hemolytic transfusion reaction, unspecified, subsequent encounter,7-char billing code,ICD10CM
+45609302,ABO incompatibility with hemolytic transfusion reaction, unspecified, initial encounter,7-char billing code,ICD10CM
+45604518,Non-ABO incompatibility with hemolytic transfusion reaction, unspecified, sequela,7-char billing code,ICD10CM
+19307,Non-ABO incompatibility with hemolytic transfusion reaction, unspecified,6-char nonbill code,ICD10CM
+19297,ABO incompatibility with hemolytic transfusion reaction, unspecified,6-char nonbill code,ICD10CM
+1575182,Rh incompatibility with hemolytic transfusion reaction,5-char nonbill code,ICD10CM
+45565805,Rh incompatibility with hemolytic transfusion reaction, unspecified, initial encounter,7-char billing code,ICD10CM
+4307962,Delayed hemolytic transfusion reaction,Disorder,SNOMED
+45585222,Non-ABO incompatibility with hemolytic transfusion reaction, unspecified, subsequent encounter,7-char billing code,ICD10CM
+1575190,Hemolytic transfusion reaction, unspecified incompatibility,5-char nonbill code,ICD10CM
+45537011,Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, sequela,7-char billing code,ICD10CM
+19302,Rh incompatibility with hemolytic transfusion reaction, unspecified,6-char nonbill code,ICD10CM
+1575184,Non-ABO incompatibility with hemolytic transfusion reaction,5-char nonbill code,ICD10CM
+44830640,Rh incompatibility with hemolytic transfusion reaction not specified as acute or delayed,5-dig billing code,ICD9CM
+45575536,Non-ABO incompatibility with hemolytic transfusion reaction, unspecified, initial encounter,7-char billing code,ICD10CM
+45537010,Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, subsequent encounter,7-char billing code,ICD10CM
+44831802,ABO incompatibility with hemolytic transfusion reaction not specified as acute or delayed,5-dig billing code,ICD9CM
+40633584,Neutropenia,Disorder,SNOMED
+4218974,Hypoplastic anemia,Disorder,SNOMED
+4219038,Chronic granulomatous disease, type III,Disorder,SNOMED
+4048470,Arsenic compound,Substance,SNOMED
+40625218,Urticaria pigmentosa, telangiectasia macularis eruptiva perstans,Disorder,SNOMED
+4219464,Telangiectasia macularis eruptiva perstans,Disorder,SNOMED
+4011537,Abnormal platelet production,Clinical Finding,SNOMED
+725239,Warm autoimmune hemolytic anemia,5-char billing code,ICD10CM
+4250028,Acute megaloblastic anemia caused by nitrous oxide,Disorder,SNOMED
+4268894,Acute megaloblastic anemia due to severe illness,Disorder,SNOMED
+4234257,Neonatal thrombocytopenia due to exchange transfusion,Disorder,SNOMED
+4195579,Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura,Disorder,SNOMED
+4071068,Perinatal purpura,Disorder,SNOMED
+4221525,Chronic granulomatous disease, type IA,Disorder,SNOMED
+4282785,Megaloblastic anemia due to celiac disease,Disorder,SNOMED
+4338976,Megaloblastic anemia due to tropical sprue,Disorder,SNOMED
+4267414,AIDS,Disorder,SNOMED
+40541688,AIDS with anemia,Disorder,SNOMED
+40630721,Hemobartonellosis,Disorder,SNOMED
+4193931,Genus Mycoplasma,Organism,SNOMED
+40652283,AIDS with agranulocytosis,Disorder,SNOMED
+4224553,Agranulocytosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4225810,Aplastic anemia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40642744,AIDS with aplastic anemia,Disorder,SNOMED
+40644474,AIDS with thrombocytopenia,Disorder,SNOMED
+40643053,AIDS with secondary thrombocytopenia,Disorder,SNOMED
+40386214,Chronic constitutional pure red cell aplasia,Disorder,SNOMED
+40390409,(Red cell: [constitutional aplasia or hypoplasia] or [congenital pure aplasia] or [congenital hypoplasia]) or (Blackfan - Diamond syndrome),Disorder,SNOMED
+40480011,History of Diamond-Blackfan anemia,Context-dependent,SNOMED
+40622858,AIDS with acquired hemolytic anemia,Disorder,SNOMED
+4228805,Polyagglutinable erythrocyte syndrome,Disorder,SNOMED
+40633174,Reticular dysgenesis with congenital aleukocytosis,Disorder,SNOMED
+35206753,Secondary sideroblastic anemia due to drugs and toxins,4-char billing code,ICD10CM
+4101000,Secondary sideroblastic anemia due to drugs and toxins,Disorder,SNOMED
+4300295,Drug-induced sideroblastic anemia,Disorder,SNOMED
+35622306,Idiopathic CD4 lymphocytopenia,Disorder,SNOMED
+40620284,Poisoning by nitrate,Disorder,SNOMED
+4230472,Nitrate salt,Substance,SNOMED
+785902,Shwachman-Diamond syndrome,5-char billing code,ICD10CM
+40460679,Schwachman's syndrome,Disorder,SNOMED
+40435223,Schwachmann-Diamond syndrome (disorder),Disorder,SNOMED
+40431871,Schwachman's syndrome,Disorder,SNOMED
+3553378,Schwachman's syndrome,Undefined,SNOMED
+4154781,Height / growth measure,Observable Entity,SNOMED
+4232474,Agamma delta beta0 thalassemia,Disorder,SNOMED
+40547724,Megakaryocytic aplasia,Disorder,SNOMED
+35206740,Chronic acquired pure red cell aplasia,4-char billing code,ICD10CM
+40390426,Chronic acquired pure red cell aplasia,Disorder,SNOMED
+37204548,Hereditary thrombocytopenia with normal platelets,Disorder,SNOMED
+37160944,DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome,Disorder,SNOMED
+37116398,Thyrocerebrorenal syndrome,Disorder,SNOMED
+40266290,Congenital thrombocytopenia,Disorder,SNOMED
+37163213,Congenital autosomal recessive small-platelet thrombocytopenia,Disorder,SNOMED
+37160983,Hereditary thrombocytopenia with early-onset myelofibrosis,Disorder,SNOMED
+36717326,DK phocomelia syndrome,Disorder,SNOMED
+40390420,Pancytopenia - acquired,Disorder,SNOMED
+45591013,Other drug-induced pancytopenia,6-char billing code,ICD10CM
+37109690,Hematopoietic subsyndrome of acute radiation syndrome,Disorder,SNOMED
+4305588,Doan-Wright syndrome,Disorder,SNOMED
+37209558,Pancytopenia caused by immunosuppressant,Disorder,SNOMED
+4050307,Deficiency of phosphoglycerate kinase,Disorder,SNOMED
+4254542,Hypopituitarism,Disorder,SNOMED
+196732,Blind loop syndrome,Disorder,SNOMED
+4330322,Anemia due to disturbance of proliferation AND/OR differentiation of hematopoietic stem cells,Disorder,SNOMED
+40388141,Hermansky-Pudlak syndrome,Disorder,SNOMED
+45768903,Pulmonary fibrosis due to Hermansky-Pudlak syndrome,Disorder,SNOMED
+45547650,Hermansky-Pudlak syndrome,6-char billing code,ICD10CM
+40613789,Hermansky-Pudlack syndrome,Disorder,SNOMED
+4246105,Hemolytic anemia with emphysema AND cutis laxa,Disorder,SNOMED
+4264113,Solitary cutaneous mastocytoma,Disorder,SNOMED
+4299274,Familial mastocytosis,Disorder,SNOMED
+4187925,Urticaria pigmentosa, multiple nodules AND/OR plaques,Disorder,SNOMED
+4297865,Cutaneous mastocytosis, infantile form,Disorder,SNOMED
+4301784,Bullous cutaneous mastocytosis,Disorder,SNOMED
+40401884,Urticaria pigmentosa,Disorder,SNOMED
+4301385,Urticaria pigmentosa,Disorder,SNOMED
+4287318,Diffuse erythrodermic mastocytosis,Disorder,SNOMED
+1326488,Cutaneous mastocytosis,5-char billing code,ICD10CM
+4194218,Urticaria pigmentosa, maculopapular type,Disorder,SNOMED
+44836948,Posttransfusion purpura,5-dig billing code,ICD9CM
+45586120,Posttransfusion purpura,5-char billing code,ICD10CM
+4009485,Nitrous oxide,Substance,SNOMED
+3572236,Haemoglobin D trait,Undefined,SNOMED
+37310692,Result consistent with haemoglobin D carrier,Context-dependent,SNOMED
+37310697,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbD (haemoglobin D) carrier,Context-dependent,SNOMED
+766342,Anemia due to pyruvate kinase deficiency,5-char billing code,ICD10CM
+4049588,Deficiency of pyruvate kinase,Disorder,SNOMED
+3571768,Haemoglobin E trait,Undefined,SNOMED
+37310696,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbE (haemoglobin E) carrier,Context-dependent,SNOMED
+46272744,Hypochromic microcytic anemia with iron overload,Disorder,SNOMED
+40389964,Microcytic hypochromic anemia,Disorder,SNOMED
+37310717,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SE (sickle cell-haemoglobin E) disease,Context-dependent,SNOMED
+40644493,Urticaria pigmentosa, solitary cutaneous nodule,Disorder,SNOMED
+35206711,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,4-char billing code,ICD10CM
+40351277,(Other amino acid/carbohydrate) or (albinism) or (cystinuria) or (glucose-6-phosphate dehydrogenase deficiency) or (galactosemia) or (glycogen storage disease) or (Von Gierke's disease),Disorder,SNOMED
+40390010,Glucose-6-phosphate dehydrogenase deficiency anemia,Disorder,SNOMED
+4271753,Alpha plus thalassemia,Disorder,SNOMED
+4272496,Allergic eosinophilia,Disorder,SNOMED
+40390904,Allergic eosinophilia,Disorder,SNOMED
+40589905,Allergic reaction,Disorder,SNOMED
+192298,Hypersplenism,Disorder,SNOMED
+4266493,Cold agglutinin,Substance,SNOMED
+45565804,Rh incompatibility with acute hemolytic transfusion reaction, subsequent encounter,7-char billing code,ICD10CM
+44830641,Rh incompatibility with acute hemolytic transfusion reaction,5-dig billing code,ICD9CM
+44831803,Non-ABO incompatibility with acute hemolytic transfusion reaction,5-dig billing code,ICD9CM
+45561015,Non-ABO incompatibility with acute hemolytic transfusion reaction, initial encounter,7-char billing code,ICD10CM
+45590047,Acute hemolytic transfusion reaction, unspecified incompatibility, initial encounter,7-char billing code,ICD10CM
+45546680,ABO incompatibility with acute hemolytic transfusion reaction, initial encounter,7-char billing code,ICD10CM
+19295,ABO incompatibility with acute hemolytic transfusion reaction,6-char nonbill code,ICD10CM
+19305,Non-ABO incompatibility with acute hemolytic transfusion reaction,6-char nonbill code,ICD10CM
+45551469,Acute hemolytic transfusion reaction, unspecified incompatibility, subsequent encounter,7-char billing code,ICD10CM
+45609301,ABO incompatibility with acute hemolytic transfusion reaction, subsequent encounter,7-char billing code,ICD10CM
+19300,Rh incompatibility with acute hemolytic transfusion reaction,6-char nonbill code,ICD10CM
+45609305,Acute hemolytic transfusion reaction, unspecified incompatibility, sequela,7-char billing code,ICD10CM
+45561016,Non-ABO incompatibility with acute hemolytic transfusion reaction, sequela,7-char billing code,ICD10CM
+44820262,ABO incompatibility with acute hemolytic transfusion reaction,5-dig billing code,ICD9CM
+45537012,Non-ABO incompatibility with acute hemolytic transfusion reaction, subsequent encounter,7-char billing code,ICD10CM
+45585216,Rh incompatibility with acute hemolytic transfusion reaction, initial encounter,7-char billing code,ICD10CM
+44820264,Acute hemolytic transfusion reaction, incompatibility unspecified,5-dig billing code,ICD9CM
+19319,Acute hemolytic transfusion reaction, unspecified incompatibility,6-char nonbill code,ICD10CM
+40288212,PIE syndrome,Disorder,SNOMED
+4277596,Simple pulmonary eosinophilia,Disorder,SNOMED
+725354,Acute eosinophilic pneumonia,5-char billing code,ICD10CM
+37310716,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb (haemoglobin) variant and/or beta-thalassaemia,Context-dependent,SNOMED
+46270579,Family history of beta thalassemia,Context-dependent,SNOMED
+44829909,Beta thalassemia,5-dig billing code,ICD9CM
+40390030,Beta thalassemia: (& minor),Disorder,SNOMED
+4315393,Beta zero thalassemia,Disorder,SNOMED
+35206718,Beta thalassemia,4-char billing code,ICD10CM
+37397537,Beta thalassemia X-linked thrombocytopenia syndrome,Disorder,SNOMED
+37396761,Dominant beta-thalassemia,Disorder,SNOMED
+4278816,Alpha zero thalassemia,Disorder,SNOMED
+4229133,Lead,Substance,SNOMED
+4279553,Pulmonary eosinophilia,Disorder,SNOMED
+725356,Other pulmonary eosinophilia, not elsewhere classified,5-char billing code,ICD10CM
+4066400,Allergic pneumonia,Disorder,SNOMED
+40396476,Pulmonary eosinophilia,Disorder,SNOMED
+725352,Pulmonary eosinophilia, not elsewhere classified,4-char nonbill code,ICD10CM
+35208070,Pulmonary eosinophilia, not elsewhere classified,3-char nonbill code,ICD10CM
+725355,Eosinophilic asthma,5-char billing code,ICD10CM
+44827830,Pulmonary eosinophilia,4-dig billing code,ICD9CM
+4025172,Pulmonary eosinophilia NOS,Disorder,SNOMED
+766346,Thrombocytosis, unspecified,6-char billing code,ICD10CM
+40332932,Thrombocythemia,Clinical Finding,SNOMED
+40634666,Thrombocythemia,Disorder,SNOMED
+40301840,Thrombocythemia,Clinical Finding,SNOMED
+766345,Other thrombocytosis,6-char billing code,ICD10CM
+4280071,Thrombocytosis,Disorder,SNOMED
+766344,Thrombocytosis,5-char nonbill code,ICD10CM
+35206710,Nutritional anemia, unspecified,4-char billing code,ICD10CM
+35206709,Other specified nutritional anemias,4-char billing code,ICD10CM
+1567841,Other nutritional anemias,3-char nonbill code,ICD10CM
+40390955,[X]Nutritional anemias,Disorder,SNOMED
+44831063,Anemia associated with other specified nutritional deficiency,4-dig billing code,ICD9CM
+42536524,Acquired lymphocytosis,Disorder,SNOMED
+45605380,Lymphocytosis (symptomatic),6-char billing code,ICD10CM
+44822963,Lymphocytosis (symptomatic),5-dig billing code,ICD9CM
+4306108,Lymphocytosis - absolute,Disorder,SNOMED
+37397341,Monoclonal B-cell lymphocytosis,Disorder,SNOMED
+763704,History of lymphocytosis,Context-dependent,SNOMED
+40390915,Stress polycythemia,Disorder,SNOMED
+4285372,Stress polycythemia,Disorder,SNOMED
+40390448,Congenital dyserythropoietic anemia type II,Disorder,SNOMED
+40468073,Urticaria pigmentosa, diffuse erythrodermic type,Disorder,SNOMED
+138713,Disorder of parathyroid gland,Disorder,SNOMED
+40491316,Hemoglobin H constant spring thalassemia,Disorder,SNOMED
+35206717,Alpha thalassemia,4-char billing code,ICD10CM
+44828817,Alpha thalassemia,5-dig billing code,ICD9CM
+4338370,Megaloblastic anemia due to alcoholism,Disorder,SNOMED
+37399506,Thong Douglas Ferrante syndrome,Disorder,SNOMED
+37109666,Neutrophil immunodeficiency syndrome,Disorder,SNOMED
+4298012,Jung syndrome,Disorder,SNOMED
+37162781,Susceptibility to localized juvenile periodontitis,Disorder,SNOMED
+4298013,Siccardi syndrome,Disorder,SNOMED
+4294529,Chronic granulomatous disease, type IVA,Disorder,SNOMED
+40572201,Haemoglobin C trait,Disorder,SNOMED
+37310698,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbC (Haemoglobin C) carrier,Context-dependent,SNOMED
+4296601,Eosinophilic myopathy,Disorder,SNOMED
+440330,Bartonellosis,Disorder,SNOMED
+4297024,Hemolytic anemia caused by Bartonella,Disorder,SNOMED
+4267420,Bartonella,Organism,SNOMED
+4347537,Oroya fever,Disorder,SNOMED
+4254392,Hemolytic anemia associated with infection,Disorder,SNOMED
+4298975,Hemolytic anemia due to malaria,Disorder,SNOMED
+40406266,Polycythemia due to maternal fetal transfusion,Disorder,SNOMED
+4145594,Plasmodium,Organism,SNOMED
+438067,Malaria,Disorder,SNOMED
+4300089,Chronic granulomatous disease, type II,Disorder,SNOMED
+40390392,(Hemoglobinuria: [March]) or (Marchiafava-Micheli syndrome),Disorder,SNOMED
+40275367,March hemoglobinuria,Disorder,SNOMED
+4112495,Mechanical stress,Physical Force,SNOMED
+40390896,Chronic granulomatous disease,Disorder,SNOMED
+40278004,Chronic granulomatous disease,Disorder,SNOMED
+4101127,Congenital dysphagocytosis,Disorder,SNOMED
+4105080,Decreased platelet production,Clinical Finding,SNOMED
+4183421,Tryptophan,Substance,SNOMED
+40541775,Thrombotic thrombocytopenic purpura,Disorder,SNOMED
+40393248,Thrombotic thrombocytopenic purpura,Disorder,SNOMED
+606432,Glomerular disorder due to thrombotic thrombocytopenic purpura,Disorder,SNOMED
+40393249,Thrombotic thrombocytopenic purpura,Disorder,SNOMED
+40315982,Thrombotic thrombocytopenic purpura,Disorder,SNOMED
+37165593,Immunoglobulin G4 related eosinophilic angiocentric fibrosis,Disorder,SNOMED
+4100241,Eosinophilia NOS,Disorder,SNOMED
+4307857,Disseminated eosinophilic collagen disease,Disorder,SNOMED
+4343929,Toxic oil syndrome,Disorder,SNOMED
+3557568,Eosinophilia NOS,Disorder,SNOMED
+4031956,Pantothenic acid deficiency,Disorder,SNOMED
+40406265,Polycythemia due to donor twin transfusion,Disorder,SNOMED
+40301812,Lymphocytosis - absolute,Clinical Finding,SNOMED
+201820,Diabetes mellitus,Disorder,SNOMED
+40348976,Disseminated eosinophilic collagen disease,Disorder,SNOMED
+3559366,Hypereosinophilic syndrome,Undefined,SNOMED
+45546682,Rh incompatibility with delayed hemolytic transfusion reaction, subsequent encounter,7-char billing code,ICD10CM
+19301,Rh incompatibility with delayed hemolytic transfusion reaction,6-char nonbill code,ICD10CM
+19296,ABO incompatibility with delayed hemolytic transfusion reaction,6-char nonbill code,ICD10CM
+19306,Non-ABO incompatibility with delayed hemolytic transfusion reaction,6-char nonbill code,ICD10CM
+44821414,Non-ABO incompatibility with delayed hemolytic transfusion reaction,5-dig billing code,ICD9CM
+44830642,Rh incompatibility with delayed hemolytic transfusion reaction,5-dig billing code,ICD9CM
+45551472,Non-ABO incompatibility with delayed hemolytic transfusion reaction, subsequent encounter,7-char billing code,ICD10CM
+44827190,Delayed hemolytic transfusion reaction, incompatibility unspecified,5-dig billing code,ICD9CM
+45561011,ABO incompatibility with delayed hemolytic transfusion reaction, initial encounter,7-char billing code,ICD10CM
+45585221,Non-ABO incompatibility with delayed hemolytic transfusion reaction, sequela,7-char billing code,ICD10CM
+45556230,Delayed hemolytic transfusion reaction, unspecified incompatibility, initial encounter,7-char billing code,ICD10CM
+45570691,ABO incompatibility with delayed hemolytic transfusion reaction, subsequent encounter,7-char billing code,ICD10CM
+44836494,ABO incompatibility with delayed hemolytic transfusion reaction,5-dig billing code,ICD9CM
+45551471,Non-ABO incompatibility with delayed hemolytic transfusion reaction, initial encounter,7-char billing code,ICD10CM
+45556227,Rh incompatibility with delayed hemolytic transfusion reaction, initial encounter,7-char billing code,ICD10CM
+19320,Delayed hemolytic transfusion reaction, unspecified incompatibility,6-char nonbill code,ICD10CM
+45556231,Delayed hemolytic transfusion reaction, unspecified incompatibility, subsequent encounter,7-char billing code,ICD10CM
+45599738,Delayed hemolytic transfusion reaction, unspecified incompatibility, sequela,7-char billing code,ICD10CM
+4308045,Pseudo-polycythemia,Disorder,SNOMED
+4195803,Bone density scan,Procedure,SNOMED
+3557954,Macrocytic anaemia of unspecified cause,Disorder,SNOMED
+4122925,Macrocytic anemia of unspecified cause,Disorder,SNOMED
+40389988,Macrocytic anemia of unspecified cause,Disorder,SNOMED
+4097906,White blood cell test,Procedure,SNOMED
+438114,Vitamin A deficiency,Disorder,SNOMED
+437246,Vitamin B deficiency,Disorder,SNOMED
+433811,Hydronephrosis,Disorder,SNOMED
+4186619,Chlorate,Substance,SNOMED
+4218106,Alcoholism,Disorder,SNOMED
+4314802,Kasabach-Merritt syndrome,Disorder,SNOMED
+506552,H/O: HELLP (haemolysis, elevated liver enzymes, low platelet count) syndrome,Context-dependent,SNOMED
+4326744,Blood pressure,Observable Entity,SNOMED
+45572763,HELLP syndrome (HELLP), second trimester,5-char billing code,ICD10CM
+45563053,HELLP syndrome (HELLP), third trimester,5-char billing code,ICD10CM
+40394357,Syndrome of hemolysis, elevated liver enzymes and low platelet,Disorder,SNOMED
+45577561,HELLP syndrome (HELLP), unspecified trimester,5-char billing code,ICD10CM
+37200971,HELLP syndrome, complicating childbirth,5-char billing code,ICD10CM
+37111517,Past pregnancy history of hemolysis-elevated liver enzymes-low platelet count syndrome,Context-dependent,SNOMED
+45582448,HELLP syndrome,4-char nonbill code,ICD10CM
+37200972,HELLP syndrome, complicating the puerperium,5-char billing code,ICD10CM
+4220084,Radiation,Physical Force,SNOMED
+4178792,Anemia due to chemotherapy,Disorder,SNOMED
+40431885,Lazy leukocyte syndrome,Disorder,SNOMED
+3546468,Macrophage activation syndrome,Disorder,SNOMED
+3546469,Macrophage activation syndrome,Undefined,SNOMED
+4061914,Aniline,Substance,SNOMED
+4270772,Primate erythroparvovirus 1,Organism,SNOMED
+40406262,Neonatal thrombocytopenia: [other specified transient] or [due to platelet alloimmunization],Disorder,SNOMED
+40431951,Alloimmune neonatal thrombocytopenia,Disorder,SNOMED
+40431950,Neonatal isoimmune thrombocytopenia,Disorder,SNOMED
+40292199,Neonatal alloimmune thrombocytopenia,Disorder,SNOMED
+40362611,Isoimmune neonatal thrombocytopenia,Disorder,SNOMED
+40435641,Neonatal alloimmune thrombocytopenia,Disorder,SNOMED
+40442617,Carrion's disease,Disorder,SNOMED
+40377137,Bartonellosis (& [Carrion's disease] or [Oroya fever] or [verruga peruana]),Disorder,SNOMED
+4348169,Bartonella bacilliformis,Organism,SNOMED
+40339163,Bartonellosis,Disorder,SNOMED
+4257441,Chromosomal disorder,Disorder,SNOMED
+4050310,Deficiency of adenylate kinase,Disorder,SNOMED
+35624652,Autosomal recessive congenital methemoglobinemia type II,Disorder,SNOMED
+35624653,Autosomal recessive congenital methemoglobinemia type I,Disorder,SNOMED
+4273629,Chemotherapy,Procedure,SNOMED
+44833394,Antineoplastic chemotherapy induced anemia,4-dig billing code,ICD9CM
+45600609,Anemia due to antineoplastic chemotherapy,5-char billing code,ICD10CM
+45537931,Agranulocytosis secondary to cancer chemotherapy,4-char billing code,ICD10CM
+37161953,Periodontitis due to infantile genetic agranulocytosis,Disorder,SNOMED
+4313573,Cardiac function,Observable Entity,SNOMED
+44832211,Antineoplastic chemotherapy induced pancytopenia,5-dig billing code,ICD9CM
+45591012,Antineoplastic chemotherapy induced pancytopenia,6-char billing code,ICD10CM
+201618,Disorder of intestine,Disorder,SNOMED
+4077285,Increased nutritional requirement,Clinical Finding,SNOMED
+607141,Above expected nutrient requirement,Clinical Finding,SNOMED
+4152984,Serum globulin measurement,Procedure,SNOMED
+4174402,Immunoglobulin measurement,Procedure,SNOMED
+4095212,Paraprotein measurement,Procedure,SNOMED
+725241,Mixed type autoimmune hemolytic anemia,5-char billing code,ICD10CM
+36714533,X-linked sideroblastic anemia with spinocerebellar ataxia,Disorder,SNOMED
+4216359,Helicobacter pylori,Organism,SNOMED
+4085372,Intellectual ability,Observable Entity,SNOMED
+4230174,Adaptation behavior,Observable Entity,SNOMED
+4270760,Mucociliary clearance,Observable Entity,SNOMED
+441266,Thiamine deficiency,Disorder,SNOMED
+1242872,Bandavirus dabieense,Organism,SNOMED
+4015277,Birth head circumference,Observable Entity,SNOMED
+4173334,Congenital viral disease,Disorder,SNOMED
+133594,Bacterial sepsis of newborn,Disorder,SNOMED
+37016797,MYH9 related disease,Disorder,SNOMED
+4095349,May-Hegglin anomaly,Clinical Finding,SNOMED
+4030517,Fechtner syndrome,Disorder,SNOMED
+37017291,Antiretroviral,Substance,SNOMED
+4306138,Erythropoietin,Substance,SNOMED
+4304304,Zidovudine,Substance,SNOMED
+443597,Chronic kidney disease stage 3,Disorder,SNOMED
+4025208,Digestive system function,Observable Entity,SNOMED
+4113276,Movement,Observable Entity,SNOMED
+4059436,Malabsorption - iron,Disorder,SNOMED
+4053193,Deficiency of adenosinetriphosphatase,Disorder,SNOMED
+4027384,Inflammatory disorder,Disorder,SNOMED
+442313,Rheumatic fever,Disorder,SNOMED
+4009790,Hemolytic anemia associated with rheumatic disorder,Disorder,SNOMED
+4005188,Hemolytic anemia associated with ulcerative colitis,Disorder,SNOMED
+81893,Ulcerative colitis,Disorder,SNOMED
+4320480,Hemolytic anemia associated with systemic lupus erythematosus,Disorder,SNOMED
+257628,Systemic lupus erythematosus,Disorder,SNOMED
+35206692,Iron deficiency anemia secondary to blood loss (chronic),4-char billing code,ICD10CM
+4204380,Rheumatoid factor measurement,Procedure,SNOMED
+37160417,Felty syndrome with seronegative erosive rheumatoid arthritis,Disorder,SNOMED
+37167986,Leukocyte adhesion deficiency type III,Disorder,SNOMED
+37162212,Periodontitis due to leukocyte adhesion deficiency,Disorder,SNOMED
+436957,Functional disorders of polymorphonuclear neutrophils,Disorder,SNOMED
+35206775,Functional disorders of polymorphonuclear neutrophils,3-char billing code,ICD10CM
+44819533,Functional disorders of polymorphonuclear neutrophils,4-dig billing code,ICD9CM
+437663,Fever,Clinical Finding,SNOMED
+37163224,Multifocal lymphangioendotheliomatosis, thrombocytopenia syndrome,Disorder,SNOMED
+4177340,Body height measure,Observable Entity,SNOMED
+37166852,Monoclonal mast cell activation syndrome,Disorder,SNOMED
+45586110,Refractory cytopenia with multilineage dysplasia and ring sideroblasts,4-char billing code,ICD10CM
+4216427,Myelodysplastic syndrome with ring sideroblasts and multilineage dysplasia,Disorder,SNOMED
+36715584,Myelodysplastic/myeloproliferative neoplasm with ring sideroblasts and thrombocytosis,Disorder,SNOMED
+4342879,Peritoneal eosinophilia,Disorder,SNOMED
+37204530,Non-chronic lymphocytic leukemia monoclonal B-cell lymphocytosis,Disorder,SNOMED
+37206728,Monoclonal B-cell lymphocytosis chronic lymphocytic leukemia-type,Disorder,SNOMED
+4158265,Immunosuppressant,Substance,SNOMED
+37200022,Mast cell activation, unspecified,5-char billing code,ICD10CM
+37200025,Secondary mast cell activation,5-char billing code,ICD10CM
+37200023,Monoclonal mast cell activation syndrome,5-char billing code,ICD10CM
+37200026,Other mast cell activation disorder,5-char billing code,ICD10CM
+37200021,Mast cell activation syndrome and related disorders,4-char nonbill code,ICD10CM
+4073287,Chronic infectious disease,Disorder,SNOMED
+443611,Chronic kidney disease stage 5,Disorder,SNOMED
+443612,Chronic kidney disease stage 4,Disorder,SNOMED
+36717040,Chudley Lowry Hoar syndrome,Disorder,SNOMED
+44820703,Other secondary thrombocytopenia,5-dig billing code,ICD9CM
+44831071,Secondary thrombocytopenia,4-dig nonbill code,ICD9CM
+35206771,Secondary thrombocytopenia,4-char nonbill code,ICD10CM
+45576412,Other secondary thrombocytopenia,5-char billing code,ICD10CM
+46271022,Chronic kidney disease,Disorder,SNOMED
+40478891,Erythropoietin resistance in anemia of chronic kidney disease,Disorder,SNOMED
+3557178,Congenital haemolytic uraemic syndrome,Disorder,SNOMED
+37310699,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb (haemoglobin) O-Arab carrier,Context-dependent,SNOMED
+37310695,Result consistent with haemoglobin O-Arab carrier,Context-dependent,SNOMED
+45571635,Sickle-cell/Hb-C disease with splenic sequestration,6-char billing code,ICD10CM
+45561923,Hb-SS disease with splenic sequestration,5-char billing code,ICD10CM
+45561926,Sickle-cell thalassemia, unspecified, with splenic sequestration,6-char billing code,ICD10CM
+45600606,Other sickle-cell disorders with splenic sequestration,6-char billing code,ICD10CM
+35206751,Hereditary sideroblastic anemia,4-char billing code,ICD10CM
+44821805,Other drug-induced pancytopenia,5-dig billing code,ICD9CM
+4034100,Placental insufficiency,Disorder,SNOMED
+80204,Fetal growth restriction,Disorder,SNOMED
+46272950,Thrombocytopathy, asplenia and miosis,Disorder,SNOMED
+432545,Bacterial infectious disease,Disorder,SNOMED
+4249833,Domain Bacteria,Organism,SNOMED
+439727,Human immunodeficiency virus infection,Disorder,SNOMED
+45597052,Anemia complicating childbirth,5-char billing code,ICD10CM
+45557089,Anemia in chronic kidney disease,4-char billing code,ICD10CM
+196991,Chronic renal impairment,Disorder,SNOMED
+44831068,Anemia in chronic kidney disease,5-dig billing code,ICD9CM
+193782,End-stage renal disease,Disorder,SNOMED
+44783626,Pulmonary arterial hypertension associated with chronic hemolytic anemia,Disorder,SNOMED
+443392,Malignant neoplastic disease,Disorder,SNOMED
+4187345,Pupil constriction,Observable Entity,SNOMED
+4237865,Size of pupil,Observable Entity,SNOMED

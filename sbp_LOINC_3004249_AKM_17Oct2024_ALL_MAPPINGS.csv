@@ -1,0 +1,10 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3004249,8480-6,Systolic blood pressure,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Mapped from,1002234,HEDIS 2020 Value Set - Systolic Blood Pressure,94144-3,Lab Test,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Has property,1029716,Pressure,LP6847-0,LOINC Property,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Has system,40778436,Arterial system,LP7034-4,LOINC System,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Mapped from,36031338,HEDIS MY 2020 Value Set - Systolic Blood Pressure,96066-6,Lab Test,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Mapped from,3004249,Systolic blood pressure,8480-6,Clinical Observation,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Maps to,3004249,Systolic blood pressure,8480-6,Clinical Observation,LOINC
+3004249,8480-6,Systolic blood pressure,LOINC,Has component,1030724,Intravascular systolic,LP72836-7,LOINC Component,LOINC

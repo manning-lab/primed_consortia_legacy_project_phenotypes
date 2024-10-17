@@ -1,0 +1,53 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Maps to,3000905,Leukocytes [#/volume] in Blood by Automated count,6690-2,Lab Test,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Mapped from,3000905,Leukocytes [#/volume] in Blood by Automated count,6690-2,Lab Test,LOINC
+3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Mapped from,3001657,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,12227-5,Lab Test,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Has component,1023812,Leukocytes^^corrected for nucleated erythrocytes,LP308158-7,LOINC Component,LOINC
+3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,LOINC,Maps to,3001657,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,12227-5,Lab Test,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Maps to,3003282,Leukocytes [#/volume] in Blood by Manual count,804-5,Lab Test,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Mapped from,3003282,Leukocytes [#/volume] in Blood by Manual count,804-5,Lab Test,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Mapped from,3010813,Leukocytes [#/volume] in Blood,26464-8,Lab Test,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Maps to,3010813,Leukocytes [#/volume] in Blood,26464-8,Lab Test,LOINC
+3010813,26464-8,Leukocytes [#/volume] in Blood,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Maps to,3032393,Leukocytes [#/volume] in Blood by Estimate,49498-9,Lab Test,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Mapped from,3032393,Leukocytes [#/volume] in Blood by Estimate,49498-9,Lab Test,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Has method,1029203,Estimate,LP64451-5,LOINC Method,LOINC
+3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Mapped from,3046900,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,33256-9,Lab Test,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Maps to,3046900,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,33256-9,Lab Test,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Has component,1023812,Leukocytes^^corrected for nucleated erythrocytes,LP308158-7,LOINC Component,LOINC
+3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
+37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,LOINC,Subsumes,3003282,Leukocytes [#/volume] in Blood by Manual count,804-5,Lab Test,LOINC
+37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,LOINC,Subsumes,3000905,Leukocytes [#/volume] in Blood by Automated count,6690-2,Lab Test,LOINC
+37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,LOINC,Subsumes,3046900,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,33256-9,Lab Test,LOINC
+37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,LOINC,Subsumes,3001657,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,12227-5,Lab Test,LOINC
+37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,LOINC,Subsumes,3032393,Leukocytes [#/volume] in Blood by Estimate,49498-9,Lab Test,LOINC
+37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,LOINC,Subsumes,3010813,Leukocytes [#/volume] in Blood,26464-8,Lab Test,LOINC

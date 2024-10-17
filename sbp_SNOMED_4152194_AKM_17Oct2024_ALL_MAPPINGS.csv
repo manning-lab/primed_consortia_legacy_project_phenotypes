@@ -1,0 +1,118 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4152194,271649006,Systolic blood pressure,SNOMED,Maps to,4152194,Systolic blood pressure,271649006,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,44789315,Ambulatory systolic blood pressure,198081000000101,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,44806887,Systolic blood pressure centile,814101000000107,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,4292062,Standing systolic blood pressure,400974009,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,4197167,24 hour systolic blood pressure,314464000,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,4232915,Sitting systolic blood pressure,407554009,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,4217013,Systolic arterial pressure,72313002,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,37160570,Self reported systolic blood pressure,1162737008,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,37396683,Baseline systolic blood pressure,716579001,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,4161413,Systolic blood pressure on admission,399304008,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Mapped from,4152194,Systolic blood pressure,271649006,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,45769778,Systolic blood pressure of neonate at birth,708502007,Observable Entity,SNOMED
+4152194,271649006,Systolic blood pressure,SNOMED,Subsumes,4248525,Lying systolic blood pressure,407556006,Observable Entity,SNOMED
+4161413,399304008,Systolic blood pressure on admission,SNOMED,Mapped from,4161413,Systolic blood pressure on admission,399304008,Observable Entity,SNOMED
+4161413,399304008,Systolic blood pressure on admission,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+4161413,399304008,Systolic blood pressure on admission,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4161413,399304008,Systolic blood pressure on admission,SNOMED,Maps to,4161413,Systolic blood pressure on admission,399304008,Observable Entity,SNOMED
+4161413,399304008,Systolic blood pressure on admission,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4161413,399304008,Systolic blood pressure on admission,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Mapped from,4197167,24 hour systolic blood pressure,314464000,Observable Entity,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Has time aspect,4047939,24 hours,123027009,Qualifier Value,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Maps to,4197167,24 hour systolic blood pressure,314464000,Observable Entity,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4197167,314464000,24 hour systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Maps to,4217013,Systolic arterial pressure,72313002,Observable Entity,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Mapped from,4217013,Systolic arterial pressure,72313002,Observable Entity,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Interprets of,4044183,Normal systolic arterial pressure,12929001,Clinical Finding,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Interprets of,4217168,Decreased systolic arterial pressure,81010002,Clinical Finding,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Interprets of,45768795,Post exercise systolic blood pressure response abnormal,707303003,Clinical Finding,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Interprets of,4084684,Abnormal systolic arterial pressure,18352002,Clinical Finding,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Inheres in,4199457,Arterial structure,51114001,Body Structure,SNOMED
+4217013,72313002,Systolic arterial pressure,SNOMED,Interprets of,4109301,Increased systolic arterial pressure,18050000,Clinical Finding,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Mapped from,3551314,Sitting systolic blood pressure,95281000000109,Undefined,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Has precondition,4142787,Sitting position,33586001,Clinical Finding,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Mapped from,3551583,Sitting systolic blood pressure,100151000000109,Undefined,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Concept same_as from,3551583,Sitting systolic blood pressure,100151000000109,Undefined,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Concept same_as from,3551314,Sitting systolic blood pressure,95281000000109,Undefined,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Maps to,4232915,Sitting systolic blood pressure,407554009,Observable Entity,SNOMED
+4232915,407554009,Sitting systolic blood pressure,SNOMED,Mapped from,4232915,Sitting systolic blood pressure,407554009,Observable Entity,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Mapped from,3551584,Lying systolic blood pressure,100171000000100,Undefined,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Mapped from,3551316,Lying systolic blood pressure,95301000000105,Undefined,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Concept same_as from,3551584,Lying systolic blood pressure,100171000000100,Undefined,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Concept same_as from,3551316,Lying systolic blood pressure,95301000000105,Undefined,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Mapped from,4248525,Lying systolic blood pressure,407556006,Observable Entity,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Maps to,4248525,Lying systolic blood pressure,407556006,Observable Entity,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+4248525,407556006,Lying systolic blood pressure,SNOMED,Has precondition,4009887,Recumbent body position,102538003,Clinical Finding,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Maps to,4292062,Standing systolic blood pressure,400974009,Observable Entity,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Mapped from,4292062,Standing systolic blood pressure,400974009,Observable Entity,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Has precondition,4033753,Orthostatic body position,10904000,Clinical Finding,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Mapped from,3550889,Standing systolic blood pressure,75131000000106,Undefined,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Concept same_as from,3550889,Standing systolic blood pressure,75131000000106,Undefined,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Mapped from,3550987,Standing systolic blood pressure,79401000000106,Undefined,SNOMED
+4292062,400974009,Standing systolic blood pressure,SNOMED,Concept same_as from,3550987,Standing systolic blood pressure,79401000000106,Undefined,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Has technique,603082,Self reported,1156040003,Qualifier Value,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Mapped from,37160570,Self reported systolic blood pressure,1162737008,Observable Entity,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Maps to,37160570,Self reported systolic blood pressure,1162737008,Observable Entity,SNOMED
+37160570,1162737008,Self reported systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Concept same_as from,46284421,Baseline systolic blood pressure,945871000000107,Observable Entity,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Concept same_as from,3561124,Baseline systolic blood pressure,945881000000109,Undefined,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Mapped from,3561124,Baseline systolic blood pressure,945881000000109,Undefined,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Maps to,37396683,Baseline systolic blood pressure,716579001,Observable Entity,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Mapped from,37396683,Baseline systolic blood pressure,716579001,Observable Entity,SNOMED
+37396683,716579001,Baseline systolic blood pressure,SNOMED,Mapped from,46284421,Baseline systolic blood pressure,945871000000107,Observable Entity,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Mapped from,44789315,Ambulatory systolic blood pressure,198081000000101,Observable Entity,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Mapped from,3553854,Ambulatory systolic blood pressure,213041000000101,Undefined,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Concept same_as from,3553854,Ambulatory systolic blood pressure,213041000000101,Undefined,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Mapped from,3553853,Ambulatory systolic blood pressure,213031000000105,Undefined,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Concept same_as from,3553853,Ambulatory systolic blood pressure,213031000000105,Undefined,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Has property type,36716283,Pressure,722243006,Qualifier Value,SNOMED
+44789315,198081000000101,Ambulatory systolic blood pressure,SNOMED,Maps to,44789315,Ambulatory systolic blood pressure,198081000000101,Observable Entity,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Maps to,44806887,Systolic blood pressure centile,814101000000107,Observable Entity,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Mapped from,44806887,Systolic blood pressure centile,814101000000107,Observable Entity,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Mapped from,3559136,Systolic blood pressure centile,814111000000109,Undefined,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Has property type,36716283,Pressure,722243006,Qualifier Value,SNOMED
+44806887,814101000000107,Systolic blood pressure centile,SNOMED,Concept same_as from,3559136,Systolic blood pressure centile,814111000000109,Undefined,SNOMED
+45769778,708502007,Systolic blood pressure of neonate at birth,SNOMED,Has property,36716283,Pressure,722243006,Qualifier Value,SNOMED
+45769778,708502007,Systolic blood pressure of neonate at birth,SNOMED,Characterizes,36716960,Systolic phase,723228002,Qualifier Value,SNOMED
+45769778,708502007,Systolic blood pressure of neonate at birth,SNOMED,Has scale type,4149267,Quantitative,30766002,Qualifier Value,SNOMED
+45769778,708502007,Systolic blood pressure of neonate at birth,SNOMED,Maps to,45769778,Systolic blood pressure of neonate at birth,708502007,Observable Entity,SNOMED
+45769778,708502007,Systolic blood pressure of neonate at birth,SNOMED,Mapped from,45769778,Systolic blood pressure of neonate at birth,708502007,Observable Entity,SNOMED
+45769778,708502007,Systolic blood pressure of neonate at birth,SNOMED,Inheres in,4014241,Structure of cardiovascular system,113257007,Body Structure,SNOMED

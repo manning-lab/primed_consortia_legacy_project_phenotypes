@@ -1,0 +1,179 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4093981,Previous well-weight,Observable Entity,SNOMED
+4048380,Single point in time,Qualifier Value,SNOMED
+4041088,Mass,Qualifier Value,SNOMED
+4242541,Entire body as a whole,Body Structure,SNOMED
+4310154,Body weight with shoes,Observable Entity,SNOMED
+40452545,Body weight,Observable Entity,SNOMED
+763937,Normal weight in childhood,Clinical Finding,SNOMED
+4060598,O/E - weight within 10% ideal,Clinical Finding,SNOMED
+4310995,Abnormal weight in relation to growth / age standard,Clinical Finding,SNOMED
+40484200,Dry body weight,Observable Entity,SNOMED
+37160426,Dosing body weight,Observable Entity,SNOMED
+37160443,Post-dialysis body weight,Observable Entity,SNOMED
+37160447,Pre-dialysis body weight,Observable Entity,SNOMED
+4099154,Body weight,Observable Entity,SNOMED
+42536495,Current body weight,Observable Entity,SNOMED
+40480593,Estimated weight using Broselow Luten pediatric weight estimation,Observable Entity,SNOMED
+42539423,Weight abnormal for age,Clinical Finding,SNOMED
+4268280,Baseline weight,Observable Entity,SNOMED
+4264825,Birth weight,Observable Entity,SNOMED
+4183890,Normal weight,Clinical Finding,SNOMED
+37205098,Self reported body weight,Observable Entity,SNOMED
+4175354,Body weight without shoes,Observable Entity,SNOMED
+37160437,Pre-amputation estimated body weight,Observable Entity,SNOMED
+4330994,Abnormal weight,Clinical Finding,SNOMED
+4178502,Body weight measure,Observable Entity,SNOMED
+36714072,Syndromic X-linked intellectual disability type 7,Disorder,SNOMED
+438731,Localized adiposity,Disorder,SNOMED
+36674490,Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome,Disorder,SNOMED
+4171972,Adult-onset obesity,Disorder,SNOMED
+36713437,Choroideremia with deafness and obesity syndrome,Disorder,SNOMED
+36678790,Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome,Disorder,SNOMED
+4189665,Obesity by fat distribution pattern,Disorder,SNOMED
+37110069,MOMO syndrome,Disorder,SNOMED
+42539192,Severe obesity complicating pregnancy,Disorder,SNOMED
+37164247,MAGEL2-related Prader-Willi-like syndrome,Disorder,SNOMED
+4163032,Hyperplastic-hypertrophic obesity,Disorder,SNOMED
+45757112,Obesity in mother complicating childbirth,Disorder,SNOMED
+4177337,Hypogonadal obesity,Disorder,SNOMED
+45763687,Congenital leptin deficiency,Disorder,SNOMED
+44782444,Involuntary weight loss,Clinical Finding,SNOMED
+37164244,SIM1-related Prader-Willi-like syndrome,Disorder,SNOMED
+4005991,Hyperinsulinar obesity,Disorder,SNOMED
+4171147,Hypertrophic obesity,Disorder,SNOMED
+4183240,Obesity of endocrine origin,Disorder,SNOMED
+4146858,O/E - weight greater than 20% over ideal,Clinical Finding,SNOMED
+434005,Morbid obesity,Disorder,SNOMED
+45771307,Proopiomelanocortin deficiency syndrome,Disorder,SNOMED
+36676689,Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome,Disorder,SNOMED
+4212443,Obesity by adipocyte growth pattern,Disorder,SNOMED
+4060333,O/E - weight,Clinical Finding,SNOMED
+4270189,Alstrom syndrome,Disorder,SNOMED
+37160439,Pre-amputation measured body weight,Observable Entity,SNOMED
+4211019,Steatopygia,Disorder,SNOMED
+437525,Overweight,Clinical Finding,SNOMED
+4093860,Peripheral obesity,Disorder,SNOMED
+4100857,Extreme obesity with alveolar hypoventilation,Disorder,SNOMED
+4215968,Obese,Clinical Finding,SNOMED
+4060334,O/E - weight greater than 20% below ideal,Clinical Finding,SNOMED
+4256640,Body mass index 40+ - severely obese,Clinical Finding,SNOMED
+4185912,Hyperplastic obesity,Disorder,SNOMED
+36716555,Obesity caused by energy imbalance,Disorder,SNOMED
+37166818,Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome,Disorder,SNOMED
+4116802,Finding of measures of body weight,Clinical Finding,SNOMED
+4203289,Hypothyroid obesity,Disorder,SNOMED
+42872460,Overweight in childhood,Clinical Finding,SNOMED
+4087487,Central obesity,Disorder,SNOMED
+4189664,Obesity by age of onset,Disorder,SNOMED
+37166819,Genetic non-syndromic obesity,Disorder,SNOMED
+44811757,Obese class III (body mass index equal to or greater than 40.0),Clinical Finding,SNOMED
+763588,Obese class I,Clinical Finding,SNOMED
+44782877,Involuntary weight gain,Clinical Finding,SNOMED
+4271317,Adiposogenital dystrophy,Disorder,SNOMED
+4029276,Generalized obesity,Disorder,SNOMED
+3661507,High body weight,Clinical Finding,SNOMED
+36714527,X-linked intellectual disability with precocious puberty and obesity syndrome,Disorder,SNOMED
+37397209,Obesity due to melanocortin 4 receptor deficiency,Disorder,SNOMED
+4182506,Endogenous obesity,Disorder,SNOMED
+763589,Obese class II,Clinical Finding,SNOMED
+36717199,Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome,Disorder,SNOMED
+36716554,Overweight in adulthood with body mass index of 25 or more but less than 30,Clinical Finding,SNOMED
+4154182,Measurement technique,Qualifier Value,SNOMED
+4175214,O/E - overweight,Clinical Finding,SNOMED
+35622038,Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome,Disorder,SNOMED
+37204691,Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency,Disorder,SNOMED
+36713550,Moderate underweight in infancy childhood and adolescence,Clinical Finding,SNOMED
+36716151,Obesity due to prohormone convertase I deficiency,Disorder,SNOMED
+37204685,Obesity due to CEP19 deficiency,Disorder,SNOMED
+4060985,Body mass index 30+ - obesity,Clinical Finding,SNOMED
+36716144,MEHMO syndrome,Disorder,SNOMED
+44810914,Unintentional weight gain,Clinical Finding,SNOMED
+37311728,Obese class III,Clinical Finding,SNOMED
+4216214,Mauriac's syndrome,Disorder,SNOMED
+37208175,Lower body obesity,Disorder,SNOMED
+433736,Obesity,Disorder,SNOMED
+37163354,PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome,Disorder,SNOMED
+4037679,O/E - obese,Clinical Finding,SNOMED
+4097996,Drug-induced obesity,Disorder,SNOMED
+36714548,Wilson Turner syndrome,Disorder,SNOMED
+4097929,Constitutional obesity,Disorder,SNOMED
+1245357,Clark Baraitser syndrome,Disorder,SNOMED
+4160821,Familial obesity,Disorder,SNOMED
+36674893,Intellectual disability, seizures, macrocephaly, obesity syndrome,Disorder,SNOMED
+4060705,Body mass index 25-29 - overweight,Clinical Finding,SNOMED
+37165655,X-linked intellectual disability, short stature, overweight syndrome,Disorder,SNOMED
+36717154,Hydrocephalus with obesity and hypogonadism syndrome,Disorder,SNOMED
+44811711,Obese class I (body mass index 30.0 - 34.9),Clinical Finding,SNOMED
+4220527,Hypothalamic obesity,Disorder,SNOMED
+42872398,Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum,Disorder,SNOMED
+4037520,O/E - ectomorph,Clinical Finding,SNOMED
+4215969,Obesity by contributing factors,Disorder,SNOMED
+37162364,Obesity due to pituitary disease,Disorder,SNOMED
+37204815,Obesity due to SIM1 deficiency,Disorder,SNOMED
+4235799,Buffalo obesity,Disorder,SNOMED
+4171317,Lifelong obesity,Disorder,SNOMED
+439893,Maternal obesity syndrome,Disorder,SNOMED
+4029277,Fat pad syndrome,Disorder,SNOMED
+37311904,Obesity in adolescence,Disorder,SNOMED
+37018860,Severe obesity,Disorder,SNOMED
+37395980,MORM syndrome,Disorder,SNOMED
+4079899,Android obesity,Disorder,SNOMED
+37206117,Obesity due to leptin receptor gene deficiency,Disorder,SNOMED
+44811712,Obese class II (body mass index 35.0 - 39.9),Clinical Finding,SNOMED
+4061230,O/E - Underweight,Clinical Finding,SNOMED
+604591,6q16 microdeletion syndrome,Disorder,SNOMED
+4029900,Gynecoid obesity,Disorder,SNOMED
+36717647,Severe underweight in infancy childhood and adolescence,Clinical Finding,SNOMED
+4060965,O/E -weight 10-20% below ideal,Clinical Finding,SNOMED
+4217557,Simple obesity,Disorder,SNOMED
+4150937,O/E - weight 10-20% over ideal,Clinical Finding,SNOMED
+40481140,Childhood obesity,Disorder,SNOMED
+36674827,Prader-Willi-like syndrome,Disorder,SNOMED
+40311828,Birth weight,Observable Entity,SNOMED
+4079859,High birth weight,Disorder,SNOMED
+4171114,Birth weight abnormality,Disorder,SNOMED
+4147717,Baby birth weight 1.5 to 2 kilogram,Clinical Finding,SNOMED
+4064286,Small-for-dates baby,Disorder,SNOMED
+4187520,Birth weight finding,Clinical Finding,SNOMED
+4171115,Low birth weight infant,Disorder,SNOMED
+4149610,Birth weight 999 g or less,Clinical Finding,SNOMED
+37151512,Birth weight 1500 gram or less,Clinical Finding,SNOMED
+4103472,Finding of birth weight centile,Clinical Finding,SNOMED
+4151169,Baby birth weight less than 751gm,Clinical Finding,SNOMED
+4014460,Baby birth weight equal to 10 percent to 24 percent (2850-3149g),Clinical Finding,SNOMED
+4150396,Baby birth weight equal to 751g-1kg,Clinical Finding,SNOMED
+4030430,Large baby of diabetic mother,Disorder,SNOMED
+4015427,Baby birth weight equal to 25 percent to 49 percent (3150-3449g),Clinical Finding,SNOMED
+4015276,Baby birth weight 4400-4499g,Clinical Finding,SNOMED
+4015426,Baby birth weight equal to 3 percent to 9 percent (2500-2849g),Clinical Finding,SNOMED
+438258,Baby birth weight above 2.5kg,Clinical Finding,SNOMED
+40311846,Birth weight of baby NOS,Observable Entity,SNOMED
+4014303,Baby birth weight equal to or greater than 96 percent (over 4499g),Clinical Finding,SNOMED
+36712932,Large for gestational age newborn,Clinical Finding,SNOMED
+4015425,Baby birth weight under 3 percent (under 2500g),Clinical Finding,SNOMED
+4014461,Baby birth weight equal to 50 percent to 74 percent (3450-3749g),Clinical Finding,SNOMED
+4123429,Early neonatal period,Qualifier Value,SNOMED
+4150397,Baby birth weight 1 to 1.5 kilogram,Clinical Finding,SNOMED
+4149455,Baby birth weight 2 to 2.5 kilogram,Clinical Finding,SNOMED
+4173323,Extremely low birth weight infant,Disorder,SNOMED
+46271901,Birth weight less than 500g,Clinical Finding,SNOMED
+440532,Heavy-for-dates at birth regardless of gestation period,Disorder,SNOMED
+4149609,Birth weight 1000-2499 g,Clinical Finding,SNOMED
+4014302,Baby birth weight equal to 90 percent to 96 percent (4050-4399g),Clinical Finding,SNOMED
+434758,Exceptionally large at birth,Disorder,SNOMED
+4015428,Birth weight of baby NOS,Clinical Finding,SNOMED
+4080889,Normal birth weight,Clinical Finding,SNOMED
+3533547,Birth weight of baby NOS,Clinical Finding,SNOMED
+4079858,Very low birth weight infant,Disorder,SNOMED
+4014301,Baby birth weight equal to 75 percent to 89 percent (3750-4049g),Clinical Finding,SNOMED
+3550853,Baseline weight,Undefined,SNOMED
+3550886,Baseline weight,Undefined,SNOMED
+37160427,Self reported pre-pregnancy body weight,Observable Entity,SNOMED
+603082,Self reported,Qualifier Value,SNOMED
+42538440,Estimation technique,Qualifier Value,SNOMED
+4019623,Post-dialysis,Qualifier Value,SNOMED
+4019622,Pre-dialysis,Qualifier Value,SNOMED
+37164397,Self reported peak body weight,Observable Entity,SNOMED
+40484637,Broselow Luten color coding system for pediatric weight estimation,Staging / Scales,SNOMED
+3557127,Dry weight,Observable Entity,SNOMED

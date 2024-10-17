@@ -1,0 +1,9 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+1029816,Point in time (spot),LOINC Time,LOINC
+1033751,Qn,LOINC Scale,LOINC
+37057787,Intravascular diastolic,LOINC Component,LOINC
+1029716,Pressure,LOINC Property,LOINC
+40778436,Arterial system,LOINC System,LOINC
+36031827,HEDIS MY 2020 Value Set - Diastolic Blood Pressure,Lab Test,LOINC
+3012888,Diastolic blood pressure,Clinical Observation,LOINC
+1001775,HEDIS 2020 Value Set - Diastolic Blood Pressure,Lab Test,LOINC

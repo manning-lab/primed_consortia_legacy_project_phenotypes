@@ -1,0 +1,7 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+1029816,Point in time (spot),LOINC Time,LOINC
+1033751,Qn,LOINC Scale,LOINC
+40772531,Lymphocytes,LOINC Component,LOINC
+1029672,Number Concentration,LOINC Property,LOINC
+1029919,Blood,LOINC System,LOINC
+3019198,Lymphocytes [#/volume] in Blood,Lab Test,LOINC

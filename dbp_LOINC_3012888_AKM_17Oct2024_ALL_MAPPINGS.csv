@@ -1,0 +1,10 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3012888,8462-4,Diastolic blood pressure,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Has component,37057787,Intravascular diastolic,LP72831-8,LOINC Component,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Has property,1029716,Pressure,LP6847-0,LOINC Property,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Has system,40778436,Arterial system,LP7034-4,LOINC System,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Mapped from,36031827,HEDIS MY 2020 Value Set - Diastolic Blood Pressure,96064-1,Lab Test,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Mapped from,3012888,Diastolic blood pressure,8462-4,Clinical Observation,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Maps to,3012888,Diastolic blood pressure,8462-4,Clinical Observation,LOINC
+3012888,8462-4,Diastolic blood pressure,LOINC,Mapped from,1001775,HEDIS 2020 Value Set - Diastolic Blood Pressure,94143-5,Lab Test,LOINC

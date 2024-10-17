@@ -1,5 +1,5 @@
 ---
-title: "Codes for vocabularies"
+title: "PRIMED Consortium Legacy Project - Codes for Biobanks"
 output:
   html_document: 
     df_print: kable
@@ -7,11 +7,13 @@ output:
     number_sections: true
 ---
 
-# NHGRI's PRIMED Consortium "EMR Codes for Legacy Project"
+# PRIMED Consortium Legacy Project - Codes for Biobanks
 
 Release notes:
- - 15October2024: Added the codes to use for Trait queries
- - 30Sept2024.tsv: Added the codes to use for Drug queries
+
+-   17 October2024: Fixed the codes to use for Trait queries. Started on Conditions
+-   15October2024: Added the codes to use for Trait queries
+-   30Sept2024.tsv: Added the codes to use for Drug queries
 
 Table of Contents
 
@@ -20,6 +22,7 @@ library(DBI)
 library(RPostgreSQL)
 library(DatabaseConnector)
 library(SqlRender)
+library(dplyr)
 ```
 
 ## Common Data Model Vocabularies
@@ -99,7 +102,7 @@ ORDER BY vocabulary_id, min_separation
 # G06: Find concepts and their descendants that are covered by a given source code
 ```
 
-```{r eval=TRUE, echo=TRUE}
+```{r eval=FALSE, echo=FALSE}
 
 find_descendants_for_a_given_concept_id <- function(concept_id) {
   connectionDetails <- createConnectionDetails(dbms="postgresql", 
@@ -148,98 +151,262 @@ WHERE dc.standard_concept = 'S'
   return(results)
 }
 
+find_descendants_for_a_given_concept_code <- function(concept_code, concept_vocabulary="SNOMED") {
+  connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+  
+  sql <- render("WITH dm AS ( -- collect direct maps
+    SELECT
+      c1.concept_code     AS source_code,
+      c1.vocabulary_id    AS source_vocabulary_id,
+      c1.domain_id        AS source_domain_id,
+      c2.concept_id       AS target_concept_id,
+      c2.concept_name     AS target_concept_name,
+      c2.concept_code     AS target_concept_code,
+      c2.concept_class_id AS target_concept_class_id,
+      c2.vocabulary_id    AS target_concept_vocab_id
+    FROM primed.concept_relationship AS cr
+      JOIN primed.concept AS c1 ON cr.concept_id_1 = c1.concept_id
+      JOIN primed.concept AS c2 ON cr.concept_id_2 = c2.concept_id
+    WHERE
+      cr.relationship_id = 'Maps to' AND
+      c1.concept_code IN ('@concept_code') AND
+      c1.vocabulary_id = '@concept_vocabulary'
+)
+SELECT
+  dm.source_code,
+  dm.source_vocabulary_id,
+  dm.source_domain_id,
+  dc.concept_id       AS target_concept_id,
+  dc.concept_name     AS target_concept_name,
+  dc.concept_code     AS target_concept_code,
+  dc.concept_class_id AS target_concept_class_id,
+  dc.vocabulary_id    AS target_concept_vocab_id
+FROM primed.concept_ancestor AS ca -- collect descendants which includes ancestor itself
+  JOIN dm ON ca.ancestor_concept_id = dm.target_concept_id
+  JOIN primed.concept AS dc ON ca.descendant_concept_id = dc.concept_id
+WHERE dc.standard_concept = 'S'
+;",
+  concept_code=concept_code,
+  concept_vocabulary=concept_vocabulary)
+  print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  return(results)
+}
+```
+
+```{r eval=TRUE, echo=TRUE}
+
+find_descendants_and_mappings_for_a_given_concept_id <- function(concept_id,file_label) {
+  connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+  
+  sql <- render(
+"SELECT
+  a.concept_id	    AS target_concept_id,
+  a.concept_code  AS target_concept_code,
+  a.concept_name	AS	target_concept_name,
+  a.vocabulary_id AS target_vocab_id,
+  cr.relationship_id   AS relationship_id,
+  d.concept_id         AS concept_id,
+  d.concept_name       AS concept_name,
+  d.concept_code       AS concept_code,
+  d.concept_class_id   AS concept_class_id,
+  d.vocabulary_id      AS concept_vocab_id
+FROM primed.concept_relationship AS cr
+  JOIN primed.concept AS a ON cr.concept_id_1 = a.concept_id
+  JOIN primed.concept AS d ON cr.concept_id_2 = d.concept_id
+WHERE 
+  (a.concept_id = @concept_id OR
+  a.concept_id in ( -- this subquery gets all descendants of the concept
+    SELECT
+      c.concept_id               AS descendant_concept_id
+    FROM primed.concept_ancestor AS a
+      JOIN primed.concept AS c ON a.descendant_concept_id = c.concept_id
+    WHERE 
+      a.ancestor_concept_id != a.descendant_concept_id AND 
+      a.ancestor_concept_id = @concept_id
+      )) AND
+  NOT relationship_id In ('Is a','Has clinical course', 'Followed by','Occurs after','Has status','Has Module','Has finding site', 'Has pathology','Has asso morph','Has occurrence','Has interpretation','Contained in panel')
+  ORDER BY cr.concept_id_1
+;",
+  concept_id=concept_id)
+#  print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  print(paste("Number of results returned:", nrow(results),"; Unique Concept IDs:" ,sum(!duplicated(results$CONCEPT_ID))))
+  print(table(results$CONCEPT_CLASS_ID[!duplicated(results$CONCEPT_ID)], results$CONCEPT_VOCAB_ID[!duplicated(results$CONCEPT_ID)]))
+  write.table(results,file=paste0(file_label,"_ALL_MAPPINGS.csv"),sep=",",quote=FALSE,row.names=FALSE)
+  write.table(results[!duplicated(results$CONCEPT_ID),
+                      c("CONCEPT_ID","CONCEPT_NAME","CONCEPT_CLASS_ID","CONCEPT_VOCAB_ID")],
+              file=paste0(file_label,"_UNIQUE_CODES.csv"),sep=",",quote=FALSE,row.names=FALSE)
+
+  return(results)
+}
 
 ```
 
 ## Codes to use for Trait Queries
 
 ### White Blood Cell Count
-```{r echo=TRUE}
-white_blood_cell_count_OMOP_4298431 <- find_descendants_for_a_given_concept_id(4298431)
-write.table(white_blood_cell_count_OMOP_4298431,file="white_blood_cell_count_OMOP_4298431_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 
-table(white_blood_cell_count_OMOP_4298431$TARGET_CONCEPT_CLASS_ID, white_blood_cell_count_OMOP_4298431$TARGET_CONCEPT_VOCAB_ID)
+```{r echo=TRUE}
+white_blood_cell_count_OMOP_4298431 <- find_descendants_and_mappings_for_a_given_concept_id(4298431, file_label="white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024")
+
 ```
-Download file: [white_blood_cell_count_OMOP_4298431_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_OMOP_4298431_AKM_15Oct2024.tsv)
+
+Download files: 
+
+ - [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Lymphocytes \| Blood \| Hematology and Cell counts
+
+```{r}
+lymphocytes_in_blood_OMOP_3019198 <- find_descendants_and_mappings_for_a_given_concept_id(3019198, file_label="lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024")
+```
+
+Download files: 
+
+ - [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Leukocytes \| Blood \| Hematology and Cell counts
+
+```{r}
+leukocytes_in_blood_OMOP_37043992 <- find_descendants_and_mappings_for_a_given_concept_id(37043992, file_label="leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024")
+```
+
+Download files: 
+
+ - [leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### HbA1C
-```{r echo=TRUE}
-hba1c_OMOP_4184637 <- find_descendants_for_a_given_concept_id(4184637)
-write.table(hba1c_OMOP_4184637,file="hba1c_OMOP_4184637_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 
-table(hba1c_OMOP_4184637$TARGET_CONCEPT_CLASS_ID, hba1c_OMOP_4184637$TARGET_CONCEPT_VOCAB_ID)
+```{r echo=TRUE}
+hba1c_SNOMED_4184637 <- find_descendants_and_mappings_for_a_given_concept_id(4184637, file_label="hba1c_SNOMED_4184637_AKM_17Oct2024")
+
 ```
-Download file: [hba1c_OMOP_4184637_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_OMOP_4184637_AKM_15Oct2024.tsv)
+
+Download file: 
+
+ - [hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv](<https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### SBP
 
 ```{r echo=TRUE}
-sbp_OMOP_4152194 <- find_descendants_for_a_given_concept_id(4152194)
-write.table(sbp_OMOP_4152194,file="sbp_OMOP_4152194_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
-
-table(sbp_OMOP_4152194$TARGET_CONCEPT_CLASS_ID, sbp_OMOP_4152194$TARGET_CONCEPT_VOCAB_ID)
+sbp_SNOMED_4152194 <- find_descendants_and_mappings_for_a_given_concept_id(4152194, file_label="sbp_SNOMED_4152194_AKM_17Oct2024")
 ```
 
-Download file: [sbp_OMOP_4152194_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_OMOP_4152194_AKM_15Oct2024.tsv)
+Download file:
+
+ - [sbp_SNOMED_4152194_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_SNOMED_4152194_AKM_17Oct2024_ALL_MAPPINGS.csv)
+ - [sbp_SNOMED_4152194_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_SNOMED_4152194_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+```{r}
+sbp_LOINC_3004249 <- find_descendants_and_mappings_for_a_given_concept_id(3004249, file_label="sbp_LOINC_3004249_AKM_17Oct2024")
+```
+
+Download file: 
+
+ - [sbp_LOINC_3004249_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_LOINC_3004249_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+  - [sbp_LOINC_3004249_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_LOINC_3004249_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ```{r echo=TRUE}
-dbp_OMOP_4154790 <- find_descendants_for_a_given_concept_id(4154790)
-write.table(dbp_OMOP_4154790,file="dbp_OMOP_4154790_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+dbp_SNOMED_4154790 <- find_descendants_and_mappings_for_a_given_concept_id(4154790, file_label="dbp_SNOMED_4154790_AKM_17Oct2024")
 
-table(dbp_OMOP_4154790$TARGET_CONCEPT_CLASS_ID, dbp_OMOP_4154790$TARGET_CONCEPT_VOCAB_ID)
 ```
 
-Download file: [dbp_OMOP_4154790_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_OMOP_4154790_AKM_15Oct2024.tsv)
+Download file: 
+
+ - [dbp_SNOMED_4154790_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_SNOMED_4154790_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [dbp_SNOMED_4154790_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_SNOMED_4154790_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+```{r}
+dbp_LOINC_3012888 <- find_descendants_and_mappings_for_a_given_concept_id(3012888, file_label="dbp_LOINC_3012888_AKM_17Oct2024")
+```
+
+Download file: 
+
+ - [dbp_LOINC_3012888_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_LOINC_3012888_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [dbp_LOINC_3012888_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_LOINC_3012888_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### HDLC
 
 ```{r echo=TRUE}
-hdlc_OMOP_4101713 <- find_descendants_for_a_given_concept_id(4101713)
-write.table(hdlc_OMOP_4101713,file="hdlc_OMOP_4101713_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
-
-table(hdlc_OMOP_4101713$TARGET_CONCEPT_CLASS_ID, hdlc_OMOP_4101713$TARGET_CONCEPT_VOCAB_ID)
+hdlc_SNOMED_4101713 <- find_descendants_and_mappings_for_a_given_concept_id(4101713, file_label="hdlc_SNOMED_4101713_AKM_17Oct2024")
 ```
-Download file: [hdlc_OMOP_4101713_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_OMOP_4101713_AKM_15Oct2024.tsv)
+
+Download file:
+
+ - [hdlc_SNOMED_4101713_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_SNOMED_4101713_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+  - [hdlc_SNOMED_4101713_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_SNOMED_4101713_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### LDLC
-```{r echo=TRUE}
-ldlc_OMOP_4012479 <- find_descendants_for_a_given_concept_id(4012479)
-write.table(ldlc_OMOP_4012479,file="ldlc_OMOP_4012479_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 
-table(ldlc_OMOP_4012479$TARGET_CONCEPT_CLASS_ID, ldlc_OMOP_4012479$TARGET_CONCEPT_VOCAB_ID)
+```{r echo=TRUE}
+ldlc_SNOMED_4012479 <- find_descendants_and_mappings_for_a_given_concept_id(4012479, file_label="ldlc_SNOMED_4012479_AKM_17Oct2024")
 ```
-Download file: [ldlc_OMOP_4012479_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_OMOP_4012479_AKM_15Oct2024.tsv)
+
+Download file: 
+
+ - [ldlc_SNOMED_4012479_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_SNOMED_4012479_AKM_17Oct2024_ALL_MAPPINGS.csv)
+  - [ldlc_SNOMED_4012479_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_SNOMED_4012479_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### TG
-```{r echo=TRUE}
-tg_OMOP_4017787 <- find_descendants_for_a_given_concept_id(4017787)
-write.table(tg_OMOP_4017787,file="tg_OMOP_4017787_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 
-table(tg_OMOP_4017787$TARGET_CONCEPT_CLASS_ID, tg_OMOP_4017787$TARGET_CONCEPT_VOCAB_ID)
+```{r echo=TRUE}
+tg_SNOMED_4032789 <- find_descendants_and_mappings_for_a_given_concept_id(4032789, file_label="tg_SNOMED_4032789_AKM_17Oct2024")
 ```
 
-Download file: [tg_OMOP_4017787_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_OMOP_4017787_AKM_15Oct2024.tsv)
+Download file: 
+
+ - [tg_SNOMED_4032789_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_SNOMED_4032789_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [tg_SNOMED_4032789_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_SNOMED_4032789_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Weight
+
 ```{r echo=TRUE}
 
-weight_OMOP_4099154 <- find_descendants_for_a_given_concept_id(4099154)
-write.table(weight_OMOP_4099154,file="weight_OMOP_4099154_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
-
-table(weight_OMOP_4099154$TARGET_CONCEPT_CLASS_ID, weight_OMOP_4099154$TARGET_CONCEPT_VOCAB_ID)
+weight_SNOMED_4099154 <- find_descendants_and_mappings_for_a_given_concept_id(4099154, file_label="weight_SNOMED_4099154_AKM_17Oct2024")
 ```
 
-Download file: [weight_OMOP_4099154_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_OMOP_4099154_AKM_15Oct2024.tsv)
+Download file: 
+
+ - [weight_SNOMED_4099154_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_SNOMED_4099154_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [weight_SNOMED_4099154_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_SNOMED_4099154_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### height
-```{r echo=TRUE}
-height_OMOP_607590 <- find_descendants_for_a_given_concept_id(607590)
-write.table(height_OMOP_607590,file="height_OMOP_607590_AKM_15Oct2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 
-table(height_OMOP_607590$TARGET_CONCEPT_CLASS_ID, height_OMOP_607590$TARGET_CONCEPT_VOCAB_ID)
+```{r echo=TRUE}
+height_SNOMED_607590 <- find_descendants_and_mappings_for_a_given_concept_id(607590, file_label="height_SNOMED_607590_AKM_17Oct2024")
 ```
 
-Download file: [height_OMOP_607590_AKM_15Oct2024.tsv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_OMOP_607590_AKM_15Oct2024.tsv)
+Download file: 
+
+ - [height_SNOMED_607590_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_SNOMED_607590_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+ - [height_SNOMED_607590_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_SNOMED_607590_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+## Codes to use for Condition Exclusions
+
+### Codes for Blood Disorders
+
+#### Disorder of cellular component of blood
+
+```{r}
+disorder_of_cellular_component_of_blood_OMOP_443723 <- find_descendants_and_mappings_for_a_given_concept_id(443723, file_label="disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024")
+```
 
 ## Codes to use for Drugs Queries
 

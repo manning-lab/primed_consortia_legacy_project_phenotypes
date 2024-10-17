@@ -1,0 +1,30 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4256605,Length,Qualifier Value,SNOMED
+4172710,Infant length,Observable Entity,SNOMED
+600652,Recumbent body height,Observable Entity,SNOMED
+4014465,Birth length,Observable Entity,SNOMED
+4169807,Crown heel length,Observable Entity,SNOMED
+4009887,Recumbent body position,Clinical Finding,SNOMED
+4087492,Length of body,Observable Entity,SNOMED
+4242541,Entire body as a whole,Body Structure,SNOMED
+37160441,Estimated body height,Observable Entity,SNOMED
+4093975,Standing height,Observable Entity,SNOMED
+37160428,Pre-amputation measured body height,Observable Entity,SNOMED
+37163796,Microcephalic primordial dwarfism, insulin resistance syndrome,Disorder,SNOMED
+4075151,Leri-Weill dyschondrosteosis,Disorder,SNOMED
+37163548,Craniofacial dysplasia, short stature, ectodermal anomalies, intellectual disability syndrome,Disorder,SNOMED
+37160442,Self reported body height,Observable Entity,SNOMED
+37163586,Severe myopia, generalized joint laxity, short stature syndrome,Disorder,SNOMED
+607590,Body height,Observable Entity,SNOMED
+37163797,Retinitis pigmentosa, juvenile cataract, short stature, intellectual disability syndrome,Disorder,SNOMED
+37163768,QRICH1-related intellectual disability, chondrodysplasia syndrome,Disorder,SNOMED
+37163794,Cataract, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, skeletal dysplasia syndrome,Disorder,SNOMED
+40312272,Birth length,Observable Entity,SNOMED
+4123429,Early neonatal period,Qualifier Value,SNOMED
+4033753,Orthostatic body position,Clinical Finding,SNOMED
+4154182,Measurement technique,Qualifier Value,SNOMED
+37160440,Pre-amputation estimated body height,Observable Entity,SNOMED
+42538440,Estimation technique,Qualifier Value,SNOMED
+37164398,Self reported peak adult body height,Observable Entity,SNOMED
+37151108,Self reported body height,Observable Entity,SNOMED
+603082,Self reported,Qualifier Value,SNOMED

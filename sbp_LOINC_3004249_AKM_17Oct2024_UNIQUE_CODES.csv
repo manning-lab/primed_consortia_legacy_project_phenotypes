@@ -1,0 +1,9 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+1029816,Point in time (spot),LOINC Time,LOINC
+1033751,Qn,LOINC Scale,LOINC
+1002234,HEDIS 2020 Value Set - Systolic Blood Pressure,Lab Test,LOINC
+1029716,Pressure,LOINC Property,LOINC
+40778436,Arterial system,LOINC System,LOINC
+36031338,HEDIS MY 2020 Value Set - Systolic Blood Pressure,Lab Test,LOINC
+3004249,Systolic blood pressure,Clinical Observation,LOINC
+1030724,Intravascular systolic,LOINC Component,LOINC

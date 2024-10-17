@@ -1,0 +1,272 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4093981,248351003,Previous well-weight,SNOMED,Mapped from,4093981,Previous well-weight,248351003,Observable Entity,SNOMED
+4093981,248351003,Previous well-weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4093981,248351003,Previous well-weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+4093981,248351003,Previous well-weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4093981,248351003,Previous well-weight,SNOMED,Maps to,4093981,Previous well-weight,248351003,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,4310154,Body weight with shoes,424927000,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Mapped from,40452545,Body weight,248345008,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Interprets of,763937,Normal weight in childhood,448781000124101,Clinical Finding,SNOMED
+4099154,27113001,Body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4099154,27113001,Body weight,SNOMED,Interprets of,4060598,O/E - weight within 10% ideal,162766004,Clinical Finding,SNOMED
+4099154,27113001,Body weight,SNOMED,Interprets of,4310995,Abnormal weight in relation to growth / age standard,422503008,Clinical Finding,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,40484200,Dry body weight,445541000,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,37160426,Dosing body weight,1162388008,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,37160443,Post-dialysis body weight,1162420002,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,37160447,Pre-dialysis body weight,1162421003,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Mapped from,4099154,Body weight,27113001,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Maps to,4099154,Body weight,27113001,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,42536495,Current body weight,735395000,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,40480593,Estimated weight using Broselow Luten pediatric weight estimation,443245006,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Interprets of,42539423,Weight abnormal for age,734435008,Clinical Finding,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,4268280,Baseline weight,400967004,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Concept same_as from,40452545,Body weight,248345008,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,4264825,Birth weight,364589006,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Interprets of,4183890,Normal weight,43664005,Clinical Finding,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,37205098,Self reported body weight,784399000,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,4093981,Previous well-weight,248351003,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,4175354,Body weight without shoes,425024002,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,37160437,Pre-amputation estimated body weight,1162414003,Observable Entity,SNOMED
+4099154,27113001,Body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+4099154,27113001,Body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4099154,27113001,Body weight,SNOMED,Interprets of,4330994,Abnormal weight,22495007,Clinical Finding,SNOMED
+4099154,27113001,Body weight,SNOMED,Subsumes,4178502,Body weight measure,363808001,Observable Entity,SNOMED
+4175354,425024002,Body weight without shoes,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+4175354,425024002,Body weight without shoes,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4175354,425024002,Body weight without shoes,SNOMED,Maps to,4175354,Body weight without shoes,425024002,Observable Entity,SNOMED
+4175354,425024002,Body weight without shoes,SNOMED,Mapped from,4175354,Body weight without shoes,425024002,Observable Entity,SNOMED
+4175354,425024002,Body weight without shoes,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36714072,Syndromic X-linked intellectual disability type 7,719160009,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,438731,Localized adiposity,270486005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36674490,Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome,774102003,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4171972,Adult-onset obesity,296526005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36713437,Choroideremia with deafness and obesity syndrome,717761005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36678790,Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome,776204008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4189665,Obesity by fat distribution pattern,414920002,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37110069,MOMO syndrome,724137002,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,42539192,Severe obesity complicating pregnancy,15750121000119108,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37164247,MAGEL2-related Prader-Willi-like syndrome,1229946007,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4163032,Hyperplastic-hypertrophic obesity,293481008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,45757112,Obesity in mother complicating childbirth,10750551000119100,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4177337,Hypogonadal obesity,5036006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,45763687,Congenital leptin deficiency,700150001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,44782444,Involuntary weight loss,699205002,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37164244,SIM1-related Prader-Willi-like syndrome,1229943004,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4005991,Hyperinsulinar obesity,111036000,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4171147,Hypertrophic obesity,295509007,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4183240,Obesity of endocrine origin,298464002,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4146858,O/E - weight greater than 20% over ideal,268916007,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,434005,Morbid obesity,238136002,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,45771307,Proopiomelanocortin deficiency syndrome,702949005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36676689,Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome,773663004,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4212443,Obesity by adipocyte growth pattern,414917005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4060333,O/E - weight,162763007,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4270189,Alstrom syndrome,63702009,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Subsumes,37160439,Pre-amputation measured body weight,1162416001,Observable Entity,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4211019,Steatopygia,57337005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,437525,Overweight,238131007,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4093860,Peripheral obesity,248312008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4100857,Extreme obesity with alveolar hypoventilation,190966007,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4215968,Obese,414915002,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4060334,O/E - weight greater than 20% below ideal,162764001,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4256640,Body mass index 40+ - severely obese,408512008,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4185912,Hyperplastic obesity,414438005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36716555,Obesity caused by energy imbalance,722596001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37166818,Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome,1260134001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4116802,Finding of measures of body weight,301333006,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4203289,Hypothyroid obesity,53146006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,42872460,Overweight in childhood,450451007,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4087487,Central obesity,248311001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4189664,Obesity by age of onset,414918000,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37166819,Genetic non-syndromic obesity,1260139006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Mapped from,4178502,Body weight measure,363808001,Observable Entity,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Maps to,4178502,Body weight measure,363808001,Observable Entity,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,44811757,Obese class III (body mass index equal to or greater than 40.0),914741000000103,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,763588,Obese class I,443371000124107,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,44782877,Involuntary weight gain,698884003,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4271317,Adiposogenital dystrophy,62999006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4029276,Generalized obesity,238134004,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,3661507,High body weight,840358001,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36714527,X-linked intellectual disability with precocious puberty and obesity syndrome,719809005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37397209,Obesity due to melanocortin 4 receptor deficiency,717269008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4182506,Endogenous obesity,297500005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,763589,Obese class II,443381000124105,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36717199,Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome,722051004,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36716554,Overweight in adulthood with body mass index of 25 or more but less than 30,722595002,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Has technique,4154182,Measurement technique,272391002,Qualifier Value,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4175214,O/E - overweight,275947003,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,35622038,Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome,763350002,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37204691,Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency,783556000,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36713550,Moderate underweight in infancy childhood and adolescence,717923002,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36716151,Obesity due to prohormone convertase I deficiency,722053001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37204685,Obesity due to CEP19 deficiency,783549006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4060985,Body mass index 30+ - obesity,162864005,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36716144,MEHMO syndrome,722037004,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,44810914,Unintentional weight gain,900461000000104,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37311728,Obese class III,819948005,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4216214,Mauriac's syndrome,80660001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37208175,Lower body obesity,461341000124106,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,433736,Obesity,414916001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37163354,PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome,1208987006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4037679,O/E - obese,162690006,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4097996,Drug-induced obesity,190965006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36714548,Wilson Turner syndrome,719834005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4097929,Constitutional obesity,292464007,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,1245357,Clark Baraitser syndrome,1300132009,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4160821,Familial obesity,290439001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36674893,Intellectual disability, seizures, macrocephaly, obesity syndrome,770750002,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4060705,Body mass index 25-29 - overweight,162863004,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37165655,X-linked intellectual disability, short stature, overweight syndrome,1255335006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36717154,Hydrocephalus with obesity and hypogonadism syndrome,721231007,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,44811711,Obese class I (body mass index 30.0 - 34.9),914721000000105,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4220527,Hypothalamic obesity,82793005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,42872398,Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum,171000119107,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4037520,O/E - ectomorph,162751002,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4215969,Obesity by contributing factors,414919008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37162364,Obesity due to pituitary disease,1187531009,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37204815,Obesity due to SIM1 deficiency,783719006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4235799,Buffalo obesity,360566006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4171317,Lifelong obesity,294493008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,439893,Maternal obesity syndrome,44772007,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4029277,Fat pad syndrome,238135003,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37311904,Obesity in adolescence,788996008,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37018860,Severe obesity,83911000119104,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37395980,MORM syndrome,715628009,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4079899,Android obesity,238132000,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,37206117,Obesity due to leptin receptor gene deficiency,785722006,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,44811712,Obese class II (body mass index 35.0 - 39.9),914731000000107,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4061230,O/E - Underweight,162769006,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,604591,6q16 microdeletion syndrome,1003380001,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4029900,Gynecoid obesity,238133005,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36717647,Severe underweight in infancy childhood and adolescence,717924008,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4060965,O/E -weight 10-20% below ideal,162765000,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4217557,Simple obesity,415530009,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,4150937,O/E - weight 10-20% over ideal,268915006,Clinical Finding,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,40481140,Childhood obesity,444862003,Disorder,SNOMED
+4178502,363808001,Body weight measure,SNOMED,Interprets of,36674827,Prader-Willi-like syndrome,770680004,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Concept replaces,40311828,Birth weight,147092001,Observable Entity,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4079859,High birth weight,276613009,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4171114,Birth weight abnormality,276609002,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4147717,Baby birth weight 1.5 to 2 kilogram,310494004,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4064286,Small-for-dates baby,199612005,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4187520,Birth weight finding,47340003,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4171115,Low birth weight infant,276610007,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4149610,Birth weight 999 g or less,310660006,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,37151512,Birth weight 1500 gram or less,1237443008,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4103472,Finding of birth weight centile,301332001,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4151169,Baby birth weight less than 751gm,310491007,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4014460,Baby birth weight equal to 10 percent to 24 percent (2850-3149g),169862005,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4150396,Baby birth weight equal to 751g-1kg,310492000,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4030430,Large baby of diabetic mother,129599004,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4015427,Baby birth weight equal to 25 percent to 49 percent (3150-3449g),169863000,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4015276,Baby birth weight 4400-4499g,169868009,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4015426,Baby birth weight equal to 3 percent to 9 percent (2500-2849g),169861003,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,438258,Baby birth weight above 2.5kg,310539009,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Concept poss_eq from,40311846,Birth weight of baby NOS,147108009,Observable Entity,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4014303,Baby birth weight equal to or greater than 96 percent (over 4499g),169867004,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,36712932,Large for gestational age newborn,15635491000119102,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4015425,Baby birth weight under 3 percent (under 2500g),169860002,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4014461,Baby birth weight equal to 50 percent to 74 percent (3450-3749g),169864006,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Has precondition,4123429,Early neonatal period,303114002,Qualifier Value,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4150397,Baby birth weight 1 to 1.5 kilogram,310493005,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4149455,Baby birth weight 2 to 2.5 kilogram,310538001,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4173323,Extremely low birth weight infant,276612004,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4264825,364589006,Birth weight,SNOMED,Mapped from,4264825,Birth weight,364589006,Observable Entity,SNOMED
+4264825,364589006,Birth weight,SNOMED,Maps to,4264825,Birth weight,364589006,Observable Entity,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,46271901,Birth weight less than 500g,710168009,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,440532,Heavy-for-dates at birth regardless of gestation period,7293009,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4149609,Birth weight 1000-2499 g,310659001,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4014302,Baby birth weight equal to 90 percent to 96 percent (4050-4399g),169866008,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,434758,Exceptionally large at birth,38206000,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Concept poss_eq from,4015428,Birth weight of baby NOS,169875005,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4080889,Normal birth weight,276712009,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Concept poss_eq from,3533547,Birth weight of baby NOS,575591000000100,Clinical Finding,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4079858,Very low birth weight infant,276611006,Disorder,SNOMED
+4264825,364589006,Birth weight,SNOMED,Interprets of,4014301,Baby birth weight equal to 75 percent to 89 percent (3750-4049g),169865007,Clinical Finding,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Mapped from,4268280,Baseline weight,400967004,Observable Entity,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Mapped from,3550853,Baseline weight,47961000000105,Undefined,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Maps to,4268280,Baseline weight,400967004,Observable Entity,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Mapped from,3550886,Baseline weight,75061000000102,Undefined,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Concept same_as from,3550886,Baseline weight,75061000000102,Undefined,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Concept same_as from,3550853,Baseline weight,47961000000105,Undefined,SNOMED
+4268280,400967004,Baseline weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4310154,424927000,Body weight with shoes,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+4310154,424927000,Body weight with shoes,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+4310154,424927000,Body weight with shoes,SNOMED,Mapped from,4310154,Body weight with shoes,424927000,Observable Entity,SNOMED
+4310154,424927000,Body weight with shoes,SNOMED,Maps to,4310154,Body weight with shoes,424927000,Observable Entity,SNOMED
+4310154,424927000,Body weight with shoes,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160426,1162388008,Dosing body weight,SNOMED,Maps to,37160426,Dosing body weight,1162388008,Observable Entity,SNOMED
+37160426,1162388008,Dosing body weight,SNOMED,Mapped from,37160426,Dosing body weight,1162388008,Observable Entity,SNOMED
+37160426,1162388008,Dosing body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160426,1162388008,Dosing body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37160426,1162388008,Dosing body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160427,1162389000,Self reported pre-pregnancy body weight,SNOMED,Mapped from,37160427,Self reported pre-pregnancy body weight,1162389000,Observable Entity,SNOMED
+37160427,1162389000,Self reported pre-pregnancy body weight,SNOMED,Has technique,603082,Self reported,1156040003,Qualifier Value,SNOMED
+37160427,1162389000,Self reported pre-pregnancy body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160427,1162389000,Self reported pre-pregnancy body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37160427,1162389000,Self reported pre-pregnancy body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160427,1162389000,Self reported pre-pregnancy body weight,SNOMED,Maps to,37160427,Self reported pre-pregnancy body weight,1162389000,Observable Entity,SNOMED
+37160437,1162414003,Pre-amputation estimated body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160437,1162414003,Pre-amputation estimated body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37160437,1162414003,Pre-amputation estimated body weight,SNOMED,Maps to,37160437,Pre-amputation estimated body weight,1162414003,Observable Entity,SNOMED
+37160437,1162414003,Pre-amputation estimated body weight,SNOMED,Mapped from,37160437,Pre-amputation estimated body weight,1162414003,Observable Entity,SNOMED
+37160437,1162414003,Pre-amputation estimated body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160437,1162414003,Pre-amputation estimated body weight,SNOMED,Has technique,42538440,Estimation technique,761996005,Qualifier Value,SNOMED
+37160439,1162416001,Pre-amputation measured body weight,SNOMED,Has technique,4154182,Measurement technique,272391002,Qualifier Value,SNOMED
+37160439,1162416001,Pre-amputation measured body weight,SNOMED,Maps to,37160439,Pre-amputation measured body weight,1162416001,Observable Entity,SNOMED
+37160439,1162416001,Pre-amputation measured body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37160439,1162416001,Pre-amputation measured body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160439,1162416001,Pre-amputation measured body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160439,1162416001,Pre-amputation measured body weight,SNOMED,Mapped from,37160439,Pre-amputation measured body weight,1162416001,Observable Entity,SNOMED
+37160443,1162420002,Post-dialysis body weight,SNOMED,Has precondition,4019623,Post-dialysis,115500004,Qualifier Value,SNOMED
+37160443,1162420002,Post-dialysis body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160443,1162420002,Post-dialysis body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160443,1162420002,Post-dialysis body weight,SNOMED,Maps to,37160443,Post-dialysis body weight,1162420002,Observable Entity,SNOMED
+37160443,1162420002,Post-dialysis body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37160443,1162420002,Post-dialysis body weight,SNOMED,Mapped from,37160443,Post-dialysis body weight,1162420002,Observable Entity,SNOMED
+37160447,1162421003,Pre-dialysis body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37160447,1162421003,Pre-dialysis body weight,SNOMED,Has precondition,4019622,Pre-dialysis,115499008,Qualifier Value,SNOMED
+37160447,1162421003,Pre-dialysis body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37160447,1162421003,Pre-dialysis body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37160447,1162421003,Pre-dialysis body weight,SNOMED,Maps to,37160447,Pre-dialysis body weight,1162421003,Observable Entity,SNOMED
+37160447,1162421003,Pre-dialysis body weight,SNOMED,Mapped from,37160447,Pre-dialysis body weight,1162421003,Observable Entity,SNOMED
+37164397,1230277003,Self reported peak body weight,SNOMED,Mapped from,37164397,Self reported peak body weight,1230277003,Observable Entity,SNOMED
+37164397,1230277003,Self reported peak body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37164397,1230277003,Self reported peak body weight,SNOMED,Maps to,37164397,Self reported peak body weight,1230277003,Observable Entity,SNOMED
+37164397,1230277003,Self reported peak body weight,SNOMED,Has technique,603082,Self reported,1156040003,Qualifier Value,SNOMED
+37164397,1230277003,Self reported peak body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37164397,1230277003,Self reported peak body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Maps to,37205098,Self reported body weight,784399000,Observable Entity,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Subsumes,37164397,Self reported peak body weight,1230277003,Observable Entity,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Subsumes,37160427,Self reported pre-pregnancy body weight,1162389000,Observable Entity,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Has technique,603082,Self reported,1156040003,Qualifier Value,SNOMED
+37205098,784399000,Self reported body weight,SNOMED,Mapped from,37205098,Self reported body weight,784399000,Observable Entity,SNOMED
+40480593,443245006,Estimated weight using Broselow Luten pediatric weight estimation,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+40480593,443245006,Estimated weight using Broselow Luten pediatric weight estimation,SNOMED,Has technique,40484637,Broselow Luten color coding system for pediatric weight estimation,444063009,Staging / Scales,SNOMED
+40480593,443245006,Estimated weight using Broselow Luten pediatric weight estimation,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+40480593,443245006,Estimated weight using Broselow Luten pediatric weight estimation,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+40480593,443245006,Estimated weight using Broselow Luten pediatric weight estimation,SNOMED,Mapped from,40480593,Estimated weight using Broselow Luten pediatric weight estimation,443245006,Observable Entity,SNOMED
+40480593,443245006,Estimated weight using Broselow Luten pediatric weight estimation,SNOMED,Maps to,40480593,Estimated weight using Broselow Luten pediatric weight estimation,443245006,Observable Entity,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Maps to,40484200,Dry body weight,445541000,Observable Entity,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Concept same_as from,3557127,Dry weight,516391000000108,Observable Entity,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Mapped from,3557127,Dry weight,516391000000108,Observable Entity,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Mapped from,40484200,Dry body weight,445541000,Observable Entity,SNOMED
+40484200,445541000,Dry body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+42536495,735395000,Current body weight,SNOMED,Has property,4041088,Mass,118538004,Qualifier Value,SNOMED
+42536495,735395000,Current body weight,SNOMED,Maps to,42536495,Current body weight,735395000,Observable Entity,SNOMED
+42536495,735395000,Current body weight,SNOMED,Has time aspect,4048380,Single point in time,123029007,Qualifier Value,SNOMED
+42536495,735395000,Current body weight,SNOMED,Inheres in,4242541,Entire body as a whole,38266002,Body Structure,SNOMED
+42536495,735395000,Current body weight,SNOMED,Mapped from,42536495,Current body weight,735395000,Observable Entity,SNOMED

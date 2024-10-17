@@ -1,0 +1,8 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Has component,40772531,Lymphocytes,LP14540-6,LOINC Component,LOINC
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Mapped from,3019198,Lymphocytes [#/volume] in Blood,26474-7,Lab Test,LOINC
+3019198,26474-7,Lymphocytes [#/volume] in Blood,LOINC,Maps to,3019198,Lymphocytes [#/volume] in Blood,26474-7,Lab Test,LOINC

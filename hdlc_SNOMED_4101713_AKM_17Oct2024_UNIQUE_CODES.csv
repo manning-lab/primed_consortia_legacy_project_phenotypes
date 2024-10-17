@@ -1,0 +1,60 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3005984,Deprecated Cholesterol.in HDL [Mass/volume] in Serum or Plasma,Lab Test,LOINC
+1029650,Mass Concentration,LOINC Property,LOINC
+1029816,Point in time (spot),LOINC Time,LOINC
+40782589,Cholesterol in HDL,LOINC Component,LOINC
+1033751,Qn,LOINC Scale,LOINC
+1033306,Serum or Plasma,LOINC System,LOINC
+3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Lab Test,LOINC
+3011884,Cholesterol in HDL [Presence] in Serum or Plasma,Lab Test,LOINC
+1033749,Ord,LOINC Scale,LOINC
+1015176,Presence or Threshold,LOINC Property,LOINC
+3013473,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,Lab Test,LOINC
+1033324,Serum or Plasma ultracentrifugate,LOINC System,LOINC
+1029726,Substance Concentration,LOINC Property,LOINC
+3023602,Cholesterol in HDL [Moles/volume] in Serum or Plasma,Lab Test,LOINC
+3030792,Cholesterol in HDL [Moles/volume] in Body fluid,Lab Test,LOINC
+1030397,Body fluid,LOINC System,LOINC
+3033638,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,Lab Test,LOINC
+1028989,Electrophoresis,LOINC Method,LOINC
+3034482,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,Lab Test,LOINC
+1029599,Arbitrary Concentration,LOINC Property,LOINC
+3040815,Cholesterol in HDL [Moles/volume] in Dialysis fluid,Lab Test,LOINC
+1030088,Dialysis fluid,LOINC System,LOINC
+3053286,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,Lab Test,LOINC
+4044177,Measurement - action,Qualifier Value,SNOMED
+40329065,High density lipoprotein/total cholesterol ratio,Procedure,SNOMED
+4019543,HDL/total cholesterol ratio measurement,Procedure,SNOMED
+37398736,High density lipoprotein/total cholesterol ratio,Observable Entity,SNOMED
+4042999,Ratio,Qualifier Value,SNOMED
+4011133,HDL cholesterol,Substance,SNOMED
+40307332,Serum fasting HDL cholesterol level,Procedure,SNOMED
+37394092,Serum fasting HDL (high density lipoprotein) cholesterol level,Observable Entity,SNOMED
+4001181,Serum specimen,Specimen,SNOMED
+4041557,Serum fasting HDL cholesterol measurement,Procedure,SNOMED
+4000626,Plasma specimen,Specimen,SNOMED
+37394230,Plasma fasting HDL (high density lipoprotein) cholesterol level,Observable Entity,SNOMED
+4041720,Plasma fasting HDL cholesterol measurement,Procedure,SNOMED
+40308371,Plasma fasting HDL cholesterol level,Procedure,SNOMED
+40307325,Serum HDL cholesterol level,Procedure,SNOMED
+4042059,Serum HDL cholesterol measurement,Procedure,SNOMED
+4055665,Serum random HDL cholesterol measurement,Procedure,SNOMED
+3033190,Cholesterol in HDL [Mass or Moles/volume] in Serum or Plasma,Lab Test,LOINC
+37392562,Serum high density lipoprotein cholesterol level,Observable Entity,SNOMED
+3032633,Cholesterol in HDL 3 [Mass or Moles/volume] in Serum or Plasma,Lab Test,LOINC
+37394229,Plasma random HDL (high density lipoprotein) cholesterol level,Observable Entity,SNOMED
+40308369,Plasma random HDL cholesterol level,Procedure,SNOMED
+4042081,Plasma random HDL cholesterol measurement,Procedure,SNOMED
+37398699,Serum random HDL (high density lipoprotein) cholesterol level,Observable Entity,SNOMED
+40307333,Serum random HDL cholesterol level,Procedure,SNOMED
+4195503,Plasma HDL cholesterol measurement,Procedure,SNOMED
+4101713,High density lipoprotein cholesterol measurement,Procedure,SNOMED
+37167480,Familial lecithin cholesterol acyltransferase deficiency,Disorder,SNOMED
+4029266,Fish-eye disease,Disorder,SNOMED
+36032229,Cholesterol in HDL [Mass/volume] in DBS,Lab Test,LOINC
+4029265,Lecithin cholesterol acyltransferase deficiency,Disorder,SNOMED
+40757503,Cholesterol in HDL [Mass/volume] in Body fluid,Lab Test,LOINC
+40308378,Plasma HDL cholesterol level,Procedure,SNOMED
+37392938,Plasma HDL (high density lipoprotein) cholesterol level,Observable Entity,SNOMED
+40330200,Plasma HDL cholesterol level,Procedure,SNOMED
+1015160,DBS,LOINC System,LOINC
