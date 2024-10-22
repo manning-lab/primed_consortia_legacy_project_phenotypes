@@ -1,0 +1,319 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+192675,1761006,Biliary cirrhosis,SNOMED,Mapped from,4026129,Biliary cirrhosis NOS,197311004,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Concept was_a from,4026129,Biliary cirrhosis NOS,197311004,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Mapped from,40346413,Biliary cirrhosis (& [primary]),266540000,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Concept poss_eq from,40346413,Biliary cirrhosis (& [primary]),266540000,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Subsumes,4135822,Primary biliary cholangitis,31712002,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Subsumes,4292401,Clonorchiasis with biliary cirrhosis,37688005,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Mapped from,40317576,Biliary cirrhosis (& [primary]),155815006,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Concept poss_eq from,40317576,Biliary cirrhosis (& [primary]),155815006,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Subsumes,4003673,Obstructive biliary cirrhosis,109819003,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Subsumes,4046123,Secondary biliary cirrhosis,12368000,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Mapped from,44832478,Biliary cirrhosis,571.6,4-dig billing code,ICD9CM
+192675,1761006,Biliary cirrhosis,SNOMED,Mapped from,192675,Biliary cirrhosis,1761006,Disorder,SNOMED
+192675,1761006,Biliary cirrhosis,SNOMED,Mapped from,35208351,Biliary cirrhosis, unspecified,K74.5,4-char billing code,ICD10CM
+192675,1761006,Biliary cirrhosis,SNOMED,Maps to,192675,Biliary cirrhosis,1761006,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept poss_eq from,40393782,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis),197309008,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Mapped from,40317575,Cirrhosis - non-alcoholic,155814005,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept same_as from,40317575,Cirrhosis - non-alcoholic,155814005,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept was_a from,4144117,Non-alcoholic cirrhosis NOS,266472004,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Mapped from,194692,Cirrhosis - non-alcoholic,266468003,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Maps to,194692,Cirrhosis - non-alcoholic,266468003,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept replaces,40317575,Cirrhosis - non-alcoholic,155814005,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept same_as from,444246,Cirrhosis of liver not due to alcohol,111370006,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Mapped from,444246,Cirrhosis of liver not due to alcohol,111370006,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Mapped from,4144117,Non-alcoholic cirrhosis NOS,266472004,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept poss_eq from,40393760,(Cirrhosis - non alcoholic) or (portal cirrhosis),197290000,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Mapped from,44832477,Cirrhosis of liver without mention of alcohol,571.5,4-dig billing code,ICD9CM
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Concept was_a from,3539899,Non-alcoholic cirrhosis NOS,671731000000104,Disorder,SNOMED
+194692,266468003,Cirrhosis - non-alcoholic,SNOMED,Mapped from,3539899,Non-alcoholic cirrhosis NOS,671731000000104,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,196463,Alcoholic cirrhosis,420054005,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Due to of,46269816,Ascites due to alcoholic cirrhosis,1082601000119104,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,1569671,Alcoholic cirrhosis of liver,K70.3,4-char nonbill code,ICD10CM
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,40317572,Alcoholic cirrhosis of liver,155811002,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Concept poss_eq from,40317572,Alcoholic cirrhosis of liver,155811002,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Concept poss_eq from,40393760,(Cirrhosis - non alcoholic) or (portal cirrhosis),197290000,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Has causative agent,4302633,Ethanol,419442005,Substance,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Concept poss_eq from,40438006,Portal cirrhosis,235894003,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,45605952,Alcoholic cirrhosis of liver without ascites,K70.30,5-char billing code,ICD10CM
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,44819802,Alcoholic cirrhosis of liver,571.2,4-dig billing code,ICD9CM
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,45538545,Alcoholic cirrhosis of liver with ascites,K70.31,5-char billing code,ICD10CM
+196463,420054005,Alcoholic cirrhosis,SNOMED,Concept poss_eq from,40634954,Alcoholic cirrhosis of liver,75393009,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,40634954,Alcoholic cirrhosis of liver,75393009,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Maps to,196463,Alcoholic cirrhosis,420054005,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Due to of,619608,Esophageal varices due to alcoholic cirrhosis of liver,897005004,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Concept poss_eq from,40346332,Alcoholic cirrhosis of liver,266467008,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Mapped from,40346332,Alcoholic cirrhosis of liver,266467008,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Concept poss_eq from,40393749,Cirrhosis: [florid] or [alcoholic],197280008,Disorder,SNOMED
+196463,420054005,Alcoholic cirrhosis,SNOMED,Has causative agent,4208951,Ingestible alcohol,311492009,Substance,SNOMED
+605193,1010616001,Liver cirrhosis due to classical cystic fibrosis,SNOMED,Has due to,42538541,Classical cystic fibrosis,762269004,Disorder,SNOMED
+605193,1010616001,Liver cirrhosis due to classical cystic fibrosis,SNOMED,Maps to,605193,Liver cirrhosis due to classical cystic fibrosis,1010616001,Disorder,SNOMED
+605193,1010616001,Liver cirrhosis due to classical cystic fibrosis,SNOMED,Mapped from,605193,Liver cirrhosis due to classical cystic fibrosis,1010616001,Disorder,SNOMED
+3656096,871619002,Cirrhosis of liver due to and following cardiac procedure,SNOMED,Mapped from,3656096,Cirrhosis of liver due to and following cardiac procedure,871619002,Disorder,SNOMED
+3656096,871619002,Cirrhosis of liver due to and following cardiac procedure,SNOMED,Has due to,4042673,Procedure on heart,118797008,Procedure,SNOMED
+3656096,871619002,Cirrhosis of liver due to and following cardiac procedure,SNOMED,Maps to,3656096,Cirrhosis of liver due to and following cardiac procedure,871619002,Disorder,SNOMED
+4003673,109819003,Obstructive biliary cirrhosis,SNOMED,Mapped from,4003673,Obstructive biliary cirrhosis,109819003,Disorder,SNOMED
+4003673,109819003,Obstructive biliary cirrhosis,SNOMED,Maps to,4003673,Obstructive biliary cirrhosis,109819003,Disorder,SNOMED
+4003673,109819003,Obstructive biliary cirrhosis,SNOMED,Subsumes,4059289,Biliary cirrhosis of children,197310003,Disorder,SNOMED
+4046016,123604002,Toxic cirrhosis,SNOMED,Maps to,4046016,Toxic cirrhosis,123604002,Disorder,SNOMED
+4046016,123604002,Toxic cirrhosis,SNOMED,Has causative agent,4022675,Substance,105590001,Substance,SNOMED
+4046016,123604002,Toxic cirrhosis,SNOMED,Mapped from,4046016,Toxic cirrhosis,123604002,Disorder,SNOMED
+4046123,12368000,Secondary biliary cirrhosis,SNOMED,Mapped from,35208350,Secondary biliary cirrhosis,K74.4,4-char billing code,ICD10CM
+4046123,12368000,Secondary biliary cirrhosis,SNOMED,Has due to,4220843,Extrahepatic obstructive biliary disease,8262006,Disorder,SNOMED
+4046123,12368000,Secondary biliary cirrhosis,SNOMED,Mapped from,4046123,Secondary biliary cirrhosis,12368000,Disorder,SNOMED
+4046123,12368000,Secondary biliary cirrhosis,SNOMED,Maps to,4046123,Secondary biliary cirrhosis,12368000,Disorder,SNOMED
+4048057,123605001,Nutritional cirrhosis,SNOMED,Mapped from,4048057,Nutritional cirrhosis,123605001,Disorder,SNOMED
+4048057,123605001,Nutritional cirrhosis,SNOMED,Maps to,4048057,Nutritional cirrhosis,123605001,Disorder,SNOMED
+4048083,123717006,Advanced cirrhosis,SNOMED,Mapped from,4048083,Advanced cirrhosis,123717006,Disorder,SNOMED
+4048083,123717006,Advanced cirrhosis,SNOMED,Maps to,4048083,Advanced cirrhosis,123717006,Disorder,SNOMED
+4049282,123606000,Cholangiolitic cirrhosis,SNOMED,Mapped from,4049282,Cholangiolitic cirrhosis,123606000,Disorder,SNOMED
+4049282,123606000,Cholangiolitic cirrhosis,SNOMED,Maps to,4049282,Cholangiolitic cirrhosis,123606000,Disorder,SNOMED
+4049419,123716002,Latent cirrhosis,SNOMED,Maps to,4049419,Latent cirrhosis,123716002,Disorder,SNOMED
+4049419,123716002,Latent cirrhosis,SNOMED,Mapped from,4049419,Latent cirrhosis,123716002,Disorder,SNOMED
+4050640,15999000,Mixed micro and macronodular cirrhosis,SNOMED,Mapped from,4050640,Mixed micro and macronodular cirrhosis,15999000,Disorder,SNOMED
+4050640,15999000,Mixed micro and macronodular cirrhosis,SNOMED,Maps to,4050640,Mixed micro and macronodular cirrhosis,15999000,Disorder,SNOMED
+4053079,16070004,Syphilitic cirrhosis,SNOMED,Mapped from,4053079,Syphilitic cirrhosis,16070004,Disorder,SNOMED
+4053079,16070004,Syphilitic cirrhosis,SNOMED,Maps to,4053079,Syphilitic cirrhosis,16070004,Disorder,SNOMED
+4053079,16070004,Syphilitic cirrhosis,SNOMED,Has causative agent,4248851,Treponema pallidum,72904005,Organism,SNOMED
+4055209,197291001,Unilobular portal cirrhosis,SNOMED,Mapped from,4055209,Unilobular portal cirrhosis,197291001,Disorder,SNOMED
+4055209,197291001,Unilobular portal cirrhosis,SNOMED,Maps to,4055209,Unilobular portal cirrhosis,197291001,Disorder,SNOMED
+4055210,197293003,Diffuse nodular cirrhosis,SNOMED,Mapped from,4055210,Diffuse nodular cirrhosis,197293003,Disorder,SNOMED
+4055210,197293003,Diffuse nodular cirrhosis,SNOMED,Maps to,4055210,Diffuse nodular cirrhosis,197293003,Disorder,SNOMED
+4055212,197303009,Bacterial portal cirrhosis,SNOMED,Mapped from,4055212,Bacterial portal cirrhosis,197303009,Disorder,SNOMED
+4055212,197303009,Bacterial portal cirrhosis,SNOMED,Maps to,4055212,Bacterial portal cirrhosis,197303009,Disorder,SNOMED
+4055212,197303009,Bacterial portal cirrhosis,SNOMED,Subsumes,4058682,Syphilitic portal cirrhosis,197305002,Disorder,SNOMED
+4055212,197303009,Bacterial portal cirrhosis,SNOMED,Has causative agent,4249833,Domain Bacteria,409822003,Organism,SNOMED
+4058680,197294009,Fatty portal cirrhosis,SNOMED,Mapped from,4058680,Fatty portal cirrhosis,197294009,Disorder,SNOMED
+4058680,197294009,Fatty portal cirrhosis,SNOMED,Maps to,4058680,Fatty portal cirrhosis,197294009,Disorder,SNOMED
+4058681,197296006,Capsular portal cirrhosis,SNOMED,Mapped from,4058681,Capsular portal cirrhosis,197296006,Disorder,SNOMED
+4058681,197296006,Capsular portal cirrhosis,SNOMED,Maps to,4058681,Capsular portal cirrhosis,197296006,Disorder,SNOMED
+4058682,197305002,Syphilitic portal cirrhosis,SNOMED,Has causative agent,4248851,Treponema pallidum,72904005,Organism,SNOMED
+4058682,197305002,Syphilitic portal cirrhosis,SNOMED,Mapped from,4058682,Syphilitic portal cirrhosis,197305002,Disorder,SNOMED
+4058682,197305002,Syphilitic portal cirrhosis,SNOMED,Maps to,4058682,Syphilitic portal cirrhosis,197305002,Disorder,SNOMED
+4059285,197299004,Pigmentary portal cirrhosis,SNOMED,Mapped from,4059285,Pigmentary portal cirrhosis,197299004,Disorder,SNOMED
+4059285,197299004,Pigmentary portal cirrhosis,SNOMED,Maps to,4059285,Pigmentary portal cirrhosis,197299004,Disorder,SNOMED
+4059285,197299004,Pigmentary portal cirrhosis,SNOMED,Has causative agent,35624491,Iron and/or iron compound,767270007,Substance,SNOMED
+4059287,197301006,Toxic portal cirrhosis,SNOMED,Has causative agent,4146827,Toxic substance,35331000,Substance,SNOMED
+4059287,197301006,Toxic portal cirrhosis,SNOMED,Mapped from,4059287,Toxic portal cirrhosis,197301006,Disorder,SNOMED
+4059287,197301006,Toxic portal cirrhosis,SNOMED,Has causative agent,4022675,Substance,105590001,Substance,SNOMED
+4059287,197301006,Toxic portal cirrhosis,SNOMED,Maps to,4059287,Toxic portal cirrhosis,197301006,Disorder,SNOMED
+4059289,197310003,Biliary cirrhosis of children,SNOMED,Mapped from,4059289,Biliary cirrhosis of children,197310003,Disorder,SNOMED
+4059289,197310003,Biliary cirrhosis of children,SNOMED,Maps to,4059289,Biliary cirrhosis of children,197310003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,45772057,Cirrhosis of liver due to hepatitis B,103611000119102,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept poss_eq from,4059284,Cirrhosis and chronic liver disease,197279005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,45601187,Unspecified cirrhosis of liver,K74.60,5-char billing code,ICD10CM
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,45539251,Congenital cirrhosis (of liver),P78.81,5-char billing code,ICD10CM
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4059284,Cirrhosis and chronic liver disease,197279005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4098583,Posthepatitic cirrhosis,27156006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,4340945,Cirrhosis of liver NOS,235891006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept was_a from,4340945,Cirrhosis of liver NOS,235891006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,192675,Biliary cirrhosis,1761006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept replaces,4059288,Cardituberculous cirrhosis,197304003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,4059288,Cardituberculous cirrhosis,197304003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,44805713,Cirrhosis associated with cystic fibrosis,776981000000103,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4049282,Cholangiolitic cirrhosis,123606000,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,3656096,Cirrhosis of liver due to and following cardiac procedure,871619002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4055210,Diffuse nodular cirrhosis,197293003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept poss_eq from,40317569,(Cirrhosis &/or chronic liver dis) or (alcoholic liver disease),155809006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,444246,Cirrhosis of liver not due to alcohol,111370006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Asso finding of,764743,Family history of cirrhosis of liver,5780001000004109,Context-dependent,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,37396401,Decompensated cirrhosis of liver,716203000,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4252074,Cardiac cirrhosis,74669004,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4159158,Early cirrhosis,371139006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,35208338,Toxic liver disease with fibrosis and cirrhosis of liver,K71.7,4-char billing code,ICD10CM
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,45581912,Other cirrhosis of liver,K74.69,5-char billing code,ICD10CM
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4071022,Micronodular cirrhosis,21861000,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,44783142,North American Indian childhood cirrhosis,699189004,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4143008,Drug-induced cirrhosis of liver,425413006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,37110890,Cirrhotic cardiomyopathy,725416005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Due to of,37110890,Cirrhotic cardiomyopathy,725416005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Due to of,619607,Esophageal varices due to cirrhosis of liver,897004000,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,1569682,Other and unspecified cirrhosis of liver,K74.6,4-char nonbill code,ICD10CM
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,44826726,Chronic liver disease and cirrhosis,571,3-dig nonbill code,ICD9CM
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,43531723,Cirrhosis of liver due to chronic hepatitis C,831000119103,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4268006,Indian childhood cirrhosis,6183001,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4313567,Postnecrotic cirrhosis,86454000,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,40394676,[X]Other and unspecified cirrhosis of liver,197553002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept same_as from,40394676,[X]Other and unspecified cirrhosis of liver,197553002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4340393,Infectious cirrhosis,235896001,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Due to of,4133978,Acquired portal-systemic shunt due to cirrhosis,128072003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,194692,Cirrhosis - non-alcoholic,266468003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,42539566,Cirrhosis of liver with primary sclerosing cholangitis,735733008,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4203601,Glissonian cirrhosis,536002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Maps to,4064161,Cirrhosis of liver,19943007,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4163687,Cruveilhier-Baumgarten syndrome,45256007,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4184779,Macronodular cirrhosis,43904005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4340946,Hypoxia-associated cirrhosis,235897005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4048083,Advanced cirrhosis,123717006,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4294539,Florid cirrhosis,76301009,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept poss_eq from,40393769,Cirrhosis: [juvenile portal] or [childhood function] or [Indian childhood],197298007,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4153294,Cirrhosis secondary to cholestasis,271440004,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4300060,Pigment cirrhosis,78208005,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4232955,Cryptogenic cirrhosis,89580002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4046016,Toxic cirrhosis,123604002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,44800333,[X]Other and unspecified cirrhosis of liver,470971000000107,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,44800333,[X]Other and unspecified cirrhosis of liver,470971000000107,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept same_as from,44800333,[X]Other and unspecified cirrhosis of liver,470971000000107,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,40393769,Cirrhosis: [juvenile portal] or [childhood function] or [Indian childhood],197298007,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4048057,Nutritional cirrhosis,123605001,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4304584,Portal cirrhosis,419728003,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,605193,Liver cirrhosis due to classical cystic fibrosis,1010616001,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Subsumes,4049419,Latent cirrhosis,123716002,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,40393782,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis),197309008,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Concept poss_eq from,40393782,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis),197309008,Disorder,SNOMED
+4064161,19943007,Cirrhosis of liver,SNOMED,Mapped from,4064161,Cirrhosis of liver,19943007,Disorder,SNOMED
+4071022,21861000,Micronodular cirrhosis,SNOMED,Maps to,4071022,Micronodular cirrhosis,21861000,Disorder,SNOMED
+4071022,21861000,Micronodular cirrhosis,SNOMED,Subsumes,4050640,Mixed micro and macronodular cirrhosis,15999000,Disorder,SNOMED
+4071022,21861000,Micronodular cirrhosis,SNOMED,Mapped from,4071022,Micronodular cirrhosis,21861000,Disorder,SNOMED
+4098583,27156006,Posthepatitic cirrhosis,SNOMED,Mapped from,4098583,Posthepatitic cirrhosis,27156006,Disorder,SNOMED
+4098583,27156006,Posthepatitic cirrhosis,SNOMED,Maps to,4098583,Posthepatitic cirrhosis,27156006,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Concept poss_eq from,40317576,Biliary cirrhosis (& [primary]),155815006,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Mapped from,35208349,Primary biliary cirrhosis,K74.3,4-char billing code,ICD10CM
+4135822,31712002,Primary biliary cholangitis,SNOMED,Maps to,4135822,Primary biliary cholangitis,31712002,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Mapped from,4135822,Primary biliary cholangitis,31712002,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Concept poss_eq from,40346413,Biliary cirrhosis (& [primary]),266540000,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Concept replaces,40317576,Biliary cirrhosis (& [primary]),155815006,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Subsumes,37399445,Reynolds syndrome,715401008,Disorder,SNOMED
+4135822,31712002,Primary biliary cholangitis,SNOMED,Due to of,37162856,Bleeding esophageal varices due to primary biliary cholangitis,1197697000,Disorder,SNOMED
+4140536,33144001,Parasitic cirrhosis,SNOMED,Maps to,4140536,Parasitic cirrhosis,33144001,Disorder,SNOMED
+4140536,33144001,Parasitic cirrhosis,SNOMED,Subsumes,4292401,Clonorchiasis with biliary cirrhosis,37688005,Disorder,SNOMED
+4140536,33144001,Parasitic cirrhosis,SNOMED,Mapped from,4140536,Parasitic cirrhosis,33144001,Disorder,SNOMED
+4141628,266470007,Cardiac portal cirrhosis,SNOMED,Maps to,4141628,Cardiac portal cirrhosis,266470007,Disorder,SNOMED
+4141628,266470007,Cardiac portal cirrhosis,SNOMED,Mapped from,4141628,Cardiac portal cirrhosis,266470007,Disorder,SNOMED
+4141628,266470007,Cardiac portal cirrhosis,SNOMED,Has due to,321588,Heart disease,56265001,Disorder,SNOMED
+4141628,266470007,Cardiac portal cirrhosis,SNOMED,Concept poss_eq from,40393768,Cirrhosis: [cardiac portal] or [congestive],197297002,Disorder,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Has causative agent,4254051,Drug or medicament,410942007,Substance,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Mapped from,4143008,Drug-induced cirrhosis of liver,425413006,Disorder,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Subsumes,37117933,Cirrhosis of liver caused by methotrexate,725938001,Disorder,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Maps to,4143008,Drug-induced cirrhosis of liver,425413006,Disorder,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Subsumes,196463,Alcoholic cirrhosis,420054005,Disorder,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Subsumes,37111265,Cirrhosis of liver caused by amiodarone,725939009,Disorder,SNOMED
+4143008,425413006,Drug-induced cirrhosis of liver,SNOMED,Subsumes,37111266,Cirrhosis of liver caused by methyldopa,725940006,Disorder,SNOMED
+4144116,266471006,Juvenile portal cirrhosis,SNOMED,Concept poss_eq from,40393769,Cirrhosis: [juvenile portal] or [childhood function] or [Indian childhood],197298007,Disorder,SNOMED
+4144116,266471006,Juvenile portal cirrhosis,SNOMED,Mapped from,4144116,Juvenile portal cirrhosis,266471006,Disorder,SNOMED
+4144116,266471006,Juvenile portal cirrhosis,SNOMED,Maps to,4144116,Juvenile portal cirrhosis,266471006,Disorder,SNOMED
+4148254,266469006,Multilobular portal cirrhosis,SNOMED,Mapped from,40393763,Cirrhosis of liver: [multilobular portal] or [postnecrotic],197292008,Disorder,SNOMED
+4148254,266469006,Multilobular portal cirrhosis,SNOMED,Mapped from,4148254,Multilobular portal cirrhosis,266469006,Disorder,SNOMED
+4148254,266469006,Multilobular portal cirrhosis,SNOMED,Maps to,4148254,Multilobular portal cirrhosis,266469006,Disorder,SNOMED
+4148254,266469006,Multilobular portal cirrhosis,SNOMED,Concept poss_eq from,40393763,Cirrhosis of liver: [multilobular portal] or [postnecrotic],197292008,Disorder,SNOMED
+4153294,271440004,Cirrhosis secondary to cholestasis,SNOMED,Mapped from,40393775,Cirrhosis secondary to cholestasis,197302004,Disorder,SNOMED
+4153294,271440004,Cirrhosis secondary to cholestasis,SNOMED,Concept replaces,40393775,Cirrhosis secondary to cholestasis,197302004,Disorder,SNOMED
+4153294,271440004,Cirrhosis secondary to cholestasis,SNOMED,Maps to,4153294,Cirrhosis secondary to cholestasis,271440004,Disorder,SNOMED
+4153294,271440004,Cirrhosis secondary to cholestasis,SNOMED,Has due to,4143915,Cholestasis,33688009,Clinical Finding,SNOMED
+4153294,271440004,Cirrhosis secondary to cholestasis,SNOMED,Mapped from,4153294,Cirrhosis secondary to cholestasis,271440004,Disorder,SNOMED
+4153294,271440004,Cirrhosis secondary to cholestasis,SNOMED,Concept same_as from,40393775,Cirrhosis secondary to cholestasis,197302004,Disorder,SNOMED
+4159158,371139006,Early cirrhosis,SNOMED,Mapped from,4159158,Early cirrhosis,371139006,Disorder,SNOMED
+4159158,371139006,Early cirrhosis,SNOMED,Maps to,4159158,Early cirrhosis,371139006,Disorder,SNOMED
+4163687,45256007,Cruveilhier-Baumgarten syndrome,SNOMED,Maps to,4163687,Cruveilhier-Baumgarten syndrome,45256007,Disorder,SNOMED
+4163687,45256007,Cruveilhier-Baumgarten syndrome,SNOMED,Mapped from,4163687,Cruveilhier-Baumgarten syndrome,45256007,Disorder,SNOMED
+4184779,43904005,Macronodular cirrhosis,SNOMED,Subsumes,4050640,Mixed micro and macronodular cirrhosis,15999000,Disorder,SNOMED
+4184779,43904005,Macronodular cirrhosis,SNOMED,Maps to,4184779,Macronodular cirrhosis,43904005,Disorder,SNOMED
+4184779,43904005,Macronodular cirrhosis,SNOMED,Mapped from,4184779,Macronodular cirrhosis,43904005,Disorder,SNOMED
+4184779,43904005,Macronodular cirrhosis,SNOMED,Mapped from,40393766,Macronodular cirrhosis,197295005,Disorder,SNOMED
+4184779,43904005,Macronodular cirrhosis,SNOMED,Concept same_as from,40393766,Macronodular cirrhosis,197295005,Disorder,SNOMED
+4203601,536002,Glissonian cirrhosis,SNOMED,Mapped from,4203601,Glissonian cirrhosis,536002,Disorder,SNOMED
+4203601,536002,Glissonian cirrhosis,SNOMED,Maps to,4203601,Glissonian cirrhosis,536002,Disorder,SNOMED
+4232955,89580002,Cryptogenic cirrhosis,SNOMED,Concept poss_eq from,40393782,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis),197309008,Disorder,SNOMED
+4232955,89580002,Cryptogenic cirrhosis,SNOMED,Maps to,4232955,Cryptogenic cirrhosis,89580002,Disorder,SNOMED
+4232955,89580002,Cryptogenic cirrhosis,SNOMED,Mapped from,4232955,Cryptogenic cirrhosis,89580002,Disorder,SNOMED
+4232955,89580002,Cryptogenic cirrhosis,SNOMED,Subsumes,37396157,Idiopathic copper associated cirrhosis of liver,715864007,Disorder,SNOMED
+4252074,74669004,Cardiac cirrhosis,SNOMED,Concept poss_eq from,40393768,Cirrhosis: [cardiac portal] or [congestive],197297002,Disorder,SNOMED
+4252074,74669004,Cardiac cirrhosis,SNOMED,Mapped from,40393768,Cirrhosis: [cardiac portal] or [congestive],197297002,Disorder,SNOMED
+4252074,74669004,Cardiac cirrhosis,SNOMED,Maps to,4252074,Cardiac cirrhosis,74669004,Disorder,SNOMED
+4252074,74669004,Cardiac cirrhosis,SNOMED,Mapped from,4252074,Cardiac cirrhosis,74669004,Disorder,SNOMED
+4252074,74669004,Cardiac cirrhosis,SNOMED,Has due to,321588,Heart disease,56265001,Disorder,SNOMED
+4252074,74669004,Cardiac cirrhosis,SNOMED,Subsumes,4141628,Cardiac portal cirrhosis,266470007,Disorder,SNOMED
+4268006,6183001,Indian childhood cirrhosis,SNOMED,Maps to,4268006,Indian childhood cirrhosis,6183001,Disorder,SNOMED
+4268006,6183001,Indian childhood cirrhosis,SNOMED,Concept poss_eq from,40393769,Cirrhosis: [juvenile portal] or [childhood function] or [Indian childhood],197298007,Disorder,SNOMED
+4268006,6183001,Indian childhood cirrhosis,SNOMED,Mapped from,4268006,Indian childhood cirrhosis,6183001,Disorder,SNOMED
+4292401,37688005,Clonorchiasis with biliary cirrhosis,SNOMED,Has causative agent,4267507,Clonorchis sinensis,36559008,Organism,SNOMED
+4292401,37688005,Clonorchiasis with biliary cirrhosis,SNOMED,Mapped from,4292401,Clonorchiasis with biliary cirrhosis,37688005,Disorder,SNOMED
+4292401,37688005,Clonorchiasis with biliary cirrhosis,SNOMED,Maps to,4292401,Clonorchiasis with biliary cirrhosis,37688005,Disorder,SNOMED
+4294539,76301009,Florid cirrhosis,SNOMED,Maps to,4294539,Florid cirrhosis,76301009,Disorder,SNOMED
+4294539,76301009,Florid cirrhosis,SNOMED,Concept same_as from,40438004,Florid cirrhosis,235892004,Disorder,SNOMED
+4294539,76301009,Florid cirrhosis,SNOMED,Concept replaces,40438004,Florid cirrhosis,235892004,Disorder,SNOMED
+4294539,76301009,Florid cirrhosis,SNOMED,Mapped from,4294539,Florid cirrhosis,76301009,Disorder,SNOMED
+4294539,76301009,Florid cirrhosis,SNOMED,Mapped from,40438004,Florid cirrhosis,235892004,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Subsumes,4059285,Pigmentary portal cirrhosis,197299004,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Concept same_as from,4219593,Bronze cirrhosis,399126000,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Mapped from,4219593,Bronze cirrhosis,399126000,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Concept poss_eq from,40321222,Iron &/or copper &/or magnesium disorder (& [hemochromatosis] or [Wilson's disease]),154751003,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Has causative agent,35624491,Iron and/or iron compound,767270007,Substance,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Mapped from,4300060,Pigment cirrhosis,78208005,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Concept poss_eq from,40351285,Iron &/or copper &/or magnesium disorder (& [hemochromatosis] or [Wilson's disease]),267504005,Disorder,SNOMED
+4300060,78208005,Pigment cirrhosis,SNOMED,Maps to,4300060,Pigment cirrhosis,78208005,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Mapped from,3520032,Portal cirrhosis unspecified,589551000000103,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4141628,Cardiac portal cirrhosis,266470007,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept poss_eq from,40393749,Cirrhosis: [florid] or [alcoholic],197280008,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept poss_eq from,40346332,Alcoholic cirrhosis of liver,266467008,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Mapped from,4304584,Portal cirrhosis,419728003,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Maps to,4304584,Portal cirrhosis,419728003,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept poss_eq from,40634954,Alcoholic cirrhosis of liver,75393009,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4055209,Unilobular portal cirrhosis,197291001,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4058681,Capsular portal cirrhosis,197296006,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept was_a from,3520032,Portal cirrhosis unspecified,589551000000103,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4055212,Bacterial portal cirrhosis,197303009,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4058680,Fatty portal cirrhosis,197294009,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Mapped from,40438006,Portal cirrhosis,235894003,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept poss_eq from,40438006,Portal cirrhosis,235894003,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept poss_eq from,40393760,(Cirrhosis - non alcoholic) or (portal cirrhosis),197290000,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4059285,Pigmentary portal cirrhosis,197299004,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4340392,Laennec's cirrhosis, non-alcoholic,235895002,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept poss_eq from,40317572,Alcoholic cirrhosis of liver,155811002,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4144116,Juvenile portal cirrhosis,266471006,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Mapped from,4058684,Portal cirrhosis unspecified,197308000,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Concept was_a from,4058684,Portal cirrhosis unspecified,197308000,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4148254,Multilobular portal cirrhosis,266469006,Disorder,SNOMED
+4304584,419728003,Portal cirrhosis,SNOMED,Subsumes,4059287,Toxic portal cirrhosis,197301006,Disorder,SNOMED
+4313567,86454000,Postnecrotic cirrhosis,SNOMED,Maps to,4313567,Postnecrotic cirrhosis,86454000,Disorder,SNOMED
+4313567,86454000,Postnecrotic cirrhosis,SNOMED,Mapped from,4313567,Postnecrotic cirrhosis,86454000,Disorder,SNOMED
+4340392,235895002,Laennec's cirrhosis, non-alcoholic,SNOMED,Concept poss_eq from,40393782,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis),197309008,Disorder,SNOMED
+4340392,235895002,Laennec's cirrhosis, non-alcoholic,SNOMED,Maps to,4340392,Laennec's cirrhosis, non-alcoholic,235895002,Disorder,SNOMED
+4340392,235895002,Laennec's cirrhosis, non-alcoholic,SNOMED,Mapped from,4340392,Laennec's cirrhosis, non-alcoholic,235895002,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Mapped from,4055213,Infectious cirrhosis NOS,197307005,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Subsumes,4053079,Syphilitic cirrhosis,16070004,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Subsumes,4140536,Parasitic cirrhosis,33144001,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Subsumes,4059288,Cardituberculous cirrhosis,197304003,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Concept was_a from,4055213,Infectious cirrhosis NOS,197307005,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Mapped from,4340393,Infectious cirrhosis,235896001,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Maps to,4340393,Infectious cirrhosis,235896001,Disorder,SNOMED
+4340393,235896001,Infectious cirrhosis,SNOMED,Subsumes,4055212,Bacterial portal cirrhosis,197303009,Disorder,SNOMED
+4340946,235897005,Hypoxia-associated cirrhosis,SNOMED,Maps to,4340946,Hypoxia-associated cirrhosis,235897005,Disorder,SNOMED
+4340946,235897005,Hypoxia-associated cirrhosis,SNOMED,Finding asso with,4306572,Hypoxia,389086002,Disorder,SNOMED
+4340946,235897005,Hypoxia-associated cirrhosis,SNOMED,Mapped from,4340946,Hypoxia-associated cirrhosis,235897005,Disorder,SNOMED
+37110890,725416005,Cirrhotic cardiomyopathy,SNOMED,Has due to,4064161,Cirrhosis of liver,19943007,Disorder,SNOMED
+37110890,725416005,Cirrhotic cardiomyopathy,SNOMED,Mapped from,37110890,Cirrhotic cardiomyopathy,725416005,Disorder,SNOMED
+37110890,725416005,Cirrhotic cardiomyopathy,SNOMED,Maps to,37110890,Cirrhotic cardiomyopathy,725416005,Disorder,SNOMED
+37111265,725939009,Cirrhosis of liver caused by amiodarone,SNOMED,Maps to,37111265,Cirrhosis of liver caused by amiodarone,725939009,Disorder,SNOMED
+37111265,725939009,Cirrhosis of liver caused by amiodarone,SNOMED,Mapped from,37111265,Cirrhosis of liver caused by amiodarone,725939009,Disorder,SNOMED
+37111265,725939009,Cirrhosis of liver caused by amiodarone,SNOMED,Has causative agent,4159615,Amiodarone,372821002,Substance,SNOMED
+37111266,725940006,Cirrhosis of liver caused by methyldopa,SNOMED,Has causative agent,4159992,Methyldopa,373542000,Substance,SNOMED
+37111266,725940006,Cirrhosis of liver caused by methyldopa,SNOMED,Maps to,37111266,Cirrhosis of liver caused by methyldopa,725940006,Disorder,SNOMED
+37111266,725940006,Cirrhosis of liver caused by methyldopa,SNOMED,Mapped from,37111266,Cirrhosis of liver caused by methyldopa,725940006,Disorder,SNOMED
+37117933,725938001,Cirrhosis of liver caused by methotrexate,SNOMED,Mapped from,37117933,Cirrhosis of liver caused by methotrexate,725938001,Disorder,SNOMED
+37117933,725938001,Cirrhosis of liver caused by methotrexate,SNOMED,Maps to,37117933,Cirrhosis of liver caused by methotrexate,725938001,Disorder,SNOMED
+37117933,725938001,Cirrhosis of liver caused by methotrexate,SNOMED,Has causative agent,4301206,Methotrexate,387381009,Substance,SNOMED
+37396157,715864007,Idiopathic copper associated cirrhosis of liver,SNOMED,Has due to,436672,Disorder of copper metabolism,79886009,Disorder,SNOMED
+37396157,715864007,Idiopathic copper associated cirrhosis of liver,SNOMED,Maps to,37396157,Idiopathic copper associated cirrhosis of liver,715864007,Disorder,SNOMED
+37396157,715864007,Idiopathic copper associated cirrhosis of liver,SNOMED,Mapped from,37396157,Idiopathic copper associated cirrhosis of liver,715864007,Disorder,SNOMED
+37396401,716203000,Decompensated cirrhosis of liver,SNOMED,Maps to,37396401,Decompensated cirrhosis of liver,716203000,Disorder,SNOMED
+37396401,716203000,Decompensated cirrhosis of liver,SNOMED,Mapped from,37396401,Decompensated cirrhosis of liver,716203000,Disorder,SNOMED
+37399445,715401008,Reynolds syndrome,SNOMED,Maps to,37399445,Reynolds syndrome,715401008,Disorder,SNOMED
+37399445,715401008,Reynolds syndrome,SNOMED,Mapped from,37399445,Reynolds syndrome,715401008,Disorder,SNOMED
+42539566,735733008,Cirrhosis of liver with primary sclerosing cholangitis,SNOMED,Mapped from,42539566,Cirrhosis of liver with primary sclerosing cholangitis,735733008,Disorder,SNOMED
+42539566,735733008,Cirrhosis of liver with primary sclerosing cholangitis,SNOMED,Maps to,42539566,Cirrhosis of liver with primary sclerosing cholangitis,735733008,Disorder,SNOMED
+42539566,735733008,Cirrhosis of liver with primary sclerosing cholangitis,SNOMED,Has due to,4058821,Primary sclerosing cholangitis,197441003,Disorder,SNOMED
+43531723,831000119103,Cirrhosis of liver due to chronic hepatitis C,SNOMED,Has due to,198964,Chronic hepatitis C,128302006,Disorder,SNOMED
+43531723,831000119103,Cirrhosis of liver due to chronic hepatitis C,SNOMED,Maps to,43531723,Cirrhosis of liver due to chronic hepatitis C,831000119103,Disorder,SNOMED
+43531723,831000119103,Cirrhosis of liver due to chronic hepatitis C,SNOMED,Mapped from,43531723,Cirrhosis of liver due to chronic hepatitis C,831000119103,Disorder,SNOMED
+44783142,699189004,North American Indian childhood cirrhosis,SNOMED,Mapped from,4020857,North American Indian intrahepatic cholestasis,10518000,Disorder,SNOMED
+44783142,699189004,North American Indian childhood cirrhosis,SNOMED,Concept same_as from,4020857,North American Indian intrahepatic cholestasis,10518000,Disorder,SNOMED
+44783142,699189004,North American Indian childhood cirrhosis,SNOMED,Maps to,44783142,North American Indian childhood cirrhosis,699189004,Disorder,SNOMED
+44783142,699189004,North American Indian childhood cirrhosis,SNOMED,Mapped from,44783142,North American Indian childhood cirrhosis,699189004,Disorder,SNOMED
+44805713,776981000000103,Cirrhosis associated with cystic fibrosis,SNOMED,Concept same_as from,3544151,Cystic fibrosis related cirrhosis,778131000000103,Undefined,SNOMED
+44805713,776981000000103,Cirrhosis associated with cystic fibrosis,SNOMED,Mapped from,3544151,Cystic fibrosis related cirrhosis,778131000000103,Undefined,SNOMED
+44805713,776981000000103,Cirrhosis associated with cystic fibrosis,SNOMED,Mapped from,44805713,Cirrhosis associated with cystic fibrosis,776981000000103,Disorder,SNOMED
+44805713,776981000000103,Cirrhosis associated with cystic fibrosis,SNOMED,Maps to,44805713,Cirrhosis associated with cystic fibrosis,776981000000103,Disorder,SNOMED
+45772057,103611000119102,Cirrhosis of liver due to hepatitis B,SNOMED,Mapped from,45772057,Cirrhosis of liver due to hepatitis B,103611000119102,Disorder,SNOMED
+45772057,103611000119102,Cirrhosis of liver due to hepatitis B,SNOMED,Maps to,45772057,Cirrhosis of liver due to hepatitis B,103611000119102,Disorder,SNOMED
+45772057,103611000119102,Cirrhosis of liver due to hepatitis B,SNOMED,Has due to,4281232,Type B viral hepatitis,66071002,Disorder,SNOMED

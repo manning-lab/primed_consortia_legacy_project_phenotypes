@@ -1,0 +1,1713 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+45576364,Other specified types of non-Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45537852,Follicular lymphoma grade II, lymph nodes of multiple sites,5-char billing code,ICD10CM
+132841,Malignant lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+35206424,Other specified types of non-Hodgkin's lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+44836857,Marginal zone lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45571564,Mature T/NK-cell lymphomas, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44829828,Primary central nervous system lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45566636,Other non-follicular lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44836861,Anaplastic large cell lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45605317,Peripheral T-cell lymphoma, not elsewhere classified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+316356,Hodgkin's disease of lymph nodes of multiple sites,Disorder,SNOMED
+45576351,Follicular lymphoma grade IIIa, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45547548,Unspecified B-cell lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44826429,Peripheral T cell lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45561856,Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45576352,Follicular lymphoma grade IIIb, lymph nodes of multiple sites,5-char billing code,ICD10CM
+36684814,Non-Hodgkin's lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+45537865,Anaplastic large cell lymphoma, ALK-positive, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45552307,Other mature T/NK-cell lymphomas, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45595710,Anaplastic large cell lymphoma, ALK-negative, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45571554,Diffuse large B-cell lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44822895,Large cell lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45537856,Diffuse follicle center lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44831011,Other malignant lymphomas, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45552308,Mediastinal (thymic) large B-cell lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45586033,Follicular lymphoma grade III, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45581246,Cutaneous T-cell lymphoma, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45595707,Lymphoblastic (diffuse) lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+133154,Plasma cell leukemia,Disorder,SNOMED
+40320653,(Plasma cell leukemia) or (immunoproliferative neoplasm NOS),Disorder,SNOMED
+44821757,Plasma cell leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+1567677,Plasma cell leukemia,4-char nonbill code,ICD10CM
+133158,Plasma cell leukemia in remission,Disorder,SNOMED
+40387086,Plasma cell leukemia,Disorder,SNOMED
+44821756,Plasma cell leukemia,4-dig nonbill code,ICD9CM
+760936,Plasma cell leukemia in relapse,Disorder,SNOMED
+45557038,Plasma cell leukemia not having achieved remission,5-char billing code,ICD10CM
+40352619,(Plasma cell leukemia) or (immunoproliferative neoplasm NOS),Disorder,SNOMED
+44825230,Plasma cell leukemia, in remission,5-dig billing code,ICD9CM
+45595716,Plasma cell leukemia in remission,5-char billing code,ICD10CM
+133511,Lethal midline granuloma,Disorder,SNOMED
+44826656,Lethal midline granuloma,4-dig billing code,ICD9CM
+35208818,Lethal midline granuloma,4-char billing code,ICD10CM
+44833326,Mycosis fungoides, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45590949,Mycosis fungoides, intrathoracic lymph nodes,5-char billing code,ICD10CM
+40386251,Mycosis fungoides of intrathoracic lymph nodes,Disorder,SNOMED
+134879,Mycosis fungoides of intrathoracic lymph nodes,Disorder,SNOMED
+4313229,Mixed cell type lymphosarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+135194,Lymphosarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+44822891,Lymphosarcoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+35206407,Lymphosarcoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+40647653,Mycosis fungoides of lymph nodes of multiple sites,Disorder,SNOMED
+45586048,Mycosis fungoides, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44836868,Mycosis fungoides, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+135764,Mycosis fungoides of lymph nodes of multiple sites,Disorder,SNOMED
+136655,Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes,Disorder,SNOMED
+44819456,Hodgkin's disease, mixed cellularity, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45605292,Mixed cellularity Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+40648875,Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes,Disorder,SNOMED
+40648885,Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes,Disorder,SNOMED
+136928,Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes,Disorder,SNOMED
+45581230,Nodular sclerosis Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44829834,Hodgkin's disease, nodular sclerosis, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+44821752,Sezary's disease, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+138378,Sezary's disease of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45605314,Sezary disease, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+40385783,Reticulosarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+44835689,Reticulosarcoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+139759,Reticulosarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+40648919,Hodgkin's paragranuloma of lymph nodes of multiple sites,Disorder,SNOMED
+44822897,Hodgkin's paragranuloma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+140663,Hodgkin's paragranuloma of lymph nodes of multiple sites,Disorder,SNOMED
+140664,Sézary's disease of lymph nodes of multiple sites,Disorder,SNOMED
+40649764,Sézary's disease of lymph nodes of multiple sites,Disorder,SNOMED
+45547543,Sezary disease, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44820637,Sezary's disease, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45537849,Lymphocyte depleted Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+141243,Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes,Disorder,SNOMED
+40648401,Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes,Disorder,SNOMED
+44834511,Hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+44835688,Reticulosarcoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40385781,Reticulosarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+192265,Reticulosarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+192268,Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes,Disorder,SNOMED
+40648873,Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes,Disorder,SNOMED
+45571544,Mixed cellularity Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44824045,Hodgkin's disease, mixed cellularity, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+40386196,Hodgkin's disease, nodular sclerosis of spleen,Disorder,SNOMED
+193157,Hodgkin's disease, nodular sclerosis of spleen,Disorder,SNOMED
+44829835,Hodgkin's disease, nodular sclerosis, spleen,5-dig billing code,ICD9CM
+45600536,Nodular sclerosis Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+193428,Burkitt's lymphoma of intrapelvic lymph nodes,Disorder,SNOMED
+44829825,Burkitt's tumor or lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+444443,Burkitt's tumor of intrapelvic lymph nodes,Disorder,SNOMED
+45547541,Burkitt lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44835700,Hodgkin's disease, nodular sclerosis, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+193434,Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes,Disorder,SNOMED
+45542635,Nodular sclerosis Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+40648883,Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes,Disorder,SNOMED
+44820633,Hodgkin's disease, mixed cellularity, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40648874,Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes,Disorder,SNOMED
+194594,Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes,Disorder,SNOMED
+45552292,Mixed cellularity Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45561838,Nodular lymphocyte predominant Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+40386183,Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes,Disorder,SNOMED
+194876,Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes,Disorder,SNOMED
+44825223,Hodgkin's disease, lymphocytic-histiocytic predominance, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45595696,Lymphocyte-rich Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+201810,Lymphosarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+45586058,Other specified types of non-Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44821744,Primary central nervous system lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45586032,Follicular lymphoma grade III, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45566631,Follicular lymphoma grade IIIb, intrapelvic lymph nodes,5-char billing code,ICD10CM
+195195,Malignant lymphoma of intrapelvic lymph nodes,Disorder,SNOMED
+40481357,Large cell lymphoma of intrapelvic lymph nodes,Disorder,SNOMED
+45542657,Cutaneous T-cell lymphoma, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45561859,Anaplastic large cell lymphoma, ALK-positive, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45576362,Anaplastic large cell lymphoma, ALK-negative, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45576349,Follicular lymphoma grade II, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45600552,Non-follicular (diffuse) lymphoma, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45557031,Other non-follicular lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+442169,Mycosis fungoides of intrapelvic lymph nodes,Disorder,SNOMED
+195761,Hodgkin's disease of intrapelvic lymph nodes,Disorder,SNOMED
+45590933,Follicular lymphoma grade I, intrapelvic lymph nodes,5-char billing code,ICD10CM
+35206421,Other specified types of non-Hodgkin's lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45581249,Mediastinal (thymic) large B-cell lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+439270,Sézary's disease of intrapelvic lymph nodes,Disorder,SNOMED
+44830998,Other named variants of lymphosarcoma and reticulosarcoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45571556,Lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45581235,Follicular lymphoma grade IIIa, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44819463,Other malignant lymphomas, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45547539,Mantle cell lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45532954,Mature T/NK-cell lymphomas, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45605306,Small cell B-cell lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44827581,Peripheral T cell lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45566640,Other mature T/NK-cell lymphomas, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44819445,Marginal zone lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+44824040,Large cell lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+198088,Nodular lymphoma of intrapelvic lymph nodes,Disorder,SNOMED
+44836859,Anaplastic large cell lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+44821743,Mantle cell lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45547536,Diffuse follicle center lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45542654,Peripheral T-cell lymphoma, not elsewhere classified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+40386171,Hodgkin's sarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+44828752,Hodgkin's sarcoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+195196,Hodgkin's sarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+35206412,Lymphosarcoma, spleen,5-char billing code,ICD10CM
+44826417,Lymphosarcoma, spleen,5-dig billing code,ICD9CM
+195201,Lymphosarcoma of spleen,Disorder,SNOMED
+40386642,Sézary's disease of spleen,Disorder,SNOMED
+45605315,Sezary disease, spleen,5-char billing code,ICD10CM
+44833327,Sezary's disease, spleen,5-dig billing code,ICD9CM
+195760,Sézary's disease of spleen,Disorder,SNOMED
+439282,Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes,Disorder,SNOMED
+45557022,Hodgkin lymphoma, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+198986,Hodgkin's paragranuloma of intrapelvic lymph nodes,Disorder,SNOMED
+44833323,Hodgkin's disease, unspecified type, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+199760,Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes,Disorder,SNOMED
+442156,Hodgkin's granuloma of intrapelvic lymph nodes,Disorder,SNOMED
+45600560,Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45595697,Other Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+196355,Hodgkin's granuloma of spleen,Disorder,SNOMED
+40386161,Hodgkin's granuloma of spleen,Disorder,SNOMED
+44833319,Hodgkin's granuloma, spleen,5-dig billing code,ICD9CM
+197228,Lymphosarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+4314201,Mixed cell type lymphosarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+35206408,Lymphosarcoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44822892,Lymphosarcoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45542644,Other types of follicular lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+40386244,Nodular lymphoma of intrapelvic lymph nodes,Disorder,SNOMED
+35206351,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+35206361,Immunoblastic (diffuse) non-Hodgkin's lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+35206371,Undifferentiated (diffuse) non-Hodgkin's lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45581237,Cutaneous follicle center lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45552301,Follicular lymphoma, unspecified, intrapelvic lymph nodes,5-char billing code,ICD10CM
+35206341,Other types of follicular non-Hodgkin's lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44821749,Nodular lymphoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40386168,Hodgkin's sarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+198372,Hodgkin's sarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+44829831,Hodgkin's sarcoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45561848,Follicular lymphoma, unspecified, spleen,5-char billing code,ICD10CM
+45571553,Cutaneous follicle center lymphoma, spleen,5-char billing code,ICD10CM
+198374,Nodular lymphoma of spleen,Disorder,SNOMED
+40386245,Nodular lymphoma of spleen,Disorder,SNOMED
+44828753,Nodular lymphoma, spleen,5-dig billing code,ICD9CM
+45561846,Other types of follicular lymphoma, spleen,5-char billing code,ICD10CM
+35206342,Other types of follicular non-Hodgkin's lymphoma, spleen,5-char billing code,ICD10CM
+40385821,Hodgkin's paragranuloma of spleen,Disorder,SNOMED
+45600535,Nodular lymphocyte predominant Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+44819450,Hodgkin's paragranuloma, spleen,5-dig billing code,ICD9CM
+45605297,Lymphocyte-rich Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+198381,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,Disorder,SNOMED
+193427,Hodgkin's paragranuloma of spleen,Disorder,SNOMED
+439289,Hodgkin's, lymphocytic-histiocytic predominance of spleen,Disorder,SNOMED
+44836863,Hodgkin's disease, lymphocytic-histiocytic predominance, spleen,5-dig billing code,ICD9CM
+198702,Lymphosarcoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44829824,Lymphosarcoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+35206410,Lymphosarcoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45571548,Hodgkin lymphoma, unspecified, spleen,5-char billing code,ICD10CM
+45547533,Other Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+442159,Hodgkin's disease, mixed cellularity of spleen,Disorder,SNOMED
+198704,Hodgkin's disease of spleen,Disorder,SNOMED
+44819458,Hodgkin's disease, unspecified type, spleen,5-dig billing code,ICD9CM
+198710,Hodgkin's sarcoma of spleen,Disorder,SNOMED
+439281,Hodgkin's disease, lymphocytic depletion of spleen,Disorder,SNOMED
+198707,Nodular lymphoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+40649685,Nodular lymphoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44835703,Nodular lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+40386172,Hodgkin's sarcoma of spleen,Disorder,SNOMED
+44829832,Hodgkin's sarcoma, spleen,5-dig billing code,ICD9CM
+40648913,Hodgkin's paragranuloma of intrapelvic lymph nodes,Disorder,SNOMED
+44825220,Hodgkin's paragranuloma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40648884,Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes,Disorder,SNOMED
+45537846,Nodular sclerosis Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44835701,Hodgkin's disease, nodular sclerosis, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40386241,Nodular lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+35206348,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+35206368,Undifferentiated (diffuse) non-Hodgkin's lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+35206338,Other types of follicular non-Hodgkin's lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45586037,Other types of follicular lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44821748,Nodular lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+200338,Nodular lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+45590938,Follicular lymphoma, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45605302,Cutaneous follicle center lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+35206358,Immunoblastic (diffuse) non-Hodgkin's lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45605319,Anaplastic large cell lymphoma, ALK-positive, spleen,5-char billing code,ICD10CM
+442168,Mycosis fungoides of spleen,Disorder,SNOMED
+40479608,Mantle cell lymphoma of spleen,Disorder,SNOMED
+45605325,Other mature T/NK-cell lymphomas, spleen,5-char billing code,ICD10CM
+200343,Malignant lymphoma of spleen,Disorder,SNOMED
+44830995,Primary central nervous system lymphoma, spleen,5-dig billing code,ICD9CM
+442128,Reticulosarcoma of spleen,Disorder,SNOMED
+45590937,Follicular lymphoma grade IIIa, spleen,5-char billing code,ICD10CM
+45537870,Non-Hodgkin lymphoma, unspecified, spleen,5-char billing code,ICD10CM
+35206352,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, spleen,5-char billing code,ICD10CM
+45586043,Diffuse large B-cell lymphoma, spleen,5-char billing code,ICD10CM
+44833332,Peripheral T cell lymphoma, spleen,5-dig billing code,ICD9CM
+45605321,Anaplastic large cell lymphoma, ALK-negative, spleen,5-char billing code,ICD10CM
+45590934,Follicular lymphoma grade I, spleen,5-char billing code,ICD10CM
+45537855,Diffuse follicle center lymphoma, spleen,5-char billing code,ICD10CM
+45581245,Mature T/NK-cell lymphomas, unspecified, spleen,5-char billing code,ICD10CM
+35206372,Undifferentiated (diffuse) non-Hodgkin's lymphoma, spleen,5-char billing code,ICD10CM
+45590935,Follicular lymphoma grade III, unspecified, spleen,5-char billing code,ICD10CM
+44833316,Large cell lymphoma, spleen,5-dig billing code,ICD9CM
+35206362,Immunoblastic (diffuse) non-Hodgkin's lymphoma, spleen,5-char billing code,ICD10CM
+45557029,Lymphoblastic (diffuse) lymphoma, spleen,5-char billing code,ICD10CM
+44835710,Other malignant lymphomas, spleen,5-dig billing code,ICD9CM
+444440,Burkitt's tumor of spleen,Disorder,SNOMED
+45595699,Follicular lymphoma grade II, spleen,5-char billing code,ICD10CM
+45537869,Other specified types of non-Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+760728,Peripheral T-cell lymphoma of spleen,Disorder,SNOMED
+45537854,Follicular lymphoma grade IIIb, spleen,5-char billing code,ICD10CM
+45586047,Other non-follicular lymphoma, spleen,5-char billing code,ICD10CM
+439293,Burkitt's lymphoma of spleen,Disorder,SNOMED
+44827574,Other named variants of lymphosarcoma and reticulosarcoma, spleen,5-dig billing code,ICD9CM
+44836860,Anaplastic large cell lymphoma, spleen,5-dig billing code,ICD9CM
+45605324,Cutaneous T-cell lymphoma, unspecified, spleen,5-char billing code,ICD10CM
+45566634,Small cell B-cell lymphoma, spleen,5-char billing code,ICD10CM
+45605316,Peripheral T-cell lymphoma, not elsewhere classified, spleen,5-char billing code,ICD10CM
+45537862,Non-follicular (diffuse) lymphoma, unspecified, spleen,5-char billing code,ICD10CM
+45595714,Mediastinal (thymic) large B-cell lymphoma, spleen,5-char billing code,ICD10CM
+36684461,Marginal zone lymphoma of spleen,Disorder,SNOMED
+45542647,Diffuse large B-cell lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45547535,Follicular lymphoma grade IIIa, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44829827,Primary central nervous system lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+44832140,Other named variants of lymphosarcoma and reticulosarcoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+44830996,Large cell lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+35206418,Other specified types of non-Hodgkin's lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45586046,Lymphoblastic (diffuse) lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45590955,Unspecified B-cell lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+200659,Reticulosarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+45542637,Follicular lymphoma grade I, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45581241,Non-follicular (diffuse) lymphoma, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45586035,Diffuse follicle center lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+200355,Hodgkin's disease of intra-abdominal lymph nodes,Disorder,SNOMED
+45566630,Follicular lymphoma grade III, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44833315,Anaplastic large cell lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+44832154,Other malignant lymphomas, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45566639,Cutaneous T-cell lymphoma, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45590957,Mediastinal (thymic) large B-cell lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45586050,Peripheral T-cell lymphoma, not elsewhere classified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45566643,Other specified types of non-Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45537866,Anaplastic large cell lymphoma, ALK-negative, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44820626,Mantle cell lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45532948,Follicular lymphoma grade IIIb, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45605322,Mature T/NK-cell lymphomas, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45552306,Anaplastic large cell lymphoma, ALK-positive, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+200349,Malignant lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+45561855,Other non-follicular lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44824051,Peripheral T cell lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+439267,Sézary's disease of intra-abdominal lymph nodes,Disorder,SNOMED
+44836856,Marginal zone lymphoma, intraabdominal lymph nodes,5-dig billing code,ICD9CM
+45586040,Mantle cell lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+36684807,B-cell lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+201813,Mycosis fungoides of intra-abdominal lymph nodes,Disorder,SNOMED
+45600541,Follicular lymphoma grade II, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45561862,Other mature T/NK-cell lymphomas, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+439291,Hodgkin's granuloma of intra-abdominal lymph nodes,Disorder,SNOMED
+44824048,Hodgkin's disease, unspecified type, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45571547,Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45600538,Other Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45600559,Non-Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+201811,Hodgkin's paragranuloma of intra-abdominal lymph nodes,Disorder,SNOMED
+439285,Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes,Disorder,SNOMED
+201242,Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes,Disorder,SNOMED
+40385778,Reticulosarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+44836854,Reticulosarcoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+40649727,Reticulosarcoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+200660,Reticulosarcoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44835687,Reticulosarcoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+40320646,Lymphosarcoma,Disorder,SNOMED
+40384920,[M]Lymphosarcoma NOS,Context-dependent,SNOMED
+44825215,Lymphosarcoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+4144198,Prolymphocytic lymphosarcoma,Disorder,SNOMED
+441803,Lymphosarcoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+438380,Lymphosarcoma of lymph nodes of head, face and neck,Disorder,SNOMED
+46270147,History of lymphosarcoma,Context-dependent,SNOMED
+4097559,Lymphosarcoma NOS,Disorder,SNOMED
+440957,Lymphosarcoma and reticulosarcoma,Disorder,SNOMED
+35206414,Lymphosarcoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+200662,Lymphosarcoma,Disorder,SNOMED
+318697,Lymphosarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+44835690,Lymphosarcoma,4-dig nonbill code,ICD9CM
+4097558,Lymphosarcoma of unspecified site,Disorder,SNOMED
+35206405,Lymphosarcoma, unspecified site,5-char billing code,ICD10CM
+3532457,Lymphosarcoma NOS,Disorder,SNOMED
+40648912,Hodgkin's paragranuloma of intra-abdominal lymph nodes,Disorder,SNOMED
+40386179,Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes,Disorder,SNOMED
+44834508,Hodgkin's disease, lymphocytic-histiocytic predominance, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45566626,Lymphocyte-rich Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45561837,Nodular lymphocyte predominant Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44820630,Hodgkin's paragranuloma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+4313228,Mixed cell type lymphosarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+35206411,Lymphosarcoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44819444,Lymphosarcoma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45547542,Mycosis fungoides, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44831000,Mycosis fungoides, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+40386627,Mycosis fungoides of intra-abdominal lymph nodes,Disorder,SNOMED
+40648858,Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites,Disorder,SNOMED
+44836865,Hodgkin's disease, lymphocytic depletion, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45581231,Lymphocyte depleted Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+313980,Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites,Disorder,SNOMED
+40648879,Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites,Disorder,SNOMED
+45566623,Mixed cellularity Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44834510,Hodgkin's disease, mixed cellularity, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+315202,Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites,Disorder,SNOMED
+444441,Burkitt's tumor of lymph nodes of multiple sites,Disorder,SNOMED
+45561854,Burkitt lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44832138,Burkitt's tumor or lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+315481,Burkitt's lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+40648889,Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites,Disorder,SNOMED
+315763,Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites,Disorder,SNOMED
+44821747,Hodgkin's disease, nodular sclerosis, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45537847,Nodular sclerosis Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45581233,Hodgkin lymphoma, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+316649,Hodgkin's sarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+44829837,Hodgkin's disease, unspecified type, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45605298,Other Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44826422,Hodgkin's sarcoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+40648929,Hodgkin's sarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+44820624,Lymphosarcoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+35206413,Lymphosarcoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44824041,Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+320337,Hodgkin's granuloma of lymph nodes of multiple sites,Disorder,SNOMED
+44822898,Hodgkin's granuloma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+40648909,Hodgkin's granuloma of lymph nodes of multiple sites,Disorder,SNOMED
+40386246,Nodular lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+35206343,Other types of follicular non-Hodgkin's lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45532950,Other types of follicular lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+320347,Nodular lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+45600545,Cutaneous follicle center lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44821750,Nodular lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45552302,Follicular lymphoma, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+321522,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites,Disorder,SNOMED
+45600537,Lymphocyte-rich Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45595694,Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44825224,Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+40648868,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites,Disorder,SNOMED
+1102872,Primary central nervous system lymphoma,6-char billing code,ICD10CM
+37166878,White matter disease due to microglioma,Disorder,SNOMED
+4227209,Primary intraocular non-Hodgkin malignant lymphoma,Disorder,SNOMED
+44820627,Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+44835693,Primary central nervous system lymphoma,4-dig nonbill code,ICD9CM
+373152,Primary central nervous system lymphoma,Disorder,SNOMED
+44828749,Primary central nervous system lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+44835694,Primary central nervous system lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+44819447,Primary central nervous system lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44819446,Primary central nervous system lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+40386718,Malignant lymphoma NOS,Disorder,SNOMED
+4091921,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of axilla and upper limb,Disorder,SNOMED
+607956,Composite Hodgkin and non-Hodgkin lymphoma,Disorder,SNOMED
+3519708,Malignant lymphoma NOS of lymph nodes of axilla and upper limb,Disorder,SNOMED
+4151255,Lymphoid and histiocytic malignancy NOS,Disorder,SNOMED
+40384914,[M]Malignant lymphoma NOS,Disorder,SNOMED
+4097578,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of unspecified site,Disorder,SNOMED
+44835708,Other malignant lymphomas, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+4080741,Malignant lymphoma of thyroid gland,Disorder,SNOMED
+4097097,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intra-abdominal lymph nodes,Disorder,SNOMED
+3541065,Lymphoid and histiocytic malignancy NOS,Disorder,SNOMED
+4096971,Malignant lymphoma NOS of lymph nodes of head, face and neck,Disorder,SNOMED
+42535712,Family history of nonleukemic lymphatic malignancy,Context-dependent,SNOMED
+440058,Malignant lymphoma of extranodal AND/OR solid organ site,Disorder,SNOMED
+3532455,Malignant lymphoma NOS of spleen,Disorder,SNOMED
+44823787,Personal history of lymphosarcoma and reticulosarcoma,5-dig billing V code,ICD9CM
+4097577,Malignant neoplasms of lymphoid and histiocytic tissue NOS,Disorder,SNOMED
+37397538,Primary pulmonary lymphoma,Disorder,SNOMED
+3519707,Malignant lymphoma NOS of intra-abdominal lymph nodes,Disorder,SNOMED
+4174769,Primary cerebral lymphoma,Disorder,SNOMED
+4094547,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of multiple sites,Disorder,SNOMED
+4080742,Malignant lymphoma of breast,Disorder,SNOMED
+4177700,History of malignant lymphoma,Context-dependent,SNOMED
+40320644,(Lymphatic tissue carcinoma) or (lymphoma),Disorder,SNOMED
+600665,Lymphoma of liver,Disorder,SNOMED
+4096970,Malignant lymphoma NOS of unspecified site,Disorder,SNOMED
+432571,Malignant lymphoma,Disorder,SNOMED
+4096972,Malignant lymphoma NOS of intrapelvic lymph nodes,Disorder,SNOMED
+3533007,Malignant lymphoma NOS of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+4131931,Malignant lymphoma of lymph nodes,Disorder,SNOMED
+3536092,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of axilla and upper limb,Disorder,SNOMED
+4097574,Malignant lymphoma NOS,Disorder,SNOMED
+4202550,Suspected lymphoma,Context-dependent,SNOMED
+4096973,Malignant lymphoma NOS of spleen,Disorder,SNOMED
+4091922,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of spleen,Disorder,SNOMED
+44829843,Other malignant lymphomas,4-dig nonbill code,ICD9CM
+4097098,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+35624275,Primary bone lymphoma,Disorder,SNOMED
+3532456,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrathoracic lymph nodes,Disorder,SNOMED
+4038835,Hodgkin's disease (clinical),Disorder,SNOMED
+3519835,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intra-abdominal lymph nodes,Disorder,SNOMED
+4097576,Malignant lymphoma NOS of lymph nodes of axilla and upper limb,Disorder,SNOMED
+4038838,Non-Hodgkin's lymphoma (clinical),Disorder,SNOMED
+4094545,Malignant lymphoma otherwise specified,Disorder,SNOMED
+4226624,Malignant lymphoma of the eye region,Disorder,SNOMED
+4097575,Malignant lymphoma NOS of intra-abdominal lymph nodes,Disorder,SNOMED
+4138905,Lymphomatous meningitis,Disorder,SNOMED
+4091918,Malignant lymphoma NOS of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+3533487,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrapelvic lymph nodes,Disorder,SNOMED
+4030667,Lymphoma of kidney,Disorder,SNOMED
+3519633,Malignant lymphoma NOS of unspecified site,Disorder,SNOMED
+4173985,Malignant lymphoma of testis,Disorder,SNOMED
+40352616,(Lymphatic tissue carcinoma) or (lymphoma),Disorder,SNOMED
+4311872,Lymphoma of retroperitoneal space,Disorder,SNOMED
+40493027,Gastrointestinal lymphoma,Disorder,SNOMED
+4094546,Malignant lymphoma NOS of intrathoracic lymph nodes,Disorder,SNOMED
+3531791,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of multiple sites,Disorder,SNOMED
+4097099,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrapelvic lymph nodes,Disorder,SNOMED
+3570936,Malignant lymphoma otherwise specified,Disorder,SNOMED
+4142582,Malignant lymphoma in remission,Disorder,SNOMED
+4096975,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of head, face and neck,Disorder,SNOMED
+4324467,Family history of malignant lymphoma,Context-dependent,SNOMED
+40490458,Lymphoma of pelvis,Disorder,SNOMED
+4096974,Malignant lymphoma NOS of lymph nodes of multiple sites,Disorder,SNOMED
+4091920,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrathoracic lymph nodes,Disorder,SNOMED
+37017112,Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+1567654,Diffuse large B-cell lymphoma,4-char nonbill code,ICD10CM
+4003832,Diffuse non-Hodgkin's lymphoma, immunoblastic (clinical),Disorder,SNOMED
+3543540,Diffuse malignant lymphoma - large cell,Undefined,SNOMED
+44808122,Diffuse large B-cell lymphoma,Disorder,SNOMED
+4300704,Diffuse large B-cell lymphoma (nodal/systemic with skin involvement),Disorder,SNOMED
+1102874,Diffuse large B-cell lymphoma, in remission,5-char billing code,ICD10CM
+432574,Diffuse large B-cell lymphoma,Disorder,SNOMED
+1102873,Diffuse large B-cell lymphoma of other extranodal and solid organ sites,6-char billing code,ICD10CM
+433156,Hodgkin's sarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+40386167,Hodgkin's sarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+44826421,Hodgkin's sarcoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+37116982,Diffuse large B-cell lymphoma of central nervous system,Disorder,SNOMED
+40386694,[X]Unspecified B-cell non-Hodgkin's lymphoma,Disorder,SNOMED
+4003833,Follicular non-Hodgkin's lymphoma, large cell (clinical),Disorder,SNOMED
+4130194,Chronic cold agglutinin disease associated with B-cell neoplasm,Disorder,SNOMED
+37110401,Diffuse large B-cell lymphoma co-occurrent with chronic inflammation caused by Epstein-Barr virus,Disorder,SNOMED
+4216139,Plasmacytoma,Disorder,SNOMED
+4116063,Proliferating angioendotheliomatosis,Disorder,SNOMED
+45605326,Unspecified B-cell lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+37110402,Plasmablastic lymphoma,Disorder,SNOMED
+37399015,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly,Disorder,SNOMED
+40481901,Mantle cell lymphoma,Disorder,SNOMED
+608282,Intravascular large B-cell lymphoma,Disorder,SNOMED
+4119130,Malignant lymphoma - small lymphocytic,Disorder,SNOMED
+434592,B-cell lymphoma (clinical),Disorder,SNOMED
+3655629,Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease,Disorder,SNOMED
+3654887,Diffuse large B-cell lymphoma of stomach,Disorder,SNOMED
+45765919,Follicular non-Hodgkin's lymphoma diffuse follicle center cell sub-type grade 2,Disorder,SNOMED
+45542658,Unspecified B-cell lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+37162618,B cell lymphoma of small intestine,Disorder,SNOMED
+1567669,Unspecified B-cell lymphoma,4-char nonbill code,ICD10CM
+4173973,Low grade B-cell lymphoma,Disorder,SNOMED
+1102887,Unspecified B-cell lymphoma, in remission,5-char billing code,ICD10CM
+45590954,Unspecified B-cell lymphoma, unspecified site,5-char billing code,ICD10CM
+36684809,B-cell lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+45581247,Unspecified B-cell lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+40481522,Primary mediastinal (thymic) large B-cell lymphoma,Disorder,SNOMED
+1244961,Follicular lymphoma,Disorder,SNOMED
+40385853,[X]Unspecified B-cell non-Hodgkin's lymphoma,Disorder,SNOMED
+4294435,Primary cutaneous B-cell lymphoma,Disorder,SNOMED
+45561864,Unspecified B-cell lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45537868,Unspecified B-cell lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+37396219,ALK-positive large B-cell lymphoma,Disorder,SNOMED
+35622279,Splenic marginal zone B-cell lymphoma,Disorder,SNOMED
+4300701,Precursor B-cell lymphoblastic lymphoma involving skin,Disorder,SNOMED
+194878,Nodular lymphoma of extranodal AND/OR solid organ site,Disorder,SNOMED
+3528866,[X]Unspecified B-cell non-Hodgkin's lymphoma,Disorder,SNOMED
+45595713,Unspecified B-cell lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+35622400,Splenic diffuse red pulp small B-cell lymphoma,Disorder,SNOMED
+4141255,Malignant lymphoma - lymphoplasmacytic,Disorder,SNOMED
+37017270,Primary effusion lymphoma,Disorder,SNOMED
+437233,Multiple myeloma,Disorder,SNOMED
+44799039,[X]Unspecified B-cell non-Hodgkin's lymphoma,Disorder,SNOMED
+37110400,T-cell histiocyte rich large B-cell lymphoma,Disorder,SNOMED
+40490918,Marginal zone lymphoma,Disorder,SNOMED
+4079692,High grade B-cell lymphoma,Disorder,SNOMED
+4041800,Burkitt's lymphoma (clinical),Disorder,SNOMED
+4175836,History of B-cell lymphoma,Context-dependent,SNOMED
+4002357,Follicular non-Hodgkin's lymphoma, small cleaved cell (clinical),Disorder,SNOMED
+4079700,Peripheral T-cell lymphoma - pleomorphic medium and large cell,Disorder,SNOMED
+45571561,Peripheral T-cell lymphoma, not elsewhere classified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+40386699,Peripheral T-cell lymphoma,Disorder,SNOMED
+4297354,CD-30 negative cutaneous T-cell lymphoma,Disorder,SNOMED
+4082493,Peripheral T-cell lymphoma - pleomorphic small cell,Disorder,SNOMED
+1102881,Peripheral T-cell lymphoma, not elsewhere classified, in remission,5-char billing code,ICD10CM
+4002358,Lymphoepithelioid lymphoma (clinical),Disorder,SNOMED
+760729,Peripheral T-cell lymphoma of axillary lymph node,Disorder,SNOMED
+434881,Peripheral T-cell lymphoma (clinical),Disorder,SNOMED
+44828755,Peripheral T-cell lymphoma,4-dig nonbill code,ICD9CM
+45542653,Peripheral T-cell lymphoma, not elsewhere classified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45542652,Peripheral T-cell lymphoma, not elsewhere classified, unspecified site,5-char billing code,ICD10CM
+45566638,Peripheral T-cell lymphoma, not elsewhere classified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+4300700,Pleomorphic small/medium-sized cell cutaneous T-cell lymphoma,Disorder,SNOMED
+44835707,Peripheral T cell lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+1567662,Peripheral T-cell lymphoma, not elsewhere classified,4-char nonbill code,ICD10CM
+760730,Peripheral T-cell lymphoma of thoracic lymph node,Disorder,SNOMED
+45542655,Peripheral T-cell lymphoma, not elsewhere classified, extranodal and solid organ sites,5-char billing code,ICD10CM
+4003182,T-zone lymphoma (clinical),Disorder,SNOMED
+45600555,Peripheral T-cell lymphoma, not elsewhere classified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44831010,Peripheral T cell lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+36684464,Peripheral T-cell lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+44833330,Peripheral T cell lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+44822905,Peripheral T cell lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+44833331,Peripheral T cell lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+435193,Reticulosarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+40385776,Reticulosarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+44830992,Reticulosarcoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+435207,Nodular lymphoma of lymph nodes of head, face and neck,Disorder,SNOMED
+40649684,Nodular lymphoma of lymph nodes of head, face, and neck,Disorder,SNOMED
+44822900,Nodular lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+40386239,Nodular lymphoma of intrathoracic lymph nodes,Disorder,SNOMED
+45542643,Other types of follicular lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+35206337,Other types of follicular non-Hodgkin's lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+435492,Nodular lymphoma of intrathoracic lymph nodes,Disorder,SNOMED
+45581238,Follicular lymphoma, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44832146,Nodular lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45532949,Cutaneous follicle center lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+35206357,Immunoblastic (diffuse) non-Hodgkin's lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+35206347,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+35206367,Undifferentiated (diffuse) non-Hodgkin's lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+440965,Hodgkin's disease of intrathoracic lymph nodes,Disorder,SNOMED
+44827571,Anaplastic large cell lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+439265,Sézary's disease of intrathoracic lymph nodes,Disorder,SNOMED
+45552303,Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45537858,Small cell B-cell lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44828748,Mantle cell lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45537853,Follicular lymphoma grade III, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45547546,Other mature T/NK-cell lymphomas, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45586057,Mediastinal (thymic) large B-cell lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45557025,Follicular lymphoma grade II, intrathoracic lymph nodes,5-char billing code,ICD10CM
+435753,Malignant lymphoma of intrathoracic lymph nodes,Disorder,SNOMED
+44821745,Large cell lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45566642,Other specified types of non-Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45605299,Follicular lymphoma grade IIIb, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45576355,Diffuse follicle center lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45600548,Mantle cell lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45586055,Cutaneous T-cell lymphoma, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45571558,Non-follicular (diffuse) lymphoma, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45595705,Diffuse large B-cell lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45590946,Other non-follicular lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44836870,Other malignant lymphomas, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45600557,Mature T/NK-cell lymphomas, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45537850,Follicular lymphoma grade I, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45595709,Anaplastic large cell lymphoma, ALK-positive, intrathoracic lymph nodes,5-char billing code,ICD10CM
+438376,Burkitt's tumor of intrathoracic lymph nodes,Disorder,SNOMED
+45542639,Follicular lymphoma grade IIIa, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44827572,Other named variants of lymphosarcoma and reticulosarcoma,intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45571563,Anaplastic large cell lymphoma, ALK-negative, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44821741,Marginal zone lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+35206417,Other specified types of non-Hodgkin's lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+760726,Marginal zone lymphoma of thoracic lymph node,Disorder,SNOMED
+4091768,Burkitt's lymphoma of intrathoracic lymph nodes,Disorder,SNOMED
+44827583,Multiple myeloma, in remission,5-dig billing code,ICD9CM
+45581251,Multiple myeloma in remission,5-char billing code,ICD10CM
+436059,Multiple myeloma in remission,Disorder,SNOMED
+40288552,Reticulosarcoma,Disorder,SNOMED
+3532453,Reticulosarcoma of unspecified site,Disorder,SNOMED
+438106,Reticulosarcoma of lymph nodes of head, face and neck,Disorder,SNOMED
+4094411,Reticulosarcoma of unspecified site,Disorder,SNOMED
+44833311,Reticulosarcoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+40649731,Reticulosarcoma of unspecified, extranodal or solid organ site,Disorder,SNOMED
+46269845,History of reticulosarcoma,Context-dependent,SNOMED
+441241,Reticulosarcoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+436920,Reticulosarcoma,Disorder,SNOMED
+40320645,Reticulosarcoma,Disorder,SNOMED
+4097557,Reticulosarcoma NOS,Disorder,SNOMED
+3532454,Reticulosarcoma NOS,Disorder,SNOMED
+37017243,Reticulosarcoma co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44830991,Reticulosarcoma,4-dig nonbill code,ICD9CM
+4112310,Immunoglobulin D myeloma,Disorder,SNOMED
+46270015,History of multiple myeloma,Context-dependent,SNOMED
+44833334,Multiple myeloma,4-dig nonbill code,ICD9CM
+42538151,Osteoporosis co-occurrent and due to multiple myeloma,Disorder,SNOMED
+1567675,Multiple myeloma and malignant plasma cell neoplasms,3-char nonbill code,ICD10CM
+4137433,Myeloma kidney,Disorder,SNOMED
+40647644,Multiple myeloma,Disorder,SNOMED
+45605329,Multiple myeloma not having achieved remission,5-char billing code,ICD10CM
+4258135,Asymptomatic multiple myeloma,Disorder,SNOMED
+609193,Immunoglobulin G deficiency due to multiple myeloma,Disorder,SNOMED
+4019477,Myeloma-associated amyloidosis,Disorder,SNOMED
+37209514,Hypogammaglobulinemia due to multiple myeloma,Disorder,SNOMED
+4323903,X-ray skeletal survey for multiple myeloma,Procedure,SNOMED
+2618062,Oncology; disease status; limited to multiple myeloma, systemic disease; smoldering, stage i (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+4190642,Plasma cell myeloma/plasmacytoma,Disorder,SNOMED
+40352618,Multiple myeloma etc.,Disorder,SNOMED
+2618064,Oncology; disease status; limited to multiple myeloma, systemic disease; extent of disease unknown, staging in progress, or not listed (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+37016161,Light chain nephropathy due to multiple myeloma,Disorder,SNOMED
+4082464,Light chain myeloma,Disorder,SNOMED
+1567676,Multiple myeloma,4-char nonbill code,ICD10CM
+4079684,Non-secretory myeloma,Disorder,SNOMED
+764229,Relapse multiple myeloma,Disorder,SNOMED
+40320652,Myeloma,Disorder,SNOMED
+40320651,Multiple myeloma etc.,Disorder,SNOMED
+2618063,Oncology; disease status; limited to multiple myeloma, systemic disease; stage ii or higher (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+4137510,Osteosclerotic myeloma,Disorder,SNOMED
+4199851,Family history of multiple myeloma,Context-dependent,SNOMED
+4043713,Neuropathy due to multiple myeloma,Disorder,SNOMED
+45600563,Multiple myeloma in relapse,5-char billing code,ICD10CM
+44833335,Multiple myeloma, without mention of having achieved remission,5-dig billing code,ICD9CM
+4111356,IgG myeloma,Disorder,SNOMED
+4224628,Amyloid light chain amyloidosis due to multiple myeloma,Disorder,SNOMED
+4111355,IgA myeloma,Disorder,SNOMED
+44825229,Multiple myeloma, in relapse,5-dig billing code,ICD9CM
+4090022,Myeloma screening,Procedure,SNOMED
+437505,Nodular lymphoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+40649682,Nodular lymphoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+44827578,Nodular lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+40649726,Reticulosarcoma of lymph nodes of head, face, and neck,Disorder,SNOMED
+44836853,Reticulosarcoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+44827569,Lymphosarcoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+35206406,Lymphosarcoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+4314501,Mixed cell type lymphosarcoma of lymph nodes of head, face, and neck,Disorder,SNOMED
+438709,Hodgkin's paragranuloma of intrathoracic lymph nodes,Disorder,SNOMED
+44829830,Hodgkin's paragranuloma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+40648914,Hodgkin's paragranuloma of intrathoracic lymph nodes,Disorder,SNOMED
+40649759,Sézary's disease of intrathoracic lymph nodes,Disorder,SNOMED
+45557032,Sezary disease, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44835704,Sezary's disease, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+439266,Sézary's disease of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44827580,Sezary's disease, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45537863,Sezary disease, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+199762,Sézary's disease of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+45581243,Sezary disease, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+40649757,Sézary's disease of intra-abdominal lymph nodes,Disorder,SNOMED
+44821751,Sezary's disease, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+40649758,Sézary's disease of intrapelvic lymph nodes,Disorder,SNOMED
+45581244,Sezary disease, intrapelvic lymph nodes,5-char billing code,ICD10CM
+40649760,Sézary's disease of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+44821753,Sezary's disease, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40648860,Hodgkin's disease, lymphocytic depletion of spleen,Disorder,SNOMED
+44819457,Hodgkin's disease, lymphocytic depletion, spleen,5-dig billing code,ICD9CM
+45605296,Lymphocyte depleted Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+44835702,Hodgkin's disease, lymphocytic depletion, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+45605295,Lymphocyte depleted Hodgkin lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+40648400,Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes,Disorder,SNOMED
+44824046,Hodgkin's disease, lymphocytic depletion, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45590930,Lymphocyte depleted Hodgkin lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44824043,Hodgkin's granuloma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+40648902,Hodgkin's granuloma of intra-abdominal lymph nodes,Disorder,SNOMED
+44825217,Burkitt's tumor or lymphoma, spleen,5-dig billing code,ICD9CM
+45537860,Burkitt lymphoma, spleen,5-char billing code,ICD10CM
+35206364,Immunoblastic (diffuse) non-Hodgkin's lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+435758,Burkitt's tumor of extranodal AND/OR solid organ site,Disorder,SNOMED
+45557027,Diffuse large B-cell lymphoma, extranodal and solid organ sites,5-char nonbill code,ICD10CM
+35206354,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+135204,Mycosis fungoides of extranodal AND/OR solid organ site,Disorder,SNOMED
+45576356,Cutaneous follicle center lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45581267,Other specified malignant neoplasms of lymphoid, hematopoietic and related tissue,4-char billing code,ICD10CM
+45532952,Other non-follicular lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45600556,Anaplastic large cell lymphoma, ALK-positive, extranodal and solid organ sites,5-char billing code,ICD10CM
+45590944,Lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45571565,Mature T/NK-cell lymphomas, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+45537859,Small cell B-cell lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+35206344,Other types of follicular non-Hodgkin's lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45561860,Cutaneous T-cell lymphoma, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+135759,Sézary's disease of extranodal AND/OR solid organ site,Disorder,SNOMED
+45561863,Other mature T/NK-cell lymphomas, extranodal and solid organ sites,5-char billing code,ICD10CM
+45586053,Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites,5-char billing code,ICD10CM
+40487528,Non-Hodgkin's lymphoma of extranodal site,Disorder,SNOMED
+45561865,Mediastinal (thymic) large B-cell lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45590943,Mantle cell lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45590948,Non-follicular (diffuse) lymphoma, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+440350,Malignant lymphoma - lymphocytic, intermediate differentiation,Disorder,SNOMED
+4301670,Mantle cell B-cell lymphoma (nodal/systemic with skin involvement),Disorder,SNOMED
+40386178,Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes,Disorder,SNOMED
+440351,Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes,Disorder,SNOMED
+44821746,Hodgkin's disease, lymphocytic-histiocytic predominance, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45552290,Nodular lymphocyte predominant Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45566625,Lymphocyte-rich Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+40385827,Hodgkin's granuloma of intrathoracic lymph nodes,Disorder,SNOMED
+440354,Hodgkin's granuloma of intrathoracic lymph nodes,Disorder,SNOMED
+44824042,Hodgkin's granuloma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+44833317,Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+44819448,Other named variants of lymphosarcoma and reticulosarcoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+3532355,Other specified reticulosarcoma or lymphosarcoma,Disorder,SNOMED
+44827573,Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+4096956,Reticulosarcoma or lymphosarcoma NOS,Disorder,SNOMED
+4097563,Other specified reticulosarcoma or lymphosarcoma,Disorder,SNOMED
+3533430,Reticulosarcoma or lymphosarcoma NOS,Disorder,SNOMED
+44829829,Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+44830997,Other named variants of lymphosarcoma and reticulosarcoma,4-dig nonbill code,ICD9CM
+45571546,Hodgkin lymphoma, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44836867,Hodgkin's disease, unspecified type, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+45547549,Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes,5-char billing code,ICD10CM
+45552294,Other Hodgkin lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+40649725,Reticulosarcoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+44821740,Reticulosarcoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44824038,Lymphosarcoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+35206409,Lymphosarcoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+40385782,Reticulosarcoma of spleen,Disorder,SNOMED
+44833312,Reticulosarcoma, spleen,5-dig billing code,ICD9CM
+40386160,Hodgkin's granuloma of intrapelvic lymph nodes,Disorder,SNOMED
+44825222,Hodgkin's granuloma, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+40386207,Hodgkin's disease, mixed cellularity of spleen,Disorder,SNOMED
+45605294,Mixed cellularity Hodgkin lymphoma, spleen,5-char billing code,ICD10CM
+44832143,Hodgkin's disease, mixed cellularity, spleen,5-dig billing code,ICD9CM
+44822901,Mycosis fungoides, spleen,5-dig billing code,ICD9CM
+40386631,Mycosis fungoides of spleen,Disorder,SNOMED
+45581242,Mycosis fungoides, spleen,5-char billing code,ICD10CM
+40386630,Mycosis fungoides of intrapelvic lymph nodes,Disorder,SNOMED
+45571559,Mycosis fungoides, intrapelvic lymph nodes,5-char billing code,ICD10CM
+44819459,Mycosis fungoides, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+600664,Lymphoma of lacrimal gland,Disorder,SNOMED
+602073,Mycosis fungoides of inguinal lymph node,Disorder,SNOMED
+194593,Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+44832147,Mycosis fungoides, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45552305,Mycosis fungoides, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+40386629,Mycosis fungoides of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+603012,Malignant lymphoma of duodenum,Disorder,SNOMED
+40493030,Lymphoma of cardioesophageal junction,Disorder,SNOMED
+603013,Malignant lymphoma of esophagus,Disorder,SNOMED
+40493006,Lymphoma of lower esophagus,Disorder,SNOMED
+603014,Lymphoma of anus,Disorder,SNOMED
+603015,Lymphoma of appendix,Disorder,SNOMED
+1102912,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma], in remission,5-char billing code,ICD10CM
+1102876,Burkitt lymphoma, in remission,5-char billing code,ICD10CM
+1102865,Follicular lymphoma grade IIIb, in remission,5-char billing code,ICD10CM
+604486,Adult T-cell leukemia/lymphoma in remission,Disorder,SNOMED
+1102900,Blastic NK-cell lymphoma, in remission,5-char billing code,ICD10CM
+1102855,Nodular sclerosis Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+1102896,Enteropathy-type (intestinal) T-cell lymphoma, in remission,5-char billing code,ICD10CM
+1102878,Non-follicular (diffuse) lymphoma, unspecified, in remission,5-char billing code,ICD10CM
+1102908,Heavy chain disease, in remission,5-char billing code,ICD10CM
+1102898,Subcutaneous panniculitis-like T-cell lymphoma, in remission,5-char billing code,ICD10CM
+1102862,Follicular lymphoma grade II, in remission,5-char billing code,ICD10CM
+1102864,Follicular lymphoma grade IIIa, in remission,5-char billing code,ICD10CM
+1102889,Other specified types of non-Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+1102892,Extranodal NK/T-cell lymphoma, nasal type, in remission,5-char billing code,ICD10CM
+603291,Non-Hodgkin's lymphoma in remission,Disorder,SNOMED
+1102894,Hepatosplenic T-cell lymphoma, in remission,5-char billing code,ICD10CM
+1102863,Follicular lymphoma grade III, unspecified, in remission,5-char billing code,ICD10CM
+37171452,Extramedullary plasmacytoma in remission,Disorder,SNOMED
+1102890,Non-Hodgkin lymphoma, unspecified, in remission,5-char billing code,ICD10CM
+1102861,Follicular lymphoma grade I, in remission,5-char billing code,ICD10CM
+1102883,Anaplastic large cell lymphoma, ALK-negative, in remission,5-char billing code,ICD10CM
+1102867,Cutaneous follicle center lymphoma, in remission,5-char billing code,ICD10CM
+1102869,Follicular lymphoma, unspecified, in remission,5-char billing code,ICD10CM
+1102866,Diffuse follicle center lymphoma, in remission,5-char billing code,ICD10CM
+1102877,Other non-follicular lymphoma, in remission,5-char billing code,ICD10CM
+1102885,Cutaneous T-cell lymphoma, unspecified, in remission,5-char billing code,ICD10CM
+606914,Follicular lymphoma grade 3b,Disorder,SNOMED
+45600542,Follicular lymphoma grade IIIb, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45542641,Follicular lymphoma grade IIIb, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+3545439,Follicular lymphoma grade 3b,Undefined,SNOMED
+44808118,Follicular lymphoma grade 3b,Disorder,SNOMED
+606916,Follicular non-Hodgkin's lymphoma in situ,Disorder,SNOMED
+44808117,Follicular lymphoma grade 3a,Disorder,SNOMED
+45532947,Follicular lymphoma grade IIIa, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45595702,Follicular lymphoma grade IIIa, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+3545438,Follicular lymphoma grade 3a,Undefined,SNOMED
+606919,Follicular lymphoma grade 3a,Disorder,SNOMED
+607373,Pediatric nodal marginal zone B cell lymphoma,Disorder,SNOMED
+607382,Primary non-Hodgkin malignant lymphoma of uveal tract,Disorder,SNOMED
+607383,Primary non-Hodgkin malignant lymphoma of vitreoretinal tract,Disorder,SNOMED
+607384,Primary effusion lymphoma due to human immune deficiency virus infection,Disorder,SNOMED
+439727,Human immunodeficiency virus infection,Disorder,SNOMED
+4111027,Angioendotheliomatosis,Disorder,SNOMED
+3529013,[M]Angioendotheliomatosis,Disorder,SNOMED
+40385390,[M]Angioendotheliomatosis,Disorder,SNOMED
+40340736,Angioendotheliomatosis,Disorder,SNOMED
+40384976,[M]Angioendotheliomatosis,Morph Abnormality,SNOMED
+44799322,[M]Angioendotheliomatosis,Morph Abnormality,SNOMED
+609126,Mycosis fungoides of facial lymph node,Disorder,SNOMED
+609236,Mycosis fungoides of lower limb lymph node,Disorder,SNOMED
+760724,Marginal zone lymphoma of inguinal lymph node,Disorder,SNOMED
+44820641,Plasma cell leukemia, in relapse,5-dig billing code,ICD9CM
+45595717,Plasma cell leukemia in relapse,5-char billing code,ICD10CM
+764078,Marginal zone lymphoma of axillary lymph node,Disorder,SNOMED
+764839,Diffuse non-Hodgkin's lymphoma Lugano stage I,Disorder,SNOMED
+764840,Diffuse non-Hodgkin's lymphoma Lugano stage IV,Disorder,SNOMED
+765717,Diffuse non-Hodgkin's lymphoma Lugano stage III,Disorder,SNOMED
+765741,Diffuse non-Hodgkin's lymphoma Lugano stage II,Disorder,SNOMED
+40488901,Follicular non-Hodgkin's lymphoma of prostate,Disorder,SNOMED
+40490991,Follicular non-Hodgkin's lymphoma of bone,Disorder,SNOMED
+4079288,Follicular low grade B-cell lymphoma,Disorder,SNOMED
+45581239,Follicular lymphoma, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+40493012,Follicular non-Hodgkin's lymphoma of uterine cervix,Disorder,SNOMED
+40486173,Follicular non-Hodgkin's lymphoma of stomach,Disorder,SNOMED
+4149840,Nodular lymphoma,Disorder,SNOMED
+36684826,Follicular non-Hodgkin's lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+1102868,Other types of follicular lymphoma, in remission,5-char billing code,ICD10CM
+40486169,Follicular non-Hodgkin's lymphoma of nasopharynx,Disorder,SNOMED
+40492940,Follicular non-Hodgkin's lymphoma of central nervous system,Disorder,SNOMED
+40487142,Follicular non-Hodgkin's lymphoma of intestine,Disorder,SNOMED
+36715795,Follicular lymphoma of small intestine,Disorder,SNOMED
+42537145,Pediatric follicular lymphoma,Disorder,SNOMED
+40490998,Follicular non-Hodgkin's lymphoma of lung,Disorder,SNOMED
+40493017,Follicular non-Hodgkin's lymphoma of oral cavity,Disorder,SNOMED
+40487141,Follicular non-Hodgkin's lymphoma of testis,Disorder,SNOMED
+40490467,Follicular non-Hodgkin's lymphoma of extranodal site,Disorder,SNOMED
+40493011,Follicular non-Hodgkin's lymphoma of tonsil,Disorder,SNOMED
+40488917,Follicular non-Hodgkin's lymphoma of nose,Disorder,SNOMED
+40486654,Follicular non-Hodgkin's lymphoma of ovary,Disorder,SNOMED
+45566633,Follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+40489407,Follicular non-Hodgkin's lymphoma of soft tissue,Disorder,SNOMED
+1246721,Mycosis fungoides of axillary lymph nodes,Disorder,SNOMED
+1246726,Sézary syndrome of inguinal lymph nodes,Disorder,SNOMED
+3654298,Relapsing classical Hodgkin lymphoma,Disorder,SNOMED
+3654579,Lymphomatous infiltrate of kidney,Disorder,SNOMED
+3654886,Diffuse large B-cell lymphoma of small intestine,Disorder,SNOMED
+4001329,Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell (clinical),Disorder,SNOMED
+1567643,Follicular lymphoma grade II,4-char nonbill code,ICD10CM
+45552297,Follicular lymphoma grade II, unspecified site,5-char billing code,ICD10CM
+45581234,Follicular lymphoma grade II, extranodal and solid organ sites,5-char billing code,ICD10CM
+45537851,Follicular lymphoma grade II, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+4002356,Diffuse non-Hodgkin's lymphoma, small cell (clinical),Disorder,SNOMED
+45765770,Follicular non-Hodgkin's lymphoma diffuse follicle center sub-type grade 1,Disorder,SNOMED
+45532944,Follicular lymphoma grade I, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45571550,Follicular lymphoma grade I, extranodal and solid organ sites,5-char billing code,ICD10CM
+45557023,Follicular lymphoma grade I, unspecified site,5-char billing code,ICD10CM
+1567642,Follicular lymphoma grade I,4-char nonbill code,ICD10CM
+40386698,Lymphoepithelioid lymphoma,Disorder,SNOMED
+4003180,Diffuse non-Hodgkin's lymphoma, small cleaved cell (clinical),Disorder,SNOMED
+40386697,T-zone lymphoma,Disorder,SNOMED
+40483374,Hepatosplenic T-cell lymphoma,Disorder,SNOMED
+37162734,T-cell lymphoma of small intestine,Disorder,SNOMED
+4003183,T-cell lymphoma (clinical),Disorder,SNOMED
+40386705,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas,Disorder,SNOMED
+4266805,Primary cutaneous T-cell lymphoma,Disorder,SNOMED
+4079696,High grade T-cell lymphoma,Disorder,SNOMED
+4299149,Anaplastic large T-cell systemic malignant lymphoma,Disorder,SNOMED
+44797104,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas,Disorder,SNOMED
+4082487,Cutaneous/peripheral T-cell lymphoma,Disorder,SNOMED
+40385852,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas,Disorder,SNOMED
+4079690,Prethymic and thymic T-cell lymphoma/leukemia,Disorder,SNOMED
+4227963,T-lymphoblastic lymphoma,Disorder,SNOMED
+3545719,Adult T-cell leukemia/lymphoma,Disorder,SNOMED
+45586063,Adult T-cell lymphoma/leukemia (HTLV-1-associated), in relapse,5-char billing code,ICD10CM
+1567685,Adult T-cell lymphoma/leukemia (HTLV-1-associated),4-char nonbill code,ICD10CM
+4003188,Adult T-cell leukemia/lymphoma,Disorder,SNOMED
+45561873,Adult T-cell lymphoma/leukemia (HTLV-1-associated) not having achieved remission,5-char billing code,ICD10CM
+4094550,Adult T-cell leukemia,Disorder,SNOMED
+45552313,Adult T-cell lymphoma/leukemia (HTLV-1-associated), in remission,5-char billing code,ICD10CM
+44795630,[X]Diffuse non-Hodgkin's lymphoma, unspecified,Disorder,SNOMED
+1567657,Other non-follicular lymphoma,4-char nonbill code,ICD10CM
+40385851,[X]Diffuse non-Hodgkin's lymphoma, unspecified,Disorder,SNOMED
+45532951,Other non-follicular lymphoma, unspecified site,5-char billing code,ICD10CM
+45590947,Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+40490465,Diffuse non-Hodgkin's lymphoma of extranodal site,Disorder,SNOMED
+40386695,[X]Diffuse non-Hodgkin's lymphoma, unspecified,Disorder,SNOMED
+40490988,Diffuse non-Hodgkin's lymphoma of stomach,Disorder,SNOMED
+40488897,Diffuse non-Hodgkin's lymphoma of prostate,Disorder,SNOMED
+1567651,Non-follicular lymphoma,3-char nonbill code,ICD10CM
+40489409,Diffuse non-Hodgkin's lymphoma of nasopharynx,Disorder,SNOMED
+40486172,Diffuse non-Hodgkin's lymphoma of central nervous system,Disorder,SNOMED
+40493517,Diffuse non-Hodgkin's lymphoma of intestine,Disorder,SNOMED
+40493514,Diffuse non-Hodgkin's lymphoma of tonsil,Disorder,SNOMED
+40490520,Diffuse non-Hodgkin's lymphoma of ovary,Disorder,SNOMED
+40490518,Diffuse non-Hodgkin's lymphoma of uterine cervix,Disorder,SNOMED
+4003831,Diffuse non-Hodgkin's lymphoma, undifferentiated,Disorder,SNOMED
+45605311,Other non-follicular lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+40492020,Diffuse non-Hodgkin's lymphoma of lung,Disorder,SNOMED
+1567658,Non-follicular (diffuse) lymphoma, unspecified,4-char nonbill code,ICD10CM
+40486166,Diffuse non-Hodgkin's lymphoma of soft tissue,Disorder,SNOMED
+3529277,[X]Diffuse non-Hodgkin's lymphoma, unspecified,Disorder,SNOMED
+4003830,Diffuse non-Hodgkin's lymphoma,Disorder,SNOMED
+4001328,Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical),Disorder,SNOMED
+40489963,Diffuse non-Hodgkin's lymphoma of oral cavity,Disorder,SNOMED
+40489960,Diffuse non-Hodgkin's lymphoma of testis,Disorder,SNOMED
+45571557,Non-follicular (diffuse) lymphoma, unspecified, unspecified site,5-char billing code,ICD10CM
+40493019,Diffuse non-Hodgkin's lymphoma of nose,Disorder,SNOMED
+40493518,Diffuse non-Hodgkin's lymphoma of bone,Disorder,SNOMED
+45566637,Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45537861,Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+35206369,Undifferentiated (diffuse) non-Hodgkin's lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+35206365,Undifferentiated (diffuse) non-Hodgkin's lymphoma, unspecified site,5-char billing code,ICD10CM
+35206370,Undifferentiated (diffuse) non-Hodgkin's lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+35206373,Undifferentiated (diffuse) non-Hodgkin's lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+35206366,Undifferentiated (diffuse) non-Hodgkin's lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+35206374,Undifferentiated (diffuse) non-Hodgkin's lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+35206356,Immunoblastic (diffuse) non-Hodgkin's lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+4226925,Immunoblastic lymphoma associated with AIDS,Disorder,SNOMED
+35206355,Immunoblastic (diffuse) non-Hodgkin's lymphoma, unspecified site,5-char billing code,ICD10CM
+40386687,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,Disorder,SNOMED
+35206360,Immunoblastic (diffuse) non-Hodgkin's lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+37017442,Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+35206359,Immunoblastic (diffuse) non-Hodgkin's lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+35206363,Immunoblastic (diffuse) non-Hodgkin's lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45561844,Follicular lymphoma grade IIIa, unspecified site,5-char billing code,ICD10CM
+1567644,Follicular lymphoma grade III, unspecified,4-char nonbill code,ICD10CM
+40386683,Follicular malignant lymphoma - large cell,Disorder,SNOMED
+45595700,Follicular lymphoma grade III, unspecified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45571552,Follicular lymphoma grade III, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+45557026,Follicular lymphoma grade IIIa, extranodal and solid organ sites,5-char billing code,ICD10CM
+4079297,Follicular malignant lymphoma - large cell,Disorder,SNOMED
+45600543,Follicular lymphoma grade IIIb, extranodal and solid organ sites,5-char billing code,ICD10CM
+45576350,Follicular lymphoma grade III, unspecified, unspecified site,5-char billing code,ICD10CM
+45552298,Follicular lymphoma grade IIIa, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+1567645,Follicular lymphoma grade IIIa,4-char nonbill code,ICD10CM
+45542640,Follicular lymphoma grade IIIb, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+1567646,Follicular lymphoma grade IIIb,4-char nonbill code,ICD10CM
+45586034,Follicular lymphoma grade IIIb, unspecified site,5-char billing code,ICD10CM
+4029188,Primary cutaneous CD30+ large T-cell lymphoma,Disorder,SNOMED
+4299146,CD-30 positive T-immunoblastic cutaneous lymphoma,Disorder,SNOMED
+3545444,Primary cutaneous CD30 antigen positive large T-cell lymphoma,Undefined,SNOMED
+3545153,Primary cutaneous CD30 antigen positive large T-cell lymphoma,Disorder,SNOMED
+1102903,Primary cutaneous CD30-positive T-cell proliferations not having achieved remission,5-char billing code,ICD10CM
+1102904,Primary cutaneous CD30-positive T-cell proliferations, in remission,5-char billing code,ICD10CM
+4299145,CD-30 positive pleomorphic large T-cell cutaneous lymphoma,Disorder,SNOMED
+920122,Primary cutaneous CD30-positive T-cell proliferations,4-char nonbill code,ICD10CM
+4029676,Cutaneous CD30+ lymphoproliferative disorder,Disorder,SNOMED
+36676804,Primary cutaneous anaplastic large cell lymphoma,Disorder,SNOMED
+4299144,CD-30 positive anaplastic large T-cell cutaneous lymphoma,Disorder,SNOMED
+44822899,Hodgkin's disease, unspecified type,4-dig nonbill code,ICD9CM
+45561658,Personal history of Hodgkin lymphoma,5-char billing code,ICD10CM
+44799558,[X]Other Hodgkin's disease,Disorder,SNOMED
+4096960,Hodgkin's disease NOS,Disorder,SNOMED
+3531337,Hodgkin's disease NOS, unspecified site,Disorder,SNOMED
+1567639,Other Hodgkin lymphoma,4-char nonbill code,ICD10CM
+436652,Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+3570516,History of Hodgkin's lymphoma,Context-dependent,SNOMED
+3531339,Hodgkin's disease NOS of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45600540,Hodgkin lymphoma, unspecified, unspecified site,5-char billing code,ICD10CM
+4162176,Family history of Hodgkin's disease,Context-dependent,SNOMED
+436651,Hodgkin's disease of extranodal AND/OR solid organ site,Disorder,SNOMED
+42538850,Classical Hodgkin lymphoma,Disorder,SNOMED
+40386234,Hodgkin's disease NOS,Disorder,SNOMED
+3531340,Hodgkin's disease NOS of spleen,Disorder,SNOMED
+1567633,Hodgkin lymphoma,3-char nonbill code,ICD10CM
+4038839,Hodgkin lymphoma, nodular lymphocyte predominance (clinical),Disorder,SNOMED
+37165864,Hodgkin disease of lymph nodes of upper limb,Disorder,SNOMED
+4291595,Hodgkin's disease affecting skin,Disorder,SNOMED
+4096962,Hodgkin's disease NOS of intra-abdominal lymph nodes,Disorder,SNOMED
+4097566,Hodgkin's disease NOS of lymph nodes of head, face and neck,Disorder,SNOMED
+4094415,Hodgkin's disease NOS of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+3545392,Hodgkin's disease,Undefined,SNOMED
+434877,Hodgkin's disease of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+4094416,Hodgkin's disease NOS of spleen,Disorder,SNOMED
+44836866,Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+43021273,History of Hodgkin lymphoma,Context-dependent,SNOMED
+37165830,Hodgkin disease of lymph nodes of head and neck,Disorder,SNOMED
+4091778,Hodgkin's disease NOS of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45590932,Other Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+4091777,Hodgkin's disease NOS, unspecified site,Disorder,SNOMED
+44835415,Personal history of hodgkin's disease,5-dig billing V code,ICD9CM
+4301781,Specific skin infiltration in Hodgkin's disease,Disorder,SNOMED
+4091779,Hodgkin's disease NOS of intrapelvic lymph nodes,Disorder,SNOMED
+4096961,Hodgkin's disease NOS of intrathoracic lymph nodes,Disorder,SNOMED
+4094417,Hodgkin's disease NOS of lymph nodes of multiple sites,Disorder,SNOMED
+37208173,Refractory Hodgkin's lymphoma,Disorder,SNOMED
+437818,Hodgkin's disease of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+4144302,Hodgkin's disease in remission,Disorder,SNOMED
+40320649,Hodgkin's disease,Disorder,SNOMED
+40648399,Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes,Disorder,SNOMED
+35610328,B-cell Hodgkin's lymphoma,Disorder,SNOMED
+37165862,Hodgkin disease of lymph nodes of lower limb,Disorder,SNOMED
+3531338,Hodgkin's disease NOS of intrathoracic lymph nodes,Disorder,SNOMED
+45600539,Other Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+40385837,[X]Other Hodgkin's disease,Disorder,SNOMED
+3531228,Hodgkin's disease NOS of lymph nodes of multiple sites,Disorder,SNOMED
+45576348,Hodgkin lymphoma, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+44826420,Hodgkin's disease,3-dig nonbill code,ICD9CM
+1567640,Hodgkin lymphoma, unspecified,4-char nonbill code,ICD10CM
+44799559,[X]Other types of follicular non-Hodgkin's lymphoma,Disorder,SNOMED
+40489468,Non-Hodgkin's lymphoma of lung,Disorder,SNOMED
+4121853,Malignant lymphoma, follicular center cell, cleaved,Disorder,SNOMED
+44800451,[X]Other types of diffuse non-Hodgkin's lymphoma,Disorder,SNOMED
+35206422,Other specified types of non-Hodgkin's lymphoma, spleen,5-char billing code,ICD10CM
+2618069,Oncology; disease status; non-hodgkin's lymphoma, any cellular classification; stage iii, iv, not relapsed, not refractory (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+2618068,Oncology; disease status; non-hodgkin's lymphoma, any cellular classification; stage i, ii at diagnosis, not relapsed, not refractory (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+44795296,[X]Other specified types of non-Hodgkin's lymphoma,Disorder,SNOMED
+2618071,Oncology; disease status; non-hodgkin's lymphoma, any cellular classification; relapsed/refractory (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+35206415,Other specified types of non-Hodgkin's lymphoma, unspecified site,5-char billing code,ICD10CM
+40650092,Malignant neoplasm of lymphoid AND/OR histiocytic tissue,Disorder,SNOMED
+40385840,[X]Other types of diffuse non-Hodgkin's lymphoma,Disorder,SNOMED
+40647538,Lymphosarcoma of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+3545451,Non-Hodgkin's lymphoma - disorder,Undefined,SNOMED
+40320650,(Non-Hodgkin's lymphoma) or (histiocytosis X) or (Letterer-Siwe disease) or (lymphatic tissue Ca NOS),Disorder,SNOMED
+40352617,(Non-Hodgkin's lymphoma) or (histiocytosis X) or (Letterer-Siwe disease) or (lymphatic tissue Ca NOS),Disorder,SNOMED
+40489472,Non-Hodgkin's lymphoma of ovary,Disorder,SNOMED
+45590959,Non-Hodgkin lymphoma, unspecified, unspecified site,5-char billing code,ICD10CM
+40647537,Lymphosarcoma of lymph nodes of head, face, and neck,Disorder,SNOMED
+40647630,Mixed cell type lymphosarcoma of spleen,Disorder,SNOMED
+4121970,Malignant lymphoma, follicular center cell, non-cleaved,Disorder,SNOMED
+40647631,Mixed cell type lymphosarcoma of extranodal AND/OR solid organ site,Disorder,SNOMED
+40486637,Non-Hodgkin's lymphoma of tonsil,Disorder,SNOMED
+45557035,Other specified types of non-Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44794445,[X]Non-Hodgkin's lymphoma, unspecified type,Disorder,SNOMED
+4153374,Malignant lymphoma, large cell, polymorphous, immunoblastic,Disorder,SNOMED
+40489483,Non-Hodgkin's lymphoma of oral cavity,Disorder,SNOMED
+45609981,Personal history of non-Hodgkin lymphomas,5-char billing code,ICD10CM
+4147411,Follicular non-Hodgkin's lymphoma,Disorder,SNOMED
+40491440,Non-Hodgkin's lymphoma of stomach,Disorder,SNOMED
+4175993,History of non-Hodgkins lymphoma,Context-dependent,SNOMED
+40647534,Lymphosarcoma of intrapelvic lymph nodes,Disorder,SNOMED
+45576363,Other specified types of non-Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+1567671,Other specified types of non-Hodgkin lymphoma,4-char nonbill code,ICD10CM
+40488904,Non-Hodgkin's lymphoma of bone,Disorder,SNOMED
+40385841,[X]Other specified types of non-Hodgkin's lymphoma,Disorder,SNOMED
+40647541,Lymphosarcoma of extranodal AND/OR solid organ site,Disorder,SNOMED
+45561866,Other specified types of non-Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+35206420,Other specified types of non-Hodgkin's lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+2618070,Oncology; disease status; non-hodgkin's lymphoma, transformed from original cellular diagnosis to a second cellular classification (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+40489467,Non-Hodgkin's lymphoma of nasopharynx,Disorder,SNOMED
+45547550,Non-Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44783557,Hepatosplenic gamma-delta cell lymphoma,Disorder,SNOMED
+4097561,Burkitt lymphoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+40385838,[X]Other types of follicular non-Hodgkin's lymphoma,Disorder,SNOMED
+35206423,Other specified types of non-Hodgkin's lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+44810290,No FH of non-Hodgkin lymphoma,Context-dependent,SNOMED
+37163570,Precursor cell lymphoblastic lymphoma,Disorder,SNOMED
+45566644,Other specified types of non-Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+40489481,Non-Hodgkin's lymphoma of nose,Disorder,SNOMED
+40647540,Lymphosarcoma of spleen,Disorder,SNOMED
+40385854,[X]Non-Hodgkin's lymphoma, unspecified type,Disorder,SNOMED
+4123298,Malignant lymphoma, follicular center cell,Disorder,SNOMED
+1567672,Non-Hodgkin lymphoma, unspecified,4-char nonbill code,ICD10CM
+4091917,Other types of follicular non-Hodgkin's lymphoma,Disorder,SNOMED
+35206416,Other specified types of non-Hodgkin's lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+4110167,Intermediate grade B-cell lymphoma,Disorder,SNOMED
+40489484,Non-Hodgkin's lymphoma of testis,Disorder,SNOMED
+2618072,Oncology; disease status; non-hodgkin's lymphoma, any cellular classification; diagnostic evaluation, stage not determined, evaluation of possible relapse or non-response to therapy, or not listed (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+40647536,Lymphosarcoma of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+1567668,Other specified and unspecified types of non-Hodgkin lymphoma,3-char nonbill code,ICD10CM
+45557036,Non-Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+40489448,Non-Hodgkin's lymphoma of intestine,Disorder,SNOMED
+3545452,Non-Hodgkin's lymphoma - disorder,Undefined,SNOMED
+40484012,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,Disorder,SNOMED
+40486666,Non-Hodgkin's lymphoma of prostate,Disorder,SNOMED
+40491472,Non-Hodgkin's lymphoma of soft tissue,Disorder,SNOMED
+40218700,Radiopharmaceutical therapy, non-Hodgkin's lymphoma, includes administration of radiopharmaceutical (e.g. radiolabeled antibodies) (Deprecated),HCPCS,HCPCS
+40358257,[X]Non-Hodgkin's lymphoma, unspecified type,Disorder,SNOMED
+4203521,Family history of non-Hodgkin's lymphoma,Context-dependent,SNOMED
+40491512,Non-Hodgkin's lymphoma of uterine cervix,Disorder,SNOMED
+40488942,Non-Hodgkin's lymphoma of central nervous system,Disorder,SNOMED
+45561868,Non-Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+35610331,B-cell non-Hodgkin's lymphoma,Disorder,SNOMED
+35206419,Other specified types of non-Hodgkin's lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+4116341,Malignant lymphoma, convoluted cell type,Disorder,SNOMED
+1567634,Nodular lymphocyte predominant Hodgkin lymphoma,4-char nonbill code,ICD10CM
+3533431,Hodgkin's paragranuloma of unspecified site,Disorder,SNOMED
+440964,Hodgkin's paragranuloma of extranodal AND/OR solid organ site,Disorder,SNOMED
+44822896,Hodgkin's paragranuloma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+442152,Hodgkin's paragranuloma of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+45566621,Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44827575,Hodgkin's paragranuloma,4-dig nonbill code,ICD9CM
+3545387,Hodgkin's disease, lymphocytic predominance - nodular,Undefined,SNOMED
+4091769,Hodgkin's paragranuloma of unspecified site,Disorder,SNOMED
+442144,Hodgkin's paragranuloma of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+4097564,Hodgkin's paragranuloma NOS,Disorder,SNOMED
+4079286,Hodgkin's disease, lymphocytic predominance - nodular,Disorder,SNOMED
+40385812,Hodgkin's paragranuloma,Disorder,SNOMED
+37165853,Hodgkin paragranuloma of lymph nodes of upper limb,Disorder,SNOMED
+3533718,Hodgkin's paragranuloma NOS,Disorder,SNOMED
+37165852,Hodgkin's paragranuloma of lymph nodes of lower limb,Disorder,SNOMED
+435494,Hodgkin's paragranuloma of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+37165814,Hodgkin paragranuloma of lymph nodes of head and neck,Disorder,SNOMED
+45590928,Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45581228,Nodular lymphocyte predominant Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+437817,Hodgkin's sarcoma of extranodal AND/OR solid organ site,Disorder,SNOMED
+44819451,Hodgkin's sarcoma,4-dig nonbill code,ICD9CM
+196921,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44819452,Hodgkin's sarcoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+37165800,Hodgkin sarcoma of lymph nodes of head and neck,Disorder,SNOMED
+4094413,Hodgkin's sarcoma NOS,Disorder,SNOMED
+442145,Hodgkin's sarcoma of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+4096957,Hodgkin's sarcoma of unspecified site,Disorder,SNOMED
+442146,Hodgkin's sarcoma of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+37165849,Hodgkin sarcoma of lymph nodes of lower limb,Disorder,SNOMED
+37165834,Hodgkin sarcoma of lymph nodes of upper limb,Disorder,SNOMED
+320049,Hodgkin's sarcoma of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+433433,Hodgkin's sarcoma of lymph nodes of head, face and neck,Disorder,SNOMED
+4038840,Hodgkin's sarcoma (clinical),Disorder,SNOMED
+4038841,Lymphocyte-rich classical Hodgkin lymphoma,Disorder,SNOMED
+3533719,Hodgkin's disease, lymphocytic-histiocytic predominance of unspecified site,Disorder,SNOMED
+436927,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck,Disorder,SNOMED
+442163,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+45590931,Lymphocyte-rich Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+44829833,Hodgkin's disease, lymphocytic-histiocytic predominance, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+37165858,Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of lower limb,Disorder,SNOMED
+438703,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+45542634,Nodular lymphocyte predominant Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+1567638,Lymphocyte-rich Hodgkin lymphoma,4-char nonbill code,ICD10CM
+438373,Hodgkin's disease, lymphocytic-histiocytic predominance of extranodal AND/OR solid organ site,Disorder,SNOMED
+45557020,Lymphocyte-rich Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+201804,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+4097565,Hodgkin's disease, lymphocytic-histiocytic predominance of unspecified site,Disorder,SNOMED
+4091772,Hodgkin's, lymphocytic-histiocytic predominance NOS,Disorder,SNOMED
+37165840,Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of upper limb,Disorder,SNOMED
+3545391,Lymphocyte-rich classical Hodgkin lymphoma,Undefined,SNOMED
+442162,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+37165794,Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of head and neck,Disorder,SNOMED
+4173972,Hodgkin's disease, lymphocytic predominance - diffuse,Disorder,SNOMED
+1102858,Lymphocyte-rich Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+44834507,Hodgkin's disease, lymphocytic-histiocytic predominance,4-dig nonbill code,ICD9CM
+314600,Hodgkin's disease, nodular sclerosis of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+442157,Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+45586031,Nodular sclerosis Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+4091773,Hodgkin's disease, nodular sclerosis NOS,Disorder,SNOMED
+4082486,Hodgkin's disease, nodular sclerosis - lymphocytic depletion,Disorder,SNOMED
+44832142,Hodgkin's disease, nodular sclerosis,4-dig nonbill code,ICD9CM
+4096959,Hodgkin's disease, nodular sclerosis of unspecified site,Disorder,SNOMED
+442158,Hodgkin's disease, nodular sclerosis of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+434302,Hodgkin's disease, nodular sclerosis of extranodal AND/OR solid organ site,Disorder,SNOMED
+197231,Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+4079689,Hodgkin's disease, nodular sclerosis - lymphocytic predominance,Disorder,SNOMED
+4038842,Hodgkin's disease, nodular sclerosis (clinical),Disorder,SNOMED
+37165823,Hodgkin disease, nodular sclerosis of lymph nodes of lower limb,Disorder,SNOMED
+4079287,Hodgkin's disease, nodular sclerosis - mixed cellularity,Disorder,SNOMED
+44826423,Hodgkin's disease, nodular sclerosis, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+1567635,Nodular sclerosis Hodgkin lymphoma,4-char nonbill code,ICD10CM
+37165838,Hodgkin disease, nodular sclerosis of lymph nodes of upper limb,Disorder,SNOMED
+4146026,Hodgkin's disease, nodular sclerosis - cellular phase,Disorder,SNOMED
+45581229,Nodular sclerosis Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+3545388,Hodgkin's disease, nodular sclerosis,Undefined,SNOMED
+435198,Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck,Disorder,SNOMED
+37165819,Hodgkin disease, nodular sclerosis of lymph nodes of head and neck,Disorder,SNOMED
+4091775,Hodgkin's disease, mixed cellularity NOS,Disorder,SNOMED
+3531443,Hodgkin's disease, mixed cellularity NOS,Disorder,SNOMED
+4038843,Hodgkin's disease, mixed cellularity (clinical),Disorder,SNOMED
+45576346,Mixed cellularity Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+1102856,Mixed cellularity Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+37165818,Hodgkin disease, mixed cellularity of lymph nodes of head and neck,Disorder,SNOMED
+442160,Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+435203,Hodgkin's disease, mixed cellularity of extranodal AND/OR solid organ site,Disorder,SNOMED
+434299,Hodgkin's disease, mixed cellularity of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+37165816,Hodgkin disease, mixed cellularity of lymph nodes of head,Disorder,SNOMED
+440056,Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck,Disorder,SNOMED
+3545389,Hodgkin's disease, mixed cellularity,Undefined,SNOMED
+37165859,Hodgkin disease, mixed cellularity of lymph nodes of lower limb,Disorder,SNOMED
+4091774,Hodgkin's disease, mixed cellularity of unspecified site,Disorder,SNOMED
+37165837,Hodgkin disease, mixed cellularity of lymph nodes of upper limb,Disorder,SNOMED
+45590929,Mixed cellularity Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+195199,Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+1567636,Mixed cellularity Hodgkin lymphoma,4-char nonbill code,ICD10CM
+44819454,Hodgkin's disease, mixed cellularity,4-dig nonbill code,ICD9CM
+442161,Hodgkin's disease, mixed cellularity of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+44820632,Hodgkin's disease, mixed cellularity, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+1567660,Mycosis fungoides,4-char nonbill code,ICD10CM
+1102879,Mycosis fungoides, in remission,5-char billing code,ICD10CM
+4299142,Pagetoid reticulosis,Disorder,SNOMED
+4300696,Lymphomatoid papulosis-associated mycosis fungoides,Disorder,SNOMED
+4299140,Granulomatous mycosis fungoides,Disorder,SNOMED
+4082659,Granulomatous slack skin disease,Disorder,SNOMED
+4301663,Bullous mycosis fungoides,Disorder,SNOMED
+4097568,Mycosis fungoides of unspecified site,Disorder,SNOMED
+4040380,Mycosis fungoides (clinical),Disorder,SNOMED
+40456786,Mycosis fungoides of skin,Disorder,SNOMED
+4094538,Mycosis fungoides NOS,Disorder,SNOMED
+4301662,Tumor stage mycosis fungoides,Disorder,SNOMED
+44827579,Mycosis fungoides,4-dig nonbill code,ICD9CM
+4297351,Erythrodermic mycosis fungoides,Disorder,SNOMED
+44829839,Mycosis fungoides, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+4301661,Follicular mucinosis type mycosis fungoides,Disorder,SNOMED
+4301660,Poikilodermatous mycosis fungoides,Disorder,SNOMED
+46273633,History of mycosis fungoides,Context-dependent,SNOMED
+141524,Mycosis fungoides of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+40396872,Mycosis fungoides of skin,Disorder,SNOMED
+4300697,Syringotropic mycosis fungoides,Disorder,SNOMED
+37165809,Mycosis fungoides of lymph nodes of head and neck,Disorder,SNOMED
+4300695,Patch/plaque stage mycosis fungoides,Disorder,SNOMED
+4299139,Hypomelanotic mycosis fungoides,Disorder,SNOMED
+138377,Mycosis fungoides of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+4299141,Mycosis fungoides with systemic infiltration,Disorder,SNOMED
+37165851,Mycosis fungoides of lymph nodes of upper limb,Disorder,SNOMED
+45600554,Mycosis fungoides, extranodal and solid organ sites,5-char billing code,ICD10CM
+45605313,Mycosis fungoides, unspecified site,5-char billing code,ICD10CM
+4301664,Spongiotic mycosis fungoides,Disorder,SNOMED
+35623049,Classic mycosis fungoides,Disorder,SNOMED
+434599,Hodgkin's granuloma of extranodal AND/OR solid organ site,Disorder,SNOMED
+4091771,Hodgkin's granuloma NOS,Disorder,SNOMED
+442154,Hodgkin's granuloma of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+44825221,Hodgkin's granuloma,4-dig nonbill code,ICD9CM
+4094412,Hodgkin's granuloma of unspecified site,Disorder,SNOMED
+3533358,Hodgkin's granuloma NOS,Disorder,SNOMED
+440353,Hodgkin's granuloma of lymph nodes of head, face and neck,Disorder,SNOMED
+4041797,Hodgkin's granuloma (clinical),Disorder,SNOMED
+442155,Hodgkin's granuloma of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+196648,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+37165824,Hodgkin granuloma of lymph nodes of upper limb,Disorder,SNOMED
+37165789,Hodgkin granuloma of lymph nodes of head and neck,Disorder,SNOMED
+37165856,Hodgkin granuloma of lymph nodes of lower limb,Disorder,SNOMED
+44835696,Hodgkin's granuloma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+442153,Hodgkin's granuloma of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+3545390,Hodgkin's disease, lymphocytic depletion,Undefined,SNOMED
+37165855,Hodgkin disease, lymphocytic depletion of lymph nodes of lower limb,Disorder,SNOMED
+432267,Hodgkin's disease, lymphocytic depletion of extranodal AND/OR solid organ site,Disorder,SNOMED
+4146629,Hodgkin's disease, lymphocytic depletion, reticular type,Disorder,SNOMED
+442150,Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+45576347,Lymphocyte depleted Hodgkin lymphoma, unspecified site,5-char billing code,ICD10CM
+439283,Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+37165854,Hodgkin disease, lymphocytic depletion of lymph nodes of upper limb,Disorder,SNOMED
+44832144,Hodgkin's disease, lymphocytic depletion, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+4146628,Hodgkin's disease, lymphocytic depletion, diffuse fibrosis,Disorder,SNOMED
+4041798,Hodgkin's disease, lymphocytic depletion (clinical),Disorder,SNOMED
+1102857,Lymphocyte depleted Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+37165781,Hodgkin lymphoma, lymphocyte depletion of lymph nodes of head and neck,Disorder,SNOMED
+4091776,Hodgkin's lymphocytic depletion of unspecified site,Disorder,SNOMED
+433161,Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+44820634,Hodgkin's disease, lymphocytic depletion,4-dig nonbill code,ICD9CM
+1567637,Lymphocyte depleted Hodgkin lymphoma,4-char nonbill code,ICD10CM
+4094414,Hodgkin's disease, lymphocytic depletion NOS,Disorder,SNOMED
+45542636,Lymphocyte depleted Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+442151,Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+3539287,Sézary's disease NOS,Disorder,SNOMED
+439271,Sézary's disease of lymph nodes of head, face and neck,Disorder,SNOMED
+4041799,Sezary's disease,Disorder,SNOMED
+135765,Sézary's disease of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+4091907,Sézary's disease NOS,Disorder,SNOMED
+4091906,Sézary's disease of unspecified site,Disorder,SNOMED
+1102880,Sezary disease, in remission,5-char billing code,ICD10CM
+4116245,Sézary disease of skin,Disorder,SNOMED
+44825225,Sezary's disease, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+3542344,Sézary's disease of unspecified site,Disorder,SNOMED
+37165827,Sézary disease of lymph nodes of head and neck,Disorder,SNOMED
+44832148,Sezary's disease,4-dig nonbill code,ICD9CM
+45557033,Sezary disease, extranodal and solid organ sites,5-char billing code,ICD10CM
+45586049,Sezary disease, unspecified site,5-char billing code,ICD10CM
+1567661,Sezary disease,4-char nonbill code,ICD10CM
+4345328,African Burkitt's lymphoma,Disorder,SNOMED
+444442,Burkitt's tumor of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+4228604,Burkitt's lymphoma associated with AIDS,Disorder,SNOMED
+40320648,Burkitt's lymphoma,Disorder,SNOMED
+37017595,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37165806,Burkitt tumor of lymph nodes of head and neck,Disorder,SNOMED
+437504,Burkitt's tumor of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+4092690,HIV disease resulting in Burkitt's lymphoma,Disorder,SNOMED
+45605310,Burkitt lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+4097562,Burkitt's lymphoma NOS,Disorder,SNOMED
+201807,Burkitt's tumor of intra-abdominal lymph nodes,Disorder,SNOMED
+44833313,Burkitt's tumor or lymphoma,4-dig nonbill code,ICD9CM
+4097560,Burkitt's lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+433426,Burkitt's tumor of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+3532354,Burkitt's lymphoma NOS,Disorder,SNOMED
+45566635,Burkitt lymphoma, unspecified site,5-char billing code,ICD10CM
+37165822,Burkitt lymphoma of lymph nodes of lower limb,Disorder,SNOMED
+44832137,Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+4096954,Burkitt's lymphoma of unspecified site,Disorder,SNOMED
+37165857,Burkitt lymphoma of lymph nodes of upper limb,Disorder,SNOMED
+1567656,Burkitt lymphoma,4-char nonbill code,ICD10CM
+4045412,Orbital lymphoma,Disorder,SNOMED
+4189506,Mucosa-associated lymphoid tissue (MALT) lymphoma of orbit,Disorder,SNOMED
+35622133,Primary lymphoma of conjunctiva,Disorder,SNOMED
+4119131,Nodular malignant lymphoma, lymphocytic - well differentiated,Disorder,SNOMED
+4173977,Follicular malignant lymphoma - mixed cell type,Disorder,SNOMED
+4121331,Nodular malignant lymphoma, lymphocytic - intermediate differentiation,Disorder,SNOMED
+4079289,Follicular malignant lymphoma - small cleaved cell,Disorder,SNOMED
+40386681,Follicular malignant lymphoma - small cleaved cell,Disorder,SNOMED
+4079290,Nodular high grade B-cell lymphoma,Disorder,SNOMED
+4146031,Malignant lymphoma, lymphocytic, poorly differentiated, nodular,Disorder,SNOMED
+4141258,Malignant lymphoma, centroblastic type, follicular,Disorder,SNOMED
+4079291,Diffuse malignant lymphoma - large non-cleaved cell,Disorder,SNOMED
+4079293,Diffuse malignant lymphoma - centroblastic polymorphic,Disorder,SNOMED
+4094544,Malignant lymphoma - mixed small and large cell,Disorder,SNOMED
+4146024,Malignant lymphoma - centrocytic,Disorder,SNOMED
+4091916,Malignant lymphoma - small cleaved cell,Disorder,SNOMED
+4079691,Diffuse low grade B-cell lymphoma,Disorder,SNOMED
+4079693,Monocytoid B-cell lymphoma,Disorder,SNOMED
+4144199,Diffuse malignant lymphoma - centroblastic-centrocytic,Disorder,SNOMED
+4082311,B-cell chronic lymphocytic leukemia,Disorder,SNOMED
+40482893,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (MALT-lymphoma),Disorder,SNOMED
+36716775,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,Disorder,SNOMED
+36716774,B-cell lymphoma unclassifiable with features intermediate between Burkitt lymphoma and diffuse large B-cell lymphoma,Disorder,SNOMED
+4082488,Diffuse high grade B-cell lymphoma,Disorder,SNOMED
+37160987,High grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements,Disorder,SNOMED
+766341,Anaplastic large cell lymphoma, ALK-negative, breast,5-char billing code,ICD10CM
+4221060,Light chain level,Procedure,SNOMED
+4188299,Kappa light chain myeloma,Disorder,SNOMED
+4197600,Lambda light chain myeloma,Disorder,SNOMED
+4095212,Paraprotein measurement,Procedure,SNOMED
+45590951,Cutaneous T-cell lymphoma, unspecified, unspecified site,5-char billing code,ICD10CM
+4301666,Subcutaneous panniculitis-like T-cell lymphoma,Disorder,SNOMED
+45537867,Cutaneous T-cell lymphoma, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+4212994,Extranodal NK/T-cell lymphoma, nasal type,Disorder,SNOMED
+45600558,Cutaneous T-cell lymphoma, unspecified lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+4082491,Low grade T-cell lymphoma,Disorder,SNOMED
+3545453,Cutaneous/peripheral T-cell lymphoma,Undefined,SNOMED
+4184976,Angioimmunoblastic T-cell lymphoma,Disorder,SNOMED
+4082627,Enteropathy-associated T-cell lymphoma,Disorder,SNOMED
+3545454,Cutaneous/peripheral T-cell lymphoma,Undefined,SNOMED
+45532955,Cutaneous T-cell lymphoma, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+36715966,Adult T-cell leukemia/lymphoma of skin,Disorder,SNOMED
+4094543,Diffuse malignant lymphoma - small non-cleaved cell,Disorder,SNOMED
+4173978,Diffuse malignant lymphoma - large cleaved cell,Disorder,SNOMED
+4096969,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),Disorder,SNOMED
+4121330,Diffuse malignant lymphoma - centroblastic,Disorder,SNOMED
+920118,Enteropathy-type (intestinal) T-cell lymphoma,4-char nonbill code,ICD10CM
+1102895,Enteropathy-type (intestinal) T-cell lymphoma not having achieved remission,5-char billing code,ICD10CM
+3545423,Enteropathy-associated T-cell lymphoma,Undefined,SNOMED
+45605308,Burkitt lymphoma, intrathoracic lymph nodes,5-char billing code,ICD10CM
+44830993,Burkitt's tumor or lymphoma, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+35206346,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+3556657,[M]Malignant lymphoma, mixed lymphocytic - histiocytic NOS (& [diffuse reticulolymphosarcoma]),Disorder,SNOMED
+35206345,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, unspecified site,5-char billing code,ICD10CM
+35206349,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+35206353,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+40384921,[M]Malignant lymphoma, mixed lymphocytic - histiocytic NOS (& [diffuse reticulolymphosarcoma]),Disorder,SNOMED
+35206350,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45586060,Extramedullary plasmacytoma in relapse,5-char billing code,ICD10CM
+45542660,Extramedullary plasmacytoma not having achieved remission,5-char billing code,ICD10CM
+45605330,Extramedullary plasmacytoma in remission,5-char billing code,ICD10CM
+4094548,Extramedullary plasmacytoma,Disorder,SNOMED
+4300702,Primary cutaneous plasmacytoma,Disorder,SNOMED
+1567678,Extramedullary plasmacytoma,4-char nonbill code,ICD10CM
+40276268,Extramedullary plasmacytoma (clinical),Disorder,SNOMED
+44836855,Burkitt's tumor or lymphoma, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+45576358,Burkitt lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+4097572,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma,Disorder,SNOMED
+40321220,(Plasma protein metabolism disorder: & [hyperproteinemia] or [hypoproteinemia]) or (Waldenstrom's macroglobulinemia),Disorder,SNOMED
+1102906,Waldenstrom macroglobulinemia, in remission,5-char billing code,ICD10CM
+4152984,Serum globulin measurement,Procedure,SNOMED
+35206425,Waldenstrom macroglobulinemia,4-char nonbill code,ICD10CM
+1102905,Waldenstrom macroglobulinemia not having achieved remission,5-char billing code,ICD10CM
+4098597,Waldenström macroglobulinemia,Disorder,SNOMED
+40351284,(Plasma protein metabolism disorder: & [hyperproteinemia] or [hypoproteinemia]) or (Waldenstrom's macroglobulinemia),Disorder,SNOMED
+40276263,Waldenström macroglobulinemia (clinical),Disorder,SNOMED
+4174402,Immunoglobulin measurement,Procedure,SNOMED
+4301667,Small lymphocytic B-cell lymphoma involving skin,Disorder,SNOMED
+1102870,Small cell B-cell lymphoma, in remission,5-char billing code,ICD10CM
+36684813,Small lymphocytic B-cell lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+45561850,Small cell B-cell lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+1567652,Small cell B-cell lymphoma,4-char nonbill code,ICD10CM
+45600547,Small cell B-cell lymphoma, unspecified site,5-char billing code,ICD10CM
+36684812,Small lymphocytic B-cell lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+45605305,Small cell B-cell lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45590940,Small cell B-cell lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+40386693,Diffuse malignant lymphoma - centroblastic,Disorder,SNOMED
+40486171,Diffuse follicle center lymphoma,Disorder,SNOMED
+35610325,Follicular lymphoma, cutaneous follicle centre,Disorder,SNOMED
+4299152,Follicular center B-cell lymphoma (nodal/systemic with skin involvement),Disorder,SNOMED
+37165865,Malignant lymphoma of lymph nodes of upper limb,Disorder,SNOMED
+40647539,Lymphosarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+37165833,Malignant lymphoma of lymph nodes of head and neck,Disorder,SNOMED
+192560,Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+40647629,Mixed cell type lymphosarcoma of lymph nodes of multiple sites,Disorder,SNOMED
+37165866,Malignant lymphoma of lymph nodes of lower limb,Disorder,SNOMED
+438698,Malignant lymphoma of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+441521,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+40390327,(Neoplasm of uncertain behavior of plasma cells) or (solitary myeloma) or (plasmacytoma NOS),Disorder,SNOMED
+40594461,Solitary plasmacytoma of bone,Disorder,SNOMED
+40502830,Plasmacytoma,Disorder,SNOMED
+40353077,(Solitary myeloma) or (polycythemia [rubra] vera) or (other uncertain neoplasms NOS),Disorder,SNOMED
+40320718,(Solitary myeloma) or (polycythemia [rubra] vera) or (other uncertain neoplasms NOS),Disorder,SNOMED
+4300783,Lymphoplasmacytic B-cell lymphoma, nodal/systemic with skin involvement,Disorder,SNOMED
+4002360,Gamma heavy chain disease (clinical),Disorder,SNOMED
+4297357,Primary cutaneous immunocytoma,Disorder,SNOMED
+37165631,Lymphoplasmacytic lymphoma without immunoglobulin M production,Disorder,SNOMED
+1102875,Lymphoblastic (diffuse) lymphoma, in remission,5-char billing code,ICD10CM
+1102871,Mantle cell lymphoma, in remission,5-char billing code,ICD10CM
+1102888,Mediastinal (thymic) large B-cell lymphoma, in remission,5-char billing code,ICD10CM
+1102886,Other mature T/NK-cell lymphomas, in remission,5-char billing code,ICD10CM
+1102884,Mature T/NK-cell lymphomas, unspecified, in remission,5-char billing code,ICD10CM
+4143679,Hodgkin's disease, lymphocytic depletion of lymph nodes of head,Disorder,SNOMED
+44829836,Hodgkin's disease, lymphocytic depletion, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+1102859,Other Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+1102854,Nodular lymphocyte predominant Hodgkin lymphoma, in remission,5-char billing code,ICD10CM
+1102902,Angioimmunoblastic T-cell lymphoma, in remission,5-char billing code,ICD10CM
+1102882,Anaplastic large cell lymphoma, ALK-positive, in remission,5-char billing code,ICD10CM
+1102860,Hodgkin lymphoma, unspecified, in remission,5-char billing code,ICD10CM
+4145040,Solitary osseous myeloma,Disorder,SNOMED
+4146027,Malignant lymphoma, mixed lymphocytic-histiocytic, nodular,Disorder,SNOMED
+4146630,Malignant lymphoma, centroblastic-centrocytic, follicular,Disorder,SNOMED
+44808015,Follicular lymphoma grade 1,Disorder,SNOMED
+3585942,Other types of follicular non-Hodgkin's lymphoma,Undefined,SNOMED
+1567641,Follicular lymphoma,3-char nonbill code,ICD10CM
+3545403,Follicular non-Hodgkin's lymphoma,Undefined,SNOMED
+35206335,Other types of follicular non-Hodgkin's lymphoma, unspecified site,5-char billing code,ICD10CM
+44808028,Follicular lymphoma grade 3,Disorder,SNOMED
+35206340,Other types of follicular non-Hodgkin's lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+40386692,Follicular lymphoma: [non-Hodgkin's] or [NOS],Disorder,SNOMED
+35206336,Other types of follicular non-Hodgkin's lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+1567650,Follicular lymphoma, unspecified,4-char nonbill code,ICD10CM
+44814156,Follicular lymphoma grade 2,Disorder,SNOMED
+45542645,Follicular lymphoma, unspecified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+1567649,Other types of follicular lymphoma,4-char nonbill code,ICD10CM
+45586038,Other types of follicular lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45595703,Other types of follicular lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45552300,Follicular lymphoma, unspecified, unspecified site,5-char billing code,ICD10CM
+45547538,Other types of follicular lymphoma, unspecified site,5-char billing code,ICD10CM
+35206339,Other types of follicular non-Hodgkin's lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45561845,Other types of follicular lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45561849,Follicular lymphoma, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+3531342,Nodular lymphoma of unspecified site,Disorder,SNOMED
+44829838,Nodular lymphoma,4-dig nonbill code,ICD9CM
+45561847,Other types of follicular lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+40386236,(Nodular lymphoma: Brill-Symmers disease) or (reticulosarcoma - follicular or nodular),Disorder,SNOMED
+4096963,Nodular lymphoma NOS,Disorder,SNOMED
+44833325,Nodular lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+4097567,Nodular lymphoma of unspecified site,Disorder,SNOMED
+3521466,Low grade B-cell lymphoma,Undefined,SNOMED
+4173976,Mucosa-associated lymphoma,Disorder,SNOMED
+3527720,Mucosa-associated lymphoma,Undefined,SNOMED
+37018876,Lymphoma of colon,Disorder,SNOMED
+40493029,Lymphoma of small bowel,Disorder,SNOMED
+4174442,Lymphoma of intestine,Disorder,SNOMED
+40486029,Lymphoma of fundus of stomach,Disorder,SNOMED
+40486545,Lymphoma of pyloric antrum of stomach,Disorder,SNOMED
+40488958,Lymphoma of lesser curvature of stomach,Disorder,SNOMED
+4174765,Gastric lymphoma,Disorder,SNOMED
+40486589,Lymphoma of greater curvature of stomach,Disorder,SNOMED
+40486590,Lymphoma of cardia of stomach,Disorder,SNOMED
+40486027,Lymphoma of pylorus of stomach,Disorder,SNOMED
+40490460,Lymphoma of body of stomach,Disorder,SNOMED
+4227969,Primary lymphoma of brain with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3545450,Angioimmunoblastic lymphadenopathy with dysproteinaemia,Undefined,SNOMED
+920121,Angioimmunoblastic T-cell lymphoma,4-char nonbill code,ICD10CM
+1102901,Angioimmunoblastic T-cell lymphoma not having achieved remission,5-char billing code,ICD10CM
+35610166,Angioimmunoblastic T-cell lymphoma with dysproteinaemia,Disorder,SNOMED
+40294163,Angioimmunoblastic lymphadenopathy with dysproteinemia,Disorder,SNOMED
+4181040,General wellbeing,Observable Entity,SNOMED
+4184985,Smoldering myeloma,Disorder,SNOMED
+4005508,Kappa light chain measurement,Procedure,SNOMED
+40387085,Lambda light chain myeloma,Disorder,SNOMED
+4007662,Lambda light chain measurement,Procedure,SNOMED
+1102891,Extranodal NK/T-cell lymphoma, nasal type not having achieved remission,5-char billing code,ICD10CM
+40367643,Angiocentric T-cell lymphoma,Disorder,SNOMED
+40386700,Angiocentric T-cell lymphoma,Disorder,SNOMED
+920116,Extranodal NK/T-cell lymphoma, nasal type,4-char nonbill code,ICD10CM
+4299150,Angiocentric NK/T-cell malignant lymphoma involving skin,Disorder,SNOMED
+3545447,Extranodal natural killer/T-cell lymphoma, nasal type,Undefined,SNOMED
+3573851,Extranodal NK/T-cell lymphoma, nasal type,Disorder,SNOMED
+1567659,Mature T/NK-cell lymphomas,3-char nonbill code,ICD10CM
+4214660,Multiple solitary plasmacytomas,Disorder,SNOMED
+46270327,History of plasmacytoma,Context-dependent,SNOMED
+3540059,Plasmacytoma NOS,Disorder,SNOMED
+4147412,Plasmacytoma NOS,Disorder,SNOMED
+40387083,Plasmacytoma NOS,Disorder,SNOMED
+1567679,Solitary plasmacytoma,4-char nonbill code,ICD10CM
+45571567,Solitary plasmacytoma in relapse,5-char billing code,ICD10CM
+40384980,[M]Plasmacytoma NOS,Disorder,SNOMED
+45537872,Solitary plasmacytoma not having achieved remission,5-char billing code,ICD10CM
+45590963,Solitary plasmacytoma in remission,5-char billing code,ICD10CM
+40387082,Plasmacytoma,Disorder,SNOMED
+4226388,Reticulosarcoma with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40313685,AIDS with reticulosarcoma,Disorder,SNOMED
+4078242,Human immunodeficiency virus,Organism,SNOMED
+37160351,Malignant lymphoma of uveal tract,Disorder,SNOMED
+4334256,Lymphoma of retina,Disorder,SNOMED
+37165100,Primary oculocerebral non-Hodgkin lymphoma,Disorder,SNOMED
+40512334,Ocular lymphoma,Disorder,SNOMED
+40611202,AIDS with primary lymphoma of the brain,Disorder,SNOMED
+4259972,Indolent multiple myeloma,Disorder,SNOMED
+4266193,Primary cutaneous lymphoma,Disorder,SNOMED
+40456785,Cutaneous lymphoma,Disorder,SNOMED
+37311519,History of primary cutaneous lymphoma,Context-dependent,SNOMED
+3545446,Cutaneous lymphoma,Undefined,SNOMED
+4294434,Primary cutaneous large T-cell lymphoma,Disorder,SNOMED
+1567665,Cutaneous T-cell lymphoma, unspecified,4-char nonbill code,ICD10CM
+46270024,History of malignant cutaneous T-cell lymphoma,Context-dependent,SNOMED
+37116745,Primary cutaneous gamma-delta-positive T-cell lymphoma,Disorder,SNOMED
+35622904,Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma,Disorder,SNOMED
+44801884,Poikiloderma vasculare atrophicans,Disorder,SNOMED
+4299156,Non-specific cutaneous reaction in Hodgkin's disease,Disorder,SNOMED
+4300694,Lymphomatoid papulosis with Hodgkin's disease,Disorder,SNOMED
+4299157,Hypermelanosis due to Hodgkin's disease,Disorder,SNOMED
+4297358,Primary cutaneous diffuse large cell B-cell lymphoma,Disorder,SNOMED
+4297356,Primary cutaneous marginal zone B-cell lymphoma,Disorder,SNOMED
+4301669,Primary cutaneous anaplastic large cell B-cell lymphoma,Disorder,SNOMED
+4301668,Primary cutaneous follicular center B-cell lymphoma,Disorder,SNOMED
+4297352,Localized pagetoid reticulosis,Disorder,SNOMED
+4299148,CD-30 negative T-immunoblastic cutaneous lymphoma,Disorder,SNOMED
+4300699,CD-30 negative pleomorphic large T-cell cutaneous lymphoma,Disorder,SNOMED
+4299147,CD-30 negative anaplastic large T-cell cutaneous lymphoma,Disorder,SNOMED
+42539527,Primary cutaneous diffuse large cell B-cell lymphoma of lower extremity,Disorder,SNOMED
+4300703,Primary cutaneous diffuse large cell B-cell lymphoma of the leg,Disorder,SNOMED
+4300698,Generalized pagetoid reticulosis,Disorder,SNOMED
+45571562,Anaplastic large cell lymphoma, ALK-positive, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+441235,Large cell anaplastic lymphoma,Disorder,SNOMED
+1567663,Anaplastic large cell lymphoma, ALK-positive,4-char nonbill code,ICD10CM
+45557034,Anaplastic large cell lymphoma, ALK-positive, unspecified site,5-char billing code,ICD10CM
+4150201,Lymphomatoid papulosis,Disorder,SNOMED
+45561851,Diffuse large B-cell lymphoma, unspecified site,5-char billing code,ICD10CM
+44836862,Large cell lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+44822894,Large cell lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+44835695,Large cell lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45561852,Diffuse large B-cell lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44825219,Large cell lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44820628,Large cell lymphoma,4-dig nonbill code,ICD9CM
+45581240,Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45561853,Diffuse large B-cell lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+3573852,Subcutaneous panniculitic T-cell lymphoma,Disorder,SNOMED
+3545448,Subcutaneous panniculitic T-cell lymphoma,Undefined,SNOMED
+920119,Subcutaneous panniculitis-like T-cell lymphoma,4-char nonbill code,ICD10CM
+1102897,Subcutaneous panniculitis-like T-cell lymphoma not having achieved remission,5-char billing code,ICD10CM
+45605301,Cutaneous follicle center lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+3585775,Follicular lymphoma, cutaneous follicle centre,Morph Abnormality,SNOMED
+1567648,Cutaneous follicle center lymphoma,4-char nonbill code,ICD10CM
+45547537,Cutaneous follicle center lymphoma, unspecified site,5-char billing code,ICD10CM
+40647535,Lymphosarcoma of intrathoracic lymph nodes,Disorder,SNOMED
+40647533,Lymphosarcoma of intra-abdominal lymph nodes,Disorder,SNOMED
+4221378,Human herpesvirus 4,Organism,SNOMED
+45566632,Cutaneous follicle center lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45586036,Cutaneous follicle center lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45605327,Unspecified B-cell lymphoma, spleen,5-char billing code,ICD10CM
+44826418,Marginal zone lymphoma, spleen,5-dig billing code,ICD9CM
+36684462,Marginal zone lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+36684463,Mantle cell lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+44830994,Mantle cell lymphoma, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+45595704,Mantle cell lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45590941,Small cell B-cell lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45605304,Small cell B-cell lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+45576365,Non-Hodgkin lymphoma, unspecified, lymph nodes of multiple sites,5-char billing code,ICD10CM
+4298313,Human T-lymphotropic virus 1,Organism,SNOMED
+37016150,Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of lower limb,Disorder,SNOMED
+37018062,Primary effusion lymphoma co-occurrent with infection caused by Human herpesvirus 8,Disorder,SNOMED
+40636102,AIDS with immunoblastic sarcoma,Disorder,SNOMED
+40638817,AIDS with Burkitt's tumor,Disorder,SNOMED
+4146444,Human herpesvirus 8,Organism,SNOMED
+40486168,Lymphoma of sigmoid colon,Disorder,SNOMED
+37018877,Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of upper limb,Disorder,SNOMED
+37118088,Nodal marginal zone B-cell lymphoma,Disorder,SNOMED
+37155437,Hodgkin disease, nodular sclerosis of lymph nodes of head,Disorder,SNOMED
+45595706,Lymphoblastic (diffuse) lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45542648,Lymphoblastic (diffuse) lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45586045,Lymphoblastic (diffuse) lymphoma, unspecified site,5-char billing code,ICD10CM
+40386688,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,Disorder,SNOMED
+1567655,Lymphoblastic (diffuse) lymphoma,4-char nonbill code,ICD10CM
+3545443,Malignant lymphoma - lymphoblastic,Undefined,SNOMED
+45557028,Lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+37165779,Hodgkin lymphoma, lymphocyte depletion of lymph nodes of neck,Disorder,SNOMED
+439286,Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck,Disorder,SNOMED
+45566624,Lymphocyte depleted Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+37165787,Hodgkin granuloma of lymph nodes of head,Disorder,SNOMED
+44835697,Hodgkin's granuloma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+37165788,Hodgkin granuloma of lymph nodes of neck,Disorder,SNOMED
+37165792,Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of head,Disorder,SNOMED
+44830999,Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+37165793,Hodgkin disease, lymphocytic-histiocytic predominance of lymph nodes of neck,Disorder,SNOMED
+45557021,Lymphocyte-rich Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45557019,Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44835698,Hodgkin's sarcoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+37165798,Hodgkin sarcoma of lymph nodes of head,Disorder,SNOMED
+37165799,Hodgkin sarcoma of lymph nodes of neck,Disorder,SNOMED
+37165804,Burkitt tumor of lymph nodes of head,Disorder,SNOMED
+4096955,Burkitt's lymphoma of lymph nodes of head, face and neck,Disorder,SNOMED
+44834504,Burkitt's tumor or lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+37165805,Burkitt tumor of lymph nodes of neck,Disorder,SNOMED
+45600550,Burkitt lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+40386249,Mycosis fungoides of the lymph nodes of head, face and neck,Disorder,SNOMED
+37165807,Mycosis fungoides of lymph nodes of head,Disorder,SNOMED
+37165808,Mycosis fungoides of lymph nodes of neck,Disorder,SNOMED
+44834512,Mycosis fungoides, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+45542650,Mycosis fungoides, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+37165812,Hodgkin paragranuloma of lymph nodes of head,Disorder,SNOMED
+37165813,Hodgkin paragranuloma of lymph nodes of neck,Disorder,SNOMED
+44820629,Hodgkin's paragranuloma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+40385814,Hodgkin's paragranuloma of lymph nodes of head, face, and neck,Disorder,SNOMED
+37165817,Hodgkin disease, mixed cellularity of lymph nodes of neck,Disorder,SNOMED
+45552291,Mixed cellularity Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44819455,Hodgkin's disease, mixed cellularity, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+45561839,Nodular sclerosis Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+37165820,Hodgkin disease, nodular sclerosis of lymph nodes of neck,Disorder,SNOMED
+44835699,Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+44835691,Burkitt's tumor or lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+196055,Burkitt lymphoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+45600551,Burkitt lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44833321,Hodgkin's disease, nodular sclerosis, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45576345,Nodular sclerosis Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44820631,Hodgkin's granuloma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+439290,Hodgkin's granuloma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+37165825,Sézary disease of lymph nodes of head,Disorder,SNOMED
+37165826,Sézary disease of lymph nodes of neck,Disorder,SNOMED
+45576360,Sezary disease, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44832149,Sezary's disease, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+37165828,Hodgkin disease of lymph nodes of head,Disorder,SNOMED
+44824047,Hodgkin's disease, unspecified type, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+37165829,Hodgkin disease of lymph nodes of neck,Disorder,SNOMED
+45561841,Other Hodgkin lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45561842,Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+37165831,Malignant lymphoma of lymph nodes of head,Disorder,SNOMED
+37165832,Malignant lymphoma of lymph nodes of neck,Disorder,SNOMED
+45561861,Other mature T/NK-cell lymphomas, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45605320,Anaplastic large cell lymphoma, ALK-negative, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45581248,Mediastinal (thymic) large B-cell lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+45576354,Diffuse follicle center lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44828751,Anaplastic large cell lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+45586054,Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44820625,Mantle cell lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+45586039,Mantle cell lymphoma, lymph nodes of head, face, and neck,5-char billing code,ICD10CM
+44835709,Other malignant lymphomas, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+439292,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+44819453,Hodgkin's sarcoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44834509,Hodgkin's disease, mixed cellularity, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+439280,Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45605293,Mixed cellularity Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+439288,Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb,Disorder,SNOMED
+44836864,Hodgkin's disease, nodular sclerosis, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+45532942,Nodular sclerosis Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+439287,Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45532943,Lymphocyte-rich Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44833320,Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44824044,Hodgkin's sarcoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+40386628,Mycosis fungoides of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45600553,Mycosis fungoides, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44820636,Mycosis fungoides, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+40385819,Hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44833318,Hodgkin's paragranuloma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+40385818,Hodgkin's paragranuloma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+44819449,Hodgkin's paragranuloma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+439284,Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45547531,Lymphocyte depleted Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44820635,Hodgkin's disease, lymphocytic depletion, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44832145,Hodgkin's disease, lymphocytic depletion, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45595695,Lymphocyte depleted Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44832141,Hodgkin's granuloma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+44825216,Burkitt's tumor or lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+45605309,Burkitt lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44827576,Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45561840,Lymphocyte-rich Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44833322,Hodgkin's disease, mixed cellularity, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45537848,Mixed cellularity Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45552296,Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45552295,Other Hodgkin lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44827577,Hodgkin's disease, unspecified type, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+44826424,Hodgkin's disease, unspecified type, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+45566627,Other Hodgkin lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45566628,Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45595701,Follicular lymphoma grade III, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45566629,Follicular lymphoma grade I, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45571551,Follicular lymphoma grade II, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45605323,Mature T/NK-cell lymphomas, unspecified, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45590953,Other mature T/NK-cell lymphomas, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45566641,Mediastinal (thymic) large B-cell lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44832139,Mantle cell lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+45590942,Mantle cell lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44824052,Other malignant lymphomas, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44836858,Anaplastic large cell lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+40647625,Mixed cell type lymphosarcoma of lymph nodes of axilla and upper limb,Disorder,SNOMED
+45542642,Diffuse follicle center lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45605318,Anaplastic large cell lymphoma, ALK-positive, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45552304,Other non-follicular lymphoma, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+45547545,Anaplastic large cell lymphoma, ALK-negative, lymph nodes of axilla and upper limb,5-char billing code,ICD10CM
+44822906,Other malignant lymphomas, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+44824039,Anaplastic large cell lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45561843,Follicular lymphoma grade II, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+44826419,Mantle cell lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+45590958,Mediastinal (thymic) large B-cell lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45586041,Mantle cell lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45595712,Other mature T/NK-cell lymphomas, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45547534,Follicular lymphoma grade III, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45557030,Other non-follicular lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45586052,Anaplastic large cell lymphoma, ALK-negative, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45576361,Anaplastic large cell lymphoma, ALK-positive, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+40647628,Mixed cell type lymphosarcoma of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+45542656,Mature T/NK-cell lymphomas, unspecified, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45557024,Follicular lymphoma grade I, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45581236,Diffuse follicle center lymphoma, lymph nodes of inguinal region and lower limb,5-char billing code,ICD10CM
+45586042,Mantle cell lymphoma, spleen,5-char billing code,ICD10CM
+44835692,Mantle cell lymphoma, spleen,5-dig billing code,ICD9CM
+40480206,Mucosa-associated lymphoid tissue (MALT) lymphoma of stomach,Disorder,SNOMED
+45547540,Diffuse large B-cell lymphoma, intrapelvic lymph nodes,5-char billing code,ICD10CM
+45590956,Mediastinal (thymic) large B-cell lymphoma, unspecified site,5-char billing code,ICD10CM
+3545142,Primary mediastinal (thymic) large B-cell lymphoma,Disorder,SNOMED
+3545402,Primary mediastinal (thymic) large B-cell lymphoma,Undefined,SNOMED
+1567670,Mediastinal (thymic) large B-cell lymphoma,4-char nonbill code,ICD10CM
+44822893,Mantle cell lymphoma,4-dig nonbill code,ICD9CM
+1567653,Mantle cell lymphoma,4-char nonbill code,ICD10CM
+44829826,Mantle cell lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+45576357,Mantle cell lymphoma, unspecified site,5-char billing code,ICD10CM
+920123,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],4-char nonbill code,ICD10CM
+1102911,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma] not having achieved remission,5-char billing code,ICD10CM
+3545435,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,Undefined,SNOMED
+3545148,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],Disorder,SNOMED
+3545421,Hepatosplenic T-cell lymphoma,Undefined,SNOMED
+3521440,Hepatosplenic T-cell lymphoma,Disorder,SNOMED
+1102893,Hepatosplenic T-cell lymphoma not having achieved remission,5-char billing code,ICD10CM
+920117,Hepatosplenic T-cell lymphoma,4-char nonbill code,ICD10CM
+40486167,Diffuse non-Hodgkin's lymphoma of skin,Disorder,SNOMED
+3545146,Diffuse follicle centre lymphoma,Disorder,SNOMED
+1567647,Diffuse follicle center lymphoma,4-char nonbill code,ICD10CM
+45537857,Diffuse follicle center lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+3545415,Diffuse follicle centre lymphoma,Undefined,SNOMED
+45600544,Diffuse follicle center lymphoma, unspecified site,5-char billing code,ICD10CM
+45566645,Other specified types of non-Hodgkin lymphoma, extranodal and solid organ sites,5-char billing code,ICD10CM
+45590960,Non-Hodgkin lymphoma, unspecified, extranodal and solid organ sites,5-char billing code,ICD10CM
+40492018,Follicular non-Hodgkin's lymphoma of skin,Disorder,SNOMED
+40489940,Non-Hodgkin's lymphoma of skin,Disorder,SNOMED
+44834505,Marginal zone lymphoma,4-dig nonbill code,ICD9CM
+44821742,Marginal zone lymphoma, lymph nodes of axilla and upper limb,5-dig billing code,ICD9CM
+44834506,Marginal zone lymphoma, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+44825218,Marginal zone lymphoma, unspecified site, extranodal and solid organ sites,5-dig billing code,ICD9CM
+44827570,Marginal zone lymphoma, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+4003480,Osteoporosis in multiple myelomatosis,Disorder,SNOMED
+4306173,Primary cutaneous large B-cell lymphoma of the leg,Morph Abnormality,SNOMED
+3585773,Follicular lymphoma, grade 1,Morph Abnormality,SNOMED
+3545436,Follicular lymphoma grade 1,Undefined,SNOMED
+3545437,Follicular lymphoma grade 3,Undefined,SNOMED
+45532945,Follicular lymphoma grade I, lymph nodes of multiple sites,5-char billing code,ICD10CM

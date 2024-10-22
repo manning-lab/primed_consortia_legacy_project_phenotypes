@@ -1,0 +1,111 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+44783963,Sustained low-efficiency dialysis,Procedure,SNOMED
+619390,Prolonged intermittent renal replacement therapy,Procedure,SNOMED
+192359,Renal failure syndrome,Disorder,SNOMED
+4231018,Filtration - action,Qualifier Value,SNOMED
+4271678,Kidney structure,Body Structure,SNOMED
+801350,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,HCPCS,HCPCS
+801351,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,HCPCS,HCPCS
+1126186,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+1126187,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+1126188,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+1126203,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+4002872,Stabilizing hemodialysis,Procedure,SNOMED
+4044535,Perfusion - action,Qualifier Value,SNOMED
+4049844,Continuous arteriovenous hemofiltration,Procedure,SNOMED
+4050867,Continuous arteriovenous hemodiafiltration,Procedure,SNOMED
+46270932,Maintenance hemodiafiltration,Procedure,SNOMED
+4050866,Continuous hemodiafiltration,Procedure,SNOMED
+4049845,Hemodiafiltration,Procedure,SNOMED
+4052538,Intermittent hemodiafiltration,Procedure,SNOMED
+46270934,Emergency hemodiafiltration,Procedure,SNOMED
+4049846,Continuous venovenous hemodiafiltration,Procedure,SNOMED
+4104340,Venous structure,Body Structure,SNOMED
+4050862,Intermittent hemodialysis with continuous ultrafiltration,Procedure,SNOMED
+4051329,Continuous venovenous hemodialysis,Procedure,SNOMED
+4050863,Continuous hemodialysis,Procedure,SNOMED
+4051328,Continuous arteriovenous hemodialysis,Procedure,SNOMED
+46270935,Maintenance hemofiltration,Procedure,SNOMED
+37396069,Emergency hemofiltration,Procedure,SNOMED
+4050865,Intermittent hemofiltration,Procedure,SNOMED
+3525710,Haemofiltration,Undefined,SNOMED
+4052537,Continuous hemofiltration,Procedure,SNOMED
+4050864,Hemofiltration,Procedure,SNOMED
+4051326,Intermittent hemodialysis,Procedure,SNOMED
+4051327,Intermittent hemodialysis with sequential ultrafiltration,Procedure,SNOMED
+4051330,Continuous venovenous hemofiltration,Procedure,SNOMED
+4126124,Acute disorder of hemodialysis,Disorder,SNOMED
+4245156,Hemodialysis education at home,Procedure,SNOMED
+40664745,Hemodialysis treatment performed less than three times per week or greater than three times per week (Deprecated),HCPCS,HCPCS
+4128232,First use syndrome of dialysis,Disorder,SNOMED
+4140589,Extracorporeal albumin hemodialysis,Procedure,SNOMED
+45773389,Inadequate hemodialysis,Disorder,SNOMED
+4103072,Hemodialysis education,Procedure,SNOMED
+46270933,Emergency hemodialysis,Procedure,SNOMED
+40348035,Renal dialysis (& hemodialysis),Procedure,SNOMED
+762945,Hemodialysis access failure,Disorder,SNOMED
+37108856,Hemodialysis procedure done,Context-dependent,SNOMED
+4238836,Initial hemodialysis,Procedure,SNOMED
+45771002,Spondyloarthropathy due to hemodialysis-associated amyloidosis,Disorder,SNOMED
+4300106,Skin lesion associated with hemodialysis,Disorder,SNOMED
+4300099,Hemodialysis-associated pruritus,Disorder,SNOMED
+2002282,Hemodialysis,4-dig billing code,ICD9Proc
+46270524,Increase dialyzer size for hemodialysis,Procedure,SNOMED
+40376653,(Renal dialysis) or (Thomas intravascular dialysis shunt),Procedure,SNOMED
+42872870,Insertion of nontunneled hemodialysis catheter,Procedure,SNOMED
+4234610,Hemodialysis therapy discontinued,Context-dependent,SNOMED
+37157733,Nocturnal home hemodialysis,Procedure,SNOMED
+40376652,Compensation for renal failure (& dialysis),Procedure,SNOMED
+4080241,Hemodialysis NEC,Procedure,SNOMED
+4120120,Hemodialysis,Procedure,SNOMED
+4137616,Hemodialysis-associated amyloidosis,Disorder,SNOMED
+3537777,Haemodialysis NEC,Procedure,SNOMED
+4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED
+40664693,Hemodialysis treatment performed exactly three times per week for > 90 days (Deprecated),HCPCS,HCPCS
+46273700,Maintenance hemodialysis,Procedure,SNOMED
+40350725,Hemodialysis,Procedure,SNOMED
+40313128,Renal dialysis (& hemodialysis),Procedure,SNOMED
+46270073,Thrombosis of arteriovenous graft caused by hemodialysis arteriovenous access device,Disorder,SNOMED
+4314555,Dialysis disequilibrium syndrome,Disorder,SNOMED
+4286500,Hemodialysis, supervision at home,Procedure,SNOMED
+4297919,Hemodialysis-associated pseudoporphyria,Disorder,SNOMED
+435649,Complication of hemodialysis,Disorder,SNOMED
+42537496,Insertion of hemodialysis catheter,Procedure,SNOMED
+761997,History of hemodialysis,Context-dependent,SNOMED
+42539666,Insertion of tunneled hemodialysis catheter,Procedure,SNOMED
+40513647,Hemodialysis,Procedure,SNOMED
+4297658,Hemodialysis-associated secondary amyloidosis of skin,Disorder,SNOMED
+4121921,Extracorporeal kidney,Procedure,SNOMED
+40313129,Extracorporeal kidney,Procedure,SNOMED
+3526283,Extracorporeal albumin haemodialysis,Procedure,SNOMED
+4142536,Compensation for renal failure,Procedure,SNOMED
+40302715,H/O: renal dialysis,Context-dependent,SNOMED
+4214705,Removal of arteriovenous shunt for renal dialysis,Procedure,SNOMED
+3537778,Other specified compensation for renal failure,Procedure,SNOMED
+46269993,Renal dialysis done,Context-dependent,SNOMED
+1126406,Patients receiving rrt,HCPCS,HCPCS
+4146536,Renal dialysis,Procedure,SNOMED
+438624,Complication of renal dialysis,Disorder,SNOMED
+607547,Matrix stone formation during renal dialysis,Disorder,SNOMED
+37110379,Osteonecrosis due to and following renal dialysis,Disorder,SNOMED
+4183419,Arteriovenous shunt for renal dialysis by external cannula,Procedure,SNOMED
+44831947,Renal dialysis status,5-dig billing V code,ICD9CM
+4059475,History of renal dialysis,Context-dependent,SNOMED
+44835472,Postsurgical renal dialysis status,4-dig nonbill V code,ICD9CM
+4078738,Compensation for renal failure NOS,Procedure,SNOMED
+1576114,Preparatory care for renal dialysis,4-char nonbill code,ICD10CM
+4108837,Other specified compensation for renal failure,Procedure,SNOMED
+37018292,Continuous renal replacement therapy,Procedure,SNOMED
+4146649,Hemodialysis, maintenance in hospital,Procedure,SNOMED
+4299719,Maintenance - action,Qualifier Value,SNOMED
+4195714,Hemodialysis, maintenance at home,Procedure,SNOMED
+2721479,Home therapy, hemodialysis; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem,HCPCS,HCPCS
+4044176,Evaluation - action,Qualifier Value,SNOMED
+40378452,Artificial blood circulation (& treatment),Procedure,SNOMED
+4163566,Renal replacement,Procedure,SNOMED
+37164760,Education about nocturnal home hemodialysis,Procedure,SNOMED
+4226865,Blood,Substance,SNOMED
+4093606,Emergency,Qualifier Value,SNOMED
+801384,With maintenance hemodialysis (in-center and home hd) for the complete reporting month,HCPCS,HCPCS
+43533282,Patient not receiving maintenance hemodialysis in an outpatient dialysis facility (Deprecated),HCPCS,HCPCS
+43533281,Patient receiving maintenance hemodialysis in an outpatient dialysis facility,HCPCS,HCPCS

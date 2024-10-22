@@ -1,0 +1,60 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+604484,898185002,Dependence on prolonged intermittent renal replacement therapy due to renal failure,SNOMED,Maps to,604484,Dependence on prolonged intermittent renal replacement therapy due to renal failure,898185002,Clinical Finding,SNOMED
+604484,898185002,Dependence on prolonged intermittent renal replacement therapy due to renal failure,SNOMED,Has due to,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+604484,898185002,Dependence on prolonged intermittent renal replacement therapy due to renal failure,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+604484,898185002,Dependence on prolonged intermittent renal replacement therapy due to renal failure,SNOMED,Mapped from,604484,Dependence on prolonged intermittent renal replacement therapy due to renal failure,898185002,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Mapped from,3561568,Dependence on renal dialysis,1050711000000105,Undefined,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Concept same_as from,3561568,Dependence on renal dialysis,1050711000000105,Undefined,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Mapped from,4019967,Dependence on renal dialysis,105502003,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Subsumes,4179226,Dependence on dialysis due to end stage renal disease,429075005,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Subsumes,40482357,Dependence on peritoneal dialysis,443596009,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Subsumes,40480136,Dependence on hemodialysis,443143006,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Maps to,4019967,Dependence on renal dialysis,105502003,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Subsumes,604484,Dependence on prolonged intermittent renal replacement therapy due to renal failure,898185002,Clinical Finding,SNOMED
+4019967,105502003,Dependence on renal dialysis,SNOMED,Mapped from,35225436,Dependence on renal dialysis,Z99.2,4-char billing code,ICD10CM
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,Has due to,193782,End-stage renal disease,46177005,Disorder,SNOMED
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,Maps to,4177685,Dependence on peritoneal dialysis due to end stage renal disease,428937001,Clinical Finding,SNOMED
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,Subsumes,37209515,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,16320631000119104,Clinical Finding,SNOMED
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+4177685,428937001,Dependence on peritoneal dialysis due to end stage renal disease,SNOMED,Mapped from,4177685,Dependence on peritoneal dialysis due to end stage renal disease,428937001,Clinical Finding,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Mapped from,4179226,Dependence on dialysis due to end stage renal disease,429075005,Clinical Finding,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Subsumes,4181476,Dependence on hemodialysis due to end stage renal disease,428982002,Clinical Finding,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Subsumes,4177685,Dependence on peritoneal dialysis due to end stage renal disease,428937001,Clinical Finding,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Due to of,36713020,Hyperparathyroidism due to end stage renal disease on dialysis,16218721000119107,Disorder,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Has due to,193782,End-stage renal disease,46177005,Disorder,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Maps to,4179226,Dependence on dialysis due to end stage renal disease,429075005,Clinical Finding,SNOMED
+4179226,429075005,Dependence on dialysis due to end stage renal disease,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+4181476,428982002,Dependence on hemodialysis due to end stage renal disease,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+4181476,428982002,Dependence on hemodialysis due to end stage renal disease,SNOMED,Mapped from,4181476,Dependence on hemodialysis due to end stage renal disease,428982002,Clinical Finding,SNOMED
+4181476,428982002,Dependence on hemodialysis due to end stage renal disease,SNOMED,Has due to,193782,End-stage renal disease,46177005,Disorder,SNOMED
+4181476,428982002,Dependence on hemodialysis due to end stage renal disease,SNOMED,Maps to,4181476,Dependence on hemodialysis due to end stage renal disease,428982002,Clinical Finding,SNOMED
+4181476,428982002,Dependence on hemodialysis due to end stage renal disease,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+37209515,16320631000119104,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,SNOMED,Maps to,37209515,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,16320631000119104,Clinical Finding,SNOMED
+37209515,16320631000119104,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+37209515,16320631000119104,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,SNOMED,Mapped from,37209515,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,16320631000119104,Clinical Finding,SNOMED
+37209515,16320631000119104,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,SNOMED,Has due to,193782,End-stage renal disease,46177005,Disorder,SNOMED
+40480136,443143006,Dependence on hemodialysis,SNOMED,Subsumes,4181476,Dependence on hemodialysis due to end stage renal disease,428982002,Clinical Finding,SNOMED
+40480136,443143006,Dependence on hemodialysis,SNOMED,Maps to,40480136,Dependence on hemodialysis,443143006,Clinical Finding,SNOMED
+40480136,443143006,Dependence on hemodialysis,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+40480136,443143006,Dependence on hemodialysis,SNOMED,Mapped from,40480136,Dependence on hemodialysis,443143006,Clinical Finding,SNOMED
+40480136,443143006,Dependence on hemodialysis,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Subsumes,46269984,Dependence on continuous ambulatory peritoneal dialysis,11000731000119102,Clinical Finding,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Maps to,40482357,Dependence on peritoneal dialysis,443596009,Clinical Finding,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Mapped from,40482357,Dependence on peritoneal dialysis,443596009,Clinical Finding,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Subsumes,4177685,Dependence on peritoneal dialysis due to end stage renal disease,428937001,Clinical Finding,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Subsumes,46269985,Dependence on continuous cycling peritoneal dialysis,11000771000119104,Clinical Finding,SNOMED
+40482357,443596009,Dependence on peritoneal dialysis,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+46269984,11000731000119102,Dependence on continuous ambulatory peritoneal dialysis,SNOMED,Mapped from,46269984,Dependence on continuous ambulatory peritoneal dialysis,11000731000119102,Clinical Finding,SNOMED
+46269984,11000731000119102,Dependence on continuous ambulatory peritoneal dialysis,SNOMED,Maps to,46269984,Dependence on continuous ambulatory peritoneal dialysis,11000731000119102,Clinical Finding,SNOMED
+46269984,11000731000119102,Dependence on continuous ambulatory peritoneal dialysis,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+46269984,11000731000119102,Dependence on continuous ambulatory peritoneal dialysis,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+46269984,11000731000119102,Dependence on continuous ambulatory peritoneal dialysis,SNOMED,Subsumes,37209515,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,16320631000119104,Clinical Finding,SNOMED
+46269985,11000771000119104,Dependence on continuous cycling peritoneal dialysis,SNOMED,Mapped from,46269985,Dependence on continuous cycling peritoneal dialysis,11000771000119104,Clinical Finding,SNOMED
+46269985,11000771000119104,Dependence on continuous cycling peritoneal dialysis,SNOMED,Has interprets,4086154,Function,246464006,Observable Entity,SNOMED
+46269985,11000771000119104,Dependence on continuous cycling peritoneal dialysis,SNOMED,Has interprets,4264843,Functional observable,364644000,Observable Entity,SNOMED
+46269985,11000771000119104,Dependence on continuous cycling peritoneal dialysis,SNOMED,Maps to,46269985,Dependence on continuous cycling peritoneal dialysis,11000771000119104,Clinical Finding,SNOMED

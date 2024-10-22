@@ -1,0 +1,21 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4121274,Bone marrow transplant failure,Disorder,SNOMED
+4125659,Bone marrow transplant rejection,Disorder,SNOMED
+437169,Disorder of transplanted bone marrow,Disorder,SNOMED
+44830635,Complications of transplanted bone marrow,5-dig billing code,ICD9CM
+45580471,Bone marrow transplant infection,5-char billing code,ICD10CM
+4125660,Disease relapse in transplant marrow,Disorder,SNOMED
+45585326,Other complications of bone marrow transplant,5-char billing code,ICD10CM
+45590130,Unspecified complication of bone marrow transplant,5-char billing code,ICD10CM
+40431980,Bone marrow transplant disorder,Disorder,SNOMED
+45599828,Bone marrow transplant failure,5-char billing code,ICD10CM
+40431984,Bone marrow transplant failure,Disorder,SNOMED
+45585325,Bone marrow transplant rejection,5-char billing code,ICD10CM
+40409739,Bone marrow transplant rejection,Disorder,SNOMED
+4332092,Chronic rejection of bone marrow transplant,Disorder,SNOMED
+1575307,Complications of bone marrow transplant,4-char nonbill code,ICD10CM
+4161782,Acute rejection of bone marrow transplant,Disorder,SNOMED
+4328283,Accelerated rejection of bone marrow transplant,Disorder,SNOMED
+4197185,Hyperacute rejection of bone marrow transplant,Disorder,SNOMED
+42537745,Bone marrow transplant present,Clinical Finding,SNOMED
+44820426,Bone marrow replaced by transplant,5-dig billing V code,ICD9CM

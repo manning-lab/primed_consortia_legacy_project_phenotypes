@@ -1,0 +1,587 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+132570,Leukemic reticuloendotheliosis of lymph nodes of head, face and neck,Disorder,SNOMED
+44832151,Leukemic reticuloendotheliosis, lymph nodes of head, face, and neck,5-dig billing code,ICD9CM
+132572,Chronic myeloid leukemia in remission,Disorder,SNOMED
+44832157,Chronic myeloid leukemia, in remission,5-dig billing code,ICD9CM
+45595721,Chronic myeloid leukemia, BCR/ABL-positive, in remission,5-char billing code,ICD10CM
+135762,Acute myeloid leukemia in remission,Disorder,SNOMED
+132850,Myeloid leukemia in remission,Disorder,SNOMED
+40649780,Subacute myeloid leukemia in remission,Disorder,SNOMED
+40645853,Chronic monocytic leukemia in remission,Disorder,SNOMED
+44821762,Other myeloid leukemia, in remission,5-dig billing code,ICD9CM
+136367,Erythroleukemia in remission,Disorder,SNOMED
+37311926,Juvenile myelomonocytic leukemia in remission,Disorder,SNOMED
+45576369,Myeloid leukemia, unspecified in remission,5-char billing code,ICD10CM
+40647633,Monocytic leukemia in remission,Disorder,SNOMED
+44829847,Unspecified myeloid leukemia, in remission,5-dig billing code,ICD9CM
+40649778,Subacute monocytic leukemia in remission,Disorder,SNOMED
+4143382,Subacute myeloid leukemia in remission,Disorder,SNOMED
+45542665,Other myeloid leukemia, in remission,5-char billing code,ICD10CM
+44820642,Unspecified lymphoid leukemia,4-dig nonbill code,ICD9CM
+4091924,Lymphoid leukemia NOS,Disorder,SNOMED
+1567688,Lymphoid leukemia, unspecified,4-char nonbill code,ICD10CM
+4097580,Other lymphoid leukemia NOS,Disorder,SNOMED
+3531793,Lymphoid leukaemia NOS,Disorder,SNOMED
+44831015,Other lymphoid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+134305,Acute lymphoid leukemia,Disorder,SNOMED
+40647531,Lymphoid leukemia,Disorder,SNOMED
+3531792,Other lymphoid leukaemia NOS,Disorder,SNOMED
+1567687,Other lymphoid leukemia,4-char nonbill code,ICD10CM
+40320654,Leukemia: [lymphoid] or [monocytic] or [myeloid] or [specific cell type],Disorder,SNOMED
+4082460,Large granular lymphocytic leukemia,Disorder,SNOMED
+4094549,Aleukemic lymphoid leukemia,Disorder,SNOMED
+45576366,Other lymphoid leukemia, in relapse,5-char billing code,ICD10CM
+134596,Lymphoid leukemia in remission,Disorder,SNOMED
+44821758,Lymphoid leukemia,3-dig nonbill code,ICD9CM
+40387126,Lymphosarcoma cell leukemia,Disorder,SNOMED
+40276290,Other type of lymphoid leukemia (clinical),Disorder,SNOMED
+4097100,Other lymphoid leukemia,Disorder,SNOMED
+760934,Lymphoid leukemia in relapse,Disorder,SNOMED
+44797629,[X]Other lymphoid leukaemia,Disorder,SNOMED
+44824053,Other lymphoid leukemia,4-dig nonbill code,ICD9CM
+44835414,Personal history of lymphoid leukemia,5-dig billing V code,ICD9CM
+40385843,[X]Other lymphoid leukemia,Disorder,SNOMED
+4038845,Hairy cell leukemia (clinical),Disorder,SNOMED
+45595719,Lymphoid leukemia, unspecified not having achieved remission,5-char billing code,ICD10CM
+132853,Lymphoid leukemia,Disorder,SNOMED
+45586065,Lymphoid leukemia, unspecified, in relapse,5-char billing code,ICD10CM
+1567680,Lymphoid leukemia,3-char nonbill code,ICD10CM
+4001331,Prolymphocytic leukemia (clinical),Disorder,SNOMED
+43021265,History of lymphoid leukemia,Context-dependent,SNOMED
+44820643,Unspecified lymphoid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+138379,Chronic lymphoid leukemia, disease,Disorder,SNOMED
+4094550,Adult T-cell leukemia,Disorder,SNOMED
+40352621,Leukemia: [lymphoid] or [monocytic] or [myeloid] or [specific cell type],Disorder,SNOMED
+45595720,Other lymphoid leukemia not having achieved remission,5-char billing code,ICD10CM
+136656,Subacute lymphoid leukemia,Disorder,SNOMED
+133154,Plasma cell leukemia,Disorder,SNOMED
+133158,Plasma cell leukemia in remission,Disorder,SNOMED
+44821756,Plasma cell leukemia,4-dig nonbill code,ICD9CM
+760936,Plasma cell leukemia in relapse,Disorder,SNOMED
+40352619,(Plasma cell leukemia) or (immunoproliferative neoplasm NOS),Disorder,SNOMED
+40387086,Plasma cell leukemia,Disorder,SNOMED
+45557038,Plasma cell leukemia not having achieved remission,5-char billing code,ICD10CM
+40320653,(Plasma cell leukemia) or (immunoproliferative neoplasm NOS),Disorder,SNOMED
+44821757,Plasma cell leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+1567677,Plasma cell leukemia,4-char nonbill code,ICD10CM
+44825230,Plasma cell leukemia, in remission,5-dig billing code,ICD9CM
+45595716,Plasma cell leukemia in remission,5-char billing code,ICD10CM
+37312023,B-cell prolymphocytic leukemia in remission,Disorder,SNOMED
+44825231,Chronic lymphoid leukemia, in remission,5-dig billing code,ICD9CM
+133438,Chronic lymphoid leukemia in remission,Disorder,SNOMED
+45561871,Chronic lymphocytic leukemia of B-cell type in remission,5-char billing code,ICD10CM
+44821759,Lymphoid leukemia, acute,4-dig nonbill code,ICD9CM
+3654648,B lymphoblastic leukemia lymphoma with t(v;11q23); MLL rearranged,Disorder,SNOMED
+4173963,B-cell acute lymphoblastic leukemia,Disorder,SNOMED
+3654650,B lymphoblastic leukemia lymphoma with t(1;19)(Q23;P13.3); E2A-PBX1 (TCF3/PBX1),Disorder,SNOMED
+37018869,Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia,Disorder,SNOMED
+44829844,Acute lymphoid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+4082461,Precursor B-cell acute lymphoblastic leukemia,Disorder,SNOMED
+36712835,Refractory acute lymphoid leukemia,Disorder,SNOMED
+4079281,Null cell acute lymphoblastic leukemia,Disorder,SNOMED
+141816,Acute lymphoid leukemia in remission,Disorder,SNOMED
+36712834,Acute lymphoid leukemia relapse,Disorder,SNOMED
+37109936,B lymphoblastic leukemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1,Disorder,SNOMED
+4081867,Acute biphenotypic leukemia,Disorder,SNOMED
+1567681,Acute lymphoblastic leukemia [ALL],4-char nonbill code,ICD10CM
+3654647,B lymphoblastic leukemia lymphoma with t(5;14)(q31;q32); IL3-IGH,Disorder,SNOMED
+4138008,Philadelphia chromosome-positive acute lymphoblastic leukemia,Disorder,SNOMED
+602616,History of acute lymphoid leukemia,Context-dependent,SNOMED
+3654651,B lymphoblastic leukemia lymphoma with hypodiploidy,Disorder,SNOMED
+4082462,T-lymphoblastic leukemia,Disorder,SNOMED
+3654653,B lymphoblastic leukemia lymphoma with hyperdiploidy,Disorder,SNOMED
+3654649,B lymphoblastic leukemia lymphoma with t(12;21) (p13;q22); TEL/AML1 (ETV6-RUNX1),Disorder,SNOMED
+4153344,Acute lymphoblastic leukemia, transitional pre-B-cell,Disorder,SNOMED
+45557039,Acute lymphoblastic leukemia not having achieved remission,5-char billing code,ICD10CM
+45566647,Acute lymphoblastic leukemia, in relapse,5-char billing code,ICD10CM
+4003188,Adult T-cell leukemia/lymphoma,Disorder,SNOMED
+45542664,Other lymphoid leukemia, in remission,5-char billing code,ICD10CM
+40649776,Subacute lymphoid leukemia in remission,Disorder,SNOMED
+44831016,Unspecified lymphoid leukemia, in remission,5-dig billing code,ICD9CM
+45547552,Lymphoid leukemia, unspecified, in remission,5-char billing code,ICD10CM
+44832155,Other lymphoid leukemia, in remission,5-dig billing code,ICD9CM
+4142254,Aleukemic lymphoid leukemia in remission,Disorder,SNOMED
+4139054,Subacute lymphoid leukemia in remission,Disorder,SNOMED
+604487,T-cell prolymphocytic leukemia in remission,Disorder,SNOMED
+134597,Chronic leukemia in remission,Disorder,SNOMED
+44835716,Chronic leukemia of unspecified cell type, in remission,5-dig billing code,ICD9CM
+45581261,Chronic leukemia of unspecified cell type, in remission,5-char billing code,ICD10CM
+4097101,Chronic myeloid leukemia NOS,Disorder,SNOMED
+2618057,Oncology; disease status; chronic myelogenous leukemia, limited to philadelphia chromosome positive and/or bcr-abl positive; chronic phase not in hematologic, cytogenetic, or molecular remission (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+1567691,Chronic myeloid leukemia, BCR/ABL-positive,4-char nonbill code,ICD10CM
+40493442,Philadelphia chromosome positive chronic myelogenous leukemia,Disorder,SNOMED
+4082481,Juvenile chronic myeloid leukemia,Disorder,SNOMED
+4332639,Family history of chronic myeloid leukemia,Context-dependent,SNOMED
+40320660,Chronic myeloid leukemia,Disorder,SNOMED
+40486741,Philadelphia chromosome negative chronic myelogenous leukemia,Disorder,SNOMED
+44832156,Chronic myeloid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+2618058,Oncology; disease status; chronic myelogenous leukemia, limited to philadelphia chromosome positive and/or bcr-abl positive; accelerated phase not in hematologic cytogenetic, or molecular remission (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+134603,Chronic myeloid leukemia,Disorder,SNOMED
+44819465,Myeloid leukemia, chronic,4-dig nonbill code,ICD9CM
+3585777,Chronic myeloid leukaemia, BCR/ABL-positive,Morph Abnormality,SNOMED
+4188975,Chronic phase chronic myeloid leukemia,Disorder,SNOMED
+2618060,Oncology; disease status; chronic myelogenous leukemia, limited to philadelphia chromosome positive and/or bcr-abl positive; in hematologic, cytogenetic, or molecular remission (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+45576368,Chronic myeloid leukemia, BCR/ABL-positive, not having achieved remission,5-char billing code,ICD10CM
+2618059,Oncology; disease status; chronic myelogenous leukemia, limited to philadelphia chromosome positive and/or bcr-abl positive; blast phase not in hematologic, cytogenetic, or molecular remission (for use in a medicare-approved demonstration project),HCPCS,HCPCS
+4187635,Accelerated phase chronic myeloid leukemia,Disorder,SNOMED
+443719,Relapsing chronic myeloid leukemia,Disorder,SNOMED
+4211481,Blastic phase chronic myeloid leukemia,Disorder,SNOMED
+4299154,Leukemic infiltration of skin in chronic myeloid leukemia,Disorder,SNOMED
+45590967,Acute leukemia of unspecified cell type, in remission,5-char billing code,ICD10CM
+135496,Acute leukemia in remission,Disorder,SNOMED
+44836875,Acute leukemia of unspecified cell type, in remission,5-dig billing code,ICD9CM
+45581255,Acute myeloblastic leukemia, in remission,5-char billing code,ICD10CM
+45595723,Acute myelomonocytic leukemia, in remission,5-char billing code,ICD10CM
+44784490,Acute monoblastic leukemia in remission,Disorder,SNOMED
+4142105,Acute myelomonocytic leukemia, FAB M4, in remission,Disorder,SNOMED
+140672,Acute monocytic leukemia in remission,Disorder,SNOMED
+44828757,Acute myeloid leukemia, in remission,5-dig billing code,ICD9CM
+4139358,Erythroleukemia, FAB M6 in remission,Disorder,SNOMED
+4138903,Acute myeloid leukemia with maturation, FAB M2, in remission,Disorder,SNOMED
+37160492,Acute myeloid leukemia in complete remission,Disorder,SNOMED
+4137687,Acute promyelocytic leukemia, FAB M3, in remission,Disorder,SNOMED
+601116,Acute myelofibrosis in remission,Disorder,SNOMED
+136930,Megakaryocytic leukemia in remission,Disorder,SNOMED
+44822911,Other monocytic leukemia, in remission,5-dig billing code,ICD9CM
+45566651,Other specified leukemias, in remission,5-char billing code,ICD10CM
+44819472,Unspecified leukemia, in remission,5-dig billing code,ICD9CM
+135766,Leukemia in remission,Disorder,SNOMED
+44832161,Chronic monocytic leukemia, in remission,5-dig billing code,ICD9CM
+44832162,Subacute monocytic leukemia, in remission,5-dig billing code,ICD9CM
+45595726,Leukemia, unspecified, in remission,5-char billing code,ICD10CM
+44825235,Unspecified monocytic leukemia, in remission,5-dig billing code,ICD9CM
+4138466,Aleukemic leukemia in remission,Disorder,SNOMED
+4143848,Subacute leukemia in remission,Disorder,SNOMED
+40649774,Subacute leukemia in remission,Disorder,SNOMED
+44834522,Other leukemia of unspecified cell type, in remission,5-dig billing code,ICD9CM
+44832165,Other specified leukemia, in remission,5-dig billing code,ICD9CM
+135768,Acute monocytic leukemia,Disorder,SNOMED
+44833339,Acute monocytic leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+45571574,Acute monoblastic/monocytic leukemia, in remission,5-char billing code,ICD10CM
+1567700,Acute monoblastic/monocytic leukemia,4-char nonbill code,ICD10CM
+44836872,Acute monocytic leukemia, in relapse,5-dig billing code,ICD9CM
+4082485,Acute monoblastic leukemia,Disorder,SNOMED
+1246994,History of acute monocytic leukemia,Context-dependent,SNOMED
+40649186,Acute monocytic leukemia, FAB M5,Disorder,SNOMED
+45537878,Acute monoblastic/monocytic leukemia, in relapse,5-char billing code,ICD10CM
+44824054,Monocytic leukemia, acute,4-dig nonbill code,ICD9CM
+45581257,Acute monoblastic/monocytic leukemia, not having achieved remission,5-char billing code,ICD10CM
+4189938,Acute monocytic/monoblastic leukemia,Disorder,SNOMED
+44831014,Subacute lymphoid leukemia, in relapse,5-dig billing code,ICD9CM
+44833336,Lymphoid leukemia, subacute,4-dig nonbill code,ICD9CM
+44822908,Subacute lymphoid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+40649777,Subacute lymphoid leukemia,Disorder,SNOMED
+44819467,Megakaryocytic leukemia, in remission,5-dig billing code,ICD9CM
+138099,Erythroleukemia, FAB M6,Disorder,SNOMED
+1567706,Acute erythroid leukemia,4-char nonbill code,ICD10CM
+40649180,Acute erythremia,Disorder,SNOMED
+44819466,Acute erythremia and erythroleukemia,4-dig nonbill code,ICD9CM
+45590966,Acute erythroid leukemia, not having achieved remission,5-char billing code,ICD10CM
+44832164,Acute erythremia and erythroleukemia, in relapse,5-dig billing code,ICD9CM
+45566650,Acute erythroid leukemia, in relapse,5-char billing code,ICD10CM
+40387119,(Acute erythremia+erythroleukemia) or( Di Guglielmo's dis),Disorder,SNOMED
+44825236,Acute erythremia and erythroleukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+40358364,Acute erythremia and erythroleukemia,Disorder,SNOMED
+46270567,History of chronic lymphocytic leukemia,Context-dependent,SNOMED
+4173962,Lymphoma with spill,Disorder,SNOMED
+4173957,Splenic lymphoma with villous lymphocytes,Disorder,SNOMED
+4173956,Richter's syndrome,Disorder,SNOMED
+44834519,Chronic lymphoid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+3545394,B-cell chronic lymphocytic leukaemia,Undefined,SNOMED
+4082459,Hairy cell leukemia variant,Disorder,SNOMED
+44831013,Lymphoid leukemia, chronic,4-dig nonbill code,ICD9CM
+4326339,Smoldering chronic lymphocytic leukemia,Disorder,SNOMED
+4173824,B-cell chronic lymphocytic leukemia variant,Disorder,SNOMED
+4266390,Mu heavy chain disease,Disorder,SNOMED
+44814026,Clinical stage C chronic lymphocytic leukaemia,Disorder,SNOMED
+4082311,B-cell chronic lymphocytic leukemia,Disorder,SNOMED
+4173974,B-cell prolymphocytic leukemia,Disorder,SNOMED
+44811227,Clinical stage A chronic lymphocytic leukaemia,Disorder,SNOMED
+44821761,Chronic lymphoid leukemia, in relapse,5-dig billing code,ICD9CM
+44811228,Clinical stage B chronic lymphocytic leukaemia,Disorder,SNOMED
+760935,Chronic lymphoid leukemia in relapse,Disorder,SNOMED
+37110902,Chronic lymphocytic leukemia genetic mutation variant,Disorder,SNOMED
+36717161,Aggressive natural killer-cell leukemia,Disorder,SNOMED
+4097705,Acute leukemia NOS,Disorder,SNOMED
+44819470,Leukemia of unspecified cell type, acute,4-dig nonbill code,ICD9CM
+138708,Acute leukemia,Disorder,SNOMED
+37162251,Mixed phenotype acute leukemia,Disorder,SNOMED
+3539285,Acute leukaemia NOS,Disorder,SNOMED
+44833344,Acute leukemia of unspecified cell type, in relapse,5-dig billing code,ICD9CM
+44835715,Acute leukemia of unspecified cell type, without mention of having achieved remission,5-dig billing code,ICD9CM
+45571579,Acute leukemia of unspecified cell type not having achieved remission,5-char billing code,ICD10CM
+602522,History of acute leukemia,Context-dependent,SNOMED
+36715589,Acute leukemia of ambiguous lineage,Disorder,SNOMED
+1567712,Acute leukemia of unspecified cell type,4-char nonbill code,ICD10CM
+40320667,Acute leukemia NOS,Disorder,SNOMED
+45552317,Acute leukemia of unspecified cell type, in relapse,5-char billing code,ICD10CM
+140352,Acute myeloid leukemia, disease,Disorder,SNOMED
+4133599,Chronic myelomonocytic leukemia,Disorder,SNOMED
+40320668,Chronic leukemia NOS,Disorder,SNOMED
+140057,Chronic leukemia,Disorder,SNOMED
+44819471,Leukemia of unspecified cell type, chronic,4-dig nonbill code,ICD9CM
+4091928,Chronic leukemia NOS,Disorder,SNOMED
+1567713,Chronic leukemia of unspecified cell type,4-char nonbill code,ICD10CM
+44828760,Chronic leukemia of unspecified cell type, without mention of having achieved remission,5-dig billing code,ICD9CM
+4097581,Chronic neutrophilic leukemia,Disorder,SNOMED
+45542669,Chronic leukemia of unspecified cell type not having achieved remission,5-char billing code,ICD10CM
+45532965,Chronic leukemia of unspecified cell type, in relapse,5-char billing code,ICD10CM
+760962,Chronic leukemia in relapse,Disorder,SNOMED
+44833345,Chronic leukemia of unspecified cell type, in relapse,5-dig billing code,ICD9CM
+4091925,Chronic eosinophilic leukemia,Disorder,SNOMED
+606958,Acute myeloid leukemia with t(8;21)(q22;q22) RUNX1-RUNX1T1,Disorder,SNOMED
+35607963,Megakaryoblastic acute myeloid leukemia with t(1;22)(p13;q13),Disorder,SNOMED
+3654662,Acute myeloid leukemia with CBFB::MYH11 fusion,Disorder,SNOMED
+46273391,History of acute myeloid leukemia,Context-dependent,SNOMED
+4144191,Basophilic leukemia,Disorder,SNOMED
+4300784,Leukemic infiltration of skin in acute myeloid leukemia,Disorder,SNOMED
+35622760,Inherited acute myeloid leukemia,Disorder,SNOMED
+4079686,Acute megakaryoblastic leukemia,Disorder,SNOMED
+42539431,Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation,Disorder,SNOMED
+37165057,Acute myeloid leukemia with BCR-ABL1,Disorder,SNOMED
+44826430,Acute myeloid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+4003187,Acute myelomonocytic leukemia, FAB M4,Disorder,SNOMED
+1567690,Acute myeloblastic leukemia,4-char nonbill code,ICD10CM
+4003184,Acute panmyelosis with myelofibrosis,Disorder,SNOMED
+44820645,Myeloid leukemia, acute,4-dig nonbill code,ICD9CM
+37119145,Myeloid leukemia associated with Down syndrome,Disorder,SNOMED
+4233531,Acute myeloid leukemia, minimal differentiation, FAB M0,Disorder,SNOMED
+37116722,Acute myeloid leukemia with t(6;9)(p23;q34) translocation,Disorder,SNOMED
+4002497,Acute promyelocytic leukemia, FAB M3,Disorder,SNOMED
+45547554,Acute myeloblastic leukemia, not having achieved remission,5-char billing code,ICD10CM
+44807009,Acute myeloid leukaemia with 11q23 abnormality,Disorder,SNOMED
+608277,Acute myeloid leukemia with 11q23 abnormality,Disorder,SNOMED
+45765495,Core binding factor acute myeloid leukemia,Disorder,SNOMED
+40483761,Acute myeloid leukemia with myelodysplasia-related changes,Disorder,SNOMED
+45557043,Acute myelomonocytic leukemia, not having achieved remission,5-char billing code,ICD10CM
+37110870,Acute myeloid leukemia with t(8;16)(p11;p13) translocation,Disorder,SNOMED
+35622003,Acute myeloid leukemia with NPM1 somatic mutation,Disorder,SNOMED
+3545409,Acute myeloblastic leukaemia,Undefined,SNOMED
+45532959,Acute myeloblastic leukemia, in relapse,5-char billing code,ICD10CM
+35622696,Acute myeloid leukemia with CEBPA somatic mutations,Disorder,SNOMED
+3572256,Refractory acute myeloid leukemia,Disorder,SNOMED
+45766268,Cytogenetically normal acute myeloid leukemia,Disorder,SNOMED
+3572249,Relapsing acute myeloid leukemia,Disorder,SNOMED
+4234749,Acute myeloid leukemia with maturation, FAB M2,Disorder,SNOMED
+4230253,Acute myeloid leukemia without maturation, FAB M1,Disorder,SNOMED
+44828758,Acute myeloid leukemia, in relapse,5-dig billing code,ICD9CM
+40367590,Acute myeloblastic leukemia,Disorder,SNOMED
+45561876,Acute myelomonocytic leukemia, in relapse,5-char billing code,ICD10CM
+36715587,Acute myeloid leukemia due to recurrent genetic abnormality,Disorder,SNOMED
+1567695,Acute myelomonocytic leukemia,4-char nonbill code,ICD10CM
+36683269,Acute myeloid leukemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1,Disorder,SNOMED
+1567697,Other myeloid leukemia,4-char nonbill code,ICD10CM
+4097585,Aleukemic myeloid leukemia,Disorder,SNOMED
+3520697,Myeloid leukaemia NOS,Disorder,SNOMED
+45561879,Myeloid leukemia, unspecified, not having achieved remission,5-char billing code,ICD10CM
+1567689,Myeloid leukemia,3-char nonbill code,ICD10CM
+44825232,Myeloid leukemia,3-dig nonbill code,ICD9CM
+44822909,Other myeloid leukemia,4-dig nonbill code,ICD9CM
+44830740,Personal history of myeloid leukemia,5-dig billing V code,ICD9CM
+4097586,Myeloid leukemia NOS,Disorder,SNOMED
+4097582,Chloroma,Disorder,SNOMED
+46270150,History of myeloid leukemia,Context-dependent,SNOMED
+4097706,Myelomonocytic leukemia,Disorder,SNOMED
+44826432,Unspecified myeloid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+4094552,Other myeloid leukemia NOS,Disorder,SNOMED
+1567698,Myeloid leukemia, unspecified,4-char nonbill code,ICD10CM
+44822910,Other myeloid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+135499,Subacute myeloid leukemia,Disorder,SNOMED
+40647657,Myeloid leukemia,Disorder,SNOMED
+40520299,Myeloid leukemia,Disorder,SNOMED
+4097584,Other myeloid leukemia,Disorder,SNOMED
+4146022,Neutrophilic leukemia,Disorder,SNOMED
+45537877,Other myeloid leukemia not having achieved remission,5-char billing code,ICD10CM
+760933,Myeloid leukemia in relapse,Disorder,SNOMED
+321526,Monocytic leukemia,Disorder,SNOMED
+140666,Myeloid leukemia,Disorder,SNOMED
+45571573,Myeloid leukemia, unspecified in relapse,5-char billing code,ICD10CM
+44835713,Unspecified myeloid leukemia,4-dig nonbill code,ICD9CM
+4299153,Leukemic infiltration of skin in myeloid leukemia,Disorder,SNOMED
+45586069,Other myeloid leukemia, in relapse,5-char billing code,ICD10CM
+136056,Chronic monocytic leukemia,Disorder,SNOMED
+44832160,Acute monocytic leukemia,in remission,5-dig billing code,ICD9CM
+37018868,Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia in remission,Disorder,SNOMED
+44821760,Acute lymphoid leukemia, in remission,5-dig billing code,ICD9CM
+4138752,Precursor B-cell acute lymphoblastic leukemia in remission,Disorder,SNOMED
+604486,Adult T-cell leukemia/lymphoma in remission,Disorder,SNOMED
+45557040,Acute lymphoblastic leukemia, in remission,5-char billing code,ICD10CM
+4143997,T-lymphoblastic leukemia in remission,Disorder,SNOMED
+193429,Leukemic reticuloendotheliosis of intra-abdominal lymph nodes,Disorder,SNOMED
+44819460,Leukemic reticuloendotheliosis, intra-abdominal lymph nodes,5-dig billing code,ICD9CM
+40386654,Leukemic reticuloendotheliosis of intra-abdominal lymph nodes,Disorder,SNOMED
+196650,Leukemic reticuloendotheliosis of intrapelvic lymph nodes,Disorder,SNOMED
+40386657,Leukemic reticuloendotheliosis of intrapelvic lymph nodes,Disorder,SNOMED
+44819461,Leukemic reticuloendotheliosis, intrapelvic lymph nodes,5-dig billing code,ICD9CM
+44833342,Megakaryocytic leukemia,4-dig nonbill code,ICD9CM
+313159,Megakaryocytic leukemia,Disorder,SNOMED
+44835714,Megakaryocytic leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+44819468,Megakaryocytic leukemia, in relapse,5-dig billing code,ICD9CM
+40320671,Subacute leukemia NOS,Disorder,SNOMED
+313430,Subacute monocytic leukemia,Disorder,SNOMED
+44824055,Leukemia of unspecified cell type, subacute,4-dig nonbill code,ICD9CM
+315497,Subacute leukemia,Disorder,SNOMED
+44826434,Subacute monocytic leukemia, in relapse,5-dig billing code,ICD9CM
+4091929,Subacute leukemia NOS,Disorder,SNOMED
+44820646,Subacute myeloid leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+4097707,Subacute myelomonocytic leukemia,Disorder,SNOMED
+40320664,[M]Subacute monocytic leukemia,Disorder,SNOMED
+44827585,Subacute myeloid leukemia, in relapse,5-dig billing code,ICD9CM
+44834520,Myeloid leukemia, subacute,4-dig nonbill code,ICD9CM
+40385026,[M]Subacute monocytic leukemia,Disorder,SNOMED
+3520956,Subacute leukaemia NOS,Disorder,SNOMED
+44835717,Subacute leukemia of unspecified cell type, in relapse,5-dig billing code,ICD9CM
+40649781,Subacute myeloid leukemia,Disorder,SNOMED
+40649779,Subacute monocytic leukemia,Disorder,SNOMED
+44829850,Subacute leukemia of unspecified cell type, without mention of having achieved remission,5-dig billing code,ICD9CM
+44825233,Subacute monocytic leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+44820647,Monocytic leukemia, subacute,4-dig nonbill code,ICD9CM
+35225341,Personal history of leukemia,4-char billing code,ICD10CM
+44828761,Other leukemia of unspecified cell type, in relapse,5-dig billing code,ICD9CM
+3531065,Other leukaemia of unspecified cell type,Disorder,SNOMED
+44794008,[X]Other specified leukaemias,Disorder,SNOMED
+44819469,Other specified leukemia,4-dig nonbill code,ICD9CM
+4095897,Compound leukemias,Disorder,SNOMED
+1567711,Leukemia of unspecified cell type,3-char nonbill code,ICD10CM
+44833343,Other specified leukemia, in relapse,5-dig billing code,ICD9CM
+3539283,Other specified leukaemia NOS,Disorder,SNOMED
+4097104,Other specified leukemia NOS,Disorder,SNOMED
+4152528,Leukemia - specif. cell NOS,Disorder,SNOMED
+44835718,Unspecified leukemia, in relapse,5-dig billing code,ICD9CM
+45576371,Leukemia, unspecified, in relapse,5-char billing code,ICD10CM
+40456313,Leukemia,Disorder,SNOMED
+44822655,Personal history of leukemia,4-dig nonbill V code,ICD9CM
+4097105,Leukemia NOS,Disorder,SNOMED
+40385848,[X]Other leukemia of unspecified cell type,Disorder,SNOMED
+44813018,[V]Personal history of leukaemia,Context-dependent,SNOMED
+4051110,Family history of leukemia,Context-dependent,SNOMED
+3539284,Leukaemia of unspecified cell type,Disorder,SNOMED
+3537379,Other specified leukaemia,Disorder,SNOMED
+44829585,Personal history of other leukemia,5-dig billing V code,ICD9CM
+44826436,Other leukemia of unspecified cell type, without mention of having achieved remission,5-dig billing code,ICD9CM
+4097103,Other and unspecified leukemia NOS,Disorder,SNOMED
+45586072,Other specified leukemias, in relapse,5-char billing code,ICD10CM
+44821501,Personal history of leukemia, unspecified,5-dig billing V code,ICD9CM
+36717231,Meningeal leukemia,Disorder,SNOMED
+1567705,Other leukemias of specified cell type,3-char nonbill code,ICD10CM
+45590968,Leukemia, unspecified not having achieved remission,5-char billing code,ICD10CM
+45542668,Other specified leukemias not having achieved remission,5-char billing code,ICD10CM
+40649775,Subacute leukemia,Disorder,SNOMED
+4097704,Other specified leukemia,Disorder,SNOMED
+36683266,Classic mast cell leukemia,Disorder,SNOMED
+40320665,Leukemia - specif. cell NOS,Disorder,SNOMED
+3539282,Other and unspecified leukaemia,Disorder,SNOMED
+44829849,Leukemia of unspecified cell type,3-dig nonbill code,ICD9CM
+1567714,Leukemia, unspecified,4-char nonbill code,ICD10CM
+40523863,[V]Personal history of leukemia,Context-dependent,SNOMED
+4002496,Mast cell leukemia (clinical),Disorder,SNOMED
+44829851,Other leukemia of unspecified cell type,4-dig nonbill code,ICD9CM
+44827586,Other specified leukemia,3-dig nonbill code,ICD9CM
+46271363,Periodontitis co-occurrent with leukemia,Disorder,SNOMED
+4097102,Other and unspecified leukemia,Disorder,SNOMED
+40302015,H/O: * leukemia,Context-dependent,SNOMED
+45767656,Gingivitis due to leukemia,Disorder,SNOMED
+44831019,Other specified leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+40385847,[X]Other specified leukemias,Disorder,SNOMED
+44827588,Unspecified leukemia,4-dig nonbill code,ICD9CM
+317510,Leukemia,Disorder,SNOMED
+36684812,Small lymphocytic B-cell lymphoma of lymph nodes of multiple sites,Disorder,SNOMED
+36684813,Small lymphocytic B-cell lymphoma of intra-abdominal lymph nodes,Disorder,SNOMED
+40320672,(Aleukemic leukemia) or (leukemia - unspec cell NOS),Disorder,SNOMED
+44829852,Unspecified leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+4091927,Leukemia of unspecified cell type,Disorder,SNOMED
+4091930,Other leukemia of unspecified cell type,Disorder,SNOMED
+3536935,Leukaemia - specific cell NOS,Disorder,SNOMED
+4202548,Suspected leukemia,Context-dependent,SNOMED
+4058706,History of leukemia,Context-dependent,SNOMED
+4121332,Aleukemic leukemia,Disorder,SNOMED
+40352623,(Aleukemic leukemia) or (leukemia - unspec cell NOS),Disorder,SNOMED
+44794578,[X]Other leukaemia of unspecified cell type,Disorder,SNOMED
+1567710,Other specified leukemias,4-char nonbill code,ICD10CM
+40320666,Leukemia of unspecified cell type,Disorder,SNOMED
+3519452,Leukaemia NOS,Disorder,SNOMED
+318989,Leukemic reticuloendotheliosis of lymph nodes of multiple sites,Disorder,SNOMED
+40386660,Leukemic reticuloendotheliosis of lymph nodes of multiple sites,Disorder,SNOMED
+44832152,Leukemic reticuloendotheliosis, lymph nodes of multiple sites,5-dig billing code,ICD9CM
+4094555,Monocytic leukemia NOS,Disorder,SNOMED
+4094553,Aleukemic monocytic leukemia,Disorder,SNOMED
+3537378,Monocytic leukaemia NOS,Disorder,SNOMED
+45561881,Monocytic leukemia, unspecified in remission,5-char billing code,ICD10CM
+3537377,Other monocytic leukaemia NOS,Disorder,SNOMED
+44821502,Personal history of monocytic leukemia,5-dig billing V code,ICD9CM
+4094554,Other monocytic leukemia NOS,Disorder,SNOMED
+40385374,[M]Aleukemic monocytic leukemia,Disorder,SNOMED
+4299155,Leukemic infiltration of skin in monocytic leukemia,Disorder,SNOMED
+44825234,Other monocytic leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+1567703,Other monocytic leukemia,4-char nonbill code,ICD10CM
+44833340,Other monocytic leukemia, in relapse,5-dig billing code,ICD9CM
+45581259,Other monocytic leukemia, in relapse,5-char billing code,ICD10CM
+1567699,Monocytic leukemia,3-char nonbill code,ICD10CM
+45605334,Other monocytic leukemia, not having achieved remission,5-char billing code,ICD10CM
+45571575,Other monocytic leukemia, in remission,5-char billing code,ICD10CM
+44829848,Other monocytic leukemia,4-dig nonbill code,ICD9CM
+1567704,Monocytic leukemia, unspecified,4-char nonbill code,ICD10CM
+4091926,Other monocytic leukemia,Disorder,SNOMED
+44831017,Monocytic leukemia,3-dig nonbill code,ICD9CM
+40385025,[M]Monocytic leukemia NOS,Disorder,SNOMED
+4176303,History of monocytic leukemia,Context-dependent,SNOMED
+44822912,Unspecified monocytic leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+44831018,Unspecified monocytic leukemia, in relapse,5-dig billing code,ICD9CM
+44832163,Unspecified monocytic leukemia,4-dig nonbill code,ICD9CM
+40647634,Monocytic leukemia,Disorder,SNOMED
+45542666,Monocytic leukemia, unspecified in relapse,5-char billing code,ICD10CM
+45600569,Monocytic leukemia, unspecified, not having achieved remission,5-char billing code,ICD10CM
+439268,Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb,Disorder,SNOMED
+44822904,Leukemic reticuloendotheliosis, lymph nodes of inguinal region and lower limb,5-dig billing code,ICD9CM
+439269,Leukemic reticuloendotheliosis of lymph nodes of axilla and upper limb,Disorder,SNOMED
+44826426,Leukemic reticuloendotheliosis, lymph nodes of axilla and upper arm,5-dig billing code,ICD9CM
+442095,Leukemic reticuloendotheliosis of intrathoracic lymph nodes,Disorder,SNOMED
+44829841,Leukemic reticuloendotheliosis, intrathoracic lymph nodes,5-dig billing code,ICD9CM
+40386653,Leukemic reticuloendotheliosis of intrathoracic lymph nodes,Disorder,SNOMED
+45547555,Chronic myeloid leukemia, BCR/ABL-positive, in relapse,5-char billing code,ICD10CM
+44827584,Chronic myeloid leukemia, in relapse,5-dig billing code,ICD9CM
+600661,Mixed phenotype acute leukemia with T-cell and myeloid lineage,Disorder,SNOMED
+600663,Mixed phenotype acute leukemia with myeloid and B-cell lymphoid phenotypes,Disorder,SNOMED
+607405,Mixed phenotype acute leukemia with t(9;22) (q34;q11.2); BCR-ABL1,Disorder,SNOMED
+1567696,Acute myeloid leukemia with 11q23-abnormality,4-char nonbill code,ICD10CM
+3545442,Acute myeloid leukaemia with 11q23 abnormality,Undefined,SNOMED
+40481524,Acute myeloid leukemia with t(9:11)(p22;q23); MLLT3-MLL,Disorder,SNOMED
+760932,Chronic monocytic leukemia in relapse,Disorder,SNOMED
+44836873,Chronic monocytic leukemia, in relapse,5-dig billing code,ICD9CM
+44832159,Unspecified myeloid leukemia, in relapse,5-dig billing code,ICD9CM
+760988,Aleukemic myeloid leukemia in relapse,Disorder,SNOMED
+44821763,Other myeloid leukemia, in relapse,5-dig billing code,ICD9CM
+44833338,Other lymphoid leukemia, in relapse,5-dig billing code,ICD9CM
+44820644,Unspecified lymphoid leukemia, in relapse,5-dig billing code,ICD9CM
+45581253,Chronic lymphocytic leukemia of B-cell type in relapse,5-char billing code,ICD10CM
+45595717,Plasma cell leukemia in relapse,5-char billing code,ICD10CM
+44820641,Plasma cell leukemia, in relapse,5-dig billing code,ICD9CM
+764781,Acute myeloid leukemia, minimal differentiation, FAB M0 in remission,Disorder,SNOMED
+764782,Acute myeloid leukemia without maturation, FAB M1 in remission,Disorder,SNOMED
+4116880,Acute myelomonocytic leukemia - eosinophilic variant,Disorder,SNOMED
+4082338,Chronic lymphocytic prolymphocytic leukemia syndrome,Disorder,SNOMED
+4079683,T-cell prolymphocytic leukemia,Disorder,SNOMED
+45600570,Mast cell leukemia, in remission,5-char billing code,ICD10CM
+4299273,Mast cell leukemia affecting skin,Disorder,SNOMED
+1567708,Mast cell leukemia,4-char nonbill code,ICD10CM
+36674687,Aleukemic mast cell leukemia,Disorder,SNOMED
+40387122,Mast cell leukemia,Disorder,SNOMED
+45532964,Mast cell leukemia, in relapse,5-char billing code,ICD10CM
+45605335,Mast cell leukemia not having achieved remission,5-char billing code,ICD10CM
+4112803,Acute promyelocytic leukemia - hypogranular variant,Disorder,SNOMED
+36676614,Differentiation syndrome due to and following chemotherapy co-occurrent with acute promyelocytic leukemia,Disorder,SNOMED
+1567694,Acute promyelocytic leukemia,4-char nonbill code,ICD10CM
+4175688,Hypergranular promyelocytic leukemia,Disorder,SNOMED
+45605331,Acute promyelocytic leukemia, in relapse,5-char billing code,ICD10CM
+45532961,Acute promyelocytic leukemia, not having achieved remission,5-char billing code,ICD10CM
+3545719,Adult T-cell leukemia/lymphoma,Disorder,SNOMED
+45561873,Adult T-cell lymphoma/leukemia (HTLV-1-associated) not having achieved remission,5-char billing code,ICD10CM
+45552313,Adult T-cell lymphoma/leukemia (HTLV-1-associated), in remission,5-char billing code,ICD10CM
+45586063,Adult T-cell lymphoma/leukemia (HTLV-1-associated), in relapse,5-char billing code,ICD10CM
+1567685,Adult T-cell lymphoma/leukemia (HTLV-1-associated),4-char nonbill code,ICD10CM
+45561872,Hairy cell leukemia, in relapse,5-char billing code,ICD10CM
+442092,Leukemic reticuloendotheliosis of lymph nodes of inguinal region AND/OR lower limb,Disorder,SNOMED
+4091909,Leukemic reticuloendotheliosis of unspecified sites,Disorder,SNOMED
+4299151,Leukemic infiltration of skin in hairy-cell leukemia,Disorder,SNOMED
+3519483,Leukaemic reticuloendotheliosis NOS,Disorder,SNOMED
+1567684,Hairy cell leukemia,4-char nonbill code,ICD10CM
+442094,Leukemic reticuloendotheliosis of lymph nodes of axilla AND/OR upper limb,Disorder,SNOMED
+4245460,Hairy cell leukemia of spleen,Disorder,SNOMED
+197509,Leukemic reticuloendotheliosis of spleen,Disorder,SNOMED
+45590964,Hairy cell leukemia not having achieved remission,5-char billing code,ICD10CM
+442093,Leukemic reticuloendotheliosis of lymph nodes of head, face AND/OR neck,Disorder,SNOMED
+4139554,Atypical hairy cell leukemia,Disorder,SNOMED
+132852,Leukemic reticuloendotheliosis of extranodal AND/OR solid organ site,Disorder,SNOMED
+4091910,Leukemic reticuloendotheliosis NOS,Disorder,SNOMED
+44835705,Leukemic reticuloendotheliosis,4-dig nonbill code,ICD9CM
+45542662,Hairy cell leukemia, in remission,5-char billing code,ICD10CM
+4079280,Common acute lymphoblastic leukemia,Disorder,SNOMED
+1567686,Prolymphocytic leukemia of T-cell type,4-char nonbill code,ICD10CM
+45537874,Prolymphocytic leukemia of T-cell type not having achieved remission,5-char billing code,ICD10CM
+3545396,T-cell prolymphocytic leukaemia,Undefined,SNOMED
+45595718,Prolymphocytic leukemia of T-cell type, in relapse,5-char billing code,ICD10CM
+45586064,Prolymphocytic leukemia of T-cell type, in remission,5-char billing code,ICD10CM
+40387124,Acute myelofibrosis,Disorder,SNOMED
+1567709,Acute panmyelosis with myelofibrosis,4-char nonbill code,ICD10CM
+45547560,Acute megakaryoblastic leukemia, in relapse,5-char billing code,ICD10CM
+40651410,Acute megakaryoblastic leukemia, FAB M7,Disorder,SNOMED
+1567707,Acute megakaryoblastic leukemia,4-char nonbill code,ICD10CM
+45571578,Acute megakaryoblastic leukemia, in remission,5-char billing code,ICD10CM
+45595724,Acute panmyelosis with myelofibrosis not having achieved remission,5-char billing code,ICD10CM
+45581260,Acute panmyelosis with myelofibrosis, in relapse,5-char billing code,ICD10CM
+45586070,Acute megakaryoblastic leukemia not having achieved remission,5-char billing code,ICD10CM
+45552316,Acute panmyelosis with myelofibrosis, in remission,5-char billing code,ICD10CM
+40387123,Acute panmyelosis,Disorder,SNOMED
+44783718,T-cell large granular lymphocytic leukemia,Disorder,SNOMED
+37017893,Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukemia,Disorder,SNOMED
+40482847,Juvenile myelomonocytic leukemia,Disorder,SNOMED
+44834521,Chronic monocytic leukemia, without mention of having achieved remission,5-dig billing code,ICD9CM
+1567701,Chronic myelomonocytic leukemia,4-char nonbill code,ICD10CM
+40385372,[M]Chronic monocytic leukemia,Disorder,SNOMED
+45566649,Chronic myelomonocytic leukemia, in remission,5-char billing code,ICD10CM
+44826433,Monocytic leukemia, chronic,4-dig nonbill code,ICD9CM
+40387137,Chronic myelomonocytic leukemia,Disorder,SNOMED
+45600567,Chronic myelomonocytic leukemia, in relapse,5-char billing code,ICD10CM
+45557046,Chronic myelomonocytic leukemia not having achieved remission,5-char billing code,ICD10CM
+45547557,Acute promyelocytic leukemia, in remission,5-char billing code,ICD10CM
+44833337,Subacute lymphoid leukemia, in remission,5-dig billing code,ICD9CM
+40649179,Acute erythremia in remission,Disorder,SNOMED
+45571577,Acute erythroid leukemia, in remission,5-char billing code,ICD10CM
+44833341,Acute erythremia and erythroleukemia, in remission,5-dig billing code,ICD9CM
+44832158,Subacute myeloid leukemia,in remission,5-dig billing code,ICD9CM
+44822913,Subacute leukemia of unspecified cell type, in remission,5-dig billing code,ICD9CM
+45571568,Chronic lymphocytic leukemia of B-cell type not having achieved remission,5-char billing code,ICD10CM
+1567682,Chronic lymphocytic leukemia of B-cell type,4-char nonbill code,ICD10CM
+45537875,Mature B-cell leukemia Burkitt-type, in remission,5-char billing code,ICD10CM
+3545393,B-cell acute lymphoblastic leukaemia,Undefined,SNOMED
+45590965,Mature B-cell leukemia Burkitt-type not having achieved remission,5-char billing code,ICD10CM
+45566648,Mature B-cell leukemia Burkitt-type,4-char nonbill code,ICD10CM
+45547553,Mature B-cell leukemia Burkitt-type, in relapse,5-char billing code,ICD10CM
+45571569,Prolymphocytic leukemia of B-cell type, in remission,5-char billing code,ICD10CM
+1567683,Prolymphocytic leukemia of B-cell type,4-char nonbill code,ICD10CM
+45552311,Prolymphocytic leukemia of B-cell type, in relapse,5-char billing code,ICD10CM
+3545395,B-cell prolymphocytic leukaemia,Undefined,SNOMED
+45532958,Prolymphocytic leukemia of B-cell type not having achieved remission,5-char billing code,ICD10CM
+4185301,Chronic myeloid leukemia in myeloid blast crisis,Disorder,SNOMED
+4188973,Chronic myeloid leukemia in lymphoid blast crisis,Disorder,SNOMED
+40368094,Acute myeloblastic leukemia without maturation,Disorder,SNOMED
+40538561,Acute myelogenous leukemia without maturation, FAB M1,Disorder,SNOMED
+40294171,Acute myeloid leukemia without maturation, FAB M1,Disorder,SNOMED
+40368091,Acute myeloblastic leukemia - undifferentiated,Disorder,SNOMED
+40538550,Acute myelogenous leukemia without differentiation, FAB M0,Disorder,SNOMED
+40294170,Acute myeloid leukemia, minimal differentiation, FAB M0,Disorder,SNOMED
+40294172,Acute myeloid leukemia with maturation, FAB M2,Disorder,SNOMED
+40368096,Acute myeloblastic leukemia with maturation,Disorder,SNOMED
+40538571,Acute myelogenous leukemia with maturation, FAB M2,Disorder,SNOMED
+44828754,Leukemic reticuloendotheliosis, spleen,5-dig billing code,ICD9CM
+4297355,Aggressive NK-cell leukemia involving skin,Disorder,SNOMED
+440508,Congenital disease,Disorder,SNOMED
+4273629,Chemotherapy,Procedure,SNOMED
+42872892,Retinoic acid syndrome,Disorder,SNOMED
+4139849,Retinoic acid - acute promyelocytic leukemia syndrome,Disorder,SNOMED
+45590941,Small cell B-cell lymphoma, lymph nodes of multiple sites,5-char billing code,ICD10CM
+45605304,Small cell B-cell lymphoma, intra-abdominal lymph nodes,5-char billing code,ICD10CM
+44822907,Acute lymphoid leukemia, in relapse,5-dig billing code,ICD9CM
+37167452,Acute undifferentiated leukemia,Disorder,SNOMED
+45561877,Acute myeloid leukemia with 11q23-abnormality not having achieved remission,5-char billing code,ICD10CM
+45532962,Acute myeloid leukemia with 11q23-abnormality in relapse,5-char billing code,ICD10CM
+45586067,Acute myeloid leukemia with 11q23-abnormality in remission,5-char billing code,ICD10CM
+3545383,Juvenile myelomonocytic leukaemia,Undefined,SNOMED
+1567702,Juvenile myelomonocytic leukemia,4-char nonbill code,ICD10CM
+45552315,Juvenile myelomonocytic leukemia, in remission,5-char billing code,ICD10CM
+3545132,Juvenile myelomonocytic leukaemia,Disorder,SNOMED
+45557047,Juvenile myelomonocytic leukemia, in relapse,5-char billing code,ICD10CM
+45547559,Juvenile myelomonocytic leukemia, not having achieved remission,5-char billing code,ICD10CM
+45532963,Acute myeloid leukemia with multilineage dysplasia, in relapse,5-char billing code,ICD10CM
+40367585,Refractory anemia with excess blasts in transformation,Disorder,SNOMED
+45605332,Acute myeloid leukemia with multilineage dysplasia,4-char nonbill code,ICD10CM
+3545441,Acute myeloid leukaemia with myelodysplasia-related changes,Undefined,SNOMED
+45557045,Acute myeloid leukemia with multilineage dysplasia, not having achieved remission,5-char billing code,ICD10CM
+3545152,Acute myeloid leukemia with myelodysplasia-related changes,Disorder,SNOMED
+44784140,Emberger syndrome,Disorder,SNOMED
+40390333,Refractory anemia with excess of blasts with transformation,Disorder,SNOMED
+4002495,Refractory anemia with excess blasts in transformation (clinical),Disorder,SNOMED
+45586068,Acute myeloid leukemia with multilineage dysplasia, in remission,5-char billing code,ICD10CM
+3546002,Clinical stage A chronic lymphocytic leukaemia,Undefined,SNOMED
+3546003,Clinical stage B chronic lymphocytic leukaemia,Undefined,SNOMED
+3546004,Clinical stage C chronic lymphocytic leukaemia,Undefined,SNOMED

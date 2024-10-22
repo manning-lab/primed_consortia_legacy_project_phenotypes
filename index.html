@@ -380,6 +380,10 @@ Exclusions</a>
 <ul>
 <li><a href="#codes-for-blood-disorders" id="toc-codes-for-blood-disorders"><span class="toc-section-number">1.3.1</span> Codes for Blood
 Disorders</a></li>
+<li><a href="#codes-for-blood-cancers" id="toc-codes-for-blood-cancers"><span class="toc-section-number">1.3.2</span> Codes for Blood Cancers</a></li>
+<li><a href="#codes-for-hiv-infection" id="toc-codes-for-hiv-infection"><span class="toc-section-number">1.3.3</span> Codes for HIV infection</a></li>
+<li><a href="#codes-for-end-stage-kidney-disease" id="toc-codes-for-end-stage-kidney-disease"><span class="toc-section-number">1.3.4</span> Codes for End Stage Kidney
+Disease</a></li>
 </ul></li>
 <li><a href="#codes-to-use-for-drugs-queries" id="toc-codes-to-use-for-drugs-queries"><span class="toc-section-number">1.4</span> Codes to use for Drugs Queries</a>
 <ul>
@@ -398,6 +402,9 @@ Medication</a></li>
 Legacy Project - Codes for Biobanks</h1>
 <p>Release notes:</p>
 <ul>
+<li>22 October 2024: Uploaded codes for Blood Cancers, HIV, and End
+Stage Kidney Disease</li>
+<li>21 October2024: Uploaded Codes for Blood Disorders</li>
 <li>17 October2024: Fixed the codes to use for Trait queries. Started on
 Conditions</li>
 <li>15October2024: Added the codes to use for Trait queries</li>
@@ -963,6 +970,11 @@ Condition Exclusions</h2>
 <div id="codes-for-blood-disorders" class="section level3" number="1.3.1">
 <h3><span class="header-section-number">1.3.1</span> Codes for Blood
 Disorders</h3>
+<p>Files with ICD-9 and ICD-10 codes</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ICD-9-blood_diseases_AB_16Oct2024.csv">ICD-9-blood_diseases_AB_16Oct2024.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ICD-10-blood_diseases_AB_16Oct2024.csv">ICD-10-blood_diseases_AB_16Oct2024.csv</a></li>
+</ul>
 <div id="disorder-of-cellular-component-of-blood" class="section level4" number="1.3.1.1">
 <h4><span class="header-section-number">1.3.1.1</span> Disorder of
 cellular component of blood</h4>
@@ -994,6 +1006,332 @@ cellular component of blood</h4>
 ##   Procedure                 0      0              0     40
 ##   Substance                 0      0              0     35
 ##   Undefined                 0      0              0      9</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_ALL_MAPPINGS.csv">disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_UNIQUE_CODES.csv">disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="disorder-of-hematopoietic-structure" class="section level4" number="1.3.1.2">
+<h4><span class="header-section-number">1.3.1.2</span> Disorder of
+hematopoietic structure</h4>
+<pre class="r"><code>disorder_of_hematopoietic_structure_SNOMED_317248 &lt;- find_descendants_and_mappings_for_a_given_concept_id(317248, file_label=&quot;disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 8957 ; Unique Concept IDs: 3971&quot;
+##                       
+##                        HCPCS ICD10CM ICD9CM OMOP Extension SNOMED
+##   3-char billing code      0       3      0              0      0
+##   3-char nonbill code      0      18      0              0      0
+##   3-dig billing code       0       0      2              0      0
+##   3-dig nonbill code       0       0     10              0      0
+##   4-char billing code      0      79      0              0      0
+##   4-char nonbill code      0      63      0              0      0
+##   4-dig billing code       0       0     41              0      0
+##   4-dig nonbill code       0       0     42              0      0
+##   4-dig nonbill V code     0       0      1              0      0
+##   5-char billing code      0     509      0              0      0
+##   5-char nonbill code      0      67      0              0      0
+##   5-dig billing code       0       0    370              0      0
+##   5-dig billing V code     0       0      5              0      0
+##   6-char billing code      0     208      0              0      0
+##   6-char nonbill code      0       7      0              0      0
+##   7-char billing code      0      18      0              0      0
+##   Clinical Finding         0       0      0              0     28
+##   Context-dependent        0       0      0              0     48
+##   Disorder                 0       0      0              1   2333
+##   Event                    0       0      0              0      2
+##   HCPCS                    4       0      0              0      0
+##   Morph Abnormality        0       0      0              0      3
+##   Observable Entity        0       0      0              0     15
+##   Organism                 0       0      0              0     38
+##   Physical Force           0       0      0              0      3
+##   Procedure                0       0      0              0     22
+##   Substance                0       0      0              0      7
+##   Undefined                0       0      0              0     24</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_ALL_MAPPINGS.csv">disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_UNIQUE_CODES.csv">disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="agranulocytosis" class="section level4" number="1.3.1.3">
+<h4><span class="header-section-number">1.3.1.3</span>
+Agranulocytosis</h4>
+<pre class="r"><code>agranulocytosis_SNOMED_440689 &lt;- find_descendants_and_mappings_for_a_given_concept_id(440689, file_label=&quot;agranulocytosis_SNOMED_440689_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 39 ; Unique Concept IDs: 19&quot;
+##                   
+##                    SNOMED
+##   Clinical Finding      1
+##   Disorder             15
+##   Organism              1
+##   Procedure             1
+##   Substance             1</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/agranulocytosis_SNOMED_440689_AKM_17Oct2024_ALL_MAPPINGS.csv">agranulocytosis_SNOMED_440689_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/agranulocytosis_SNOMED_440689_AKM_17Oct2024_UNIQUE_CODES.csv">agranulocytosis_SNOMED_440689_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="bone-marrow-transplant-present" class="section level4" number="1.3.1.4">
+<h4><span class="header-section-number">1.3.1.4</span> Bone marrow
+transplant present</h4>
+<pre class="r"><code>bone_marrow_transplant_present_SNOMED_42537745 &lt;- find_descendants_and_mappings_for_a_given_concept_id(42537745, file_label=&quot;bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 40 ; Unique Concept IDs: 20&quot;
+##                       
+##                        ICD10CM ICD9CM SNOMED
+##   4-char nonbill code        1      0      0
+##   5-char billing code        5      0      0
+##   5-dig billing code         0      1      0
+##   5-dig billing V code       0      1      0
+##   Clinical Finding           0      0      1
+##   Disorder                   0      0     11</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_ALL_MAPPINGS.csv">bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_UNIQUE_CODES.csv">bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+</div>
+<div id="codes-for-blood-cancers" class="section level3" number="1.3.2">
+<h3><span class="header-section-number">1.3.2</span> Codes for Blood
+Cancers</h3>
+<p>Files with ICD-9 and ICD-10 codes</p>
+<ul>
+<li><a href>ICD-9-XXXX.csv</a></li>
+<li><a href>ICD-10-XXX.csv</a></li>
+</ul>
+<div id="leukemia" class="section level4" number="1.3.2.1">
+<h4><span class="header-section-number">1.3.2.1</span> Leukemia</h4>
+<pre class="r"><code>leukemia_SNOMED_317510 &lt;- find_descendants_and_mappings_for_a_given_concept_id(317510, file_label=&quot;leukemia_SNOMED_317510_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 1159 ; Unique Concept IDs: 586&quot;
+##                       
+##                        HCPCS ICD10CM ICD9CM SNOMED
+##   3-char nonbill code      0       5      0      0
+##   3-dig nonbill code       0       0      5      0
+##   4-char billing code      0       1      0      0
+##   4-char nonbill code      0      31      0      0
+##   4-dig nonbill code       0       0     25      0
+##   4-dig nonbill V code     0       0      1      0
+##   5-char billing code      0      95      0      0
+##   5-dig billing code       0       0     80      0
+##   5-dig billing V code     0       0      5      0
+##   Context-dependent        0       0      0     15
+##   Disorder                 0       0      0    306
+##   HCPCS                    4       0      0      0
+##   Morph Abnormality        0       0      0      1
+##   Procedure                0       0      0      1
+##   Undefined                0       0      0     11</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukemia_SNOMED_317510_AKM_17Oct2024_ALL_MAPPINGS.csv">leukemia_SNOMED_317510_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukemia_SNOMED_317510_AKM_17Oct2024_UNIQUE_CODES.csv">leukemia_SNOMED_317510_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="malignant-lymphoma" class="section level4" number="1.3.2.2">
+<h4><span class="header-section-number">1.3.2.2</span> Malignant
+lymphoma</h4>
+<pre class="r"><code>malignant_lymphoma_SNOMED_432571 &lt;- find_descendants_and_mappings_for_a_given_concept_id(432571, file_label=&quot;malignant_lymphoma_SNOMED_432571_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 3769 ; Unique Concept IDs: 1712&quot;
+##                       
+##                        HCPCS ICD10CM ICD9CM SNOMED
+##   3-char nonbill code      0       6      0      0
+##   3-dig nonbill code       0       0      1      0
+##   4-char billing code      0       2      0      0
+##   4-char nonbill code      0      45      0      0
+##   4-dig billing code       0       0      1      0
+##   4-dig nonbill code       0       0     23      0
+##   5-char billing code      0     477      0      0
+##   5-char nonbill code      0       1      0      0
+##   5-dig billing code       0       0    203      0
+##   5-dig billing V code     0       0      2      0
+##   6-char billing code      0       2      0      0
+##   Context-dependent        0       0      0     20
+##   Disorder                 0       0      0    872
+##   HCPCS                    9       0      0      0
+##   Morph Abnormality        0       0      0      5
+##   Observable Entity        0       0      0      1
+##   Organism                 0       0      0      4
+##   Procedure                0       0      0      8
+##   Undefined                0       0      0     30</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_ALL_MAPPINGS.csv">malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_UNIQUE_CODES.csv">malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="disorder-of-hematopoietic-morphology" class="section level4" number="1.3.2.3">
+<h4><span class="header-section-number">1.3.2.3</span> Disorder of
+hematopoietic morphology</h4>
+<pre class="r"><code>disorder_of_hematopoietic_morphology_SNOMED_4185470 &lt;- find_descendants_and_mappings_for_a_given_concept_id(4185470, file_label=&quot;disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 6262 ; Unique Concept IDs: 2780&quot;
+##                       
+##                        HCPCS ICD10CM ICD9CM SNOMED
+##   3-char billing code      0       1      0      0
+##   3-char nonbill code      0      13      0      0
+##   3-dig nonbill code       0       0      5      0
+##   4-char billing code      0      24      0      0
+##   4-char nonbill code      0      83      0      0
+##   4-dig billing code       0       0      5      0
+##   4-dig nonbill code       0       0     45      0
+##   5-char billing code      0     583      0      0
+##   5-char nonbill code      0       2      0      0
+##   5-dig billing code       0       0    299      0
+##   5-dig billing V code     0       0      5      0
+##   6-char billing code      0       6      0      0
+##   Clinical Finding         0       0      0      4
+##   Context-dependent        0       0      0     31
+##   Disorder                 0       0      0   1560
+##   Event                    0       0      0      1
+##   HCPCS                   13       0      0      0
+##   Morph Abnormality        0       0      0      9
+##   Observable Entity        0       0      0      8
+##   Organism                 0       0      0      4
+##   Physical Force           0       0      0      1
+##   Physical Object          0       0      0      1
+##   Procedure                0       0      0     15
+##   Substance                0       0      0      5
+##   Undefined                0       0      0     57</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_ALL_MAPPINGS.csv">disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_UNIQUE_CODES.csv">disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+</div>
+<div id="codes-for-hiv-infection" class="section level3" number="1.3.3">
+<h3><span class="header-section-number">1.3.3</span> Codes for HIV
+infection</h3>
+<p>Files with ICD-9 and ICD-10 codes</p>
+<ul>
+<li><a href>ICD-9-XXXX.csv</a></li>
+<li><a href>ICD-10-XXX.csv</a></li>
+</ul>
+<div id="hiv-infection" class="section level4" number="1.3.3.1">
+<h4><span class="header-section-number">1.3.3.1</span> HIV
+infection</h4>
+<pre class="r"><code>hiv_infection_SNOMED_439727 &lt;- find_descendants_and_mappings_for_a_given_concept_id(439727, file_label=&quot;hiv_infection_SNOMED_439727_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 1509 ; Unique Concept IDs: 525&quot;
+##                       
+##                        ICD10CM ICD9CM OMOP Extension SNOMED
+##   3-char billing code        2      0              0      0
+##   3-dig billing code         0      1              0      0
+##   3-dig billing V code       0      1              0      0
+##   4-char nonbill code        1      0              0      0
+##   5-char billing code        3      0              0      0
+##   5-char nonbill code        1      0              0      0
+##   5-dig billing code         0      1              0      0
+##   6-char billing code        4      0              0      0
+##   Clinical Finding           0      0              0      4
+##   Context-dependent          0      0              0      7
+##   Disorder                   0      0              1    440
+##   Observable Entity          0      0              0     13
+##   Organism                   0      0              0     32
+##   Procedure                  0      0              0     14</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hiv_infection_SNOMED_439727_AKM_17Oct2024_ALL_MAPPINGS.csv">hiv_infection_SNOMED_439727_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hiv_infection_SNOMED_439727_AKM_17Oct2024_UNIQUE_CODES.csv">hiv_infection_SNOMED_439727_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+</div>
+<div id="codes-for-end-stage-kidney-disease" class="section level3" number="1.3.4">
+<h3><span class="header-section-number">1.3.4</span> Codes for End Stage
+Kidney Disease</h3>
+<p>Files with ICD-9 and ICD-10 codes</p>
+<ul>
+<li><a href>ICD-9-XXXX.csv</a></li>
+<li><a href>ICD-10-XXX.csv</a></li>
+</ul>
+<div id="dependence-on-renal-dialysis" class="section level4" number="1.3.4.1">
+<h4><span class="header-section-number">1.3.4.1</span> Dependence on
+renal dialysis</h4>
+<pre class="r"><code>dependence_on_renal_dialysis_SNOMED_4019967 &lt;- find_descendants_and_mappings_for_a_given_concept_id(4019967, file_label=&quot;dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 59 ; Unique Concept IDs: 17&quot;
+##                      
+##                       ICD10CM SNOMED
+##   4-char billing code       1      0
+##   Clinical Finding          0     10
+##   Disorder                  0      3
+##   Observable Entity         0      2
+##   Undefined                 0      1</code></pre>
+<p>Files to download:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv">dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv">dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="end-stage-renal-disease" class="section level4" number="1.3.4.2">
+<h4><span class="header-section-number">1.3.4.2</span> End stage renal
+disease</h4>
+<pre class="r"><code>end_stage_renal_disease_SNOMED_4019967 &lt;- find_descendants_and_mappings_for_a_given_concept_id(4019967, file_label=&quot;end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 59 ; Unique Concept IDs: 17&quot;
+##                      
+##                       ICD10CM SNOMED
+##   4-char billing code       1      0
+##   Clinical Finding          0     10
+##   Disorder                  0      3
+##   Observable Entity         0      2
+##   Undefined                 0      1</code></pre>
+<p>Files to download:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv">end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv">end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="chronic-kidney-disease-stage-5" class="section level4" number="1.3.4.3">
+<h4><span class="header-section-number">1.3.4.3</span> Chronic kidney
+disease stage 5</h4>
+<pre class="r"><code>chronic_kidney_disease_stage_5_SNOMED_443611 &lt;- find_descendants_and_mappings_for_a_given_concept_id(443611, file_label=&quot;chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 101 ; Unique Concept IDs: 40&quot;
+##                      
+##                       HCPCS ICD10CM ICD9CM SNOMED
+##   4-char billing code     0       1      0      0
+##   4-dig billing code      0       0      1      0
+##   5-dig billing code      0       0      1      0
+##   Disorder                0       0      0     26
+##   HCPCS                   1       0      0      0
+##   Observable Entity       0       0      0      2
+##   Undefined               0       0      0      8</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_ALL_MAPPINGS.csv">chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_UNIQUE_CODES.csv">chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="renal-dialysis" class="section level4" number="1.3.4.4">
+<h4><span class="header-section-number">1.3.4.4</span> Renal
+dialysis</h4>
+<pre class="r"><code>renal_dialysis_SNOMED_4146536 &lt;- find_descendants_and_mappings_for_a_given_concept_id(4146536, file_label=&quot;renal_dialysis_SNOMED_4146536_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 371 ; Unique Concept IDs: 110&quot;
+##                       
+##                        HCPCS ICD10CM ICD9CM ICD9Proc SNOMED
+##   4-char nonbill code      0       1      0        0      0
+##   4-dig billing code       0       0      0        1      0
+##   4-dig nonbill V code     0       0      1        0      0
+##   5-dig billing V code     0       0      1        0      0
+##   Body Structure           0       0      0        0      2
+##   Context-dependent        0       0      0        0      6
+##   Disorder                 0       0      0        0     17
+##   HCPCS                   13       0      0        0      0
+##   Procedure                0       0      0        0     61
+##   Qualifier Value          0       0      0        0      5
+##   Substance                0       0      0        0      1
+##   Undefined                0       0      0        0      1</code></pre>
+<p>Download Files:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/renal_dialysis_SNOMED_4146536_AKM_17Oct2024_ALL_MAPPINGS.csv">renal_dialysis_SNOMED_4146536_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/renal_dialysis_SNOMED_4146536_AKM_17Oct2024_UNIQUE_CODES.csv">renal_dialysis_SNOMED_4146536_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
 </div>
 </div>
 </div>

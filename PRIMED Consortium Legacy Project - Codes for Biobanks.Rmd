@@ -11,6 +11,8 @@ output:
 
 Release notes:
 
+-   22 October 2024: Uploaded codes for Blood Cancers, HIV, and End Stage Kidney Disease
+-   21 October2024: Uploaded Codes for Blood Disorders
 -   17 October2024: Fixed the codes to use for Trait queries. Started on Conditions
 -   15October2024: Added the codes to use for Trait queries
 -   30Sept2024.tsv: Added the codes to use for Drug queries
@@ -264,10 +266,10 @@ white_blood_cell_count_OMOP_4298431 <- find_descendants_and_mappings_for_a_given
 
 ```
 
-Download files: 
+Download files:
 
- - [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Lymphocytes \| Blood \| Hematology and Cell counts
 
@@ -275,10 +277,10 @@ Download files:
 lymphocytes_in_blood_OMOP_3019198 <- find_descendants_and_mappings_for_a_given_concept_id(3019198, file_label="lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024")
 ```
 
-Download files: 
+Download files:
 
- - [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Leukocytes \| Blood \| Hematology and Cell counts
 
@@ -286,10 +288,10 @@ Download files:
 leukocytes_in_blood_OMOP_37043992 <- find_descendants_and_mappings_for_a_given_concept_id(37043992, file_label="leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024")
 ```
 
-Download files: 
+Download files:
 
- - [leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### HbA1C
 
@@ -298,10 +300,10 @@ hba1c_SNOMED_4184637 <- find_descendants_and_mappings_for_a_given_concept_id(418
 
 ```
 
-Download file: 
+Download file:
 
- - [hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv](<https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv](%3Chttps://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### SBP
 
@@ -311,36 +313,36 @@ sbp_SNOMED_4152194 <- find_descendants_and_mappings_for_a_given_concept_id(41521
 
 Download file:
 
- - [sbp_SNOMED_4152194_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_SNOMED_4152194_AKM_17Oct2024_ALL_MAPPINGS.csv)
- - [sbp_SNOMED_4152194_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_SNOMED_4152194_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [sbp_SNOMED_4152194_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_SNOMED_4152194_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [sbp_SNOMED_4152194_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_SNOMED_4152194_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ```{r}
 sbp_LOINC_3004249 <- find_descendants_and_mappings_for_a_given_concept_id(3004249, file_label="sbp_LOINC_3004249_AKM_17Oct2024")
 ```
 
-Download file: 
+Download file:
 
- - [sbp_LOINC_3004249_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_LOINC_3004249_AKM_17Oct2024_ALL_MAPPINGS.csv) 
-  - [sbp_LOINC_3004249_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_LOINC_3004249_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [sbp_LOINC_3004249_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_LOINC_3004249_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [sbp_LOINC_3004249_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/sbp_LOINC_3004249_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ```{r echo=TRUE}
 dbp_SNOMED_4154790 <- find_descendants_and_mappings_for_a_given_concept_id(4154790, file_label="dbp_SNOMED_4154790_AKM_17Oct2024")
 
 ```
 
-Download file: 
+Download file:
 
- - [dbp_SNOMED_4154790_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_SNOMED_4154790_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [dbp_SNOMED_4154790_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_SNOMED_4154790_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [dbp_SNOMED_4154790_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_SNOMED_4154790_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [dbp_SNOMED_4154790_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_SNOMED_4154790_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ```{r}
 dbp_LOINC_3012888 <- find_descendants_and_mappings_for_a_given_concept_id(3012888, file_label="dbp_LOINC_3012888_AKM_17Oct2024")
 ```
 
-Download file: 
+Download file:
 
- - [dbp_LOINC_3012888_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_LOINC_3012888_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [dbp_LOINC_3012888_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_LOINC_3012888_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [dbp_LOINC_3012888_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_LOINC_3012888_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [dbp_LOINC_3012888_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dbp_LOINC_3012888_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### HDLC
 
@@ -350,8 +352,8 @@ hdlc_SNOMED_4101713 <- find_descendants_and_mappings_for_a_given_concept_id(4101
 
 Download file:
 
- - [hdlc_SNOMED_4101713_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_SNOMED_4101713_AKM_17Oct2024_ALL_MAPPINGS.csv) 
-  - [hdlc_SNOMED_4101713_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_SNOMED_4101713_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [hdlc_SNOMED_4101713_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_SNOMED_4101713_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [hdlc_SNOMED_4101713_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hdlc_SNOMED_4101713_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### LDLC
 
@@ -359,10 +361,10 @@ Download file:
 ldlc_SNOMED_4012479 <- find_descendants_and_mappings_for_a_given_concept_id(4012479, file_label="ldlc_SNOMED_4012479_AKM_17Oct2024")
 ```
 
-Download file: 
+Download file:
 
- - [ldlc_SNOMED_4012479_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_SNOMED_4012479_AKM_17Oct2024_ALL_MAPPINGS.csv)
-  - [ldlc_SNOMED_4012479_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_SNOMED_4012479_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [ldlc_SNOMED_4012479_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_SNOMED_4012479_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [ldlc_SNOMED_4012479_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ldlc_SNOMED_4012479_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### TG
 
@@ -370,10 +372,10 @@ Download file:
 tg_SNOMED_4032789 <- find_descendants_and_mappings_for_a_given_concept_id(4032789, file_label="tg_SNOMED_4032789_AKM_17Oct2024")
 ```
 
-Download file: 
+Download file:
 
- - [tg_SNOMED_4032789_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_SNOMED_4032789_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [tg_SNOMED_4032789_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_SNOMED_4032789_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [tg_SNOMED_4032789_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_SNOMED_4032789_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [tg_SNOMED_4032789_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/tg_SNOMED_4032789_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Weight
 
@@ -382,10 +384,10 @@ Download file:
 weight_SNOMED_4099154 <- find_descendants_and_mappings_for_a_given_concept_id(4099154, file_label="weight_SNOMED_4099154_AKM_17Oct2024")
 ```
 
-Download file: 
+Download file:
 
- - [weight_SNOMED_4099154_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_SNOMED_4099154_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [weight_SNOMED_4099154_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_SNOMED_4099154_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [weight_SNOMED_4099154_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_SNOMED_4099154_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [weight_SNOMED_4099154_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/weight_SNOMED_4099154_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### height
 
@@ -393,20 +395,215 @@ Download file:
 height_SNOMED_607590 <- find_descendants_and_mappings_for_a_given_concept_id(607590, file_label="height_SNOMED_607590_AKM_17Oct2024")
 ```
 
-Download file: 
+Download file:
 
- - [height_SNOMED_607590_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_SNOMED_607590_AKM_17Oct2024_ALL_MAPPINGS.csv) 
- - [height_SNOMED_607590_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_SNOMED_607590_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [height_SNOMED_607590_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_SNOMED_607590_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [height_SNOMED_607590_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/height_SNOMED_607590_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ## Codes to use for Condition Exclusions
 
 ### Codes for Blood Disorders
+
+Files with ICD-9 and ICD-10 codes
+
+-   [ICD-9-blood_diseases_AB_16Oct2024.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ICD-9-blood_diseases_AB_16Oct2024.csv)
+-   [ICD-10-blood_diseases_AB_16Oct2024.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ICD-10-blood_diseases_AB_16Oct2024.csv)
 
 #### Disorder of cellular component of blood
 
 ```{r}
 disorder_of_cellular_component_of_blood_OMOP_443723 <- find_descendants_and_mappings_for_a_given_concept_id(443723, file_label="disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024")
 ```
+
+Download Files:
+
+-   [disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Disorder of hematopoietic structure
+
+```{r}
+disorder_of_hematopoietic_structure_SNOMED_317248 <- find_descendants_and_mappings_for_a_given_concept_id(317248, file_label="disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Agranulocytosis
+
+```{r}
+agranulocytosis_SNOMED_440689 <- find_descendants_and_mappings_for_a_given_concept_id(440689, file_label="agranulocytosis_SNOMED_440689_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [agranulocytosis_SNOMED_440689_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/agranulocytosis_SNOMED_440689_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [agranulocytosis_SNOMED_440689_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/agranulocytosis_SNOMED_440689_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Bone marrow transplant present
+
+```{r}
+bone_marrow_transplant_present_SNOMED_42537745 <- find_descendants_and_mappings_for_a_given_concept_id(42537745, file_label="bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for Blood Cancers
+
+Files with ICD-9 and ICD-10 codes
+
+-   [ICD-9-XXXX.csv]()
+-   [ICD-10-XXX.csv]()
+
+#### Leukemia
+
+```{r}
+leukemia_SNOMED_317510 <- find_descendants_and_mappings_for_a_given_concept_id(317510, file_label="leukemia_SNOMED_317510_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [leukemia_SNOMED_317510_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukemia_SNOMED_317510_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [leukemia_SNOMED_317510_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukemia_SNOMED_317510_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Malignant lymphoma
+
+```{r}
+malignant_lymphoma_SNOMED_432571 <- find_descendants_and_mappings_for_a_given_concept_id(432571, file_label="malignant_lymphoma_SNOMED_432571_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Disorder of hematopoietic morphology
+
+```{r}
+disorder_of_hematopoietic_morphology_SNOMED_4185470 <- find_descendants_and_mappings_for_a_given_concept_id(4185470, file_label="disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for HIV infection
+
+Files with ICD-9 and ICD-10 codes
+
+-   [ICD-9-XXXX.csv]()
+-   [ICD-10-XXX.csv]()
+
+#### HIV infection
+
+```{r}
+hiv_infection_SNOMED_439727 <- find_descendants_and_mappings_for_a_given_concept_id(439727, file_label="hiv_infection_SNOMED_439727_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [hiv_infection_SNOMED_439727_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hiv_infection_SNOMED_439727_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [hiv_infection_SNOMED_439727_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hiv_infection_SNOMED_439727_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for End Stage Kidney Disease
+
+Files with ICD-9 and ICD-10 codes
+
+-   [ICD-9-XXXX.csv]()
+-   [ICD-10-XXX.csv]()
+
+#### Dependence on renal dialysis
+
+```{r}
+dependence_on_renal_dialysis_SNOMED_4019967 <- find_descendants_and_mappings_for_a_given_concept_id(4019967, file_label="dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024")
+```
+
+Files to download:
+
+-   [dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### End stage renal disease
+
+```{r}
+end_stage_renal_disease_SNOMED_4019967 <- find_descendants_and_mappings_for_a_given_concept_id(4019967, file_label="end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024")
+```
+
+Files to download:
+
+-   [end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/end_stage_renal_disease_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Chronic kidney disease stage 5
+
+```{r}
+chronic_kidney_disease_stage_5_SNOMED_443611 <- find_descendants_and_mappings_for_a_given_concept_id(443611, file_label="chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/chronic_kidney_disease_stage_5_SNOMED_443611_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Renal dialysis
+
+```{r}
+renal_dialysis_SNOMED_4146536 <- find_descendants_and_mappings_for_a_given_concept_id(4146536, file_label="renal_dialysis_SNOMED_4146536_AKM_17Oct2024")
+```
+
+Download Files:
+
+-   [renal_dialysis_SNOMED_4146536_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/renal_dialysis_SNOMED_4146536_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [renal_dialysis_SNOMED_4146536_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/renal_dialysis_SNOMED_4146536_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for Splenectomy and spleen disorders
+
+Files with ICD-9 and ICD-10 codes
+
+-   [ICD-9-XXXX.csv]()
+-   [ICD-10-XXX.csv]()
+
+##  Disorder of spleen
+```{r}
+disorder_of_spleen_SNOMED_201265 <- find_descendants_and_mappings_for_a_given_concept_id(201265, file_label="disorder_of_spleen_SNOMED_201265_AKM_17Oct2024")
+```
+
+Files to download:
+
+-   [disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Splenectomy
+```{r}
+splenectomy_SNOMED_4125482 <- find_descendants_and_mappings_for_a_given_concept_id(4125482, file_label="splenectomy_SNOMED_4125482_AKM_17Oct2024")
+```
+
+Files to download:
+
+-  [splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-  [splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for Fibrosis, Cirrhosis of the Liver
+
+Files with ICD-9 and ICD-10 codes
+
+-   [ICD-9-XXXX.csv]()
+-   [ICD-10-XXX.csv]()
+
+#### Cirrhosis of liver
+```{r}
+cirrhosis_of_liver_SNOMED_4064161 <- find_descendants_and_mappings_for_a_given_concept_id(4064161, file_label="cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024")
+```
+Files to download:
+
+- [cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv)
+- [cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ## Codes to use for Drugs Queries
 

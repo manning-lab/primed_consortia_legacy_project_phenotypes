@@ -1,0 +1,372 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+619390,895382009,Prolonged intermittent renal replacement therapy,SNOMED,Subsumes,44783963,Sustained low-efficiency dialysis,698074000,Procedure,SNOMED
+619390,895382009,Prolonged intermittent renal replacement therapy,SNOMED,Mapped from,619390,Prolonged intermittent renal replacement therapy,895382009,Procedure,SNOMED
+619390,895382009,Prolonged intermittent renal replacement therapy,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+619390,895382009,Prolonged intermittent renal replacement therapy,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+619390,895382009,Prolonged intermittent renal replacement therapy,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+619390,895382009,Prolonged intermittent renal replacement therapy,SNOMED,Maps to,619390,Prolonged intermittent renal replacement therapy,895382009,Procedure,SNOMED
+801350,G1027,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,HCPCS,Mapped from,801350,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,G1027,HCPCS,HCPCS
+801350,G1027,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,HCPCS,Maps to,801350,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,G1027,HCPCS,HCPCS
+801351,G1026,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,HCPCS,Mapped from,801351,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,G1026,HCPCS,HCPCS
+801351,G1026,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,HCPCS,Maps to,801351,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,G1026,HCPCS,HCPCS
+1126186,C7513,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Mapped from,1126186,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7513,HCPCS,HCPCS
+1126186,C7513,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Maps to,1126186,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7513,HCPCS,HCPCS
+1126187,C7514,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Maps to,1126187,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7514,HCPCS,HCPCS
+1126187,C7514,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Mapped from,1126187,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7514,HCPCS,HCPCS
+1126188,C7515,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Mapped from,1126188,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7515,HCPCS,HCPCS
+1126188,C7515,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Maps to,1126188,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7515,HCPCS,HCPCS
+1126203,C7530,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Maps to,1126203,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7530,HCPCS,HCPCS
+1126203,C7530,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,Mapped from,1126203,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7530,HCPCS,HCPCS
+4002872,11932001,Stabilizing hemodialysis,SNOMED,Maps to,4002872,Stabilizing hemodialysis,11932001,Procedure,SNOMED
+4002872,11932001,Stabilizing hemodialysis,SNOMED,Mapped from,4002872,Stabilizing hemodialysis,11932001,Procedure,SNOMED
+4002872,11932001,Stabilizing hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4002872,11932001,Stabilizing hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4002872,11932001,Stabilizing hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4002872,11932001,Stabilizing hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Mapped from,4049844,Continuous arteriovenous hemofiltration,233584001,Procedure,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Subsumes,4050867,Continuous arteriovenous hemodiafiltration,233589006,Procedure,SNOMED
+4049844,233584001,Continuous arteriovenous hemofiltration,SNOMED,Maps to,4049844,Continuous arteriovenous hemofiltration,233584001,Procedure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Subsumes,46270932,Maintenance hemodiafiltration,708930002,Procedure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Subsumes,4050866,Continuous hemodiafiltration,233588003,Procedure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Maps to,4049845,Hemodiafiltration,233586004,Procedure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Mapped from,4049845,Hemodiafiltration,233586004,Procedure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Subsumes,4052538,Intermittent hemodiafiltration,233587008,Procedure,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4049845,233586004,Hemodiafiltration,SNOMED,Subsumes,46270934,Emergency hemodiafiltration,708933000,Procedure,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Maps to,4049846,Continuous venovenous hemodiafiltration,233590002,Procedure,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Has dir proc site,4104340,Venous structure,29092000,Body Structure,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4049846,233590002,Continuous venovenous hemodiafiltration,SNOMED,Mapped from,4049846,Continuous venovenous hemodiafiltration,233590002,Procedure,SNOMED
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,Mapped from,4050862,Intermittent hemodialysis with continuous ultrafiltration,233577009,Procedure,SNOMED
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,Maps to,4050862,Intermittent hemodialysis with continuous ultrafiltration,233577009,Procedure,SNOMED
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4050862,233577009,Intermittent hemodialysis with continuous ultrafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Subsumes,4050866,Continuous hemodiafiltration,233588003,Procedure,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Subsumes,4051329,Continuous venovenous hemodialysis,233580005,Procedure,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Maps to,4050863,Continuous hemodialysis,233578004,Procedure,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Mapped from,4050863,Continuous hemodialysis,233578004,Procedure,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Subsumes,4051328,Continuous arteriovenous hemodialysis,233579007,Procedure,SNOMED
+4050863,233578004,Continuous hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Subsumes,46270935,Maintenance hemofiltration,708934006,Procedure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Subsumes,37396069,Emergency hemofiltration,715743002,Procedure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Subsumes,4050865,Intermittent hemofiltration,233582002,Procedure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Concept same_as from,3525710,Haemofiltration,266901000000105,Undefined,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Subsumes,4049845,Hemodiafiltration,233586004,Procedure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Subsumes,4052537,Continuous hemofiltration,233583007,Procedure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Mapped from,3525710,Haemofiltration,266901000000105,Undefined,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Maps to,4050864,Hemofiltration,233581009,Procedure,SNOMED
+4050864,233581009,Hemofiltration,SNOMED,Mapped from,4050864,Hemofiltration,233581009,Procedure,SNOMED
+4050865,233582002,Intermittent hemofiltration,SNOMED,Mapped from,4050865,Intermittent hemofiltration,233582002,Procedure,SNOMED
+4050865,233582002,Intermittent hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4050865,233582002,Intermittent hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4050865,233582002,Intermittent hemofiltration,SNOMED,Maps to,4050865,Intermittent hemofiltration,233582002,Procedure,SNOMED
+4050865,233582002,Intermittent hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4050865,233582002,Intermittent hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Subsumes,4050867,Continuous arteriovenous hemodiafiltration,233589006,Procedure,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Subsumes,4049846,Continuous venovenous hemodiafiltration,233590002,Procedure,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Maps to,4050866,Continuous hemodiafiltration,233588003,Procedure,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Mapped from,4050866,Continuous hemodiafiltration,233588003,Procedure,SNOMED
+4050866,233588003,Continuous hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4050867,233589006,Continuous arteriovenous hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4050867,233589006,Continuous arteriovenous hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4050867,233589006,Continuous arteriovenous hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4050867,233589006,Continuous arteriovenous hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4050867,233589006,Continuous arteriovenous hemodiafiltration,SNOMED,Maps to,4050867,Continuous arteriovenous hemodiafiltration,233589006,Procedure,SNOMED
+4050867,233589006,Continuous arteriovenous hemodiafiltration,SNOMED,Mapped from,4050867,Continuous arteriovenous hemodiafiltration,233589006,Procedure,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Subsumes,4050862,Intermittent hemodialysis with continuous ultrafiltration,233577009,Procedure,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Mapped from,4051326,Intermittent hemodialysis,233575001,Procedure,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Maps to,4051326,Intermittent hemodialysis,233575001,Procedure,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Subsumes,4051327,Intermittent hemodialysis with sequential ultrafiltration,233576000,Procedure,SNOMED
+4051326,233575001,Intermittent hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,Maps to,4051327,Intermittent hemodialysis with sequential ultrafiltration,233576000,Procedure,SNOMED
+4051327,233576000,Intermittent hemodialysis with sequential ultrafiltration,SNOMED,Mapped from,4051327,Intermittent hemodialysis with sequential ultrafiltration,233576000,Procedure,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Mapped from,4051328,Continuous arteriovenous hemodialysis,233579007,Procedure,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Subsumes,4050867,Continuous arteriovenous hemodiafiltration,233589006,Procedure,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4051328,233579007,Continuous arteriovenous hemodialysis,SNOMED,Maps to,4051328,Continuous arteriovenous hemodialysis,233579007,Procedure,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Mapped from,4051329,Continuous venovenous hemodialysis,233580005,Procedure,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Subsumes,4049846,Continuous venovenous hemodiafiltration,233590002,Procedure,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Maps to,4051329,Continuous venovenous hemodialysis,233580005,Procedure,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Has dir proc site,4104340,Venous structure,29092000,Body Structure,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4051329,233580005,Continuous venovenous hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Maps to,4051330,Continuous venovenous hemofiltration,233585000,Procedure,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Subsumes,4049846,Continuous venovenous hemodiafiltration,233590002,Procedure,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Has dir proc site,4104340,Venous structure,29092000,Body Structure,SNOMED
+4051330,233585000,Continuous venovenous hemofiltration,SNOMED,Mapped from,4051330,Continuous venovenous hemofiltration,233585000,Procedure,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Maps to,4052537,Continuous hemofiltration,233583007,Procedure,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Subsumes,4049844,Continuous arteriovenous hemofiltration,233584001,Procedure,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Subsumes,4051330,Continuous venovenous hemofiltration,233585000,Procedure,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Mapped from,4052537,Continuous hemofiltration,233583007,Procedure,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4052537,233583007,Continuous hemofiltration,SNOMED,Subsumes,4050866,Continuous hemodiafiltration,233588003,Procedure,SNOMED
+4052538,233587008,Intermittent hemodiafiltration,SNOMED,Mapped from,4052538,Intermittent hemodiafiltration,233587008,Procedure,SNOMED
+4052538,233587008,Intermittent hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4052538,233587008,Intermittent hemodiafiltration,SNOMED,Maps to,4052538,Intermittent hemodiafiltration,233587008,Procedure,SNOMED
+4052538,233587008,Intermittent hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4052538,233587008,Intermittent hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4052538,233587008,Intermittent hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4126124,Acute disorder of hemodialysis,236538004,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Focus of,4245156,Hemodialysis education at home,59596005,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Value mapped from,40664745,Hemodialysis treatment performed less than three times per week or greater than three times per week (Deprecated),G8715,HCPCS,HCPCS
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4128232,First use syndrome of dialysis,236539007,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4140589,Extracorporeal albumin hemodialysis,427053002,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4002872,Stabilizing hemodialysis,11932001,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,45773389,Inadequate hemodialysis,702635003,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Focus of,4103072,Hemodialysis education,28812006,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,46270933,Emergency hemodialysis,708932005,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4050863,Continuous hemodialysis,233578004,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept poss_eq from,40348035,Renal dialysis (& hemodialysis),266809003,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,762945,Hemodialysis access failure,434061000124103,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Value mapped from,37108856,Hemodialysis procedure done,152421000119107,Context-dependent,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Asso proc of,37108856,Hemodialysis procedure done,152421000119107,Context-dependent,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4238836,Initial hemodialysis,57274006,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Follows,45771002,Spondyloarthropathy due to hemodialysis-associated amyloidosis,707090004,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4049845,Hemodiafiltration,233586004,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4300106,Skin lesion associated with hemodialysis,402762007,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Has temp finding,4300099,Hemodialysis-associated pruritus,403733004,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Mapped from,2002282,Hemodialysis,39.95,4-dig billing code,ICD9Proc
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,46270524,Increase dialyzer size for hemodialysis,381000124105,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept poss_eq from,40376653,(Renal dialysis) or (Thomas intravascular dialysis shunt),180267005,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Focus of,42872870,Insertion of nontunneled hemodialysis catheter,450865002,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Asso proc of,4234610,Hemodialysis therapy discontinued,439516000,Context-dependent,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,37157733,Nocturnal home hemodialysis,1231768001,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept poss_eq from,40376652,Compensation for renal failure (& dialysis),180266001,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Mapped from,4080241,Hemodialysis NEC,180268000,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Mapped from,4120120,Hemodialysis,302497006,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Maps to,4120120,Hemodialysis,302497006,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4137616,Hemodialysis-associated amyloidosis,32599008,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,1126186,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7513,HCPCS,HCPCS
+4120120,302497006,Hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept was_a from,3537777,Haemodialysis NEC,640081000000105,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Mapped from,3537777,Haemodialysis NEC,640081000000105,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Focus of,4272012,Insertion of cannula for hemodialysis,63421002,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Value mapped from,40664693,Hemodialysis treatment performed exactly three times per week for > 90 days (Deprecated),G8714,HCPCS,HCPCS
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,46273700,Maintenance hemodialysis,708931003,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Mapped from,40350725,Hemodialysis,27392003,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept poss_eq from,40313128,Renal dialysis (& hemodialysis),151048001,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept poss_eq from,40350725,Hemodialysis,27392003,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,46270073,Thrombosis of arteriovenous graft caused by hemodialysis arteriovenous access device,133031000119106,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4051326,Intermittent hemodialysis,233575001,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,1126187,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7514,HCPCS,HCPCS
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,1126203,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7530,HCPCS,HCPCS
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4314555,Dialysis disequilibrium syndrome,87235005,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,4286500,Hemodialysis, supervision at home,68341005,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Subsumes,1126188,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,C7515,HCPCS,HCPCS
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4297919,Hemodialysis-associated pseudoporphyria,403732009,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,435649,Complication of hemodialysis,85223007,Disorder,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Focus of,42537496,Insertion of hemodialysis catheter,736919006,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Value mapped from,761997,History of hemodialysis,28200001000004109,Context-dependent,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Asso proc of,761997,History of hemodialysis,28200001000004109,Context-dependent,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Focus of,42539666,Insertion of tunneled hemodialysis catheter,736922008,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Concept same_as from,40513647,Hemodialysis,309432002,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Mapped from,40513647,Hemodialysis,309432002,Procedure,SNOMED
+4120120,302497006,Hemodialysis,SNOMED,Due to of,4297658,Hemodialysis-associated secondary amyloidosis of skin,402458002,Disorder,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Maps to,4121921,Extracorporeal kidney,288182009,Procedure,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Mapped from,4121921,Extracorporeal kidney,288182009,Procedure,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Mapped from,40313129,Extracorporeal kidney,151049009,Procedure,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Concept same_as from,40313129,Extracorporeal kidney,151049009,Procedure,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Concept replaces,40313129,Extracorporeal kidney,151049009,Procedure,SNOMED
+4121921,288182009,Extracorporeal kidney,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Maps to,4140589,Extracorporeal albumin hemodialysis,427053002,Procedure,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Mapped from,4140589,Extracorporeal albumin hemodialysis,427053002,Procedure,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Mapped from,3526283,Extracorporeal albumin haemodialysis,284451000000108,Procedure,SNOMED
+4140589,427053002,Extracorporeal albumin hemodialysis,SNOMED,Concept same_as from,3526283,Extracorporeal albumin haemodialysis,284451000000108,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,40313128,Renal dialysis (& hemodialysis),151048001,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept replaces,4142536,Compensation for renal failure,265763003,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept poss_eq from,40376653,(Renal dialysis) or (Thomas intravascular dialysis shunt),180267005,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Value mapped from,40302715,H/O: renal dialysis,138957005,Context-dependent,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Focus of,4214705,Removal of arteriovenous shunt for renal dialysis,39482009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,40376653,(Renal dialysis) or (Thomas intravascular dialysis shunt),180267005,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,3537778,Other specified compensation for renal failure,640091000000107,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept was_a from,3537778,Other specified compensation for renal failure,640091000000107,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Asso proc of,46269993,Renal dialysis done,11009631000119100,Context-dependent,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Value mapped from,46269993,Renal dialysis done,11009631000119100,Context-dependent,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,1126406,Patients receiving rrt,M1199,HCPCS,HCPCS
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,4146536,Renal dialysis,265764009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept poss_eq from,40348035,Renal dialysis (& hemodialysis),266809003,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,40348035,Renal dialysis (& hemodialysis),266809003,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Maps to,4146536,Renal dialysis,265764009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Subsumes,4050864,Hemofiltration,233581009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Subsumes,4121921,Extracorporeal kidney,288182009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Due to of,438624,Complication of renal dialysis,33603003,Disorder,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Due to of,607547,Matrix stone formation during renal dialysis,1153581007,Disorder,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Due to of,37110379,Osteonecrosis due to and following renal dialysis,724612006,Disorder,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Follows,37110379,Osteonecrosis due to and following renal dialysis,724612006,Disorder,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Focus of,4183419,Arteriovenous shunt for renal dialysis by external cannula,54817007,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Subsumes,4120120,Hemodialysis,302497006,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Value mapped from,44831947,Renal dialysis status,V45.11,5-dig billing V code,ICD9CM
+4146536,265764009,Renal dialysis,SNOMED,Value mapped from,4059475,History of renal dialysis,161693006,Context-dependent,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,4142536,Compensation for renal failure,265763003,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Asso proc of,4059475,History of renal dialysis,161693006,Context-dependent,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept poss_eq from,40350725,Hemodialysis,27392003,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept poss_eq from,40313128,Renal dialysis (& hemodialysis),151048001,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Value mapped from,44835472,Postsurgical renal dialysis status,V45.1,4-dig nonbill V code,ICD9CM
+4146536,265764009,Renal dialysis,SNOMED,Subsumes,619390,Prolonged intermittent renal replacement therapy,895382009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,4078738,Compensation for renal failure NOS,180270009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept was_a from,4078738,Compensation for renal failure NOS,180270009,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,40376652,Compensation for renal failure (& dialysis),180266001,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Concept poss_eq from,40376652,Compensation for renal failure (& dialysis),180266001,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Value mapped from,1576114,Preparatory care for renal dialysis,Z49.0,4-char nonbill code,ICD10CM
+4146536,265764009,Renal dialysis,SNOMED,Concept was_a from,4108837,Other specified compensation for renal failure,180269008,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Mapped from,4108837,Other specified compensation for renal failure,180269008,Procedure,SNOMED
+4146536,265764009,Renal dialysis,SNOMED,Subsumes,37018292,Continuous renal replacement therapy,714749008,Procedure,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Maps to,4146649,Hemodialysis, maintenance in hospital,34897002,Procedure,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Has method,4299719,Maintenance - action,386746003,Qualifier Value,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Mapped from,4146649,Hemodialysis, maintenance in hospital,34897002,Procedure,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4146649,34897002,Hemodialysis, maintenance in hospital,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Mapped from,4195714,Hemodialysis, maintenance at home,67970008,Procedure,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Maps to,4195714,Hemodialysis, maintenance at home,67970008,Procedure,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Has method,4299719,Maintenance - action,386746003,Qualifier Value,SNOMED
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Mapped from,2721479,Home therapy, hemodialysis; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem,S9335,HCPCS,HCPCS
+4195714,67970008,Hemodialysis, maintenance at home,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4238836,57274006,Initial hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4238836,57274006,Initial hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4238836,57274006,Initial hemodialysis,SNOMED,Mapped from,4238836,Initial hemodialysis,57274006,Procedure,SNOMED
+4238836,57274006,Initial hemodialysis,SNOMED,Maps to,4238836,Initial hemodialysis,57274006,Procedure,SNOMED
+4238836,57274006,Initial hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+4238836,57274006,Initial hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Has method,4044176,Evaluation - action,129265001,Qualifier Value,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Mapped from,4286500,Hemodialysis, supervision at home,68341005,Procedure,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Maps to,4286500,Hemodialysis, supervision at home,68341005,Procedure,SNOMED
+4286500,68341005,Hemodialysis, supervision at home,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Maps to,37018292,Continuous renal replacement therapy,714749008,Procedure,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Subsumes,4050863,Continuous hemodialysis,233578004,Procedure,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Subsumes,4052537,Continuous hemofiltration,233583007,Procedure,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Concept poss_eq from,40378452,Artificial blood circulation (& treatment),182745003,Procedure,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Mapped from,37018292,Continuous renal replacement therapy,714749008,Procedure,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+37018292,714749008,Continuous renal replacement therapy,SNOMED,Concept poss_eq from,4163566,Renal replacement,398887003,Procedure,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Maps to,37157733,Nocturnal home hemodialysis,1231768001,Procedure,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Mapped from,37157733,Nocturnal home hemodialysis,1231768001,Procedure,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Focus of,37164760,Education about nocturnal home hemodialysis,1231767006,Procedure,SNOMED
+37157733,1231768001,Nocturnal home hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Has dir subst,4226865,Blood,87612001,Substance,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Mapped from,37396069,Emergency hemofiltration,715743002,Procedure,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Maps to,37396069,Emergency hemofiltration,715743002,Procedure,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Has priority,4093606,Emergency,25876001,Qualifier Value,SNOMED
+37396069,715743002,Emergency hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+44783963,698074000,Sustained low-efficiency dialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+44783963,698074000,Sustained low-efficiency dialysis,SNOMED,Maps to,44783963,Sustained low-efficiency dialysis,698074000,Procedure,SNOMED
+44783963,698074000,Sustained low-efficiency dialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+44783963,698074000,Sustained low-efficiency dialysis,SNOMED,Mapped from,44783963,Sustained low-efficiency dialysis,698074000,Procedure,SNOMED
+44783963,698074000,Sustained low-efficiency dialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,Maps to,46270524,Increase dialyzer size for hemodialysis,381000124105,Procedure,SNOMED
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+46270524,381000124105,Increase dialyzer size for hemodialysis,SNOMED,Mapped from,46270524,Increase dialyzer size for hemodialysis,381000124105,Procedure,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Maps to,46270932,Maintenance hemodiafiltration,708930002,Procedure,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Mapped from,46270932,Maintenance hemodiafiltration,708930002,Procedure,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Has method,4299719,Maintenance - action,386746003,Qualifier Value,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+46270932,708930002,Maintenance hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Mapped from,46270933,Emergency hemodialysis,708932005,Procedure,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Maps to,46270933,Emergency hemodialysis,708932005,Procedure,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+46270933,708932005,Emergency hemodialysis,SNOMED,Has priority,4093606,Emergency,25876001,Qualifier Value,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Maps to,46270934,Emergency hemodiafiltration,708933000,Procedure,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Has priority,4093606,Emergency,25876001,Qualifier Value,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Has dir subst,4226865,Blood,87612001,Substance,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46270934,708933000,Emergency hemodiafiltration,SNOMED,Mapped from,46270934,Emergency hemodiafiltration,708933000,Procedure,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Maps to,46270935,Maintenance hemofiltration,708934006,Procedure,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Mapped from,46270935,Maintenance hemofiltration,708934006,Procedure,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Has method,4299719,Maintenance - action,386746003,Qualifier Value,SNOMED
+46270935,708934006,Maintenance hemofiltration,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Has indir proc site,4271678,Kidney structure,64033007,Body Structure,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Has focus,192359,Renal failure syndrome,42399005,Disorder,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Has method,4299719,Maintenance - action,386746003,Qualifier Value,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Maps to,46273700,Maintenance hemodialysis,708931003,Procedure,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Mapped from,46273700,Maintenance hemodialysis,708931003,Procedure,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Subsumes,4146649,Hemodialysis, maintenance in hospital,34897002,Procedure,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Value mapped from,801384,With maintenance hemodialysis (in-center and home hd) for the complete reporting month,G0049,HCPCS,HCPCS
+46273700,708931003,Maintenance hemodialysis,SNOMED,Subsumes,4195714,Hemodialysis, maintenance at home,67970008,Procedure,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Has method,4044535,Perfusion - action,129331004,Qualifier Value,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Value mapped from,43533282,Patient not receiving maintenance hemodialysis in an outpatient dialysis facility (Deprecated),G8957,HCPCS,HCPCS
+46273700,708931003,Maintenance hemodialysis,SNOMED,Subsumes,801350,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,G1027,HCPCS,HCPCS
+46273700,708931003,Maintenance hemodialysis,SNOMED,Subsumes,801351,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,G1026,HCPCS,HCPCS
+46273700,708931003,Maintenance hemodialysis,SNOMED,Has method,4231018,Filtration - action,360166003,Qualifier Value,SNOMED
+46273700,708931003,Maintenance hemodialysis,SNOMED,Mapped from,43533281,Patient receiving maintenance hemodialysis in an outpatient dialysis facility,G8956,HCPCS,HCPCS

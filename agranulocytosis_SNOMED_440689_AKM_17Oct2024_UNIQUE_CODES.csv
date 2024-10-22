@@ -1,0 +1,20 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+40321720,Agranulocytosis,Disorder,SNOMED
+40332444,Agranulocytosis,Clinical Finding,SNOMED
+37169796,Agranulocytosis caused by antithyroid agent,Disorder,SNOMED
+4150156,Agranulocytopenic disorder,Disorder,SNOMED
+4215928,Agranulocytic angina,Disorder,SNOMED
+440689,Agranulocytosis,Disorder,SNOMED
+606394,Secondary agranulocytosis,Disorder,SNOMED
+4100228,Schultz disease,Disorder,SNOMED
+4318382,Mucositis necroticans agranulocytica,Disorder,SNOMED
+40390876,(Agranulocytosis) or (Kostmann's syndrome) or (neutropenia),Disorder,SNOMED
+40301784,Agranulocytosis,Disorder,SNOMED
+37017282,Agranulocytosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+601107,Agranulocytosis due to and following administration of antineoplastic agent,Disorder,SNOMED
+4181511,Administration of antineoplastic agent,Procedure,SNOMED
+4274025,Disease,Disorder,SNOMED
+4224553,Agranulocytosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4078242,Human immunodeficiency virus,Organism,SNOMED
+40652283,AIDS with agranulocytosis,Disorder,SNOMED
+4302787,Antithyroid agent,Substance,SNOMED

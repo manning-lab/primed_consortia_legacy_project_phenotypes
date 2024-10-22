@@ -1,0 +1,41 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Subsumes,4121274,Bone marrow transplant failure,234520000,Disorder,SNOMED
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Subsumes,4125659,Bone marrow transplant rejection,234519006,Disorder,SNOMED
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Mapped from,437169,Disorder of transplanted bone marrow,428103008,Disorder,SNOMED
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Maps to,437169,Disorder of transplanted bone marrow,428103008,Disorder,SNOMED
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Mapped from,44830635,Complications of transplanted bone marrow,996.85,5-dig billing code,ICD9CM
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Mapped from,45580471,Bone marrow transplant infection,T86.03,5-char billing code,ICD10CM
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Subsumes,4125660,Disease relapse in transplant marrow,234522008,Disorder,SNOMED
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Mapped from,45585326,Other complications of bone marrow transplant,T86.09,5-char billing code,ICD10CM
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Mapped from,45590130,Unspecified complication of bone marrow transplant,T86.00,5-char billing code,ICD10CM
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Mapped from,40431980,Bone marrow transplant disorder,234518003,Disorder,SNOMED
+437169,428103008,Disorder of transplanted bone marrow,SNOMED,Concept poss_eq from,40431980,Bone marrow transplant disorder,234518003,Disorder,SNOMED
+4121274,234520000,Bone marrow transplant failure,SNOMED,Maps to,4121274,Bone marrow transplant failure,234520000,Disorder,SNOMED
+4121274,234520000,Bone marrow transplant failure,SNOMED,Mapped from,4121274,Bone marrow transplant failure,234520000,Disorder,SNOMED
+4121274,234520000,Bone marrow transplant failure,SNOMED,Mapped from,45599828,Bone marrow transplant failure,T86.02,5-char billing code,ICD10CM
+4121274,234520000,Bone marrow transplant failure,SNOMED,Mapped from,40431984,Bone marrow transplant failure,234521001,Disorder,SNOMED
+4121274,234520000,Bone marrow transplant failure,SNOMED,Concept same_as from,40431984,Bone marrow transplant failure,234521001,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Mapped from,45585325,Bone marrow transplant rejection,T86.01,5-char billing code,ICD10CM
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Concept same_as from,40409739,Bone marrow transplant rejection,213149003,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Mapped from,40409739,Bone marrow transplant rejection,213149003,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Subsumes,4332092,Chronic rejection of bone marrow transplant,431953002,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Mapped from,1575307,Complications of bone marrow transplant,T86.0,4-char nonbill code,ICD10CM
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Mapped from,4125659,Bone marrow transplant rejection,234519006,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Maps to,4125659,Bone marrow transplant rejection,234519006,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Subsumes,4161782,Acute rejection of bone marrow transplant,431862001,Disorder,SNOMED
+4125659,234519006,Bone marrow transplant rejection,SNOMED,Subsumes,4328283,Accelerated rejection of bone marrow transplant,431456004,Disorder,SNOMED
+4125660,234522008,Disease relapse in transplant marrow,SNOMED,Maps to,4125660,Disease relapse in transplant marrow,234522008,Disorder,SNOMED
+4125660,234522008,Disease relapse in transplant marrow,SNOMED,Mapped from,4125660,Disease relapse in transplant marrow,234522008,Disorder,SNOMED
+4161782,431862001,Acute rejection of bone marrow transplant,SNOMED,Subsumes,4197185,Hyperacute rejection of bone marrow transplant,432782005,Disorder,SNOMED
+4161782,431862001,Acute rejection of bone marrow transplant,SNOMED,Mapped from,4161782,Acute rejection of bone marrow transplant,431862001,Disorder,SNOMED
+4161782,431862001,Acute rejection of bone marrow transplant,SNOMED,Maps to,4161782,Acute rejection of bone marrow transplant,431862001,Disorder,SNOMED
+4197185,432782005,Hyperacute rejection of bone marrow transplant,SNOMED,Mapped from,4197185,Hyperacute rejection of bone marrow transplant,432782005,Disorder,SNOMED
+4197185,432782005,Hyperacute rejection of bone marrow transplant,SNOMED,Maps to,4197185,Hyperacute rejection of bone marrow transplant,432782005,Disorder,SNOMED
+4328283,431456004,Accelerated rejection of bone marrow transplant,SNOMED,Mapped from,4328283,Accelerated rejection of bone marrow transplant,431456004,Disorder,SNOMED
+4328283,431456004,Accelerated rejection of bone marrow transplant,SNOMED,Maps to,4328283,Accelerated rejection of bone marrow transplant,431456004,Disorder,SNOMED
+4332092,431953002,Chronic rejection of bone marrow transplant,SNOMED,Mapped from,4332092,Chronic rejection of bone marrow transplant,431953002,Disorder,SNOMED
+4332092,431953002,Chronic rejection of bone marrow transplant,SNOMED,Maps to,4332092,Chronic rejection of bone marrow transplant,431953002,Disorder,SNOMED
+42537745,737300001,Bone marrow transplant present,SNOMED,Mapped from,42537745,Bone marrow transplant present,737300001,Clinical Finding,SNOMED
+42537745,737300001,Bone marrow transplant present,SNOMED,Maps to,42537745,Bone marrow transplant present,737300001,Clinical Finding,SNOMED
+42537745,737300001,Bone marrow transplant present,SNOMED,Mapped from,44820426,Bone marrow replaced by transplant,V42.81,5-dig billing V code,ICD9CM
+42537745,737300001,Bone marrow transplant present,SNOMED,Subsumes,437169,Disorder of transplanted bone marrow,428103008,Disorder,SNOMED
