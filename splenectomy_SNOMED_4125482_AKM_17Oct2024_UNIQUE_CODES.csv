@@ -1,0 +1,75 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+2002389,Excision of lesion or tissue of spleen,4-dig billing code,ICD9Proc
+4302605,Splenic structure,Body Structure,SNOMED
+4044525,Excision - action,Qualifier Value,SNOMED
+4018300,Total splenectomy,Procedure,SNOMED
+4125482,Splenectomy,Procedure,SNOMED
+2108425,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),CPT4,CPT4
+2108427,Laparoscopy, surgical, splenectomy,CPT4,CPT4
+4195648,Laparoscopic total splenectomy,Procedure,SNOMED
+2109402,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,CPT4
+4247169,Distal subtotal pancreatectomy with splenectomy,Procedure,SNOMED
+4222733,Distal subtotal pancreatectomy,Procedure,SNOMED
+2109403,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,CPT4
+4238930,Distal subtotal pancreatectomy with pancreaticojejunostomy,Procedure,SNOMED
+4143166,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,Procedure,SNOMED
+4307652,Incision of duodenum,Procedure,SNOMED
+4046731,Dissection procedure,Procedure,SNOMED
+4174368,Allogeneic transplantation,Procedure,SNOMED
+2109423,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4
+4042479,Procedure on pancreas,Procedure,SNOMED
+4266668,Transplantation of pancreas,Procedure,SNOMED
+4001894,Excision of accessory spleen,Procedure,SNOMED
+40313620,Excision of accessory spleen,Procedure,SNOMED
+2002405,Excision of accessory spleen,4-dig billing code,ICD9Proc
+2108423,Splenectomy; total (separate procedure),CPT4,CPT4
+4019136,Total excision of spleen NOS,Procedure,SNOMED
+4108408,Entire spleen,Body Structure,SNOMED
+4018302,Other specified total excision of spleen,Procedure,SNOMED
+40257450,Total splenectomy,Procedure,SNOMED
+3532700,Total excision of spleen NOS,Procedure,SNOMED
+40313618,Total splenectomy,Procedure,SNOMED
+2002391,Total splenectomy,3-dig billing code,ICD9Proc
+4018301,Total splenectomy and reimplantation of fragments,Procedure,SNOMED
+40624273,Splenectomy,Procedure,SNOMED
+3532699,Other specified total excision of spleen,Procedure,SNOMED
+37312438,Surgical reimplantation - action,Qualifier Value,SNOMED
+4044879,Splenorrhaphy with partial splenectomy,Procedure,SNOMED
+4117981,Repair - action,Qualifier Value,SNOMED
+4025121,Spleen part,Body Structure,SNOMED
+4017737,Splenectomy NEC,Procedure,SNOMED
+4281839,Partial splenectomy,Procedure,SNOMED
+37110396,Asplenia following surgical procedure,Disorder,SNOMED
+4019806,Other excision of spleen NOS,Procedure,SNOMED
+4058851,H/O splenectomy,Context-dependent,SNOMED
+4123079,Post-splenectomy thrombocytosis,Disorder,SNOMED
+2108424,Splenectomy; partial (separate procedure),CPT4,CPT4
+4019805,Other specified other excision of spleen,Procedure,SNOMED
+4120626,Post-splenectomy disorder,Disorder,SNOMED
+4283229,Excision of lesion of spleen,Procedure,SNOMED
+3532702,Other specified other excision of spleen,Procedure,SNOMED
+40302643,H/O splenectomy,Context-dependent,SNOMED
+37165101,Robot assisted excision of spleen,Procedure,SNOMED
+4018303,Other excision of spleen,Procedure,SNOMED
+4205807,Spleen resection specimen,Specimen,SNOMED
+4125657,Post-splenectomy leukocytosis,Disorder,SNOMED
+4049768,Pancreatic structure,Body Structure,SNOMED
+4117491,Anastomosis - action,Qualifier Value,SNOMED
+4001209,Pancreas part,Body Structure,SNOMED
+4065077,Jejunal structure,Body Structure,SNOMED
+37303867,Abdomen,Body Structure,SNOMED
+4313302,Laparoscope,Physical Object,SNOMED
+40257454,Laparoscopic total splenectomy,Procedure,SNOMED
+4244412,Anterior abdominal wall structure,Body Structure,SNOMED
+4043866,Inspection - action,Qualifier Value,SNOMED
+4044182,Incision - action,Qualifier Value,SNOMED
+4279699,Cyst,Morph Abnormality,SNOMED
+4218096,Excision of cyst of spleen,Procedure,SNOMED
+40313617,Partial splenectomy,Procedure,SNOMED
+40487820,Laparoscopic partial splenectomy,Procedure,SNOMED
+40425967,Subtotal splenectomy,Procedure,SNOMED
+2002390,Partial splenectomy,4-dig billing code,ICD9Proc
+40599742,Lesion,Morph Abnormality,SNOMED
+40313616,Excision of lesion of spleen,Procedure,SNOMED
+4290594,Endoscope,Physical Object,SNOMED
+4307520,Robot,Physical Object,SNOMED

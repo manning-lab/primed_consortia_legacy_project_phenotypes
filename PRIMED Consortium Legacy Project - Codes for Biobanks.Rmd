@@ -11,7 +11,7 @@ output:
 
 Release notes:
 
--   22 October 2024: Uploaded codes for Blood Cancers, HIV, and End Stage Kidney Disease
+-   22 October 2024: Uploaded codes for Blood Cancers, HIV, End Stage Kidney Disease, spleen disorders
 -   21 October2024: Uploaded Codes for Blood Disorders
 -   17 October2024: Fixed the codes to use for Trait queries. Started on Conditions
 -   15October2024: Added the codes to use for Trait queries

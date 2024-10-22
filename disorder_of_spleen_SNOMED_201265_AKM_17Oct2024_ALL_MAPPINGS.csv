@@ -1,0 +1,1025 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45586833,Felty's syndrome, unspecified site,M05.00,5-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45548251,Felty's syndrome, right knee,M05.061,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569969,Felty's syndrome, elbow,M05.02,5-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569970,Felty's syndrome, wrist,M05.03,5-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45577091,Felty's syndrome, unspecified knee,M05.069,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,44821123,Felty's syndrome,714.1,4-dig billing code,ICD9CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45548250,Felty's syndrome, left hand,M05.042,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45577092,Felty's syndrome, multiple sites,M05.09,5-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45533690,Felty's syndrome, right ankle and foot,M05.071,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45567403,Felty's syndrome, unspecified shoulder,M05.019,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45572326,Felty's syndrome, left knee,M05.062,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Has interprets,4298431,White blood cell count,767002,Procedure,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569972,Felty's syndrome, hip,M05.05,5-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569974,Felty's syndrome, ankle and foot,M05.07,5-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45557752,Felty's syndrome, right elbow,M05.021,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45533689,Felty's syndrome, left shoulder,M05.012,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45606039,Felty's syndrome, right shoulder,M05.011,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45548248,Felty's syndrome, unspecified elbow,M05.029,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569973,Felty's syndrome, knee,M05.06,5-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Subsumes,37160421,Felty syndrome with seronegative rheumatoid arthritis,1162364006,Disorder,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,81097,Felty's syndrome,57160007,Disorder,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45567405,Felty's syndrome, unspecified hand,M05.049,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,40320314,Felty's syndrome,156482001,Disorder,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45582002,Felty's syndrome, right wrist,M05.031,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Maps to,81097,Felty's syndrome,57160007,Disorder,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Concept same_as from,40320314,Felty's syndrome,156482001,Disorder,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Concept replaces,40320314,Felty's syndrome,156482001,Disorder,SNOMED
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45567404,Felty's syndrome, left wrist,M05.032,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45562581,Felty's syndrome, left elbow,M05.022,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45591685,Felty's syndrome, right hip,M05.051,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45548252,Felty's syndrome, left ankle and foot,M05.072,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569971,Felty's syndrome, hand,M05.04,5-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45543428,Felty's syndrome, unspecified hip,M05.059,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45577090,Felty's syndrome, left hip,M05.052,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45548249,Felty's syndrome, right hand,M05.041,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45538622,Felty's syndrome, unspecified wrist,M05.039,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,45553036,Felty's syndrome, unspecified ankle and foot,M05.079,6-char billing code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569967,Felty's syndrome,M05.0,4-char nonbill code,ICD10CM
+81097,57160007,Felty's syndrome,SNOMED,Mapped from,1569968,Felty's syndrome, shoulder,M05.01,5-char nonbill code,ICD10CM
+192298,58381000,Hypersplenism,SNOMED,Concept poss_eq from,40321730,Diseases of spleen (& [hypersplenism] or [infarct]),154839008,Disorder,SNOMED
+192298,58381000,Hypersplenism,SNOMED,Mapped from,35206780,Hypersplenism,D73.1,4-char billing code,ICD10CM
+192298,58381000,Hypersplenism,SNOMED,Mapped from,192298,Hypersplenism,58381000,Disorder,SNOMED
+192298,58381000,Hypersplenism,SNOMED,Subsumes,4227200,Hypersplenism associated with AIDS,420749009,Disorder,SNOMED
+192298,58381000,Hypersplenism,SNOMED,Maps to,192298,Hypersplenism,58381000,Disorder,SNOMED
+192298,58381000,Hypersplenism,SNOMED,Due to of,4272928,Thrombocytopenia due to hypersplenism,63444004,Disorder,SNOMED
+192298,58381000,Hypersplenism,SNOMED,Mapped from,44821808,Hypersplenism,289.4,4-dig billing code,ICD9CM
+192298,58381000,Hypersplenism,SNOMED,Concept poss_eq from,40351358,Diseases of spleen (& [hypersplenism] or [infarct]),267570002,Disorder,SNOMED
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Maps to,193157,Hodgkin's disease, nodular sclerosis of spleen,93518009,Disorder,SNOMED
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Mapped from,45600536,Nodular sclerosis Hodgkin lymphoma, spleen,C81.17,5-char billing code,ICD10CM
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Mapped from,44829835,Hodgkin's disease, nodular sclerosis, spleen,201.57,5-dig billing code,ICD9CM
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Concept replaces,40386196,Hodgkin's disease, nodular sclerosis of spleen,188571008,Disorder,SNOMED
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Concept same_as from,40386196,Hodgkin's disease, nodular sclerosis of spleen,188571008,Disorder,SNOMED
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Mapped from,40386196,Hodgkin's disease, nodular sclerosis of spleen,188571008,Disorder,SNOMED
+193157,93518009,Hodgkin's disease, nodular sclerosis of spleen,SNOMED,Mapped from,193157,Hodgkin's disease, nodular sclerosis of spleen,93518009,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,4004780,Anomalies of spleen NOS,205738007,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Concept was_a from,3536773,Other specified anomalies of spleen,625391000000102,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,37397117,Biliary atresia with splenic malformation syndrome,717156002,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,3536773,Other specified anomalies of spleen,625391000000102,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4247481,Congenital malposition of spleen,93351001,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,4007569,Other specified anomalies of spleen,205737002,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,44821214,Anomalies of spleen,759.0,4-dig billing code,ICD9CM
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4245346,Congenital cyst of spleen,93049005,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4245228,Congenital abnormal shape of spleen,92946005,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,45765640,Aplasia of spleen,702624008,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4005277,Mis-shapen spleen,205736006,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4304186,Accessory spleen,10362008,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4244020,Congenital absence of spleen,93030006,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4121269,Epidermoid cyst of spleen,234501002,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4275731,Ectopic spleen,65146007,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Concept was_a from,4007569,Other specified anomalies of spleen,205737002,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Maps to,193308,Congenital anomaly of spleen,57497006,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4265755,Splenogonadal fusion,62042001,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4273768,Congenital splenomegaly,36752001,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,45582685,Congenital malformations of spleen,Q89.09,5-char billing code,ICD10CM
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4246929,Congenital hypoplasia of spleen,93292008,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,193308,Congenital anomaly of spleen,57497006,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Subsumes,4176288,Congenital lobulation of spleen,42780004,Disorder,SNOMED
+193308,57497006,Congenital anomaly of spleen,SNOMED,Mapped from,1572174,Congenital absence and malformations of spleen,Q89.0,4-char nonbill code,ICD10CM
+193308,57497006,Congenital anomaly of spleen,SNOMED,Concept was_a from,4004780,Anomalies of spleen NOS,205738007,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Concept same_as from,40454456,Malignant tumor of spleen,254616004,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Maps to,193418,Primary malignant neoplasm of spleen,94071006,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Mapped from,193418,Primary malignant neoplasm of spleen,94071006,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Mapped from,44820603,Malignant neoplasm of spleen, not elsewhere classified,159.1,4-dig billing code,ICD9CM
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Subsumes,37166183,Primary fibrosarcoma of spleen,1259312003,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Subsumes,618683,Primary follicular dendritic cell sarcoma of spleen,84821000119100,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Subsumes,444440,Burkitt's tumor of spleen,92515003,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Mapped from,40454456,Malignant tumor of spleen,254616004,Disorder,SNOMED
+193418,94071006,Primary malignant neoplasm of spleen,SNOMED,Mapped from,35206167,Malignant neoplasm of spleen,C26.1,4-char billing code,ICD10CM
+193448,58639003,Doan-Wiseman syndrome,SNOMED,Mapped from,193448,Doan-Wiseman syndrome,58639003,Disorder,SNOMED
+193448,58639003,Doan-Wiseman syndrome,SNOMED,Maps to,193448,Doan-Wiseman syndrome,58639003,Disorder,SNOMED
+193448,58639003,Doan-Wiseman syndrome,SNOMED,Mapped from,45576415,Neutropenic splenomegaly,D73.81,5-char billing code,ICD10CM
+193448,58639003,Doan-Wiseman syndrome,SNOMED,Mapped from,44829913,Neutropenic splenomegaly,289.53,5-dig billing code,ICD9CM
+193721,93189002,Malignant histiocytosis of spleen,SNOMED,Mapped from,193721,Malignant histiocytosis of spleen,93189002,Disorder,SNOMED
+193721,93189002,Malignant histiocytosis of spleen,SNOMED,Mapped from,44820638,Malignant histiocytosis, spleen,202.37,5-dig billing code,ICD9CM
+193721,93189002,Malignant histiocytosis of spleen,SNOMED,Maps to,193721,Malignant histiocytosis of spleen,93189002,Disorder,SNOMED
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44833214,Tuberculosis of spleen, unspecified,017.70,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,45561689,Tuberculosis of spleen,A18.85,5-char billing code,ICD10CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44825129,Tuberculosis of spleen, tubercle bacilli found (in sputum) by microscopy,017.73,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44825130,Tuberculosis of spleen, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals],017.76,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44830908,Tuberculosis of spleen, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically,017.75,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44822805,Tuberculosis of spleen, bacteriological or histological examination not done,017.71,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44826314,Tuberculosis of spleen,017.7,4-dig nonbill code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44828658,Tuberculosis of spleen, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture,017.74,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,44825128,Tuberculosis of spleen, bacteriological or histological examination unknown (at present),017.72,5-dig billing code,ICD9CM
+195176,28399005,Tuberculosis of spleen,SNOMED,Mapped from,195176,Tuberculosis of spleen,28399005,Disorder,SNOMED
+195176,28399005,Tuberculosis of spleen,SNOMED,Has causative agent,4035081,Mycobacterium tuberculosis complex,113858008,Organism,SNOMED
+195176,28399005,Tuberculosis of spleen,SNOMED,Maps to,195176,Tuberculosis of spleen,28399005,Disorder,SNOMED
+195201,188506004,Lymphosarcoma of spleen,SNOMED,Mapped from,195201,Lymphosarcoma of spleen,188506004,Disorder,SNOMED
+195201,188506004,Lymphosarcoma of spleen,SNOMED,Maps to,195201,Lymphosarcoma of spleen,188506004,Disorder,SNOMED
+195201,188506004,Lymphosarcoma of spleen,SNOMED,Mapped from,44826417,Lymphosarcoma, spleen,200.17,5-dig billing code,ICD9CM
+195201,188506004,Lymphosarcoma of spleen,SNOMED,Mapped from,35206412,Lymphosarcoma, spleen,C85.07,5-char billing code,ICD10CM
+195760,95263006,Sézary's disease of spleen,SNOMED,Mapped from,195760,Sézary's disease of spleen,95263006,Disorder,SNOMED
+195760,95263006,Sézary's disease of spleen,SNOMED,Concept same_as from,40386642,Sézary's disease of spleen,188636003,Disorder,SNOMED
+195760,95263006,Sézary's disease of spleen,SNOMED,Maps to,195760,Sézary's disease of spleen,95263006,Disorder,SNOMED
+195760,95263006,Sézary's disease of spleen,SNOMED,Mapped from,44833327,Sezary's disease, spleen,202.27,5-dig billing code,ICD9CM
+195760,95263006,Sézary's disease of spleen,SNOMED,Concept replaces,40386642,Sézary's disease of spleen,188636003,Disorder,SNOMED
+195760,95263006,Sézary's disease of spleen,SNOMED,Mapped from,45605315,Sezary disease, spleen,C84.17,5-char billing code,ICD10CM
+195760,95263006,Sézary's disease of spleen,SNOMED,Mapped from,40386642,Sézary's disease of spleen,188636003,Disorder,SNOMED
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Maps to,195961,Injury of spleen without open wound into abdominal cavity,20213006,Disorder,SNOMED
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Subsumes,442585,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,61014001,Disorder,SNOMED
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Mapped from,44827075,Other injury into spleen without mention of open wound into cavity,865.09,5-dig billing code,ICD9CM
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Subsumes,444274,Massive parenchymal disruption of spleen without open wound into abdominal cavity,86006001,Disorder,SNOMED
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Mapped from,44827074,Injury to spleen without mention of open wound into cavity, unspecified injury,865.00,5-dig billing code,ICD9CM
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Subsumes,193625,Capsular tear without major disruption of parenchyma of spleen AND without open wound into abdominal cavity,12227007,Disorder,SNOMED
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Mapped from,44824729,Injury to spleen without mention of open wound into cavity,865.0,4-dig nonbill code,ICD9CM
+195961,20213006,Injury of spleen without open wound into abdominal cavity,SNOMED,Mapped from,195961,Injury of spleen without open wound into abdominal cavity,20213006,Disorder,SNOMED
+196355,93536009,Hodgkin's granuloma of spleen,SNOMED,Mapped from,40386161,Hodgkin's granuloma of spleen,188540004,Disorder,SNOMED
+196355,93536009,Hodgkin's granuloma of spleen,SNOMED,Mapped from,196355,Hodgkin's granuloma of spleen,93536009,Disorder,SNOMED
+196355,93536009,Hodgkin's granuloma of spleen,SNOMED,Maps to,196355,Hodgkin's granuloma of spleen,93536009,Disorder,SNOMED
+196355,93536009,Hodgkin's granuloma of spleen,SNOMED,Mapped from,44833319,Hodgkin's granuloma, spleen,201.17,5-dig billing code,ICD9CM
+196355,93536009,Hodgkin's granuloma of spleen,SNOMED,Concept replaces,40386161,Hodgkin's granuloma of spleen,188540004,Disorder,SNOMED
+196355,93536009,Hodgkin's granuloma of spleen,SNOMED,Concept same_as from,40386161,Hodgkin's granuloma of spleen,188540004,Disorder,SNOMED
+196943,95846001,Red blood cell sequestration in spleen,SNOMED,Mapped from,196943,Red blood cell sequestration in spleen,95846001,Disorder,SNOMED
+196943,95846001,Red blood cell sequestration in spleen,SNOMED,Subsumes,40485018,Acute sickle cell splenic sequestration crisis,444108000,Disorder,SNOMED
+196943,95846001,Red blood cell sequestration in spleen,SNOMED,Mapped from,44836952,Splenic sequestration,289.52,5-dig billing code,ICD9CM
+196943,95846001,Red blood cell sequestration in spleen,SNOMED,Maps to,196943,Red blood cell sequestration in spleen,95846001,Disorder,SNOMED
+196951,191382009,Chronic congestive splenomegaly,SNOMED,Mapped from,196951,Chronic congestive splenomegaly,191382009,Disorder,SNOMED
+196951,191382009,Chronic congestive splenomegaly,SNOMED,Mapped from,44836951,Chronic congestive splenomegaly,289.51,5-dig billing code,ICD9CM
+196951,191382009,Chronic congestive splenomegaly,SNOMED,Mapped from,35206781,Chronic congestive splenomegaly,D73.2,4-char billing code,ICD10CM
+196951,191382009,Chronic congestive splenomegaly,SNOMED,Maps to,196951,Chronic congestive splenomegaly,191382009,Disorder,SNOMED
+197816,93140007,Letterer-Siwe disease of spleen,SNOMED,Maps to,197816,Letterer-Siwe disease of spleen,93140007,Disorder,SNOMED
+197816,93140007,Letterer-Siwe disease of spleen,SNOMED,Mapped from,44821754,Letterer-siwe disease, spleen,202.57,5-dig billing code,ICD9CM
+197816,93140007,Letterer-Siwe disease of spleen,SNOMED,Mapped from,197816,Letterer-Siwe disease of spleen,93140007,Disorder,SNOMED
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Concept same_as from,40386245,Nodular lymphoma of spleen,188615000,Disorder,SNOMED
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Concept replaces,40386245,Nodular lymphoma of spleen,188615000,Disorder,SNOMED
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,40386245,Nodular lymphoma of spleen,188615000,Disorder,SNOMED
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,35206342,Other types of follicular non-Hodgkin's lymphoma, spleen,C82.77,5-char billing code,ICD10CM
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,44828753,Nodular lymphoma, spleen,202.07,5-dig billing code,ICD9CM
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,45561848,Follicular lymphoma, unspecified, spleen,C82.97,5-char billing code,ICD10CM
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,45571553,Cutaneous follicle center lymphoma, spleen,C82.67,5-char billing code,ICD10CM
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,45561846,Other types of follicular lymphoma, spleen,C82.87,5-char billing code,ICD10CM
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Mapped from,198374,Nodular lymphoma of spleen,95193005,Disorder,SNOMED
+198374,95193005,Nodular lymphoma of spleen,SNOMED,Maps to,198374,Nodular lymphoma of spleen,95193005,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,45600535,Nodular lymphocyte predominant Hodgkin lymphoma, spleen,C81.07,5-char billing code,ICD10CM
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,45605297,Lymphocyte-rich Hodgkin lymphoma, spleen,C81.47,5-char billing code,ICD10CM
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Concept same_as from,439289,Hodgkin's, lymphocytic-histiocytic predominance of spleen,188561006,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,439289,Hodgkin's, lymphocytic-histiocytic predominance of spleen,188561006,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,44819450,Hodgkin's paragranuloma, spleen,201.07,5-dig billing code,ICD9CM
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,44836863,Hodgkin's disease, lymphocytic-histiocytic predominance, spleen,201.47,5-dig billing code,ICD9CM
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Concept same_as from,40385821,Hodgkin's paragranuloma of spleen,188530002,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,40385821,Hodgkin's paragranuloma of spleen,188530002,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Maps to,198381,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,93500006,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,198381,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,93500006,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Mapped from,193427,Hodgkin's paragranuloma of spleen,93545005,Disorder,SNOMED
+198381,93500006,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,SNOMED,Concept same_as from,193427,Hodgkin's paragranuloma of spleen,93545005,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Mapped from,45547533,Other Hodgkin lymphoma, spleen,C81.77,5-char billing code,ICD10CM
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Mapped from,44819458,Hodgkin's disease, unspecified type, spleen,201.97,5-dig billing code,ICD9CM
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,196355,Hodgkin's granuloma of spleen,93536009,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,193427,Hodgkin's paragranuloma of spleen,93545005,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Maps to,198704,Hodgkin's disease of spleen,93527005,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,439281,Hodgkin's disease, lymphocytic depletion of spleen,188592008,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,198381,Hodgkin's disease, lymphocytic-histiocytic predominance of spleen,93500006,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Mapped from,198704,Hodgkin's disease of spleen,93527005,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,193157,Hodgkin's disease, nodular sclerosis of spleen,93518009,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,442159,Hodgkin's disease, mixed cellularity of spleen,93509007,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Subsumes,198710,Hodgkin's sarcoma of spleen,93554008,Disorder,SNOMED
+198704,93527005,Hodgkin's disease of spleen,SNOMED,Mapped from,45571548,Hodgkin lymphoma, unspecified, spleen,C81.97,5-char billing code,ICD10CM
+198710,93554008,Hodgkin's sarcoma of spleen,SNOMED,Mapped from,40386172,Hodgkin's sarcoma of spleen,188550003,Disorder,SNOMED
+198710,93554008,Hodgkin's sarcoma of spleen,SNOMED,Mapped from,44829832,Hodgkin's sarcoma, spleen,201.27,5-dig billing code,ICD9CM
+198710,93554008,Hodgkin's sarcoma of spleen,SNOMED,Mapped from,198710,Hodgkin's sarcoma of spleen,93554008,Disorder,SNOMED
+198710,93554008,Hodgkin's sarcoma of spleen,SNOMED,Maps to,198710,Hodgkin's sarcoma of spleen,93554008,Disorder,SNOMED
+198710,93554008,Hodgkin's sarcoma of spleen,SNOMED,Concept same_as from,40386172,Hodgkin's sarcoma of spleen,188550003,Disorder,SNOMED
+198710,93554008,Hodgkin's sarcoma of spleen,SNOMED,Concept replaces,40386172,Hodgkin's sarcoma of spleen,188550003,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,444440,Burkitt's tumor of spleen,92515003,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,195760,Sézary's disease of spleen,95263006,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,44830995,Primary central nervous system lymphoma, spleen,200.57,5-dig billing code,ICD9CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,44833316,Large cell lymphoma, spleen,200.77,5-dig billing code,ICD9CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45581245,Mature T/NK-cell lymphomas, unspecified, spleen,C84.97,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45595699,Follicular lymphoma grade II, spleen,C82.17,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,44833332,Peripheral T cell lymphoma, spleen,202.77,5-dig billing code,ICD9CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45537869,Other specified types of non-Hodgkin lymphoma, spleen,C85.87,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,35206352,Mixed small and large cell (diffuse) non-Hodgkin's lymphoma, spleen,C83.27,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45590935,Follicular lymphoma grade III, unspecified, spleen,C82.27,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,198374,Nodular lymphoma of spleen,95193005,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,44827574,Other named variants of lymphosarcoma and reticulosarcoma, spleen,200.87,5-dig billing code,ICD9CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45586043,Diffuse large B-cell lymphoma, spleen,C83.37,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,200343,Malignant lymphoma of spleen,93198004,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45537854,Follicular lymphoma grade IIIb, spleen,C82.47,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,760728,Peripheral T-cell lymphoma of spleen,117061000119101,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,442168,Mycosis fungoides of spleen,94714002,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,35206362,Immunoblastic (diffuse) non-Hodgkin's lymphoma, spleen,C83.47,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45590937,Follicular lymphoma grade IIIa, spleen,C82.37,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45605321,Anaplastic large cell lymphoma, ALK-negative, spleen,C84.77,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,439293,Burkitt's lymphoma of spleen,188516007,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45605325,Other mature T/NK-cell lymphomas, spleen,C84.Z7,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,35206372,Undifferentiated (diffuse) non-Hodgkin's lymphoma, spleen,C83.67,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45595714,Mediastinal (thymic) large B-cell lymphoma, spleen,C85.27,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,40479608,Mantle cell lymphoma of spleen,441559006,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,44835710,Other malignant lymphomas, spleen,202.87,5-dig billing code,ICD9CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,198704,Hodgkin's disease of spleen,93527005,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45537870,Non-Hodgkin lymphoma, unspecified, spleen,C85.97,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Maps to,200343,Malignant lymphoma of spleen,93198004,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45557029,Lymphoblastic (diffuse) lymphoma, spleen,C83.57,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45566634,Small cell B-cell lymphoma, spleen,C83.07,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,36684461,Marginal zone lymphoma of spleen,116691000119101,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,44836860,Anaplastic large cell lymphoma, spleen,200.67,5-dig billing code,ICD9CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45605319,Anaplastic large cell lymphoma, ALK-positive, spleen,C84.67,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,195201,Lymphosarcoma of spleen,188506004,Disorder,SNOMED
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45537855,Diffuse follicle center lymphoma, spleen,C82.57,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45537862,Non-follicular (diffuse) lymphoma, unspecified, spleen,C83.97,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45586047,Other non-follicular lymphoma, spleen,C83.87,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45605324,Cutaneous T-cell lymphoma, unspecified, spleen,C84.A7,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45590934,Follicular lymphoma grade I, spleen,C82.07,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Mapped from,45605316,Peripheral T-cell lymphoma, not elsewhere classified, spleen,C84.47,5-char billing code,ICD10CM
+200343,93198004,Malignant lymphoma of spleen,SNOMED,Subsumes,442128,Reticulosarcoma of spleen,95231000,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,4008532,[D]Splenomegaly,207234009,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4078532,Congestive splenomegaly,19058002,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,44801856,[D]Splenomegaly,499311000000104,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,4010545,[D]Spleen enlargement,207235005,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept replaces,4010545,[D]Spleen enlargement,207235005,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,4010545,[D]Spleen enlargement,207235005,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept poss_eq from,40304572,O/E - splenomegaly,141359008,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,44801856,[D]Splenomegaly,499311000000104,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4279681,Hepatosplenomegaly,36760000,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept poss_eq from,40304576,O/E - moderate splenomegaly,141362006,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Asso finding of,40479206,History of splenomegaly,441494002,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,81097,Felty's syndrome,57160007,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept poss_eq from,3531419,O/E - splenomegaly NOS,540691000000108,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept replaces,4008532,[D]Splenomegaly,207234009,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4062937,O/E - gross splenomegaly,164166008,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,4008532,[D]Splenomegaly,207234009,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4063219,O/E - painful splenomegaly,164167004,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,36675143,Optic nerve edema, splenomegaly syndrome,771471002,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,35211296,Splenomegaly, not elsewhere classified,R16.1,4-char billing code,ICD10CM
+200527,16294009,Splenomegaly,SNOMED,Subsumes,193448,Doan-Wiseman syndrome,58639003,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4345478,Schistosomal splenomegaly,240793000,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,44830451,Splenomegaly,789.2,4-dig billing code,ICD9CM
+200527,16294009,Splenomegaly,SNOMED,Due to of,3654343,Pain due to enlargement of spleen,830137004,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept poss_eq from,40304579,O/E - splenomegaly NOS,141365008,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept poss_eq from,40304577,O/E - gross splenomegaly,141363001,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,40320405,[D]Splenomegaly,158516000,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,40320405,[D]Splenomegaly,158516000,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,40320407,[D]Splenomegaly,158518004,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,40320407,[D]Splenomegaly,158518004,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,44801911,[D]Spleen enlargement,499321000000105,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,44801911,[D]Spleen enlargement,499321000000105,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4228776,Splenomegaly associated with AIDS,422260007,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,40401567,[D]Splenomegaly NOS,207236006,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4273768,Congenital splenomegaly,36752001,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Value mapped from,40479206,History of splenomegaly,441494002,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,40401567,[D]Splenomegaly NOS,207236006,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,200527,Splenomegaly,16294009,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Maps to,200527,Splenomegaly,16294009,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,44794439,[D]Splenomegaly NOS,397891000000101,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4080433,Hyperreactive malarial splenomegaly syndrome,240630008,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept poss_eq from,4064315,O/E - splenomegaly NOS,164168009,Clinical Finding,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,37160553,Splenomegaly due to storage disease,1162654006,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,4062936,O/E - moderate splenomegaly,164165007,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,40320406,[D]Spleen enlargement,158517009,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Mapped from,40320406,[D]Spleen enlargement,158517009,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Concept same_as from,44794439,[D]Splenomegaly NOS,397891000000101,Context-dependent,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,37110395,Splenomegaly co-occurrent and due to storage disease,724638006,Disorder,SNOMED
+200527,16294009,Splenomegaly,SNOMED,Subsumes,37017082,Splenomegaly co-occurrent with human immunodeficiency virus infection,713275003,Disorder,SNOMED
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Subsumes,444233,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,111684008,Disorder,SNOMED
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Mapped from,44829392,Injury to spleen with open wound into cavity,865.1,4-dig nonbill code,ICD9CM
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Mapped from,44831698,Other injury to spleen with open wound into cavity,865.19,5-dig billing code,ICD9CM
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Mapped from,44825926,Injury to spleen with open wound into cavity, unspecified injury,865.10,5-dig billing code,ICD9CM
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Mapped from,200872,Injury of spleen with open wound into abdominal cavity,5256002,Disorder,SNOMED
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Subsumes,442138,Massive parenchymal disruption of spleen with open wound into abdominal cavity,80192004,Disorder,SNOMED
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Maps to,200872,Injury of spleen with open wound into abdominal cavity,5256002,Disorder,SNOMED
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Subsumes,201162,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,3542000,Disorder,SNOMED
+200872,5256002,Injury of spleen with open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+201162,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,SNOMED,Maps to,201162,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,3542000,Disorder,SNOMED
+201162,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,SNOMED,Concept same_as from,442535,Spleen laceration extending into parenchyma with open wound into cavity,210192009,Disorder,SNOMED
+201162,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,SNOMED,Mapped from,201162,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,3542000,Disorder,SNOMED
+201162,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+201162,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,SNOMED,Mapped from,442535,Spleen laceration extending into parenchyma with open wound into cavity,210192009,Disorder,SNOMED
+201162,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,SNOMED,Mapped from,44837539,Injury to spleen with open wound into cavity, laceration extending into parenchyma,865.13,5-dig billing code,ICD9CM
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,1567871,Other diseases of spleen,D73.8,4-char nonbill code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Concept poss_eq from,40351358,Diseases of spleen (& [hypersplenism] or [infarct]),267570002,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,40351358,Diseases of spleen (& [hypersplenism] or [infarct]),267570002,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4035172,Splenitis,1518005,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,1567870,Diseases of spleen,D73,3-char nonbill code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,603016,Lymphoid hyperplasia of spleen,1153359003,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,4098156,Disease of spleen NOS,191385006,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,4098156,Disease of spleen NOS,191385006,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,4098155,Disease of spleen unspecified,191381002,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,4098155,Disease of spleen unspecified,191381002,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4055697,Sago spleen,1671000,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4305588,Doan-Wright syndrome,38970002,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,193308,Congenital anomaly of spleen,57497006,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,1567876,Intraoperative and postprocedural complications of the spleen,D78,3-char nonbill code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,44827640,Disease of spleen, unspecified,289.50,5-dig billing code,ICD9CM
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4187914,Payr's syndrome,46288008,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4030065,Hyposplenism,23761004,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,45561934,Other postprocedural complications of the spleen,D78.89,5-char billing code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,35206785,Disease of spleen, unspecified,D73.9,4-char billing code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,196943,Red blood cell sequestration in spleen,95846001,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4121273,Amyloidosis of spleen,234510005,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4130174,Septic splenitis,236854007,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,37016189,Lesion of spleen,141701000119101,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,45768671,Asplenia,707147002,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Maps to,201265,Disorder of spleen,51244008,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,201265,Disorder of spleen,51244008,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,45586122,Other diseases of spleen,D73.89,5-char billing code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,44831075,Other diseases of spleen,289.5,4-dig nonbill code,ICD9CM
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,3538384,Other diseases of spleen,649101000000107,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,3538384,Other diseases of spleen,649101000000107,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,36717456,Infection of spleen,721239009,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4004779,Hypoplasia of spleen,205735005,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,45561933,Other intraoperative complications of the spleen,D78.81,5-char billing code,ICD10CM
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,44820706,Other diseases of spleen,289.59,5-dig billing code,ICD9CM
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4053272,Injury of spleen,23589004,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,192298,Hypersplenism,58381000,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4100245,Wandering spleen,191384005,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,3538289,Disease of spleen NOS,647631000000103,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,3538289,Disease of spleen NOS,647631000000103,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,200527,Splenomegaly,16294009,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,603021,Sclerosing angiomatoid nodular transformation of spleen,1153418005,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4221698,Splenic atrophy,82893001,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,44797143,[X]Other diseases of spleen,428361000000100,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,44797143,[X]Other diseases of spleen,428361000000100,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,44797143,[X]Other diseases of spleen,428361000000100,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,40391369,[X]Other diseases of spleen,191440009,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,40391369,[X]Other diseases of spleen,191440009,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept was_a from,4098154,Other diseases of spleen,191380001,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,4098154,Other diseases of spleen,191380001,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4209571,Splenic hemorrhage,56517003,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Mapped from,40321730,Diseases of spleen (& [hypersplenism] or [infarct]),154839008,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Concept poss_eq from,40321730,Diseases of spleen (& [hypersplenism] or [infarct]),154839008,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4120625,Torsion of spleen,234509000,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,44808984,Acquired absence of spleen,861371000000102,Disorder,SNOMED
+201265,51244008,Disorder of spleen,SNOMED,Subsumes,4099036,Extramedullary hematopoiesis of spleen,27254001,Disorder,SNOMED
+201435,210190001,Spleen injury with hematoma without rupture of capsule, with open wound into cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+201435,210190001,Spleen injury with hematoma without rupture of capsule, with open wound into cavity,SNOMED,Mapped from,201435,Spleen injury with hematoma without rupture of capsule, with open wound into cavity,210190001,Disorder,SNOMED
+201435,210190001,Spleen injury with hematoma without rupture of capsule, with open wound into cavity,SNOMED,Maps to,201435,Spleen injury with hematoma without rupture of capsule, with open wound into cavity,210190001,Disorder,SNOMED
+439281,188592008,Hodgkin's disease, lymphocytic depletion of spleen,SNOMED,Mapped from,44819457,Hodgkin's disease, lymphocytic depletion, spleen,201.77,5-dig billing code,ICD9CM
+439281,188592008,Hodgkin's disease, lymphocytic depletion of spleen,SNOMED,Mapped from,45605296,Lymphocyte depleted Hodgkin lymphoma, spleen,C81.37,5-char billing code,ICD10CM
+439281,188592008,Hodgkin's disease, lymphocytic depletion of spleen,SNOMED,Concept same_as from,40648860,Hodgkin's disease, lymphocytic depletion of spleen,93491004,Disorder,SNOMED
+439281,188592008,Hodgkin's disease, lymphocytic depletion of spleen,SNOMED,Mapped from,439281,Hodgkin's disease, lymphocytic depletion of spleen,188592008,Disorder,SNOMED
+439281,188592008,Hodgkin's disease, lymphocytic depletion of spleen,SNOMED,Mapped from,40648860,Hodgkin's disease, lymphocytic depletion of spleen,93491004,Disorder,SNOMED
+439281,188592008,Hodgkin's disease, lymphocytic depletion of spleen,SNOMED,Maps to,439281,Hodgkin's disease, lymphocytic depletion of spleen,188592008,Disorder,SNOMED
+439293,188516007,Burkitt's lymphoma of spleen,SNOMED,Mapped from,439293,Burkitt's lymphoma of spleen,188516007,Disorder,SNOMED
+439293,188516007,Burkitt's lymphoma of spleen,SNOMED,Mapped from,45537860,Burkitt lymphoma, spleen,C83.77,5-char billing code,ICD10CM
+439293,188516007,Burkitt's lymphoma of spleen,SNOMED,Mapped from,444440,Burkitt's tumor of spleen,92515003,Disorder,SNOMED
+439293,188516007,Burkitt's lymphoma of spleen,SNOMED,Concept same_as from,444440,Burkitt's tumor of spleen,92515003,Disorder,SNOMED
+439293,188516007,Burkitt's lymphoma of spleen,SNOMED,Mapped from,44825217,Burkitt's tumor or lymphoma, spleen,200.27,5-dig billing code,ICD9CM
+439293,188516007,Burkitt's lymphoma of spleen,SNOMED,Maps to,439293,Burkitt's lymphoma of spleen,188516007,Disorder,SNOMED
+442128,95231000,Reticulosarcoma of spleen,SNOMED,Maps to,442128,Reticulosarcoma of spleen,95231000,Disorder,SNOMED
+442128,95231000,Reticulosarcoma of spleen,SNOMED,Mapped from,44833312,Reticulosarcoma, spleen,200.07,5-dig billing code,ICD9CM
+442128,95231000,Reticulosarcoma of spleen,SNOMED,Mapped from,40385782,Reticulosarcoma of spleen,188495007,Disorder,SNOMED
+442128,95231000,Reticulosarcoma of spleen,SNOMED,Concept same_as from,40385782,Reticulosarcoma of spleen,188495007,Disorder,SNOMED
+442128,95231000,Reticulosarcoma of spleen,SNOMED,Concept replaces,40385782,Reticulosarcoma of spleen,188495007,Disorder,SNOMED
+442128,95231000,Reticulosarcoma of spleen,SNOMED,Mapped from,442128,Reticulosarcoma of spleen,95231000,Disorder,SNOMED
+442138,80192004,Massive parenchymal disruption of spleen with open wound into abdominal cavity,SNOMED,Mapped from,442138,Massive parenchymal disruption of spleen with open wound into abdominal cavity,80192004,Disorder,SNOMED
+442138,80192004,Massive parenchymal disruption of spleen with open wound into abdominal cavity,SNOMED,Maps to,442138,Massive parenchymal disruption of spleen with open wound into abdominal cavity,80192004,Disorder,SNOMED
+442138,80192004,Massive parenchymal disruption of spleen with open wound into abdominal cavity,SNOMED,Mapped from,192755,Spleen massive parenchymal disruption with open wound into cavity,210193004,Disorder,SNOMED
+442138,80192004,Massive parenchymal disruption of spleen with open wound into abdominal cavity,SNOMED,Concept same_as from,192755,Spleen massive parenchymal disruption with open wound into cavity,210193004,Disorder,SNOMED
+442138,80192004,Massive parenchymal disruption of spleen with open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+442138,80192004,Massive parenchymal disruption of spleen with open wound into abdominal cavity,SNOMED,Mapped from,44825927,Injury to spleen with open wound into cavity, massive parenchyma disruption,865.14,5-dig billing code,ICD9CM
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Concept same_as from,40386207,Hodgkin's disease, mixed cellularity of spleen,188581007,Disorder,SNOMED
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Mapped from,44832143,Hodgkin's disease, mixed cellularity, spleen,201.67,5-dig billing code,ICD9CM
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Concept replaces,40386207,Hodgkin's disease, mixed cellularity of spleen,188581007,Disorder,SNOMED
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Mapped from,40386207,Hodgkin's disease, mixed cellularity of spleen,188581007,Disorder,SNOMED
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Maps to,442159,Hodgkin's disease, mixed cellularity of spleen,93509007,Disorder,SNOMED
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Mapped from,45605294,Mixed cellularity Hodgkin lymphoma, spleen,C81.27,5-char billing code,ICD10CM
+442159,93509007,Hodgkin's disease, mixed cellularity of spleen,SNOMED,Mapped from,442159,Hodgkin's disease, mixed cellularity of spleen,93509007,Disorder,SNOMED
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Concept replaces,40386631,Mycosis fungoides of spleen,188626006,Disorder,SNOMED
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Maps to,442168,Mycosis fungoides of spleen,94714002,Disorder,SNOMED
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Mapped from,442168,Mycosis fungoides of spleen,94714002,Disorder,SNOMED
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Mapped from,40386631,Mycosis fungoides of spleen,188626006,Disorder,SNOMED
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Mapped from,45581242,Mycosis fungoides, spleen,C84.07,5-char billing code,ICD10CM
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Concept same_as from,40386631,Mycosis fungoides of spleen,188626006,Disorder,SNOMED
+442168,94714002,Mycosis fungoides of spleen,SNOMED,Mapped from,44822901,Mycosis fungoides, spleen,202.17,5-dig billing code,ICD9CM
+442585,61014001,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+442585,61014001,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,SNOMED,Mapped from,44830536,Injury to spleen without mention of open wound into cavity, laceration extending into parenchyma,865.03,5-dig billing code,ICD9CM
+442585,61014001,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,SNOMED,Maps to,442585,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,61014001,Disorder,SNOMED
+442585,61014001,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,SNOMED,Mapped from,442585,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,61014001,Disorder,SNOMED
+443925,50088001,Hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity,SNOMED,Mapped from,443925,Hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity,50088001,Disorder,SNOMED
+443925,50088001,Hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity,SNOMED,Mapped from,44822425,Injury to spleen without mention of open wound into cavity, hematoma without rupture of capsule,865.01,5-dig billing code,ICD9CM
+443925,50088001,Hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity,SNOMED,Maps to,443925,Hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity,50088001,Disorder,SNOMED
+444233,111684008,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+444233,111684008,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,SNOMED,Mapped from,444233,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,111684008,Disorder,SNOMED
+444233,111684008,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,SNOMED,Mapped from,44820172,Injury to spleen with open wound into cavity, capsular tears, without major disruption of parenchyma,865.12,5-dig billing code,ICD9CM
+444233,111684008,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,SNOMED,Concept same_as from,197415,Spleen capsular tear without major disruption of parenchyma, with open wound into cavity,210191002,Disorder,SNOMED
+444233,111684008,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,SNOMED,Mapped from,197415,Spleen capsular tear without major disruption of parenchyma, with open wound into cavity,210191002,Disorder,SNOMED
+444233,111684008,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,SNOMED,Maps to,444233,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,111684008,Disorder,SNOMED
+444274,86006001,Massive parenchymal disruption of spleen without open wound into abdominal cavity,SNOMED,Mapped from,444274,Massive parenchymal disruption of spleen without open wound into abdominal cavity,86006001,Disorder,SNOMED
+444274,86006001,Massive parenchymal disruption of spleen without open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+444274,86006001,Massive parenchymal disruption of spleen without open wound into abdominal cavity,SNOMED,Maps to,444274,Massive parenchymal disruption of spleen without open wound into abdominal cavity,86006001,Disorder,SNOMED
+444274,86006001,Massive parenchymal disruption of spleen without open wound into abdominal cavity,SNOMED,Mapped from,44825925,Injury to spleen without mention of open wound into cavity, massive parenchymal disruption,865.04,5-dig billing code,ICD9CM
+600548,1010208004,Hematoma of spleen with open wound into abdominal cavity,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+600548,1010208004,Hematoma of spleen with open wound into abdominal cavity,SNOMED,Concept poss_eq from,442547,Hematoma of spleen without rupture of capsule AND with open wound into abdominal cavity,77940004,Disorder,SNOMED
+600548,1010208004,Hematoma of spleen with open wound into abdominal cavity,SNOMED,Mapped from,44830537,Injury to spleen with open wound into cavity, hematoma without rupture of capsule,865.11,5-dig billing code,ICD9CM
+600548,1010208004,Hematoma of spleen with open wound into abdominal cavity,SNOMED,Subsumes,201435,Spleen injury with hematoma without rupture of capsule, with open wound into cavity,210190001,Disorder,SNOMED
+600548,1010208004,Hematoma of spleen with open wound into abdominal cavity,SNOMED,Maps to,600548,Hematoma of spleen with open wound into abdominal cavity,1010208004,Disorder,SNOMED
+600548,1010208004,Hematoma of spleen with open wound into abdominal cavity,SNOMED,Mapped from,600548,Hematoma of spleen with open wound into abdominal cavity,1010208004,Disorder,SNOMED
+603016,1153359003,Lymphoid hyperplasia of spleen,SNOMED,Maps to,603016,Lymphoid hyperplasia of spleen,1153359003,Disorder,SNOMED
+603016,1153359003,Lymphoid hyperplasia of spleen,SNOMED,Mapped from,603016,Lymphoid hyperplasia of spleen,1153359003,Disorder,SNOMED
+603018,1153415008,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,SNOMED,Has interprets,40480067,Measurement of total hemoglobin concentration,441689006,Procedure,SNOMED
+603018,1153415008,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,SNOMED,Mapped from,603018,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,1153415008,Disorder,SNOMED
+603018,1153415008,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,SNOMED,Has due to,443721,Sickle cell-hemoglobin C disease with crisis,417517009,Disorder,SNOMED
+603018,1153415008,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,SNOMED,Has causative agent,4178879,Hemoglobin S,50095005,Substance,SNOMED
+603018,1153415008,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,SNOMED,Maps to,603018,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,1153415008,Disorder,SNOMED
+603021,1153418005,Sclerosing angiomatoid nodular transformation of spleen,SNOMED,Mapped from,603021,Sclerosing angiomatoid nodular transformation of spleen,1153418005,Disorder,SNOMED
+603021,1153418005,Sclerosing angiomatoid nodular transformation of spleen,SNOMED,Maps to,603021,Sclerosing angiomatoid nodular transformation of spleen,1153418005,Disorder,SNOMED
+604712,1003551006,Agenesis of spleen,SNOMED,Maps to,604712,Agenesis of spleen,1003551006,Disorder,SNOMED
+604712,1003551006,Agenesis of spleen,SNOMED,Mapped from,604712,Agenesis of spleen,1003551006,Disorder,SNOMED
+605784,1137694009,Peliosis of spleen,SNOMED,Maps to,605784,Peliosis of spleen,1137694009,Disorder,SNOMED
+605784,1137694009,Peliosis of spleen,SNOMED,Mapped from,605784,Peliosis of spleen,1137694009,Disorder,SNOMED
+607395,1153366002,Inflammatory pseudoneoplasm of spleen,SNOMED,Mapped from,607395,Inflammatory pseudoneoplasm of spleen,1153366002,Disorder,SNOMED
+607395,1153366002,Inflammatory pseudoneoplasm of spleen,SNOMED,Maps to,607395,Inflammatory pseudoneoplasm of spleen,1153366002,Disorder,SNOMED
+607430,1153413001,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,SNOMED,Maps to,607430,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,1153413001,Disorder,SNOMED
+607430,1153413001,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,SNOMED,Mapped from,607430,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,1153413001,Disorder,SNOMED
+607430,1153413001,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,SNOMED,Has interprets,40480067,Measurement of total hemoglobin concentration,441689006,Procedure,SNOMED
+607430,1153413001,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,SNOMED,Has causative agent,4178879,Hemoglobin S,50095005,Substance,SNOMED
+607430,1153413001,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,SNOMED,Has due to,443738,Sickle cell-thalassemia disease with crisis,416826005,Disorder,SNOMED
+618683,84821000119100,Primary follicular dendritic cell sarcoma of spleen,SNOMED,Mapped from,618683,Primary follicular dendritic cell sarcoma of spleen,84821000119100,Disorder,SNOMED
+618683,84821000119100,Primary follicular dendritic cell sarcoma of spleen,SNOMED,Maps to,618683,Primary follicular dendritic cell sarcoma of spleen,84821000119100,Disorder,SNOMED
+760728,117061000119101,Peripheral T-cell lymphoma of spleen,SNOMED,Maps to,760728,Peripheral T-cell lymphoma of spleen,117061000119101,Disorder,SNOMED
+760728,117061000119101,Peripheral T-cell lymphoma of spleen,SNOMED,Mapped from,760728,Peripheral T-cell lymphoma of spleen,117061000119101,Disorder,SNOMED
+3655317,860856002,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,SNOMED,Mapped from,3655317,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,860856002,Disorder,SNOMED
+3655317,860856002,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,SNOMED,Has causative agent,4140213,Schistosoma haematobium,3294004,Organism,SNOMED
+3655317,860856002,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,SNOMED,Maps to,3655317,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,860856002,Disorder,SNOMED
+3655321,860861000,Infection of liver and spleen caused by Schistosoma mansoni,SNOMED,Maps to,3655321,Infection of liver and spleen caused by Schistosoma mansoni,860861000,Disorder,SNOMED
+3655321,860861000,Infection of liver and spleen caused by Schistosoma mansoni,SNOMED,Has causative agent,4006474,Schistosoma mansoni,11168007,Organism,SNOMED
+3655321,860861000,Infection of liver and spleen caused by Schistosoma mansoni,SNOMED,Mapped from,3655321,Infection of liver and spleen caused by Schistosoma mansoni,860861000,Disorder,SNOMED
+4004779,205735005,Hypoplasia of spleen,SNOMED,Mapped from,4004779,Hypoplasia of spleen,205735005,Disorder,SNOMED
+4004779,205735005,Hypoplasia of spleen,SNOMED,Maps to,4004779,Hypoplasia of spleen,205735005,Disorder,SNOMED
+4004779,205735005,Hypoplasia of spleen,SNOMED,Subsumes,4246929,Congenital hypoplasia of spleen,93292008,Disorder,SNOMED
+4005277,205736006,Mis-shapen spleen,SNOMED,Mapped from,4005277,Mis-shapen spleen,205736006,Disorder,SNOMED
+4005277,205736006,Mis-shapen spleen,SNOMED,Maps to,4005277,Mis-shapen spleen,205736006,Disorder,SNOMED
+4030065,23761004,Hyposplenism,SNOMED,Mapped from,4030065,Hyposplenism,23761004,Disorder,SNOMED
+4030065,23761004,Hyposplenism,SNOMED,Concept same_as from,3523396,Hyposplenism,165591000000101,Undefined,SNOMED
+4030065,23761004,Hyposplenism,SNOMED,Mapped from,3523396,Hyposplenism,165591000000101,Undefined,SNOMED
+4030065,23761004,Hyposplenism,SNOMED,Mapped from,35206779,Hyposplenism,D73.0,4-char billing code,ICD10CM
+4030065,23761004,Hyposplenism,SNOMED,Concept same_as from,3523377,Hyposplenism,164931000000108,Undefined,SNOMED
+4030065,23761004,Hyposplenism,SNOMED,Mapped from,3523377,Hyposplenism,164931000000108,Undefined,SNOMED
+4030065,23761004,Hyposplenism,SNOMED,Maps to,4030065,Hyposplenism,23761004,Disorder,SNOMED
+4033209,23914009,Ectopic splenic tissue,SNOMED,Mapped from,4033209,Ectopic splenic tissue,23914009,Disorder,SNOMED
+4033209,23914009,Ectopic splenic tissue,SNOMED,Maps to,4033209,Ectopic splenic tissue,23914009,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Subsumes,4066395,Splenic sarcoidosis,17363001,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Subsumes,607395,Inflammatory pseudoneoplasm of spleen,1153366002,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Maps to,4035172,Splenitis,1518005,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Subsumes,4345823,Hepatosplenic schistosomiasis,240789006,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Subsumes,4129526,Acute splenic tumor,237656000,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Subsumes,3655321,Infection of liver and spleen caused by Schistosoma mansoni,860861000,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Mapped from,4035172,Splenitis,1518005,Disorder,SNOMED
+4035172,1518005,Splenitis,SNOMED,Subsumes,3655317,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,860856002,Disorder,SNOMED
+4044745,22996003,Splenic infarction,SNOMED,Mapped from,35206784,Infarction of spleen,D73.5,4-char billing code,ICD10CM
+4044745,22996003,Splenic infarction,SNOMED,Mapped from,3523378,Infarction of spleen,164941000000104,Undefined,SNOMED
+4044745,22996003,Splenic infarction,SNOMED,Mapped from,4044745,Splenic infarction,22996003,Disorder,SNOMED
+4044745,22996003,Splenic infarction,SNOMED,Maps to,4044745,Splenic infarction,22996003,Disorder,SNOMED
+4044745,22996003,Splenic infarction,SNOMED,Concept poss_eq from,40321730,Diseases of spleen (& [hypersplenism] or [infarct]),154839008,Disorder,SNOMED
+4044745,22996003,Splenic infarction,SNOMED,Subsumes,4048527,Fleckmilz,123617004,Disorder,SNOMED
+4044745,22996003,Splenic infarction,SNOMED,Concept same_as from,3523378,Infarction of spleen,164941000000104,Undefined,SNOMED
+4048527,123617004,Fleckmilz,SNOMED,Maps to,4048527,Fleckmilz,123617004,Disorder,SNOMED
+4048527,123617004,Fleckmilz,SNOMED,Mapped from,4048527,Fleckmilz,123617004,Disorder,SNOMED
+4049809,210180009,Closed injury of spleen,SNOMED,Mapped from,4049809,Closed injury of spleen,210180009,Disorder,SNOMED
+4049809,210180009,Closed injury of spleen,SNOMED,Subsumes,4096766,Contusion of spleen,262820001,Disorder,SNOMED
+4049809,210180009,Closed injury of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4049809,210180009,Closed injury of spleen,SNOMED,Maps to,4049809,Closed injury of spleen,210180009,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,4052678,Open injury of spleen,210188002,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,4049926,Other spleen injury with open wound into cavity,210194005,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Concept was_a from,4049926,Other spleen injury with open wound into cavity,210194005,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Subsumes,4096769,Laceration of spleen,262822009,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Concept was_a from,4054907,Spleen injury with open wound into cavity, NOS,210195006,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,4054907,Spleen injury with open wound into cavity, NOS,210195006,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Concept was_a from,3540395,Spleen injury with open wound into cavity, unspecified,678651000000105,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,3540395,Spleen injury with open wound into cavity, unspecified,678651000000105,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Concept was_a from,4050984,Spleen injury with open wound into cavity, unspecified,210189005,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,4050984,Spleen injury with open wound into cavity, unspecified,210189005,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Concept was_a from,3540396,Other spleen injury with open wound into cavity,678661000000108,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,3540396,Other spleen injury with open wound into cavity,678661000000108,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Concept was_a from,3540397,Spleen injury with open wound into cavity, NOS,678671000000101,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Mapped from,3540397,Spleen injury with open wound into cavity, NOS,678671000000101,Disorder,SNOMED
+4052678,210188002,Open injury of spleen,SNOMED,Maps to,4052678,Open injury of spleen,210188002,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,1567878,Accidental puncture and laceration of the spleen during a procedure,D78.1,4-char nonbill code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Concept same_as from,40324067,Injury of spleen,157342001,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,40324067,Injury of spleen,157342001,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Concept was_a from,4153738,Injury to spleen NOS,269157005,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,200872,Injury of spleen with open wound into abdominal cavity,5256002,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4120624,Rupture of spleen,234506007,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,11919,Other injury of spleen,S36.09,5-char nonbill code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,600548,Hematoma of spleen with open wound into abdominal cavity,1010208004,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,195961,Injury of spleen without open wound into abdominal cavity,20213006,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,37200020,Postprocedural seroma of the spleen following other procedure,D78.34,5-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,45597619,Other injury of spleen, initial encounter,S36.09XA,7-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Concept was_a from,3540393,Other spleen injury without mention of open wound into cavity,678631000000103,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,45568572,Other injury of spleen, subsequent encounter,S36.09XD,7-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,37200016,Postprocedural hematoma and seroma of the spleen following a procedure,D78.3,4-char nonbill code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Maps to,4053272,Injury of spleen,23589004,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,45537937,Accidental puncture and laceration of the spleen during other procedure,D78.12,5-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,45554185,Unspecified injury of spleen, initial encounter,S36.00XA,7-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,46272915,Injury of spleen during surgery,711366008,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Concept was_a from,4054906,Other spleen injury without mention of open wound into cavity,210186003,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,3540393,Other spleen injury without mention of open wound into cavity,678631000000103,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,4054906,Other spleen injury without mention of open wound into cavity,210186003,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,44820171,Injury to spleen,865,3-dig nonbill code,ICD9CM
+4053272,23589004,Injury of spleen,SNOMED,Concept was_a from,4049811,Spleen injury without mention of open wound into cavity NOS,210187007,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,11911,Unspecified injury of spleen,S36.00,5-char nonbill code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,4049811,Spleen injury without mention of open wound into cavity NOS,210187007,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4154572,Crushing injury of spleen,283981003,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,1572823,Injury of spleen,S36.0,4-char nonbill code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,37200019,Postprocedural seroma of the spleen following a procedure on the spleen,D78.33,5-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,40409933,Spleen: [injury NOS] or [ruptured NOS],210196007,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,40486462,Traction injury of spleen,446121009,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,45597616,Unspecified injury of spleen, subsequent encounter,S36.00XD,7-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,4053272,Injury of spleen,23589004,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4095564,Transection of spleen,262824005,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Concept poss_eq from,40409933,Spleen: [injury NOS] or [ruptured NOS],210196007,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4044745,Splenic infarction,22996003,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4052678,Open injury of spleen,210188002,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4049809,Closed injury of spleen,210180009,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Concept was_a from,4052677,Spleen injury without mention of open wound into cavity, unspecified,210181008,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,4052677,Spleen injury without mention of open wound into cavity, unspecified,210181008,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,4153738,Injury to spleen NOS,269157005,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4169992,Spleen injury due to birth trauma,275364007,Disorder,SNOMED
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,1567880,Other intraoperative and postprocedural complications of the spleen,D78.8,4-char nonbill code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Mapped from,45533000,Accidental puncture and laceration of the spleen during a procedure on the spleen,D78.11,5-char billing code,ICD10CM
+4053272,23589004,Injury of spleen,SNOMED,Subsumes,4096768,Avulsion of spleen,262821002,Disorder,SNOMED
+4055697,1671000,Sago spleen,SNOMED,Mapped from,4055697,Sago spleen,1671000,Disorder,SNOMED
+4055697,1671000,Sago spleen,SNOMED,Maps to,4055697,Sago spleen,1671000,Disorder,SNOMED
+4066395,17363001,Splenic sarcoidosis,SNOMED,Mapped from,4066395,Splenic sarcoidosis,17363001,Disorder,SNOMED
+4066395,17363001,Splenic sarcoidosis,SNOMED,Maps to,4066395,Splenic sarcoidosis,17363001,Disorder,SNOMED
+4078532,19058002,Congestive splenomegaly,SNOMED,Maps to,4078532,Congestive splenomegaly,19058002,Disorder,SNOMED
+4078532,19058002,Congestive splenomegaly,SNOMED,Mapped from,4078532,Congestive splenomegaly,19058002,Disorder,SNOMED
+4078532,19058002,Congestive splenomegaly,SNOMED,Subsumes,196951,Chronic congestive splenomegaly,191382009,Disorder,SNOMED
+4080433,240630008,Hyperreactive malarial splenomegaly syndrome,SNOMED,Has due to,438067,Malaria,61462000,Disorder,SNOMED
+4080433,240630008,Hyperreactive malarial splenomegaly syndrome,SNOMED,Mapped from,4080433,Hyperreactive malarial splenomegaly syndrome,240630008,Disorder,SNOMED
+4080433,240630008,Hyperreactive malarial splenomegaly syndrome,SNOMED,Maps to,4080433,Hyperreactive malarial splenomegaly syndrome,240630008,Disorder,SNOMED
+4087616,186792002,Plasmodium vivax malaria with rupture of spleen,SNOMED,Mapped from,35205894,Plasmodium vivax malaria with rupture of spleen,B51.0,4-char billing code,ICD10CM
+4087616,186792002,Plasmodium vivax malaria with rupture of spleen,SNOMED,Mapped from,4087616,Plasmodium vivax malaria with rupture of spleen,186792002,Disorder,SNOMED
+4087616,186792002,Plasmodium vivax malaria with rupture of spleen,SNOMED,Maps to,4087616,Plasmodium vivax malaria with rupture of spleen,186792002,Disorder,SNOMED
+4087616,186792002,Plasmodium vivax malaria with rupture of spleen,SNOMED,Has causative agent,4254260,Plasmodium vivax,74746009,Organism,SNOMED
+4092083,187821001,Angiosarcoma of spleen,SNOMED,Mapped from,4092083,Angiosarcoma of spleen,187821001,Disorder,SNOMED
+4092083,187821001,Angiosarcoma of spleen,SNOMED,Maps to,4092083,Angiosarcoma of spleen,187821001,Disorder,SNOMED
+4094542,188668006,Malignant mast cell sarcoma of spleen,SNOMED,Maps to,4094542,Malignant mast cell sarcoma of spleen,188668006,Disorder,SNOMED
+4094542,188668006,Malignant mast cell sarcoma of spleen,SNOMED,Concept same_as from,197511,Malignant mast cell tumor of spleen,93207008,Disorder,SNOMED
+4094542,188668006,Malignant mast cell sarcoma of spleen,SNOMED,Mapped from,197511,Malignant mast cell tumor of spleen,93207008,Disorder,SNOMED
+4094542,188668006,Malignant mast cell sarcoma of spleen,SNOMED,Mapped from,44831009,Malignant mast cell tumors, spleen,202.67,5-dig billing code,ICD9CM
+4094542,188668006,Malignant mast cell sarcoma of spleen,SNOMED,Mapped from,4094542,Malignant mast cell sarcoma of spleen,188668006,Disorder,SNOMED
+4094542,188668006,Malignant mast cell sarcoma of spleen,SNOMED,Subsumes,197511,Malignant mast cell tumor of spleen,93207008,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Subsumes,4095563,Intraparenchymal hematoma of spleen,262819007,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Subsumes,4125656,Subcapsular hematoma of spleen,234507003,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Subsumes,442547,Hematoma of spleen without rupture of capsule AND with open wound into abdominal cavity,77940004,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Concept was_a from,3530649,Spleen haematoma without rupture of capsule, without mention of open wound into cavity,529481000000100,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Maps to,4094979,Splenic hematoma,262818004,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Mapped from,4094979,Splenic hematoma,262818004,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Concept was_a from,198591,Spleen hematoma without rupture of capsule, without mention of open wound into cavity,210182001,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Mapped from,198591,Spleen hematoma without rupture of capsule, without mention of open wound into cavity,210182001,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Subsumes,600548,Hematoma of spleen with open wound into abdominal cavity,1010208004,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Subsumes,443925,Hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity,50088001,Disorder,SNOMED
+4094979,262818004,Splenic hematoma,SNOMED,Mapped from,3530649,Spleen haematoma without rupture of capsule, without mention of open wound into cavity,529481000000100,Disorder,SNOMED
+4095441,187822008,Fibrosarcoma of spleen,SNOMED,Mapped from,4095441,Fibrosarcoma of spleen,187822008,Disorder,SNOMED
+4095441,187822008,Fibrosarcoma of spleen,SNOMED,Maps to,4095441,Fibrosarcoma of spleen,187822008,Disorder,SNOMED
+4095441,187822008,Fibrosarcoma of spleen,SNOMED,Subsumes,37166183,Primary fibrosarcoma of spleen,1259312003,Disorder,SNOMED
+4095563,262819007,Intraparenchymal hematoma of spleen,SNOMED,Mapped from,4095563,Intraparenchymal hematoma of spleen,262819007,Disorder,SNOMED
+4095563,262819007,Intraparenchymal hematoma of spleen,SNOMED,Maps to,4095563,Intraparenchymal hematoma of spleen,262819007,Disorder,SNOMED
+4095564,262824005,Transection of spleen,SNOMED,Mapped from,4095564,Transection of spleen,262824005,Disorder,SNOMED
+4095564,262824005,Transection of spleen,SNOMED,Maps to,4095564,Transection of spleen,262824005,Disorder,SNOMED
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45568569,Minor contusion of spleen, initial encounter,S36.020A,7-char billing code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45597617,Major contusion of spleen, subsequent encounter,S36.021D,7-char billing code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45558896,Unspecified contusion of spleen, initial encounter,S36.029A,7-char billing code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45592830,Contusion of spleen,S36.02,5-char nonbill code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45602435,Unspecified contusion of spleen, subsequent encounter,S36.029D,7-char billing code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,11912,Minor contusion of spleen,S36.020,6-char nonbill code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Maps to,4096766,Contusion of spleen,262820001,Disorder,SNOMED
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45578236,Minor contusion of spleen, subsequent encounter,S36.020D,7-char billing code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,11914,Unspecified contusion of spleen,S36.029,6-char nonbill code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,4096766,Contusion of spleen,262820001,Disorder,SNOMED
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,11913,Major contusion of spleen,S36.021,6-char nonbill code,ICD10CM
+4096766,262820001,Contusion of spleen,SNOMED,Mapped from,45554186,Major contusion of spleen, initial encounter,S36.021A,7-char billing code,ICD10CM
+4096768,262821002,Avulsion of spleen,SNOMED,Maps to,4096768,Avulsion of spleen,262821002,Disorder,SNOMED
+4096768,262821002,Avulsion of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4096768,262821002,Avulsion of spleen,SNOMED,Mapped from,4096768,Avulsion of spleen,262821002,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Concept was_a from,193900,Spleen laceration extending into parenchyma without mention of open wound into cavity,210184000,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Subsumes,36715582,Moderate laceration of spleen,721299006,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Mapped from,11918,Unspecified laceration of spleen,S36.039,6-char nonbill code,ICD10CM
+4096769,262822009,Laceration of spleen,SNOMED,Subsumes,4096770,Capsular tear of spleen,262823004,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Mapped from,45592831,Unspecified laceration of spleen, subsequent encounter,S36.039D,7-char billing code,ICD10CM
+4096769,262822009,Laceration of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Subsumes,40485974,Laceration of parenchyma of spleen,446019002,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Subsumes,442535,Spleen laceration extending into parenchyma with open wound into cavity,210192009,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Mapped from,193900,Spleen laceration extending into parenchyma without mention of open wound into cavity,210184000,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Subsumes,36715583,Major laceration of spleen,721300003,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Maps to,4096769,Laceration of spleen,262822009,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Mapped from,4096769,Laceration of spleen,262822009,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Subsumes,36717159,Minor laceration of spleen,721298003,Disorder,SNOMED
+4096769,262822009,Laceration of spleen,SNOMED,Mapped from,45534892,Laceration of spleen,S36.03,5-char nonbill code,ICD10CM
+4096769,262822009,Laceration of spleen,SNOMED,Mapped from,45602436,Unspecified laceration of spleen, initial encounter,S36.039A,7-char billing code,ICD10CM
+4096770,262823004,Capsular tear of spleen,SNOMED,Mapped from,45539762,Superficial (capsular) laceration of spleen, initial encounter,S36.030A,7-char billing code,ICD10CM
+4096770,262823004,Capsular tear of spleen,SNOMED,Subsumes,444233,Capsular tear without major disruption of parenchyma of spleen AND with open wound in abdominal cavity,111684008,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Subsumes,193625,Capsular tear without major disruption of parenchyma of spleen AND without open wound into abdominal cavity,12227007,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Concept poss_eq from,193625,Capsular tear without major disruption of parenchyma of spleen AND without open wound into abdominal cavity,12227007,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Mapped from,45554187,Superficial (capsular) laceration of spleen, subsequent encounter,S36.030D,7-char billing code,ICD10CM
+4096770,262823004,Capsular tear of spleen,SNOMED,Mapped from,44821330,Injury to spleen without mention of open wound into cavity, capsular tears, without major disruption of parenchyma,865.02,5-dig billing code,ICD9CM
+4096770,262823004,Capsular tear of spleen,SNOMED,Mapped from,4096770,Capsular tear of spleen,262823004,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Subsumes,197415,Spleen capsular tear without major disruption of parenchyma, with open wound into cavity,210191002,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Maps to,4096770,Capsular tear of spleen,262823004,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Mapped from,442534,Spleen capsular tear without major disruption of parenchyma, without mention of open wound into cavity,210183006,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Concept was_a from,442534,Spleen capsular tear without major disruption of parenchyma, without mention of open wound into cavity,210183006,Disorder,SNOMED
+4096770,262823004,Capsular tear of spleen,SNOMED,Mapped from,11915,Superficial (capsular) laceration of spleen,S36.030,6-char nonbill code,ICD10CM
+4096770,262823004,Capsular tear of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4099036,27254001,Extramedullary hematopoiesis of spleen,SNOMED,Has interprets,4212082,Blood cell production, function,416906007,Observable Entity,SNOMED
+4099036,27254001,Extramedullary hematopoiesis of spleen,SNOMED,Has interprets,4075008,Hematopoiesis,178224005,Observable Entity,SNOMED
+4099036,27254001,Extramedullary hematopoiesis of spleen,SNOMED,Mapped from,4099036,Extramedullary hematopoiesis of spleen,27254001,Disorder,SNOMED
+4099036,27254001,Extramedullary hematopoiesis of spleen,SNOMED,Maps to,4099036,Extramedullary hematopoiesis of spleen,27254001,Disorder,SNOMED
+4100245,191384005,Wandering spleen,SNOMED,Concept same_as from,40307606,Lien migrans,14794005,Disorder,SNOMED
+4100245,191384005,Wandering spleen,SNOMED,Mapped from,40307606,Lien migrans,14794005,Disorder,SNOMED
+4100245,191384005,Wandering spleen,SNOMED,Mapped from,4100245,Wandering spleen,191384005,Disorder,SNOMED
+4100245,191384005,Wandering spleen,SNOMED,Maps to,4100245,Wandering spleen,191384005,Disorder,SNOMED
+4120623,234503004,Hydatid cyst of spleen,SNOMED,Mapped from,4120623,Hydatid cyst of spleen,234503004,Disorder,SNOMED
+4120623,234503004,Hydatid cyst of spleen,SNOMED,Maps to,4120623,Hydatid cyst of spleen,234503004,Disorder,SNOMED
+4120623,234503004,Hydatid cyst of spleen,SNOMED,Has causative agent,4171046,Genus Echinococcus,47622006,Organism,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Concept poss_eq from,40409933,Spleen: [injury NOS] or [ruptured NOS],210196007,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Concept was_a from,3573512,Ruptured spleen NOS,668531000000107,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Subsumes,4182894,Nontraumatic splenic rupture,43325004,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Subsumes,4121272,Delayed rupture of spleen,234508008,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Mapped from,3530735,Spleen massive parenchymal disruption without mention of open wound into cavity,530641000000104,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Concept was_a from,195675,Spleen massive parenchymal disruption without mention of open wound into cavity,210185004,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Concept was_a from,4096765,Ruptured spleen NOS,262817009,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Mapped from,4120624,Rupture of spleen,234506007,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Concept was_a from,3530735,Spleen massive parenchymal disruption without mention of open wound into cavity,530641000000104,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Mapped from,195675,Spleen massive parenchymal disruption without mention of open wound into cavity,210185004,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Subsumes,192755,Spleen massive parenchymal disruption with open wound into cavity,210193004,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Maps to,4120624,Rupture of spleen,234506007,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Mapped from,4096765,Ruptured spleen NOS,262817009,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Subsumes,4087616,Plasmodium vivax malaria with rupture of spleen,186792002,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Subsumes,4185261,Traumatic rupture of spleen,43756009,Disorder,SNOMED
+4120624,234506007,Rupture of spleen,SNOMED,Mapped from,3573512,Ruptured spleen NOS,668531000000107,Disorder,SNOMED
+4120625,234509000,Torsion of spleen,SNOMED,Mapped from,4120625,Torsion of spleen,234509000,Disorder,SNOMED
+4120625,234509000,Torsion of spleen,SNOMED,Maps to,4120625,Torsion of spleen,234509000,Disorder,SNOMED
+4121269,234501002,Epidermoid cyst of spleen,SNOMED,Maps to,4121269,Epidermoid cyst of spleen,234501002,Disorder,SNOMED
+4121269,234501002,Epidermoid cyst of spleen,SNOMED,Mapped from,4123078,Cystic dermoid choristoma of spleen,234502009,Disorder,SNOMED
+4121269,234501002,Epidermoid cyst of spleen,SNOMED,Concept poss_eq from,4123078,Cystic dermoid choristoma of spleen,234502009,Disorder,SNOMED
+4121269,234501002,Epidermoid cyst of spleen,SNOMED,Mapped from,4121269,Epidermoid cyst of spleen,234501002,Disorder,SNOMED
+4121270,234504005,Polycystic spleen,SNOMED,Maps to,4121270,Polycystic spleen,234504005,Disorder,SNOMED
+4121270,234504005,Polycystic spleen,SNOMED,Mapped from,4121270,Polycystic spleen,234504005,Disorder,SNOMED
+4121271,234505006,Splenic pseudocyst,SNOMED,Maps to,4121271,Splenic pseudocyst,234505006,Disorder,SNOMED
+4121271,234505006,Splenic pseudocyst,SNOMED,Mapped from,4121271,Splenic pseudocyst,234505006,Disorder,SNOMED
+4121272,234508008,Delayed rupture of spleen,SNOMED,Mapped from,4121272,Delayed rupture of spleen,234508008,Disorder,SNOMED
+4121272,234508008,Delayed rupture of spleen,SNOMED,Maps to,4121272,Delayed rupture of spleen,234508008,Disorder,SNOMED
+4121273,234510005,Amyloidosis of spleen,SNOMED,Maps to,4121273,Amyloidosis of spleen,234510005,Disorder,SNOMED
+4121273,234510005,Amyloidosis of spleen,SNOMED,Mapped from,4121273,Amyloidosis of spleen,234510005,Disorder,SNOMED
+4125656,234507003,Subcapsular hematoma of spleen,SNOMED,Mapped from,4125656,Subcapsular hematoma of spleen,234507003,Disorder,SNOMED
+4125656,234507003,Subcapsular hematoma of spleen,SNOMED,Maps to,4125656,Subcapsular hematoma of spleen,234507003,Disorder,SNOMED
+4129526,237656000,Acute splenic tumor,SNOMED,Maps to,4129526,Acute splenic tumor,237656000,Disorder,SNOMED
+4129526,237656000,Acute splenic tumor,SNOMED,Concept replaces,40441419,Acute splenic tumor,238369009,Disorder,SNOMED
+4129526,237656000,Acute splenic tumor,SNOMED,Mapped from,4129526,Acute splenic tumor,237656000,Disorder,SNOMED
+4129526,237656000,Acute splenic tumor,SNOMED,Concept poss_eq from,40262172,Septic splenitis,17972003,Disorder,SNOMED
+4129526,237656000,Acute splenic tumor,SNOMED,Mapped from,40441419,Acute splenic tumor,238369009,Disorder,SNOMED
+4129526,237656000,Acute splenic tumor,SNOMED,Concept same_as from,40441419,Acute splenic tumor,238369009,Disorder,SNOMED
+4130174,236854007,Septic splenitis,SNOMED,Mapped from,4130174,Septic splenitis,236854007,Disorder,SNOMED
+4130174,236854007,Septic splenitis,SNOMED,Concept poss_eq from,40262172,Septic splenitis,17972003,Disorder,SNOMED
+4130174,236854007,Septic splenitis,SNOMED,Maps to,4130174,Septic splenitis,236854007,Disorder,SNOMED
+4130174,236854007,Septic splenitis,SNOMED,Mapped from,40262172,Septic splenitis,17972003,Disorder,SNOMED
+4130174,236854007,Septic splenitis,SNOMED,Concept replaces,40262172,Septic splenitis,17972003,Disorder,SNOMED
+4131332,264564001,Red pulp hamartoma,SNOMED,Mapped from,4131332,Red pulp hamartoma,264564001,Disorder,SNOMED
+4131332,264564001,Red pulp hamartoma,SNOMED,Maps to,4131332,Red pulp hamartoma,264564001,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Mapped from,44834516,Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, spleen,202.97,5-dig billing code,ICD9CM
+4133600,127230005,Neoplasm of spleen,SNOMED,Mapped from,4133600,Neoplasm of spleen,127230005,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Subsumes,4241911,Carcinoma in situ of spleen,92754004,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Subsumes,197509,Leukemic reticuloendotheliosis of spleen,188651007,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Maps to,4133600,Neoplasm of spleen,127230005,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Subsumes,4315946,Neoplasm of uncertain behavior of spleen,95111006,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Subsumes,4180913,Malignant tumor of spleen,363499005,Disorder,SNOMED
+4133600,127230005,Neoplasm of spleen,SNOMED,Subsumes,4242523,Benign neoplasm of spleen,92408009,Disorder,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,Concept poss_eq from,40404960,Spleen injury due to birth trauma (& [rupture]),206246000,Disorder,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,Mapped from,4150803,Spleen rupture due to birth trauma,268826001,Disorder,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,Maps to,4150803,Spleen rupture due to birth trauma,268826001,Disorder,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,Mapped from,40531935,Rupture of spleen as birth trauma,33537003,Disorder,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,Concept same_as from,40531935,Rupture of spleen as birth trauma,33537003,Disorder,SNOMED
+4150803,268826001,Spleen rupture due to birth trauma,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+4154572,283981003,Crushing injury of spleen,SNOMED,Maps to,4154572,Crushing injury of spleen,283981003,Disorder,SNOMED
+4154572,283981003,Crushing injury of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4154572,283981003,Crushing injury of spleen,SNOMED,Mapped from,4154572,Crushing injury of spleen,283981003,Disorder,SNOMED
+4167552,418040002,Littoral cell angioma,SNOMED,Maps to,4167552,Littoral cell angioma,418040002,Disorder,SNOMED
+4167552,418040002,Littoral cell angioma,SNOMED,Mapped from,4167552,Littoral cell angioma,418040002,Disorder,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Concept replaces,40404960,Spleen injury due to birth trauma (& [rupture]),206246000,Disorder,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Mapped from,35210476,Birth injury to spleen,P15.1,4-char billing code,ICD10CM
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Maps to,4169992,Spleen injury due to birth trauma,275364007,Disorder,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Subsumes,4150803,Spleen rupture due to birth trauma,268826001,Disorder,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Mapped from,40404960,Spleen injury due to birth trauma (& [rupture]),206246000,Disorder,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Mapped from,4169992,Spleen injury due to birth trauma,275364007,Disorder,SNOMED
+4169992,275364007,Spleen injury due to birth trauma,SNOMED,Concept poss_eq from,40404960,Spleen injury due to birth trauma (& [rupture]),206246000,Disorder,SNOMED
+4176288,42780004,Congenital lobulation of spleen,SNOMED,Mapped from,4176288,Congenital lobulation of spleen,42780004,Disorder,SNOMED
+4176288,42780004,Congenital lobulation of spleen,SNOMED,Maps to,4176288,Congenital lobulation of spleen,42780004,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Mapped from,4092082,Malignant neoplasm of spleen NEC,187820000,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,4095441,Fibrosarcoma of spleen,187822008,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Mapped from,3531386,Malignant neoplasm of spleen NEC,540251000000102,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Concept was_a from,3531386,Malignant neoplasm of spleen NEC,540251000000102,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Mapped from,4089669,Malignant neoplasm of spleen NOS,187823003,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Concept was_a from,4089669,Malignant neoplasm of spleen NOS,187823003,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Maps to,4180913,Malignant tumor of spleen,363499005,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,200343,Malignant lymphoma of spleen,93198004,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Mapped from,3539542,Malignant neoplasm of spleen NOS,666511000000100,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Concept was_a from,3539542,Malignant neoplasm of spleen NOS,666511000000100,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,4245460,Hairy cell leukemia of spleen,93151007,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,193721,Malignant histiocytosis of spleen,93189002,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,193418,Primary malignant neoplasm of spleen,94071006,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,4092083,Angiosarcoma of spleen,187821001,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,197816,Letterer-Siwe disease of spleen,93140007,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Concept was_a from,4092082,Malignant neoplasm of spleen NEC,187820000,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,442173,Metastatic malignant neoplasm to spleen,94603006,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Mapped from,4180913,Malignant tumor of spleen,363499005,Disorder,SNOMED
+4180913,363499005,Malignant tumor of spleen,SNOMED,Subsumes,4094542,Malignant mast cell sarcoma of spleen,188668006,Disorder,SNOMED
+4182894,43325004,Nontraumatic splenic rupture,SNOMED,Maps to,4182894,Nontraumatic splenic rupture,43325004,Disorder,SNOMED
+4182894,43325004,Nontraumatic splenic rupture,SNOMED,Mapped from,4182894,Nontraumatic splenic rupture,43325004,Disorder,SNOMED
+4185261,43756009,Traumatic rupture of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+4185261,43756009,Traumatic rupture of spleen,SNOMED,Subsumes,4150803,Spleen rupture due to birth trauma,268826001,Disorder,SNOMED
+4185261,43756009,Traumatic rupture of spleen,SNOMED,Mapped from,4185261,Traumatic rupture of spleen,43756009,Disorder,SNOMED
+4185261,43756009,Traumatic rupture of spleen,SNOMED,Maps to,4185261,Traumatic rupture of spleen,43756009,Disorder,SNOMED
+4187914,46288008,Payr's syndrome,SNOMED,Mapped from,4187914,Payr's syndrome,46288008,Disorder,SNOMED
+4187914,46288008,Payr's syndrome,SNOMED,Maps to,4187914,Payr's syndrome,46288008,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Subsumes,4121269,Epidermoid cyst of spleen,234501002,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Subsumes,4120623,Hydatid cyst of spleen,234503004,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Subsumes,605784,Peliosis of spleen,1137694009,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Mapped from,4193638,Splenic cyst,79040006,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Maps to,4193638,Splenic cyst,79040006,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Subsumes,4123078,Cystic dermoid choristoma of spleen,234502009,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Concept poss_eq from,4123078,Cystic dermoid choristoma of spleen,234502009,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Subsumes,4121270,Polycystic spleen,234504005,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Subsumes,4245346,Congenital cyst of spleen,93049005,Disorder,SNOMED
+4193638,79040006,Splenic cyst,SNOMED,Mapped from,35206783,Cyst of spleen,D73.4,4-char billing code,ICD10CM
+4209431,56338005,Splenic fibrosis,SNOMED,Mapped from,4209431,Splenic fibrosis,56338005,Disorder,SNOMED
+4209431,56338005,Splenic fibrosis,SNOMED,Maps to,4209431,Splenic fibrosis,56338005,Disorder,SNOMED
+4209431,56338005,Splenic fibrosis,SNOMED,Mapped from,40390928,Splenic fibrosis,191383004,Disorder,SNOMED
+4209431,56338005,Splenic fibrosis,SNOMED,Concept same_as from,40390928,Splenic fibrosis,191383004,Disorder,SNOMED
+4209431,56338005,Splenic fibrosis,SNOMED,Concept replaces,40390928,Splenic fibrosis,191383004,Disorder,SNOMED
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,45576419,Postprocedural hemorrhage of the spleen following other procedure,D78.22,5-char billing code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Subsumes,4094979,Splenic hematoma,262818004,Disorder,SNOMED
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,37200017,Postprocedural hematoma of the spleen following a procedure on the spleen,D78.31,5-char billing code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,1567879,Postprocedural hemorrhage of the spleen following a procedure,D78.2,4-char nonbill code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,45547614,Intraoperative hemorrhage and hematoma of the spleen complicating a procedure on the spleen,D78.01,5-char billing code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,45532999,Intraoperative hemorrhage and hematoma of the spleen complicating other procedure,D78.02,5-char billing code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,45542719,Postprocedural hemorrhage of the spleen following a procedure on the spleen,D78.21,5-char billing code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,1567877,Intraoperative hemorrhage and hematoma of the spleen complicating a procedure,D78.0,4-char nonbill code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Subsumes,36717593,Neonatal hemorrhage of spleen,722921008,Disorder,SNOMED
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,37200018,Postprocedural hematoma of the spleen following other procedure,D78.32,5-char billing code,ICD10CM
+4209571,56517003,Splenic hemorrhage,SNOMED,Maps to,4209571,Splenic hemorrhage,56517003,Disorder,SNOMED
+4209571,56517003,Splenic hemorrhage,SNOMED,Mapped from,4209571,Splenic hemorrhage,56517003,Disorder,SNOMED
+4210320,56118002,Congenital syphilitic splenomegaly,SNOMED,Mapped from,4210320,Congenital syphilitic splenomegaly,56118002,Disorder,SNOMED
+4210320,56118002,Congenital syphilitic splenomegaly,SNOMED,Maps to,4210320,Congenital syphilitic splenomegaly,56118002,Disorder,SNOMED
+4210320,56118002,Congenital syphilitic splenomegaly,SNOMED,Mapped from,40366890,Congenital syphilitic splenomegaly,275372009,Disorder,SNOMED
+4210320,56118002,Congenital syphilitic splenomegaly,SNOMED,Has due to,434279,Congenital syphilis,35742006,Disorder,SNOMED
+4210320,56118002,Congenital syphilitic splenomegaly,SNOMED,Concept replaces,40366890,Congenital syphilitic splenomegaly,275372009,Disorder,SNOMED
+4210320,56118002,Congenital syphilitic splenomegaly,SNOMED,Concept same_as from,40366890,Congenital syphilitic splenomegaly,275372009,Disorder,SNOMED
+4214373,80378000,Neonatal hepatosplenomegaly,SNOMED,Mapped from,4214373,Neonatal hepatosplenomegaly,80378000,Disorder,SNOMED
+4214373,80378000,Neonatal hepatosplenomegaly,SNOMED,Maps to,4214373,Neonatal hepatosplenomegaly,80378000,Disorder,SNOMED
+4220074,82053000,Splenic abscess,SNOMED,Mapped from,4220074,Splenic abscess,82053000,Disorder,SNOMED
+4220074,82053000,Splenic abscess,SNOMED,Mapped from,35206782,Abscess of spleen,D73.3,4-char billing code,ICD10CM
+4220074,82053000,Splenic abscess,SNOMED,Maps to,4220074,Splenic abscess,82053000,Disorder,SNOMED
+4221698,82893001,Splenic atrophy,SNOMED,Maps to,4221698,Splenic atrophy,82893001,Disorder,SNOMED
+4221698,82893001,Splenic atrophy,SNOMED,Mapped from,4221698,Splenic atrophy,82893001,Disorder,SNOMED
+4241911,92754004,Carcinoma in situ of spleen,SNOMED,Mapped from,4241911,Carcinoma in situ of spleen,92754004,Disorder,SNOMED
+4241911,92754004,Carcinoma in situ of spleen,SNOMED,Mapped from,40389061,Carcinoma in situ of spleen,189249007,Disorder,SNOMED
+4241911,92754004,Carcinoma in situ of spleen,SNOMED,Concept same_as from,40389061,Carcinoma in situ of spleen,189249007,Disorder,SNOMED
+4241911,92754004,Carcinoma in situ of spleen,SNOMED,Concept replaces,40389061,Carcinoma in situ of spleen,189249007,Disorder,SNOMED
+4241911,92754004,Carcinoma in situ of spleen,SNOMED,Maps to,4241911,Carcinoma in situ of spleen,92754004,Disorder,SNOMED
+4242523,92408009,Benign neoplasm of spleen,SNOMED,Mapped from,4242523,Benign neoplasm of spleen,92408009,Disorder,SNOMED
+4242523,92408009,Benign neoplasm of spleen,SNOMED,Maps to,4242523,Benign neoplasm of spleen,92408009,Disorder,SNOMED
+4242523,92408009,Benign neoplasm of spleen,SNOMED,Subsumes,4246666,Hemangioma of spleen,93472004,Disorder,SNOMED
+4242866,38096003,Functional asplenia,SNOMED,Mapped from,4242866,Functional asplenia,38096003,Disorder,SNOMED
+4242866,38096003,Functional asplenia,SNOMED,Maps to,4242866,Functional asplenia,38096003,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Subsumes,4069846,Bilateral right-sidedness sequence,17604001,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Mapped from,4244020,Congenital absence of spleen,93030006,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Maps to,4244020,Congenital absence of spleen,93030006,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Concept poss_eq from,40402383,(Absent spleen) or (asplenia),205732008,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Subsumes,604712,Agenesis of spleen,1003551006,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Asso finding of,762394,Family history of asplenia,3470001000004103,Context-dependent,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Subsumes,37111653,Familial isolated congenital asplenia,726708009,Disorder,SNOMED
+4244020,93030006,Congenital absence of spleen,SNOMED,Mapped from,45577768,Asplenia (congenital),Q89.01,5-char billing code,ICD10CM
+4244020,93030006,Congenital absence of spleen,SNOMED,Subsumes,37163587,Diaphragmatic hernia, short bowel, asplenia syndrome,1217373008,Disorder,SNOMED
+4245228,92946005,Congenital abnormal shape of spleen,SNOMED,Maps to,4245228,Congenital abnormal shape of spleen,92946005,Disorder,SNOMED
+4245228,92946005,Congenital abnormal shape of spleen,SNOMED,Mapped from,4245228,Congenital abnormal shape of spleen,92946005,Disorder,SNOMED
+4245346,93049005,Congenital cyst of spleen,SNOMED,Maps to,4245346,Congenital cyst of spleen,93049005,Disorder,SNOMED
+4245346,93049005,Congenital cyst of spleen,SNOMED,Mapped from,40297840,Congenital cyst of spleen,134366005,Disorder,SNOMED
+4245346,93049005,Congenital cyst of spleen,SNOMED,Concept same_as from,40297840,Congenital cyst of spleen,134366005,Disorder,SNOMED
+4245346,93049005,Congenital cyst of spleen,SNOMED,Mapped from,4245346,Congenital cyst of spleen,93049005,Disorder,SNOMED
+4245460,93151007,Hairy cell leukemia of spleen,SNOMED,Maps to,4245460,Hairy cell leukemia of spleen,93151007,Disorder,SNOMED
+4245460,93151007,Hairy cell leukemia of spleen,SNOMED,Mapped from,44828754,Leukemic reticuloendotheliosis, spleen,202.47,5-dig billing code,ICD9CM
+4245460,93151007,Hairy cell leukemia of spleen,SNOMED,Concept same_as from,197509,Leukemic reticuloendotheliosis of spleen,188651007,Disorder,SNOMED
+4245460,93151007,Hairy cell leukemia of spleen,SNOMED,Mapped from,4245460,Hairy cell leukemia of spleen,93151007,Disorder,SNOMED
+4245460,93151007,Hairy cell leukemia of spleen,SNOMED,Mapped from,197509,Leukemic reticuloendotheliosis of spleen,188651007,Disorder,SNOMED
+4246666,93472004,Hemangioma of spleen,SNOMED,Mapped from,4246666,Hemangioma of spleen,93472004,Disorder,SNOMED
+4246666,93472004,Hemangioma of spleen,SNOMED,Maps to,4246666,Hemangioma of spleen,93472004,Disorder,SNOMED
+4246929,93292008,Congenital hypoplasia of spleen,SNOMED,Mapped from,4246929,Congenital hypoplasia of spleen,93292008,Disorder,SNOMED
+4246929,93292008,Congenital hypoplasia of spleen,SNOMED,Maps to,4246929,Congenital hypoplasia of spleen,93292008,Disorder,SNOMED
+4247481,93351001,Congenital malposition of spleen,SNOMED,Mapped from,4247481,Congenital malposition of spleen,93351001,Disorder,SNOMED
+4247481,93351001,Congenital malposition of spleen,SNOMED,Subsumes,40490513,Spleen in right sided position,448602005,Disorder,SNOMED
+4247481,93351001,Congenital malposition of spleen,SNOMED,Maps to,4247481,Congenital malposition of spleen,93351001,Disorder,SNOMED
+4247909,72425000,Bilateral left-sidedness sequence,SNOMED,Asso with finding,45769886,Polysplenia heterotaxy syndrome,8641000119101,Disorder,SNOMED
+4247909,72425000,Bilateral left-sidedness sequence,SNOMED,Mapped from,4247909,Bilateral left-sidedness sequence,72425000,Disorder,SNOMED
+4247909,72425000,Bilateral left-sidedness sequence,SNOMED,Maps to,4247909,Bilateral left-sidedness sequence,72425000,Disorder,SNOMED
+4265755,62042001,Splenogonadal fusion,SNOMED,Mapped from,4265755,Splenogonadal fusion,62042001,Disorder,SNOMED
+4265755,62042001,Splenogonadal fusion,SNOMED,Subsumes,37111662,Splenogonadal fusion, limb defect, micrognathia syndrome,726724005,Disorder,SNOMED
+4265755,62042001,Splenogonadal fusion,SNOMED,Maps to,4265755,Splenogonadal fusion,62042001,Disorder,SNOMED
+4266332,400146000,Splenic hamartoma,SNOMED,Mapped from,4266332,Splenic hamartoma,400146000,Disorder,SNOMED
+4266332,400146000,Splenic hamartoma,SNOMED,Subsumes,4131332,Red pulp hamartoma,264564001,Disorder,SNOMED
+4266332,400146000,Splenic hamartoma,SNOMED,Maps to,4266332,Splenic hamartoma,400146000,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Subsumes,36675176,Thrombocythemia with distal limb defect,771511005,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Mapped from,40355255,Congenital splenomegaly,270522006,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Maps to,4273768,Congenital splenomegaly,36752001,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Mapped from,40402384,(Congenital) or (acquired) splenomegaly,205733003,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Subsumes,4210320,Congenital syphilitic splenomegaly,56118002,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Concept poss_eq from,40402384,(Congenital) or (acquired) splenomegaly,205733003,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Mapped from,4273768,Congenital splenomegaly,36752001,Disorder,SNOMED
+4273768,36752001,Congenital splenomegaly,SNOMED,Concept same_as from,40355255,Congenital splenomegaly,270522006,Disorder,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Concept same_as from,40402385,Ectopic spleen,205734009,Clinical Finding,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Mapped from,40402385,Ectopic spleen,205734009,Clinical Finding,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Mapped from,4275731,Ectopic spleen,65146007,Disorder,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Concept same_as from,4007568,Aberrant spleen,205731001,Disorder,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Mapped from,4007568,Aberrant spleen,205731001,Disorder,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Maps to,4275731,Ectopic spleen,65146007,Disorder,SNOMED
+4275731,65146007,Ectopic spleen,SNOMED,Subsumes,4033209,Ectopic splenic tissue,23914009,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Maps to,4279681,Hepatosplenomegaly,36760000,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Mapped from,44812739,[X] Hepatomegaly with splenomegaly, not elsewhere classified,399761000000107,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Subsumes,44812739,[X] Hepatomegaly with splenomegaly, not elsewhere classified,399761000000107,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Mapped from,35211297,Hepatomegaly with splenomegaly, not elsewhere classified,R16.2,4-char billing code,ICD10CM
+4279681,36760000,Hepatosplenomegaly,SNOMED,Mapped from,40353441,[X] Hepatomegaly with splenomegaly, not elsewhere classified,274551003,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Subsumes,4214373,Neonatal hepatosplenomegaly,80378000,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Concept same_as from,40353441,[X] Hepatomegaly with splenomegaly, not elsewhere classified,274551003,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Concept same_as from,44812739,[X] Hepatomegaly with splenomegaly, not elsewhere classified,399761000000107,Disorder,SNOMED
+4279681,36760000,Hepatosplenomegaly,SNOMED,Mapped from,4279681,Hepatosplenomegaly,36760000,Disorder,SNOMED
+4301968,38831007,Splenosis,SNOMED,Maps to,4301968,Splenosis,38831007,Disorder,SNOMED
+4301968,38831007,Splenosis,SNOMED,Subsumes,4033209,Ectopic splenic tissue,23914009,Disorder,SNOMED
+4301968,38831007,Splenosis,SNOMED,Mapped from,4301968,Splenosis,38831007,Disorder,SNOMED
+4304186,10362008,Accessory spleen,SNOMED,Subsumes,4247909,Bilateral left-sidedness sequence,72425000,Disorder,SNOMED
+4304186,10362008,Accessory spleen,SNOMED,Mapped from,4304186,Accessory spleen,10362008,Disorder,SNOMED
+4304186,10362008,Accessory spleen,SNOMED,Maps to,4304186,Accessory spleen,10362008,Disorder,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Has interprets,4030871,Red blood cell count,14089001,Procedure,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Maps to,4305588,Doan-Wright syndrome,38970002,Disorder,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Mapped from,4305588,Doan-Wright syndrome,38970002,Disorder,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Has interprets,4254680,Hemostatic function,74848003,Observable Entity,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Has interprets,4298431,White blood cell count,767002,Procedure,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Has interprets,4267147,Platelet count,61928009,Procedure,SNOMED
+4305588,38970002,Doan-Wright syndrome,SNOMED,Has interprets,40480067,Measurement of total hemoglobin concentration,441689006,Procedure,SNOMED
+4315946,95111006,Neoplasm of uncertain behavior of spleen,SNOMED,Subsumes,4167552,Littoral cell angioma,418040002,Disorder,SNOMED
+4315946,95111006,Neoplasm of uncertain behavior of spleen,SNOMED,Maps to,4315946,Neoplasm of uncertain behavior of spleen,95111006,Disorder,SNOMED
+4315946,95111006,Neoplasm of uncertain behavior of spleen,SNOMED,Mapped from,4315946,Neoplasm of uncertain behavior of spleen,95111006,Disorder,SNOMED
+4315946,95111006,Neoplasm of uncertain behavior of spleen,SNOMED,Mapped from,40389881,Neoplasm of uncertain behavior of spleen,189407004,Disorder,SNOMED
+4315946,95111006,Neoplasm of uncertain behavior of spleen,SNOMED,Concept same_as from,40389881,Neoplasm of uncertain behavior of spleen,189407004,Disorder,SNOMED
+4345478,240793000,Schistosomal splenomegaly,SNOMED,Has causative agent,4202359,Schistosoma,53583001,Organism,SNOMED
+4345478,240793000,Schistosomal splenomegaly,SNOMED,Maps to,4345478,Schistosomal splenomegaly,240793000,Disorder,SNOMED
+4345478,240793000,Schistosomal splenomegaly,SNOMED,Mapped from,4345478,Schistosomal splenomegaly,240793000,Disorder,SNOMED
+4345478,240793000,Schistosomal splenomegaly,SNOMED,Subsumes,4347562,Splenic schistosomal giant cell lymphoma,240794006,Disorder,SNOMED
+4345823,240789006,Hepatosplenic schistosomiasis,SNOMED,Maps to,4345823,Hepatosplenic schistosomiasis,240789006,Disorder,SNOMED
+4345823,240789006,Hepatosplenic schistosomiasis,SNOMED,Has causative agent,4202359,Schistosoma,53583001,Organism,SNOMED
+4345823,240789006,Hepatosplenic schistosomiasis,SNOMED,Mapped from,4345823,Hepatosplenic schistosomiasis,240789006,Disorder,SNOMED
+4347562,240794006,Splenic schistosomal giant cell lymphoma,SNOMED,Mapped from,4347562,Splenic schistosomal giant cell lymphoma,240794006,Disorder,SNOMED
+4347562,240794006,Splenic schistosomal giant cell lymphoma,SNOMED,Has causative agent,4202359,Schistosoma,53583001,Organism,SNOMED
+4347562,240794006,Splenic schistosomal giant cell lymphoma,SNOMED,Maps to,4347562,Splenic schistosomal giant cell lymphoma,240794006,Disorder,SNOMED
+36675143,771471002,Optic nerve edema, splenomegaly syndrome,SNOMED,Maps to,36675143,Optic nerve edema, splenomegaly syndrome,771471002,Disorder,SNOMED
+36675143,771471002,Optic nerve edema, splenomegaly syndrome,SNOMED,Mapped from,36675143,Optic nerve edema, splenomegaly syndrome,771471002,Disorder,SNOMED
+36675176,771511005,Thrombocythemia with distal limb defect,SNOMED,Has interprets,4254680,Hemostatic function,74848003,Observable Entity,SNOMED
+36675176,771511005,Thrombocythemia with distal limb defect,SNOMED,Maps to,36675176,Thrombocythemia with distal limb defect,771511005,Disorder,SNOMED
+36675176,771511005,Thrombocythemia with distal limb defect,SNOMED,Has interprets,4267147,Platelet count,61928009,Procedure,SNOMED
+36675176,771511005,Thrombocythemia with distal limb defect,SNOMED,Mapped from,36675176,Thrombocythemia with distal limb defect,771511005,Disorder,SNOMED
+36684461,116691000119101,Marginal zone lymphoma of spleen,SNOMED,Mapped from,44826418,Marginal zone lymphoma, spleen,200.37,5-dig billing code,ICD9CM
+36684461,116691000119101,Marginal zone lymphoma of spleen,SNOMED,Mapped from,36684461,Marginal zone lymphoma of spleen,116691000119101,Disorder,SNOMED
+36684461,116691000119101,Marginal zone lymphoma of spleen,SNOMED,Maps to,36684461,Marginal zone lymphoma of spleen,116691000119101,Disorder,SNOMED
+36715582,721299006,Moderate laceration of spleen,SNOMED,Maps to,36715582,Moderate laceration of spleen,721299006,Disorder,SNOMED
+36715582,721299006,Moderate laceration of spleen,SNOMED,Mapped from,36715582,Moderate laceration of spleen,721299006,Disorder,SNOMED
+36715582,721299006,Moderate laceration of spleen,SNOMED,Mapped from,11916,Moderate laceration of spleen,S36.031,6-char nonbill code,ICD10CM
+36715582,721299006,Moderate laceration of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+36715582,721299006,Moderate laceration of spleen,SNOMED,Mapped from,45587917,Moderate laceration of spleen, subsequent encounter,S36.031D,7-char billing code,ICD10CM
+36715582,721299006,Moderate laceration of spleen,SNOMED,Mapped from,45563727,Moderate laceration of spleen, initial encounter,S36.031A,7-char billing code,ICD10CM
+36715583,721300003,Major laceration of spleen,SNOMED,Mapped from,36715583,Major laceration of spleen,721300003,Disorder,SNOMED
+36715583,721300003,Major laceration of spleen,SNOMED,Mapped from,11917,Major laceration of spleen,S36.032,6-char nonbill code,ICD10CM
+36715583,721300003,Major laceration of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+36715583,721300003,Major laceration of spleen,SNOMED,Maps to,36715583,Major laceration of spleen,721300003,Disorder,SNOMED
+36715583,721300003,Major laceration of spleen,SNOMED,Mapped from,45597618,Major laceration of spleen, initial encounter,S36.032A,7-char billing code,ICD10CM
+36715583,721300003,Major laceration of spleen,SNOMED,Mapped from,45534893,Major laceration of spleen, subsequent encounter,S36.032D,7-char billing code,ICD10CM
+36717159,721298003,Minor laceration of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+36717159,721298003,Minor laceration of spleen,SNOMED,Mapped from,36717159,Minor laceration of spleen,721298003,Disorder,SNOMED
+36717159,721298003,Minor laceration of spleen,SNOMED,Maps to,36717159,Minor laceration of spleen,721298003,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Subsumes,4120623,Hydatid cyst of spleen,234503004,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Subsumes,195176,Tuberculosis of spleen,28399005,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Subsumes,3655317,Hepatosplenic schistosomiasis caused by Schistosoma haematobium,860856002,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Subsumes,4345823,Hepatosplenic schistosomiasis,240789006,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Subsumes,4345478,Schistosomal splenomegaly,240793000,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Maps to,36717456,Infection of spleen,721239009,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Subsumes,3655321,Infection of liver and spleen caused by Schistosoma mansoni,860861000,Disorder,SNOMED
+36717456,721239009,Infection of spleen,SNOMED,Mapped from,36717456,Infection of spleen,721239009,Disorder,SNOMED
+36717593,722921008,Neonatal hemorrhage of spleen,SNOMED,Maps to,36717593,Neonatal hemorrhage of spleen,722921008,Disorder,SNOMED
+36717593,722921008,Neonatal hemorrhage of spleen,SNOMED,Mapped from,36717593,Neonatal hemorrhage of spleen,722921008,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4193638,Splenic cyst,79040006,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4301968,Splenosis,38831007,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4220074,Splenic abscess,82053000,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4154572,Crushing injury of spleen,283981003,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,37110396,Asplenia following surgical procedure,724639003,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4095564,Transection of spleen,262824005,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4209431,Splenic fibrosis,56338005,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4133600,Neoplasm of spleen,127230005,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4265755,Splenogonadal fusion,62042001,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Mapped from,37016189,Lesion of spleen,141701000119101,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Maps to,37016189,Lesion of spleen,141701000119101,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4121271,Splenic pseudocyst,234505006,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4066395,Splenic sarcoidosis,17363001,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4044745,Splenic infarction,22996003,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4096768,Avulsion of spleen,262821002,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4275731,Ectopic spleen,65146007,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4120624,Rupture of spleen,234506007,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,200872,Injury of spleen with open wound into abdominal cavity,5256002,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4169992,Spleen injury due to birth trauma,275364007,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,46272915,Injury of spleen during surgery,711366008,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4094979,Splenic hematoma,262818004,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,40483120,Calcification of spleen,442360003,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,40486462,Traction injury of spleen,446121009,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4052678,Open injury of spleen,210188002,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4049809,Closed injury of spleen,210180009,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,195961,Injury of spleen without open wound into abdominal cavity,20213006,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,4266332,Splenic hamartoma,400146000,Disorder,SNOMED
+37016189,141701000119101,Lesion of spleen,SNOMED,Subsumes,607395,Inflammatory pseudoneoplasm of spleen,1153366002,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Has causative agent,4078242,Human immunodeficiency virus,19030005,Organism,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Mapped from,40487312,AIDS with splenomegaly,46933004,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Concept poss_eq from,40487312,AIDS with splenomegaly,46933004,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Mapped from,4228776,Splenomegaly associated with AIDS,422260007,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Mapped from,4227200,Hypersplenism associated with AIDS,420749009,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Concept poss_eq from,4227200,Hypersplenism associated with AIDS,420749009,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Maps to,37017082,Splenomegaly co-occurrent with human immunodeficiency virus infection,713275003,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Concept poss_eq from,40491089,AIDS with hypersplenism,45719002,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Mapped from,40491089,AIDS with hypersplenism,45719002,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Concept poss_eq from,4228776,Splenomegaly associated with AIDS,422260007,Disorder,SNOMED
+37017082,713275003,Splenomegaly co-occurrent with human immunodeficiency virus infection,SNOMED,Mapped from,37017082,Splenomegaly co-occurrent with human immunodeficiency virus infection,713275003,Disorder,SNOMED
+37110396,724639003,Asplenia following surgical procedure,SNOMED,Maps to,37110396,Asplenia following surgical procedure,724639003,Disorder,SNOMED
+37110396,724639003,Asplenia following surgical procedure,SNOMED,Mapped from,37110396,Asplenia following surgical procedure,724639003,Disorder,SNOMED
+37111653,726708009,Familial isolated congenital asplenia,SNOMED,Maps to,37111653,Familial isolated congenital asplenia,726708009,Disorder,SNOMED
+37111653,726708009,Familial isolated congenital asplenia,SNOMED,Mapped from,37111653,Familial isolated congenital asplenia,726708009,Disorder,SNOMED
+37111662,726724005,Splenogonadal fusion, limb defect, micrognathia syndrome,SNOMED,Mapped from,37111662,Splenogonadal fusion, limb defect, micrognathia syndrome,726724005,Disorder,SNOMED
+37111662,726724005,Splenogonadal fusion, limb defect, micrognathia syndrome,SNOMED,Maps to,37111662,Splenogonadal fusion, limb defect, micrognathia syndrome,726724005,Disorder,SNOMED
+37160417,1162362005,Felty syndrome with seronegative erosive rheumatoid arthritis,SNOMED,Has interprets,4298431,White blood cell count,767002,Procedure,SNOMED
+37160417,1162362005,Felty syndrome with seronegative erosive rheumatoid arthritis,SNOMED,Mapped from,37160417,Felty syndrome with seronegative erosive rheumatoid arthritis,1162362005,Disorder,SNOMED
+37160417,1162362005,Felty syndrome with seronegative erosive rheumatoid arthritis,SNOMED,Maps to,37160417,Felty syndrome with seronegative erosive rheumatoid arthritis,1162362005,Disorder,SNOMED
+37160417,1162362005,Felty syndrome with seronegative erosive rheumatoid arthritis,SNOMED,Has interprets,4204380,Rheumatoid factor measurement,54921001,Procedure,SNOMED
+37160421,1162364006,Felty syndrome with seronegative rheumatoid arthritis,SNOMED,Maps to,37160421,Felty syndrome with seronegative rheumatoid arthritis,1162364006,Disorder,SNOMED
+37160421,1162364006,Felty syndrome with seronegative rheumatoid arthritis,SNOMED,Subsumes,37160417,Felty syndrome with seronegative erosive rheumatoid arthritis,1162362005,Disorder,SNOMED
+37160421,1162364006,Felty syndrome with seronegative rheumatoid arthritis,SNOMED,Has interprets,4298431,White blood cell count,767002,Procedure,SNOMED
+37160421,1162364006,Felty syndrome with seronegative rheumatoid arthritis,SNOMED,Has interprets,4204380,Rheumatoid factor measurement,54921001,Procedure,SNOMED
+37160421,1162364006,Felty syndrome with seronegative rheumatoid arthritis,SNOMED,Mapped from,37160421,Felty syndrome with seronegative rheumatoid arthritis,1162364006,Disorder,SNOMED
+37160553,1162654006,Splenomegaly due to storage disease,SNOMED,Maps to,37160553,Splenomegaly due to storage disease,1162654006,Disorder,SNOMED
+37160553,1162654006,Splenomegaly due to storage disease,SNOMED,Mapped from,37160553,Splenomegaly due to storage disease,1162654006,Disorder,SNOMED
+37160553,1162654006,Splenomegaly due to storage disease,SNOMED,Mapped from,37110395,Splenomegaly co-occurrent and due to storage disease,724638006,Disorder,SNOMED
+37160553,1162654006,Splenomegaly due to storage disease,SNOMED,Concept replaces,37110395,Splenomegaly co-occurrent and due to storage disease,724638006,Disorder,SNOMED
+37160553,1162654006,Splenomegaly due to storage disease,SNOMED,Has due to,4145580,Storage disease,34420000,Disorder,SNOMED
+37163587,1217373008,Diaphragmatic hernia, short bowel, asplenia syndrome,SNOMED,Maps to,37163587,Diaphragmatic hernia, short bowel, asplenia syndrome,1217373008,Disorder,SNOMED
+37163587,1217373008,Diaphragmatic hernia, short bowel, asplenia syndrome,SNOMED,Mapped from,37163587,Diaphragmatic hernia, short bowel, asplenia syndrome,1217373008,Disorder,SNOMED
+37166183,1259312003,Primary fibrosarcoma of spleen,SNOMED,Mapped from,37166183,Primary fibrosarcoma of spleen,1259312003,Disorder,SNOMED
+37166183,1259312003,Primary fibrosarcoma of spleen,SNOMED,Maps to,37166183,Primary fibrosarcoma of spleen,1259312003,Disorder,SNOMED
+37397117,717156002,Biliary atresia with splenic malformation syndrome,SNOMED,Mapped from,37397117,Biliary atresia with splenic malformation syndrome,717156002,Disorder,SNOMED
+37397117,717156002,Biliary atresia with splenic malformation syndrome,SNOMED,Maps to,37397117,Biliary atresia with splenic malformation syndrome,717156002,Disorder,SNOMED
+40479608,441559006,Mantle cell lymphoma of spleen,SNOMED,Mapped from,40479608,Mantle cell lymphoma of spleen,441559006,Disorder,SNOMED
+40479608,441559006,Mantle cell lymphoma of spleen,SNOMED,Mapped from,44835692,Mantle cell lymphoma, spleen,200.47,5-dig billing code,ICD9CM
+40479608,441559006,Mantle cell lymphoma of spleen,SNOMED,Maps to,40479608,Mantle cell lymphoma of spleen,441559006,Disorder,SNOMED
+40479608,441559006,Mantle cell lymphoma of spleen,SNOMED,Mapped from,45586042,Mantle cell lymphoma, spleen,C83.17,5-char billing code,ICD10CM
+40483120,442360003,Calcification of spleen,SNOMED,Maps to,40483120,Calcification of spleen,442360003,Disorder,SNOMED
+40483120,442360003,Calcification of spleen,SNOMED,Mapped from,40483120,Calcification of spleen,442360003,Disorder,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Subsumes,607430,Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis,1153413001,Disorder,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,45561926,Sickle-cell thalassemia, unspecified, with splenic sequestration,D57.412,6-char billing code,ICD10CM
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,45561923,Hb-SS disease with splenic sequestration,D57.02,5-char billing code,ICD10CM
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,45571635,Sickle-cell/Hb-C disease with splenic sequestration,D57.212,6-char billing code,ICD10CM
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,725225,Sickle-cell thalassemia beta zero with splenic sequestration,D57.432,6-char billing code,ICD10CM
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Has causative agent,4178879,Hemoglobin S,50095005,Substance,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,45600606,Other sickle-cell disorders with splenic sequestration,D57.812,6-char billing code,ICD10CM
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Maps to,40485018,Acute sickle cell splenic sequestration crisis,444108000,Disorder,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Has interprets,40480067,Measurement of total hemoglobin concentration,441689006,Procedure,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Subsumes,603018,Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis,1153415008,Disorder,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,40485018,Acute sickle cell splenic sequestration crisis,444108000,Disorder,SNOMED
+40485018,444108000,Acute sickle cell splenic sequestration crisis,SNOMED,Mapped from,725232,Sickle-cell thalassemia beta plus with splenic sequestration,D57.452,6-char billing code,ICD10CM
+40485974,446019002,Laceration of parenchyma of spleen,SNOMED,Maps to,40485974,Laceration of parenchyma of spleen,446019002,Disorder,SNOMED
+40485974,446019002,Laceration of parenchyma of spleen,SNOMED,Subsumes,201162,Laceration extending into parenchyma of spleen with open wound into abdominal cavity,3542000,Disorder,SNOMED
+40485974,446019002,Laceration of parenchyma of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+40485974,446019002,Laceration of parenchyma of spleen,SNOMED,Subsumes,442585,Laceration extending into parenchyma of spleen without open wound into abdominal cavity,61014001,Disorder,SNOMED
+40485974,446019002,Laceration of parenchyma of spleen,SNOMED,Mapped from,40485974,Laceration of parenchyma of spleen,446019002,Disorder,SNOMED
+40486462,446121009,Traction injury of spleen,SNOMED,Mapped from,40486462,Traction injury of spleen,446121009,Disorder,SNOMED
+40486462,446121009,Traction injury of spleen,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+40486462,446121009,Traction injury of spleen,SNOMED,Maps to,40486462,Traction injury of spleen,446121009,Disorder,SNOMED
+40486462,446121009,Traction injury of spleen,SNOMED,Has causative agent,4110138,Mechanical tension,285656000,Physical Force,SNOMED
+40490513,448602005,Spleen in right sided position,SNOMED,Concept same_as from,3542889,Spleen in right sided position,718011000000104,Clinical Finding,SNOMED
+40490513,448602005,Spleen in right sided position,SNOMED,Mapped from,40490513,Spleen in right sided position,448602005,Disorder,SNOMED
+40490513,448602005,Spleen in right sided position,SNOMED,Maps to,40490513,Spleen in right sided position,448602005,Disorder,SNOMED
+40490513,448602005,Spleen in right sided position,SNOMED,Mapped from,3542889,Spleen in right sided position,718011000000104,Clinical Finding,SNOMED
+44808984,861371000000102,Acquired absence of spleen,SNOMED,Mapped from,3545984,Acquired absence of spleen,861381000000100,Undefined,SNOMED
+44808984,861371000000102,Acquired absence of spleen,SNOMED,Maps to,44808984,Acquired absence of spleen,861371000000102,Disorder,SNOMED
+44808984,861371000000102,Acquired absence of spleen,SNOMED,Concept same_as from,3545984,Acquired absence of spleen,861381000000100,Undefined,SNOMED
+44808984,861371000000102,Acquired absence of spleen,SNOMED,Mapped from,45542487,Acquired absence of spleen,Z90.81,5-char billing code,ICD10CM
+44808984,861371000000102,Acquired absence of spleen,SNOMED,Mapped from,44808984,Acquired absence of spleen,861371000000102,Disorder,SNOMED
+45765640,702624008,Aplasia of spleen,SNOMED,Subsumes,4069846,Bilateral right-sidedness sequence,17604001,Disorder,SNOMED
+45765640,702624008,Aplasia of spleen,SNOMED,Mapped from,45765640,Aplasia of spleen,702624008,Disorder,SNOMED
+45765640,702624008,Aplasia of spleen,SNOMED,Subsumes,604712,Agenesis of spleen,1003551006,Disorder,SNOMED
+45765640,702624008,Aplasia of spleen,SNOMED,Maps to,45765640,Aplasia of spleen,702624008,Disorder,SNOMED
+45768671,707147002,Asplenia,SNOMED,Maps to,45768671,Asplenia,707147002,Disorder,SNOMED
+45768671,707147002,Asplenia,SNOMED,Subsumes,37110396,Asplenia following surgical procedure,724639003,Disorder,SNOMED
+45768671,707147002,Asplenia,SNOMED,Subsumes,4242866,Functional asplenia,38096003,Disorder,SNOMED
+45768671,707147002,Asplenia,SNOMED,Mapped from,45768671,Asplenia,707147002,Disorder,SNOMED
+45768671,707147002,Asplenia,SNOMED,Subsumes,46272950,Thrombocytopathy, asplenia and miosis,711407000,Disorder,SNOMED
+45768671,707147002,Asplenia,SNOMED,Subsumes,4244020,Congenital absence of spleen,93030006,Disorder,SNOMED
+46272915,711366008,Injury of spleen during surgery,SNOMED,Mapped from,46272915,Injury of spleen during surgery,711366008,Disorder,SNOMED
+46272915,711366008,Injury of spleen during surgery,SNOMED,Has due to,36674407,Traumatic event,773760007,Event,SNOMED
+46272915,711366008,Injury of spleen during surgery,SNOMED,Maps to,46272915,Injury of spleen during surgery,711366008,Disorder,SNOMED
+46272915,711366008,Injury of spleen during surgery,SNOMED,During,4301351,Surgical procedure,387713003,Procedure,SNOMED
+46272950,711407000,Thrombocytopathy, asplenia and miosis,SNOMED,Has interprets,4237865,Size of pupil,363953003,Observable Entity,SNOMED
+46272950,711407000,Thrombocytopathy, asplenia and miosis,SNOMED,Has interprets,4267147,Platelet count,61928009,Procedure,SNOMED
+46272950,711407000,Thrombocytopathy, asplenia and miosis,SNOMED,Maps to,46272950,Thrombocytopathy, asplenia and miosis,711407000,Disorder,SNOMED
+46272950,711407000,Thrombocytopathy, asplenia and miosis,SNOMED,Mapped from,46272950,Thrombocytopathy, asplenia and miosis,711407000,Disorder,SNOMED
+46272950,711407000,Thrombocytopathy, asplenia and miosis,SNOMED,Has interprets,4254680,Hemostatic function,74848003,Observable Entity,SNOMED
+46272950,711407000,Thrombocytopathy, asplenia and miosis,SNOMED,Has interprets,4187345,Pupil constriction,415219007,Observable Entity,SNOMED

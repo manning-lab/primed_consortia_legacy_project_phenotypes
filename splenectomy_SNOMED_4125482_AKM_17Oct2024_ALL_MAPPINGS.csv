@@ -1,0 +1,190 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+2002389,41.42,Excision of lesion or tissue of spleen,ICD9Proc,Mapped from,2002389,Excision of lesion or tissue of spleen,41.42,4-dig billing code,ICD9Proc
+2002389,41.42,Excision of lesion or tissue of spleen,ICD9Proc,Maps to,2002389,Excision of lesion or tissue of spleen,41.42,4-dig billing code,ICD9Proc
+2002389,41.42,Excision of lesion or tissue of spleen,ICD9Proc,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+2002389,41.42,Excision of lesion or tissue of spleen,ICD9Proc,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+2108425,38102,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),CPT4,CPT4 - SNOMED eq,4018300,Total splenectomy,174776001,Procedure,SNOMED
+2108425,38102,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),CPT4,CPT4 - SNOMED cat,4125482,Splenectomy,234319005,Procedure,SNOMED
+2108425,38102,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),CPT4,Maps to,2108425,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),38102,CPT4,CPT4
+2108425,38102,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),CPT4,Mapped from,2108425,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),38102,CPT4,CPT4
+2108427,38120,Laparoscopy, surgical, splenectomy,CPT4,Mapped from,2108427,Laparoscopy, surgical, splenectomy,38120,CPT4,CPT4
+2108427,38120,Laparoscopy, surgical, splenectomy,CPT4,CPT4 - SNOMED eq,4195648,Laparoscopic total splenectomy,314118002,Procedure,SNOMED
+2108427,38120,Laparoscopy, surgical, splenectomy,CPT4,CPT4 - SNOMED cat,4195648,Laparoscopic total splenectomy,314118002,Procedure,SNOMED
+2108427,38120,Laparoscopy, surgical, splenectomy,CPT4,Maps to,2108427,Laparoscopy, surgical, splenectomy,38120,CPT4,CPT4
+2109402,48140,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,Maps to,2109402,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,48140,CPT4,CPT4
+2109402,48140,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,CPT4 - SNOMED cat,4247169,Distal subtotal pancreatectomy with splenectomy,60194009,Procedure,SNOMED
+2109402,48140,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,CPT4 - SNOMED cat,4222733,Distal subtotal pancreatectomy,401004,Procedure,SNOMED
+2109402,48140,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,CPT4 - SNOMED eq,4247169,Distal subtotal pancreatectomy with splenectomy,60194009,Procedure,SNOMED
+2109402,48140,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,CPT4 - SNOMED eq,4222733,Distal subtotal pancreatectomy,401004,Procedure,SNOMED
+2109402,48140,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,CPT4,Mapped from,2109402,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,48140,CPT4,CPT4
+2109403,48145,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,Maps to,2109403,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,48145,CPT4,CPT4
+2109403,48145,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,CPT4 - SNOMED eq,4238930,Distal subtotal pancreatectomy with pancreaticojejunostomy,91516004,Procedure,SNOMED
+2109403,48145,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,CPT4 - SNOMED cat,4143166,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,33479006,Procedure,SNOMED
+2109403,48145,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,CPT4 - SNOMED eq,4143166,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,33479006,Procedure,SNOMED
+2109403,48145,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,Mapped from,2109403,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,48145,CPT4,CPT4
+2109403,48145,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,CPT4,CPT4 - SNOMED cat,4238930,Distal subtotal pancreatectomy with pancreaticojejunostomy,91516004,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED eq,4307652,Incision of duodenum,83599002,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED eq,4046731,Dissection procedure,122459003,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED eq,4174368,Allogeneic transplantation,50223000,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED eq,4125482,Splenectomy,234319005,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,Maps to,2109423,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,48551,CPT4,CPT4
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED eq,4042479,Procedure on pancreas,118825001,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED cat,4266668,Transplantation of pancreas,62438007,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,CPT4 - SNOMED eq,4266668,Transplantation of pancreas,62438007,Procedure,SNOMED
+2109423,48551,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,CPT4,Mapped from,2109423,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,48551,CPT4,CPT4
+4001894,11973000,Excision of accessory spleen,SNOMED,Mapped from,4001894,Excision of accessory spleen,11973000,Procedure,SNOMED
+4001894,11973000,Excision of accessory spleen,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4001894,11973000,Excision of accessory spleen,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4001894,11973000,Excision of accessory spleen,SNOMED,Concept same_as from,40313620,Excision of accessory spleen,149299005,Procedure,SNOMED
+4001894,11973000,Excision of accessory spleen,SNOMED,Concept replaces,40313620,Excision of accessory spleen,149299005,Procedure,SNOMED
+4001894,11973000,Excision of accessory spleen,SNOMED,Mapped from,40313620,Excision of accessory spleen,149299005,Procedure,SNOMED
+4001894,11973000,Excision of accessory spleen,SNOMED,Mapped from,2002405,Excision of accessory spleen,41.93,4-dig billing code,ICD9Proc
+4001894,11973000,Excision of accessory spleen,SNOMED,Maps to,4001894,Excision of accessory spleen,11973000,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,SNOMED - CPT4 eq,2108423,Splenectomy; total (separate procedure),38100,CPT4,CPT4
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,4019136,Total excision of spleen NOS,174784002,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Subsumes,4195648,Laparoscopic total splenectomy,314118002,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Has dir proc site,4108408,Entire spleen,181279003,Body Structure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,2108423,Splenectomy; total (separate procedure),38100,CPT4,CPT4
+4018300,174776001,Total splenectomy,SNOMED,Concept was_a from,4019136,Total excision of spleen NOS,174784002,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Concept was_a from,4018302,Other specified total excision of spleen,174783008,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,4018302,Other specified total excision of spleen,174783008,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Concept same_as from,40257450,Total splenectomy,174779008,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,40257450,Total splenectomy,174779008,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Concept was_a from,3532700,Total excision of spleen NOS,561351000000107,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,3532700,Total excision of spleen NOS,561351000000107,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Concept same_as from,40313618,Total splenectomy,149297007,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,40313618,Total splenectomy,149297007,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,2002391,Total splenectomy,41.5,3-dig billing code,ICD9Proc
+4018300,174776001,Total splenectomy,SNOMED,Subsumes,4018301,Total splenectomy and reimplantation of fragments,174778000,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Maps to,4018300,Total splenectomy,174776001,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,4018300,Total splenectomy,174776001,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,SNOMED - CPT4 eq,2108425,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),38102,CPT4,CPT4
+4018300,174776001,Total splenectomy,SNOMED,Concept poss_eq from,40624273,Splenectomy,64422000,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Mapped from,3532699,Other specified total excision of spleen,561341000000109,Procedure,SNOMED
+4018300,174776001,Total splenectomy,SNOMED,Concept was_a from,3532699,Other specified total excision of spleen,561341000000109,Procedure,SNOMED
+4018301,174778000,Total splenectomy and reimplantation of fragments,SNOMED,Mapped from,4018301,Total splenectomy and reimplantation of fragments,174778000,Procedure,SNOMED
+4018301,174778000,Total splenectomy and reimplantation of fragments,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4018301,174778000,Total splenectomy and reimplantation of fragments,SNOMED,Has dir proc site,4108408,Entire spleen,181279003,Body Structure,SNOMED
+4018301,174778000,Total splenectomy and reimplantation of fragments,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4018301,174778000,Total splenectomy and reimplantation of fragments,SNOMED,Has method,37312438,Surgical reimplantation - action,788288006,Qualifier Value,SNOMED
+4018301,174778000,Total splenectomy and reimplantation of fragments,SNOMED,Maps to,4018301,Total splenectomy and reimplantation of fragments,174778000,Procedure,SNOMED
+4044879,12913009,Splenorrhaphy with partial splenectomy,SNOMED,Mapped from,4044879,Splenorrhaphy with partial splenectomy,12913009,Procedure,SNOMED
+4044879,12913009,Splenorrhaphy with partial splenectomy,SNOMED,Has method,4117981,Repair - action,257903006,Qualifier Value,SNOMED
+4044879,12913009,Splenorrhaphy with partial splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4044879,12913009,Splenorrhaphy with partial splenectomy,SNOMED,Maps to,4044879,Splenorrhaphy with partial splenectomy,12913009,Procedure,SNOMED
+4044879,12913009,Splenorrhaphy with partial splenectomy,SNOMED,Has dir proc site,4025121,Spleen part,120613001,Body Structure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Concept same_as from,4017737,Splenectomy NEC,174781005,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,4281839,Partial splenectomy,67097003,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Follows,37110396,Asplenia following surgical procedure,724639003,Disorder,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,4018300,Total splenectomy,174776001,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Concept was_a from,4019806,Other excision of spleen NOS,174787009,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,4019806,Other excision of spleen NOS,174787009,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Asso proc of,4058851,H/O splenectomy,161626009,Context-dependent,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Value mapped from,4058851,H/O splenectomy,161626009,Context-dependent,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Follows,4123079,Post-splenectomy thrombocytosis,234512002,Disorder,SNOMED
+4125482,234319005,Splenectomy,SNOMED,SNOMED cat - CPT4,2108424,Splenectomy; partial (separate procedure),38101,CPT4,CPT4
+4125482,234319005,Splenectomy,SNOMED,Concept was_a from,4019805,Other specified other excision of spleen,174786000,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,4019805,Other specified other excision of spleen,174786000,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,SNOMED - CPT4 eq,2109423,Backbench standard preparation of cadaver donor pancreas allograft prior to transplantation, including dissection of allograft from surrounding soft tissues, splenectomy, duodenotomy, ligation of bile duct, ligation of mesenteric vessels, and Y-graft arte,48551,CPT4,CPT4
+4125482,234319005,Splenectomy,SNOMED,Follows,4120626,Post-splenectomy disorder,234511009,Disorder,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,4283229,Excision of lesion of spleen,67061007,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,4001894,Excision of accessory spleen,11973000,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Occurs before,4120626,Post-splenectomy disorder,234511009,Disorder,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,3532702,Other specified other excision of spleen,561371000000103,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,4017737,Splenectomy NEC,174781005,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Concept was_a from,3532702,Other specified other excision of spleen,561371000000103,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,SNOMED cat - CPT4,2108423,Splenectomy; total (separate procedure),38100,CPT4,CPT4
+4125482,234319005,Splenectomy,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Value mapped from,40302643,H/O splenectomy,138892001,Context-dependent,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,4125482,Splenectomy,234319005,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Maps to,4125482,Splenectomy,234319005,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,4247169,Distal subtotal pancreatectomy with splenectomy,60194009,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,37165101,Robot assisted excision of spleen,1237579002,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Subsumes,2002389,Excision of lesion or tissue of spleen,41.42,4-dig billing code,ICD9Proc
+4125482,234319005,Splenectomy,SNOMED,Concept was_a from,4018303,Other excision of spleen,174785001,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,SNOMED cat - CPT4,2108425,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),38102,CPT4,CPT4
+4125482,234319005,Splenectomy,SNOMED,Subsumes,2108425,Splenectomy; total, en bloc for extensive disease, in conjunction with other procedure (List in addition to code for primary procedure),38102,CPT4,CPT4
+4125482,234319005,Splenectomy,SNOMED,Specimen proc of,4205807,Spleen resection specimen,309077009,Specimen,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,4018303,Other excision of spleen,174785001,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Concept poss_eq from,40624273,Splenectomy,64422000,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Mapped from,40624273,Splenectomy,64422000,Procedure,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Occurs before,4125657,Post-splenectomy leukocytosis,234513007,Disorder,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Follows,4125657,Post-splenectomy leukocytosis,234513007,Disorder,SNOMED
+4125482,234319005,Splenectomy,SNOMED,Occurs before,4123079,Post-splenectomy thrombocytosis,234512002,Disorder,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Has dir proc site,4049768,Pancreatic structure,15776009,Body Structure,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Mapped from,4143166,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,33479006,Procedure,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Maps to,4143166,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,33479006,Procedure,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Has method,4117491,Anastomosis - action,257741005,Qualifier Value,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,SNOMED - CPT4 eq,2109403,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,48145,CPT4,CPT4
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Has dir proc site,4001209,Pancreas part,119218006,Body Structure,SNOMED
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,SNOMED cat - CPT4,2109403,Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy,48145,CPT4,CPT4
+4143166,33479006,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,SNOMED,Has dir proc site,4065077,Jejunal structure,21306003,Body Structure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Has dir proc site,37303867,Abdomen,818983003,Body Structure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Using device,4313302,Laparoscope,86174004,Physical Object,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Has dir proc site,4108408,Entire spleen,181279003,Body Structure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Concept replaces,40257454,Laparoscopic total splenectomy,174782003,Procedure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Concept same_as from,40257454,Laparoscopic total splenectomy,174782003,Procedure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Mapped from,40257454,Laparoscopic total splenectomy,174782003,Procedure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Has dir proc site,4244412,Anterior abdominal wall structure,59380008,Body Structure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,SNOMED cat - CPT4,2108427,Laparoscopy, surgical, splenectomy,38120,CPT4,CPT4
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,SNOMED - CPT4 eq,2108427,Laparoscopy, surgical, splenectomy,38120,CPT4,CPT4
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Mapped from,4195648,Laparoscopic total splenectomy,314118002,Procedure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Maps to,4195648,Laparoscopic total splenectomy,314118002,Procedure,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Has method,4043866,Inspection - action,129433002,Qualifier Value,SNOMED
+4195648,314118002,Laparoscopic total splenectomy,SNOMED,Has method,4044182,Incision - action,129287005,Qualifier Value,SNOMED
+4218096,817000,Excision of cyst of spleen,SNOMED,Has dir morph,4279699,Cyst,367643001,Morph Abnormality,SNOMED
+4218096,817000,Excision of cyst of spleen,SNOMED,Maps to,4218096,Excision of cyst of spleen,817000,Procedure,SNOMED
+4218096,817000,Excision of cyst of spleen,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4218096,817000,Excision of cyst of spleen,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4218096,817000,Excision of cyst of spleen,SNOMED,Mapped from,4218096,Excision of cyst of spleen,817000,Procedure,SNOMED
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,SNOMED cat - CPT4,2109402,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,48140,CPT4,CPT4
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,Subsumes,4143166,Distal subtotal pancreatectomy with splenectomy and pancreaticojejunostomy,33479006,Procedure,SNOMED
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,SNOMED - CPT4 eq,2109402,Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy,48140,CPT4,CPT4
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,Mapped from,4247169,Distal subtotal pancreatectomy with splenectomy,60194009,Procedure,SNOMED
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,Maps to,4247169,Distal subtotal pancreatectomy with splenectomy,60194009,Procedure,SNOMED
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,Has dir proc site,4001209,Pancreas part,119218006,Body Structure,SNOMED
+4247169,60194009,Distal subtotal pancreatectomy with splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Mapped from,2108424,Splenectomy; partial (separate procedure),38101,CPT4,CPT4
+4281839,67097003,Partial splenectomy,SNOMED,SNOMED - CPT4 eq,2108424,Splenectomy; partial (separate procedure),38101,CPT4,CPT4
+4281839,67097003,Partial splenectomy,SNOMED,Has dir proc site,4025121,Spleen part,120613001,Body Structure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Mapped from,40313617,Partial splenectomy,149296003,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Concept same_as from,40313617,Partial splenectomy,149296003,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Subsumes,40487820,Laparoscopic partial splenectomy,446408009,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Maps to,4281839,Partial splenectomy,67097003,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Mapped from,4281839,Partial splenectomy,67097003,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Subsumes,4044879,Splenorrhaphy with partial splenectomy,12913009,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Mapped from,40425967,Subtotal splenectomy,225280002,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Concept same_as from,40425967,Subtotal splenectomy,225280002,Procedure,SNOMED
+4281839,67097003,Partial splenectomy,SNOMED,Mapped from,2002390,Partial splenectomy,41.43,4-dig billing code,ICD9Proc
+4283229,67061007,Excision of lesion of spleen,SNOMED,Has dir morph,40599742,Lesion,52988006,Morph Abnormality,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Mapped from,40313616,Excision of lesion of spleen,149295004,Procedure,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Maps to,4283229,Excision of lesion of spleen,67061007,Procedure,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Subsumes,4218096,Excision of cyst of spleen,817000,Procedure,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Concept same_as from,40313616,Excision of lesion of spleen,149295004,Procedure,SNOMED
+4283229,67061007,Excision of lesion of spleen,SNOMED,Mapped from,4283229,Excision of lesion of spleen,67061007,Procedure,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Using device,4290594,Endoscope,37270008,Physical Object,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Using device,4307520,Robot,83517001,Physical Object,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Maps to,37165101,Robot assisted excision of spleen,1237579002,Procedure,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Mapped from,37165101,Robot assisted excision of spleen,1237579002,Procedure,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Has dir proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Has method,4043866,Inspection - action,129433002,Qualifier Value,SNOMED
+37165101,1237579002,Robot assisted excision of spleen,SNOMED,Has proc site,4302605,Splenic structure,78961009,Body Structure,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Has method,4043866,Inspection - action,129433002,Qualifier Value,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Maps to,40487820,Laparoscopic partial splenectomy,446408009,Procedure,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Mapped from,40487820,Laparoscopic partial splenectomy,446408009,Procedure,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Has dir proc site,37303867,Abdomen,818983003,Body Structure,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Has dir proc site,4244412,Anterior abdominal wall structure,59380008,Body Structure,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Using device,4313302,Laparoscope,86174004,Physical Object,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Has method,4044525,Excision - action,129304002,Qualifier Value,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Has dir proc site,4025121,Spleen part,120613001,Body Structure,SNOMED
+40487820,446408009,Laparoscopic partial splenectomy,SNOMED,Has method,4044182,Incision - action,129287005,Qualifier Value,SNOMED

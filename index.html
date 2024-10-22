@@ -384,13 +384,20 @@ Disorders</a></li>
 <li><a href="#codes-for-hiv-infection" id="toc-codes-for-hiv-infection"><span class="toc-section-number">1.3.3</span> Codes for HIV infection</a></li>
 <li><a href="#codes-for-end-stage-kidney-disease" id="toc-codes-for-end-stage-kidney-disease"><span class="toc-section-number">1.3.4</span> Codes for End Stage Kidney
 Disease</a></li>
+<li><a href="#codes-for-splenectomy-and-spleen-disorders" id="toc-codes-for-splenectomy-and-spleen-disorders"><span class="toc-section-number">1.3.5</span> Codes for Splenectomy and spleen
+disorders</a></li>
 </ul></li>
-<li><a href="#codes-to-use-for-drugs-queries" id="toc-codes-to-use-for-drugs-queries"><span class="toc-section-number">1.4</span> Codes to use for Drugs Queries</a>
+<li><a href="#disorder-of-spleen" id="toc-disorder-of-spleen"><span class="toc-section-number">1.4</span> Disorder of spleen</a>
 <ul>
-<li><a href="#diabetes-medications" id="toc-diabetes-medications"><span class="toc-section-number">1.4.1</span> Diabetes Medications</a></li>
-<li><a href="#blood-pressure-medications" id="toc-blood-pressure-medications"><span class="toc-section-number">1.4.2</span> Blood Pressure
+<li><a href="#codes-for-fibrosis-cirrhosis-of-the-liver" id="toc-codes-for-fibrosis-cirrhosis-of-the-liver"><span class="toc-section-number">1.4.1</span> Codes for Fibrosis, Cirrhosis of
+the Liver</a></li>
+</ul></li>
+<li><a href="#codes-to-use-for-drugs-queries" id="toc-codes-to-use-for-drugs-queries"><span class="toc-section-number">1.5</span> Codes to use for Drugs Queries</a>
+<ul>
+<li><a href="#diabetes-medications" id="toc-diabetes-medications"><span class="toc-section-number">1.5.1</span> Diabetes Medications</a></li>
+<li><a href="#blood-pressure-medications" id="toc-blood-pressure-medications"><span class="toc-section-number">1.5.2</span> Blood Pressure
 Medications</a></li>
-<li><a href="#lipid-lowering-medication" id="toc-lipid-lowering-medication"><span class="toc-section-number">1.4.3</span> Lipid Lowering
+<li><a href="#lipid-lowering-medication" id="toc-lipid-lowering-medication"><span class="toc-section-number">1.5.3</span> Lipid Lowering
 Medication</a></li>
 </ul></li>
 </ul></li>
@@ -402,8 +409,8 @@ Medication</a></li>
 Legacy Project - Codes for Biobanks</h1>
 <p>Release notes:</p>
 <ul>
-<li>22 October 2024: Uploaded codes for Blood Cancers, HIV, and End
-Stage Kidney Disease</li>
+<li>22 October 2024: Uploaded codes for Blood Cancers, HIV, End Stage
+Kidney Disease, spleen disorders</li>
 <li>21 October2024: Uploaded Codes for Blood Disorders</li>
 <li>17 October2024: Fixed the codes to use for Trait queries. Started on
 Conditions</li>
@@ -1334,9 +1341,113 @@ dialysis</h4>
 </ul>
 </div>
 </div>
+<div id="codes-for-splenectomy-and-spleen-disorders" class="section level3" number="1.3.5">
+<h3><span class="header-section-number">1.3.5</span> Codes for
+Splenectomy and spleen disorders</h3>
+<p>Files with ICD-9 and ICD-10 codes</p>
+<ul>
+<li><a href>ICD-9-XXXX.csv</a></li>
+<li><a href>ICD-10-XXX.csv</a></li>
+</ul>
 </div>
-<div id="codes-to-use-for-drugs-queries" class="section level2" number="1.4">
-<h2><span class="header-section-number">1.4</span> Codes to use for
+</div>
+<div id="disorder-of-spleen" class="section level2" number="1.4">
+<h2><span class="header-section-number">1.4</span> Disorder of
+spleen</h2>
+<pre class="r"><code>disorder_of_spleen_SNOMED_201265 &lt;- find_descendants_and_mappings_for_a_given_concept_id(201265, file_label=&quot;disorder_of_spleen_SNOMED_201265_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 1024 ; Unique Concept IDs: 501&quot;
+##                      
+##                       ICD10CM ICD9CM SNOMED
+##   3-char nonbill code       2      0      0
+##   3-dig nonbill code        0      1      0
+##   4-char billing code      12      0      0
+##   4-char nonbill code       9      0      0
+##   4-dig billing code        0      5      0
+##   4-dig nonbill code        0      4      0
+##   5-char billing code      60      0      0
+##   5-char nonbill code      11      0      0
+##   5-dig billing code        0     51      0
+##   6-char billing code      26      0      0
+##   6-char nonbill code       7      0      0
+##   7-char billing code      18      0      0
+##   Clinical Finding          0      0      9
+##   Context-dependent         0      0     11
+##   Disorder                  0      0    249
+##   Event                     0      0      1
+##   Observable Entity         0      0      5
+##   Organism                  0      0      7
+##   Physical Force            0      0      1
+##   Procedure                 0      0      7
+##   Substance                 0      0      1
+##   Undefined                 0      0      4</code></pre>
+<p>Files to download:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_ALL_MAPPINGS.csv">disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_UNIQUE_CODES.csv">disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+<div id="splenectomy" class="section level4" number="1.4.0.1">
+<h4><span class="header-section-number">1.4.0.1</span> Splenectomy</h4>
+<pre class="r"><code>splenectomy_SNOMED_4125482 &lt;- find_descendants_and_mappings_for_a_given_concept_id(4125482, file_label=&quot;splenectomy_SNOMED_4125482_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 189 ; Unique Concept IDs: 74&quot;
+##                     
+##                      CPT4 ICD9Proc SNOMED
+##   3-dig billing code    0        1      0
+##   4-dig billing code    0        3      0
+##   Body Structure        0        0      8
+##   Context-dependent     0        0      2
+##   CPT4                  7        0      0
+##   Disorder              0        0      4
+##   Morph Abnormality     0        0      2
+##   Physical Object       0        0      3
+##   Procedure             0        0     37
+##   Qualifier Value       0        0      6
+##   Specimen              0        0      1</code></pre>
+<p>Files to download:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv">splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv">splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+<div id="codes-for-fibrosis-cirrhosis-of-the-liver" class="section level3" number="1.4.1">
+<h3><span class="header-section-number">1.4.1</span> Codes for Fibrosis,
+Cirrhosis of the Liver</h3>
+<p>Files with ICD-9 and ICD-10 codes</p>
+<ul>
+<li><a href>ICD-9-XXXX.csv</a></li>
+<li><a href>ICD-10-XXX.csv</a></li>
+</ul>
+<div id="cirrhosis-of-liver" class="section level4" number="1.4.1.1">
+<h4><span class="header-section-number">1.4.1.1</span> Cirrhosis of
+liver</h4>
+<pre class="r"><code>cirrhosis_of_liver_SNOMED_4064161 &lt;- find_descendants_and_mappings_for_a_given_concept_id(4064161, file_label=&quot;cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024&quot;)</code></pre>
+<pre><code>## Connecting using PostgreSQL driver</code></pre>
+<pre><code>## [1] &quot;Number of results returned: 318 ; Unique Concept IDs: 137&quot;
+##                      
+##                       ICD10CM ICD9CM SNOMED
+##   3-dig nonbill code        0      1      0
+##   4-char billing code       4      0      0
+##   4-char nonbill code       2      0      0
+##   4-dig billing code        0      3      0
+##   5-char billing code       5      0      0
+##   Clinical Finding          0      0      1
+##   Context-dependent         0      0      1
+##   Disorder                  0      0    106
+##   Organism                  0      0      3
+##   Procedure                 0      0      1
+##   Substance                 0      0      9
+##   Undefined                 0      0      1</code></pre>
+<p>Files to download:</p>
+<ul>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv">cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv</a></li>
+<li><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv">cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="codes-to-use-for-drugs-queries" class="section level2" number="1.5">
+<h2><span class="header-section-number">1.5</span> Codes to use for
 Drugs Queries</h2>
 <p>This query is based on “D11: Find source codes by drug class”</p>
 <p>Query source: <a href="https://data.ohdsi.org/QueryLibrary/" class="uri">https://data.ohdsi.org/QueryLibrary/</a></p>
@@ -1367,15 +1478,15 @@ Drugs Queries</h2>
   disconnect(conn)
   return(results)
 }</code></pre>
-<div id="diabetes-medications" class="section level3" number="1.4.1">
-<h3><span class="header-section-number">1.4.1</span> Diabetes
+<div id="diabetes-medications" class="section level3" number="1.5.1">
+<h3><span class="header-section-number">1.5.1</span> Diabetes
 Medications</h3>
 <p>ATC 2nd level A10: DRUGS USED IN DIABETES <a href="https://athena.ohdsi.org/search-terms/terms/21600712" class="uri">https://athena.ohdsi.org/search-terms/terms/21600712</a></p>
 <pre class="r"><code>drugs_used_in_diabetes_OMOP_21600712 &lt;- find_drugs_by_ATC_class_concept_id(21600712)</code></pre>
 <pre><code>## Connecting using PostgreSQL driver</code></pre>
 <pre class="r"><code>write.table(drugs_used_in_diabetes_OMOP_21600712,file=&quot;drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv&quot;,sep=&quot;\t&quot;,quote=FALSE,row.names=FALSE)</code></pre>
-<div id="table-of-concept_class_id-vs-vocabulary_id" class="section level4" number="1.4.1.1">
-<h4><span class="header-section-number">1.4.1.1</span> Table of
+<div id="table-of-concept_class_id-vs-vocabulary_id" class="section level4" number="1.5.1.1">
+<h4><span class="header-section-number">1.5.1.1</span> Table of
 CONCEPT_CLASS_ID vs VOCABULARY_ID</h4>
 <pre class="r"><code>table(drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID,drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_ID)</code></pre>
 <pre><code>##                      
@@ -1403,22 +1514,22 @@ CONCEPT_CLASS_ID vs VOCABULARY_ID</h4>
 ##   Quant Clinical Box      0      0              758
 ##   Quant Clinical Drug     0    107              477</code></pre>
 </div>
-<div id="download-current-release-and-searchfilter-table" class="section level4" number="1.4.1.2">
-<h4><span class="header-section-number">1.4.1.2</span> Download Current
+<div id="download-current-release-and-searchfilter-table" class="section level4" number="1.5.1.2">
+<h4><span class="header-section-number">1.5.1.2</span> Download Current
 Release and Search/Filter Table</h4>
 <p><a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Drugs-used-in-Diabetes.html">Drugs
 used in Diabetes</a> for data download.</p>
 </div>
 </div>
-<div id="blood-pressure-medications" class="section level3" number="1.4.2">
-<h3><span class="header-section-number">1.4.2</span> Blood Pressure
+<div id="blood-pressure-medications" class="section level3" number="1.5.2">
+<h3><span class="header-section-number">1.5.2</span> Blood Pressure
 Medications</h3>
 <p>ATC 2nd level C02: ANTIHYPERTENSIVES <a href="https://athena.ohdsi.org/search-terms/terms/21600381" class="uri">https://athena.ohdsi.org/search-terms/terms/21600381</a></p>
 <pre class="r"><code>drugs_used_in_hypertension_OMOP_21600381 &lt;- find_drugs_by_ATC_class_concept_id(21600381)</code></pre>
 <pre><code>## Connecting using PostgreSQL driver</code></pre>
 <pre class="r"><code>write.table(drugs_used_in_hypertension_OMOP_21600381,file=&quot;drugs_used_in_hypertension_OMOP_21600381_AKM_30Sept2024.tsv&quot;,sep=&quot;\t&quot;,quote=FALSE,row.names=FALSE)</code></pre>
-<div id="table-of-concept_class_id-vs-vocabulary_id-1" class="section level4" number="1.4.2.1">
-<h4><span class="header-section-number">1.4.2.1</span> Table of
+<div id="table-of-concept_class_id-vs-vocabulary_id-1" class="section level4" number="1.5.2.1">
+<h4><span class="header-section-number">1.5.2.1</span> Table of
 CONCEPT_CLASS_ID vs VOCABULARY_ID</h4>
 <pre class="r"><code>table(drugs_used_in_hypertension_OMOP_21600381$CONCEPT_CLASS_ID, drugs_used_in_hypertension_OMOP_21600381$VOCABULARY_ID)</code></pre>
 <pre><code>##                      
@@ -1444,22 +1555,22 @@ CONCEPT_CLASS_ID vs VOCABULARY_ID</h4>
 ##   Quant Clinical Box     0      0              240
 ##   Quant Clinical Drug    0     16              343</code></pre>
 </div>
-<div id="download-current-release-and-searchfilter-table-1" class="section level4" number="1.4.2.2">
-<h4><span class="header-section-number">1.4.2.2</span> Download Current
+<div id="download-current-release-and-searchfilter-table-1" class="section level4" number="1.5.2.2">
+<h4><span class="header-section-number">1.5.2.2</span> Download Current
 Release and Search/Filter Table</h4>
 <p>See <a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Blood-Pressure-Lowering-Medications.html">Blood
 Pressure Lowering Medications</a> for data download.</p>
 </div>
 </div>
-<div id="lipid-lowering-medication" class="section level3" number="1.4.3">
-<h3><span class="header-section-number">1.4.3</span> Lipid Lowering
+<div id="lipid-lowering-medication" class="section level3" number="1.5.3">
+<h3><span class="header-section-number">1.5.3</span> Lipid Lowering
 Medication</h3>
 <p>ATC 2nd level C10: LIPID MODYFYING AGENTS <a href="https://athena.ohdsi.org/search-terms/terms/21601853" class="uri">https://athena.ohdsi.org/search-terms/terms/21601853</a></p>
 <pre class="r"><code>drugs_used_in_lipid_OMOP_21601853 &lt;- find_drugs_by_ATC_class_concept_id(21601853)</code></pre>
 <pre><code>## Connecting using PostgreSQL driver</code></pre>
 <pre class="r"><code>write.table(drugs_used_in_lipid_OMOP_21601853,file=&quot;drugs_used_in_lipid_OMOP_21601853_AKM_30Sept2024.tsv&quot;,sep=&quot;\t&quot;,quote=FALSE,row.names=FALSE)</code></pre>
-<div id="table-of-concept_class_id-vs-vocabulary_id-2" class="section level4" number="1.4.3.1">
-<h4><span class="header-section-number">1.4.3.1</span> Table of
+<div id="table-of-concept_class_id-vs-vocabulary_id-2" class="section level4" number="1.5.3.1">
+<h4><span class="header-section-number">1.5.3.1</span> Table of
 CONCEPT_CLASS_ID vs VOCABULARY_ID</h4>
 <pre class="r"><code>table(drugs_used_in_lipid_OMOP_21601853$CONCEPT_CLASS_ID,
       drugs_used_in_lipid_OMOP_21601853$VOCABULARY_ID)</code></pre>
@@ -1488,8 +1599,8 @@ CONCEPT_CLASS_ID vs VOCABULARY_ID</h4>
 ##   Quant Clinical Box      0      0              161
 ##   Quant Clinical Drug     0     31              126</code></pre>
 </div>
-<div id="download-current-release-and-searchfilter-table-2" class="section level4" number="1.4.3.2">
-<h4><span class="header-section-number">1.4.3.2</span> Download Current
+<div id="download-current-release-and-searchfilter-table-2" class="section level4" number="1.5.3.2">
+<h4><span class="header-section-number">1.5.3.2</span> Download Current
 Release and Search/Filter Table</h4>
 <p>See <a href="https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Lipid-Lowering-Medications.html">Lipid
 Lowering Medications</a> for data download.</p>
