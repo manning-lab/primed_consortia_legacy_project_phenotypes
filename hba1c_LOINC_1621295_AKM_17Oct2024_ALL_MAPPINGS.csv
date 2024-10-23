@@ -1,0 +1,36 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+1621295,LG51070-7,Hemoglobin A1c/Hemoglobin.total|Mass Fraction|Moment in time|Blood, Serum or Plasma,LOINC,Subsumes,3003309,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,4549-2,Lab Test,LOINC
+1621295,LG51070-7,Hemoglobin A1c/Hemoglobin.total|Mass Fraction|Moment in time|Blood, Serum or Plasma,LOINC,Subsumes,3005673,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,17856-6,Lab Test,LOINC
+1621295,LG51070-7,Hemoglobin A1c/Hemoglobin.total|Mass Fraction|Moment in time|Blood, Serum or Plasma,LOINC,Subsumes,3004410,Hemoglobin A1c/Hemoglobin.total in Blood,4548-4,Lab Test,LOINC
+1621295,LG51070-7,Hemoglobin A1c/Hemoglobin.total|Mass Fraction|Moment in time|Blood, Serum or Plasma,LOINC,Subsumes,40765129,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,62388-4,Lab Test,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Has property,1029654,Mass fraction,LP6831-4,LOINC Property,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Mapped from,3003309,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,4549-2,Lab Test,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Maps to,3003309,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,4549-2,Lab Test,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Has component,37056065,Hemoglobin A1c/Hemoglobin.total,LP286151-8,LOINC Component,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3003309,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Has property,1029654,Mass fraction,LP6831-4,LOINC Property,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Has component,37056065,Hemoglobin A1c/Hemoglobin.total,LP286151-8,LOINC Component,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Mapped from,3004410,Hemoglobin A1c/Hemoglobin.total in Blood,4548-4,Lab Test,LOINC
+3004410,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,Maps to,3004410,Hemoglobin A1c/Hemoglobin.total in Blood,4548-4,Lab Test,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Has property,1029654,Mass fraction,LP6831-4,LOINC Property,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Has method,1029073,High pressure liquid chromatography (HPLC),LP6319-0,LOINC Method,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Mapped from,3005673,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,17856-6,Lab Test,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Has component,37056065,Hemoglobin A1c/Hemoglobin.total,LP286151-8,LOINC Component,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Maps to,3005673,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,17856-6,Lab Test,LOINC
+3005673,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Has property,1029654,Mass fraction,LP6831-4,LOINC Property,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Has component,37056065,Hemoglobin A1c/Hemoglobin.total,LP286151-8,LOINC Component,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Has method,1005292,JDS/JSCC protocol,LP111462-0,LOINC Method,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Mapped from,40765129,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,62388-4,Lab Test,LOINC
+40765129,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,LOINC,Maps to,40765129,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,62388-4,Lab Test,LOINC

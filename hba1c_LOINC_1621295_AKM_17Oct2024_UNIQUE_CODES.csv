@@ -1,0 +1,13 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3003309,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,Lab Test,LOINC
+3005673,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,Lab Test,LOINC
+3004410,Hemoglobin A1c/Hemoglobin.total in Blood,Lab Test,LOINC
+40765129,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,Lab Test,LOINC
+1028989,Electrophoresis,LOINC Method,LOINC
+1029816,Point in time (spot),LOINC Time,LOINC
+1029654,Mass fraction,LOINC Property,LOINC
+37056065,Hemoglobin A1c/Hemoglobin.total,LOINC Component,LOINC
+1033751,Qn,LOINC Scale,LOINC
+1029919,Blood,LOINC System,LOINC
+1029073,High pressure liquid chromatography (HPLC),LOINC Method,LOINC
+1005292,JDS/JSCC protocol,LOINC Method,LOINC
