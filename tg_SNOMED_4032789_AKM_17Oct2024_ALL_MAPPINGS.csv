@@ -1,30 +1,30 @@
 TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Mapped from,3028507,Deprecated Triglyceride [Mass/volume] in fluid,13899-0,Lab Test,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Mapped from,3000637,Triglyceride [Mass/volume] in Body fluid,12228-3,Lab Test,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Maps to,3000637,Triglyceride [Mass/volume] in Body fluid,12228-3,Lab Test,LOINC
-3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Concept replaces,3004911,Deprecated Triglyceride [Mass/volume] in Body fluid,12950-2,Lab Test,LOINC
-3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has system,1030397,Body fluid,LP7238-1,LOINC System,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Mapped from,3004911,Deprecated Triglyceride [Mass/volume] in Body fluid,12950-2,Lab Test,LOINC
+3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Mapped from,3028507,Deprecated Triglyceride [Mass/volume] in fluid,13899-0,Lab Test,LOINC
 3000637,12228-3,Triglyceride [Mass/volume] in Body fluid,LOINC,Concept replaces,3028507,Deprecated Triglyceride [Mass/volume] in fluid,13899-0,Lab Test,LOINC
-3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
+3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Maps to,3007943,Triglyceride [Mass/volume] in Serum or Plasma by calculation,12951-0,Lab Test,LOINC
-3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
 3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Mapped from,3007943,Triglyceride [Mass/volume] in Serum or Plasma by calculation,12951-0,Lab Test,LOINC
-3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Maps to,3009192,Triglyceride [Mass/volume] in Semen,14448-5,Lab Test,LOINC
-3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
-3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Mapped from,3009192,Triglyceride [Mass/volume] in Semen,14448-5,Lab Test,LOINC
-3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has system,1033439,Semen,LP7589-7,LOINC System,LOINC
+3007943,12951-0,Triglyceride [Mass/volume] in Serum or Plasma by calculation,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Mapped from,3009192,Triglyceride [Mass/volume] in Semen,14448-5,Lab Test,LOINC
+3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
+3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Maps to,3009192,Triglyceride [Mass/volume] in Semen,14448-5,Lab Test,LOINC
 3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has system,1033439,Semen,LP7589-7,LOINC System,LOINC
+3009192,14448-5,Triglyceride [Mass/volume] in Semen,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3012391,28554-4,Triglyceride [Presence] in Serum or Plasma,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
 3012391,28554-4,Triglyceride [Presence] in Serum or Plasma,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3012391,28554-4,Triglyceride [Presence] in Serum or Plasma,LOINC,Maps to,3012391,Triglyceride [Presence] in Serum or Plasma,28554-4,Lab Test,LOINC
@@ -32,27 +32,27 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 3012391,28554-4,Triglyceride [Presence] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3012391,28554-4,Triglyceride [Presence] in Serum or Plasma,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
 3012391,28554-4,Triglyceride [Presence] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Maps to,3012789,Triglyceride [Moles/volume] in Specimen,22731-4,Lab Test,LOINC
+3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has system,21496667,XXX,LP7735-6,LOINC System,LOINC
+3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Mapped from,3012789,Triglyceride [Moles/volume] in Specimen,22731-4,Lab Test,LOINC
-3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has system,21496667,XXX,LP7735-6,LOINC System,LOINC
-3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has component,1022951,Triglyceride^post 12H CFst,LP307199-2,LOINC Component,LOINC
-3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Mapped from,3013678,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,1644-4,Lab Test,LOINC
-3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Maps to,3012789,Triglyceride [Moles/volume] in Specimen,22731-4,Lab Test,LOINC
+3012789,22731-4,Triglyceride [Moles/volume] in Specimen,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Maps to,3013678,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,1644-4,Lab Test,LOINC
+3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Mapped from,3013678,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,1644-4,Lab Test,LOINC
+3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has component,1022951,Triglyceride^post 12H CFst,LP307199-2,LOINC Component,LOINC
+3013678,1644-4,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Mapped from,3014110,Triglyceride [Mass/volume] in Synovial fluid,14449-3,Lab Test,LOINC
+3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Maps to,3014110,Triglyceride [Mass/volume] in Synovial fluid,14449-3,Lab Test,LOINC
+3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has system,1033459,Synovial fluid,LP7592-1,LOINC System,LOINC
-3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Mapped from,3014110,Triglyceride [Mass/volume] in Synovial fluid,14449-3,Lab Test,LOINC
-3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Maps to,3014110,Triglyceride [Mass/volume] in Synovial fluid,14449-3,Lab Test,LOINC
-3014110,14449-3,Triglyceride [Mass/volume] in Synovial fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3014600,30570-6,Triglyceride [Percentile],LOINC,Mapped from,3014600,Triglyceride [Percentile],30570-6,Lab Test,LOINC
 3014600,30570-6,Triglyceride [Percentile],LOINC,Has property,1029715,Percentile,LP6846-2,LOINC Property,LOINC
 3014600,30570-6,Triglyceride [Percentile],LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
@@ -60,28 +60,28 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 3014600,30570-6,Triglyceride [Percentile],LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3014600,30570-6,Triglyceride [Percentile],LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3014600,30570-6,Triglyceride [Percentile],LOINC,Maps to,3014600,Triglyceride [Percentile],30570-6,Lab Test,LOINC
-3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has component,1022951,Triglyceride^post 12H CFst,LP307199-2,LOINC Component,LOINC
 3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Mapped from,3019038,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,30524-3,Lab Test,LOINC
 3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Maps to,3019038,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,30524-3,Lab Test,LOINC
-3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3019038,30524-3,Triglyceride [Moles/volume] in Serum or Plasma --12 hours fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Mapped from,3022038,Triglyceride [Mass/volume] in Blood,3043-7,Lab Test,LOINC
 3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Maps to,3022038,Triglyceride [Mass/volume] in Blood,3043-7,Lab Test,LOINC
 3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
 3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
-3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3022038,3043-7,Triglyceride [Mass/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3013898,Deprecated Triglyceride [Mass/volume] in Serum or Plasma,3049-4,Lab Test,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
+3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3022192,Triglyceride [Mass/volume] in Serum or Plasma,2571-8,Lab Test,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Maps to,3022192,Triglyceride [Mass/volume] in Serum or Plasma,2571-8,Lab Test,LOINC
+3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3022192,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,Concept replaces,3013898,Deprecated Triglyceride [Mass/volume] in Serum or Plasma,3049-4,Lab Test,LOINC
 3023386,14447-7,Triglyceride [Mass/volume] in Peritoneal fluid,LOINC,Has system,1032584,Peritoneal fluid,LP7507-9,LOINC System,LOINC
 3023386,14447-7,Triglyceride [Mass/volume] in Peritoneal fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
@@ -90,13 +90,13 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 3023386,14447-7,Triglyceride [Mass/volume] in Peritoneal fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3023386,14447-7,Triglyceride [Mass/volume] in Peritoneal fluid,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3023386,14447-7,Triglyceride [Mass/volume] in Peritoneal fluid,LOINC,Mapped from,3023386,Triglyceride [Mass/volume] in Peritoneal fluid,14447-7,Lab Test,LOINC
-3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Mapped from,3025839,Triglyceride [Moles/volume] in Serum or Plasma,14927-8,Lab Test,LOINC
 3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Maps to,3025839,Triglyceride [Moles/volume] in Serum or Plasma,14927-8,Lab Test,LOINC
+3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3025839,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3026101,29766-3,Triglyceride [Moles/volume] in Body fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3026101,29766-3,Triglyceride [Moles/volume] in Body fluid,LOINC,Mapped from,3026101,Triglyceride [Moles/volume] in Body fluid,29766-3,Lab Test,LOINC
 3026101,29766-3,Triglyceride [Moles/volume] in Body fluid,LOINC,Maps to,3026101,Triglyceride [Moles/volume] in Body fluid,29766-3,Lab Test,LOINC
@@ -104,14 +104,14 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 3026101,29766-3,Triglyceride [Moles/volume] in Body fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 3026101,29766-3,Triglyceride [Moles/volume] in Body fluid,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3026101,29766-3,Triglyceride [Moles/volume] in Body fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Mapped from,3034111,Deprecated Triglyceride [Mass/volume] in Serum or Plasma --post CFst,17081-1,Lab Test,LOINC
 3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Maps to,3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,3048-6,Lab Test,LOINC
-3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Mapped from,3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,3048-6,Lab Test,LOINC
 3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Mapped from,3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,3048-6,Lab Test,LOINC
+3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has component,1022952,Triglyceride^post CFst,LP307200-8,LOINC Component,LOINC
+3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3027997,3048-6,Triglyceride [Mass/volume] in Serum or Plasma --fasting,LOINC,Concept replaces,3034111,Deprecated Triglyceride [Mass/volume] in Serum or Plasma --post CFst,17081-1,Lab Test,LOINC
 3034207,9619-8,Triglyceride [Mass/volume] in Pleural fluid,LOINC,Maps to,3034207,Triglyceride [Mass/volume] in Pleural fluid,9619-8,Lab Test,LOINC
 3034207,9619-8,Triglyceride [Mass/volume] in Pleural fluid,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
@@ -151,17 +151,17 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Mapped from,3042010,Triglyceride [Moles/volume] in Pleural fluid,39801-6,Lab Test,LOINC
 3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Has system,1032362,Pleural fluid,LP7486-6,LOINC System,LOINC
 3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Maps to,3042010,Triglyceride [Moles/volume] in Pleural fluid,39801-6,Lab Test,LOINC
+3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Has system,1032362,Pleural fluid,LP7486-6,LOINC System,LOINC
 3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Has component,40772572,Triglyceride,LP15275-8,LOINC Component,LOINC
 3042010,39801-6,Triglyceride [Moles/volume] in Pleural fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has component,1022952,Triglyceride^post CFst,LP307200-8,LOINC Component,LOINC
+3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Maps to,3048773,Triglyceride [Moles/volume] in Serum or Plasma --fasting,47210-0,Lab Test,LOINC
 3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Mapped from,3048773,Triglyceride [Moles/volume] in Serum or Plasma --fasting,47210-0,Lab Test,LOINC
-3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3048773,47210-0,Triglyceride [Moles/volume] in Serum or Plasma --fasting,LOINC,Has component,1022952,Triglyceride^post CFst,LP307200-8,LOINC Component,LOINC
 4016950,104586006,Cholesterol/triglyceride ratio measurement,SNOMED,Has component,4224820,Cholesterol,84698008,Substance,SNOMED
 4016950,104586006,Cholesterol/triglyceride ratio measurement,SNOMED,Has property,4042999,Ratio,118586006,Qualifier Value,SNOMED
 4016950,104586006,Cholesterol/triglyceride ratio measurement,SNOMED,Mapped from,4016950,Cholesterol/triglyceride ratio measurement,104586006,Procedure,SNOMED
@@ -215,11 +215,11 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,42868436,Triglyceride [Moles/volume] in Pericardial fluid,69947-0,Lab Test,LOINC
 4032789,14740000,Triglycerides measurement,SNOMED,Mapped from,44808857,Triglyceride level,850991000000104,Observable Entity,SNOMED
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,4055696,Plasma random triglyceride measurement,167083005,Procedure,SNOMED
-4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3014600,Triglyceride [Percentile],30570-6,Lab Test,LOINC
+4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,3048-6,Lab Test,LOINC
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,4042590,Serum fasting triglyceride measurement,166849007,Procedure,SNOMED
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3023386,Triglyceride [Mass/volume] in Peritoneal fluid,14447-7,Lab Test,LOINC
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,40762634,Triglyceride [Moles/volume] in Urine,59572-8,Lab Test,LOINC
-4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,3048-6,Lab Test,LOINC
+4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3014600,Triglyceride [Percentile],30570-6,Lab Test,LOINC
 4032789,14740000,Triglycerides measurement,SNOMED,Has component,4311687,Triacylglycerol,85600001,Substance,SNOMED
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3036816,Triglyceride [Mass/volume] in Cerebral spinal fluid,14446-9,Lab Test,LOINC
 4032789,14740000,Triglycerides measurement,SNOMED,Subsumes,3036647,Triglyceride [Mass/volume] in Urine,14450-1,Lab Test,LOINC

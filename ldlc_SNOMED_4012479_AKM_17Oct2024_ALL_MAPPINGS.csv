@@ -1,221 +1,221 @@
 TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
-1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Mapped from,1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),100733-5,Lab Test,LOINC
-1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Maps to,1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),100733-5,Lab Test,LOINC
-1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
+1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has system,1033211,Serum,LP7567-3,LOINC System,LOINC
 1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has system,1033211,Serum,LP7567-3,LOINC System,LOINC
 1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has component,1762517,Cholesterol.in LDL^corrected for Cholesterol.in lipoprotein (little a),LP433282-3,LOINC Component,LOINC
+1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Maps to,1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),100733-5,Lab Test,LOINC
+1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Mapped from,1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),100733-5,Lab Test,LOINC
+1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
+1761709,100733-5,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Mapped from,3001308,Cholesterol in LDL [Moles/volume] in Serum or Plasma,22748-8,Lab Test,LOINC
+3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
 3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Mapped from,3001308,Cholesterol in LDL [Moles/volume] in Serum or Plasma,22748-8,Lab Test,LOINC
 3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Maps to,3001308,Cholesterol in LDL [Moles/volume] in Serum or Plasma,22748-8,Lab Test,LOINC
-3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3001308,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has property,1029715,Percentile,LP6846-2,LOINC Property,LOINC
-3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has scale type,3968295,SemiQn,LP436123-6,LOINC Scale,LOINC
-3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Mapped from,3008631,Cholesterol in LDL [Percentile],14155-6,Lab Test,LOINC
 3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Maps to,3008631,Cholesterol in LDL [Percentile],14155-6,Lab Test,LOINC
+3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has scale type,3968295,SemiQn,LP436123-6,LOINC Scale,LOINC
+3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has property,1029715,Percentile,LP6846-2,LOINC Property,LOINC
 3008631,14155-6,Cholesterol in LDL [Percentile],LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has method,1028974,Direct assay,LP6230-9,LOINC Method,LOINC
-3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Maps to,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,18262-6,Lab Test,LOINC
-3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Mapped from,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,18262-6,Lab Test,LOINC
-3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has method,1028974,Direct assay,LP6230-9,LOINC Method,LOINC
+3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Mapped from,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,18262-6,Lab Test,LOINC
+3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Maps to,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,18262-6,Lab Test,LOINC
+3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3009966,18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Maps to,3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,13457-7,Lab Test,LOINC
+3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Mapped from,3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,13457-7,Lab Test,LOINC
+3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
+3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
-3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Mapped from,3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,13457-7,Lab Test,LOINC
-3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Maps to,3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,13457-7,Lab Test,LOINC
 3028288,13457-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Concept replaces,3004169,Deprecated Cholesterol.in LDL [Mass/volume] in Serum or Plasma,2090-9,Lab Test,LOINC
+3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3004169,Deprecated Cholesterol.in LDL [Mass/volume] in Serum or Plasma,2090-9,Lab Test,LOINC
 3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
 3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Maps to,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,2089-1,Lab Test,LOINC
 3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,2089-1,Lab Test,LOINC
-3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Concept replaces,3004169,Deprecated Cholesterol.in LDL [Mass/volume] in Serum or Plasma,2090-9,Lab Test,LOINC
-3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,12773-8,Lab Test,LOINC
+3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+3028437,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,12773-8,Lab Test,LOINC
 3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has property,1029599,Arbitrary Concentration,LP6773-8,LOINC Property,LOINC
+3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,12773-8,Lab Test,LOINC
+3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,12773-8,Lab Test,LOINC
 3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
 3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3035009,12773-8,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has system,1033324,Serum or Plasma ultracentrifugate,LP7578-0,LOINC System,LOINC
-3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Maps to,3035899,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,18261-8,Lab Test,LOINC
-3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Mapped from,3035899,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,18261-8,Lab Test,LOINC
+3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Mapped from,3035899,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,18261-8,Lab Test,LOINC
+3035899,18261-8,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Maps to,3035899,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,18261-8,Lab Test,LOINC
 3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Maps to,3038988,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,39469-2,Lab Test,LOINC
-3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Mapped from,3038988,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,39469-2,Lab Test,LOINC
 3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has method,1028907,Calculated,LP6165-7,LOINC Method,LOINC
 3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Mapped from,3039873,Cholesterol in LDL [Moles/volume] in Body fluid,53133-5,Lab Test,LOINC
-3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Mapped from,3038988,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,39469-2,Lab Test,LOINC
+3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Maps to,3038988,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,39469-2,Lab Test,LOINC
+3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+3038988,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has system,1030397,Body fluid,LP7238-1,LOINC System,LOINC
 3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Maps to,3039873,Cholesterol in LDL [Moles/volume] in Body fluid,53133-5,Lab Test,LOINC
 3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Mapped from,3039873,Cholesterol in LDL [Moles/volume] in Body fluid,53133-5,Lab Test,LOINC
 3039873,53133-5,Cholesterol in LDL [Moles/volume] in Body fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
+3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
+3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
 3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3053341,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,49132-4,Lab Test,LOINC
 3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3053341,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,49132-4,Lab Test,LOINC
-3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-3053341,49132-4,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,4041556,Serum LDL cholesterol measurement,166833005,Procedure,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3053341,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,49132-4,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,36031943,HEDIS MY 2020 Value Set - LDL-C Tests,96071-6,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3008631,Cholesterol in LDL [Percentile],14155-6,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,3042241,HEDIS 2009 Codes to identify LDLc screening (CMC-D),54046-8,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,4012479,Low density lipoprotein cholesterol measurement,113079009,Procedure,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Maps to,4012479,Low density lipoprotein cholesterol measurement,113079009,Procedure,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96258-9,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Interprets of,37174861,Low density lipoprotein cholesterol within reference range,1172656007,Clinical Finding,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,4210878,Plasma LDL cholesterol measurement,314036004,Procedure,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,18262-6,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96259-7,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,37174861,Low density lipoprotein cholesterol within reference range,1172656007,Clinical Finding,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,37174860,Low density lipoprotein cholesterol below reference range,1172655006,Clinical Finding,SNOMED
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40763533,HEDIS 2011-2013 Codes to identify LDLc screening (CMC-D),60479-3,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,12773-8,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,36031943,HEDIS MY 2020 Value Set - LDL-C Tests,96071-6,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3053341,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,49132-4,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,44786904,HEDIS 2014 Value Set - LDL-C Tests,74249-4,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,4210878,Plasma LDL cholesterol measurement,314036004,Procedure,SNOMED
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40763535,HEDIS 2011-2013 Codes to identify LDLc screening (CDC-H),60481-9,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96258-9,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,69419-0,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Maps to,4012479,Low density lipoprotein cholesterol measurement,113079009,Procedure,SNOMED
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,4012479,Low density lipoprotein cholesterol measurement,113079009,Procedure,SNOMED
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40760924,HEDIS 2010 Codes to identify LDLc screening (CDC-H),57815-3,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,3042241,HEDIS 2009 Codes to identify LDLc screening (CMC-D),54046-8,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3008631,Cholesterol in LDL [Percentile],14155-6,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,46235674,HEDIS 2015-2020 Value Set - LDL-C Tests,75861-5,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Interprets of,37174860,Low density lipoprotein cholesterol below reference range,1172655006,Clinical Finding,SNOMED
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,37174860,Low density lipoprotein cholesterol below reference range,1172655006,Clinical Finding,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,46235674,HEDIS 2015-2020 Value Set - LDL-C Tests,75861-5,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40760925,HEDIS 2010 Codes to identify LDLc screening (CMC-D),57816-1,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3038988,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,39469-2,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,96597-0,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3039873,Cholesterol in LDL [Moles/volume] in Body fluid,53133-5,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96259-7,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,13457-7,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40760924,HEDIS 2010 Codes to identify LDLc screening (CDC-H),57815-3,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,55440-2,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,4041556,Serum LDL cholesterol measurement,166833005,Procedure,SNOMED
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,3040294,HEDIS 2009 Codes to identify LDLc screening (CDC-H),54040-1,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Interprets of,37174861,Low density lipoprotein cholesterol within reference range,1172656007,Clinical Finding,SNOMED
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,37174861,Low density lipoprotein cholesterol within reference range,1172656007,Clinical Finding,SNOMED
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3001308,Cholesterol in LDL [Moles/volume] in Serum or Plasma,22748-8,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40483758,Low density lipoprotein cholesterol above reference range,445445006,Clinical Finding,SNOMED
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Interprets of,40483758,Low density lipoprotein cholesterol above reference range,445445006,Clinical Finding,SNOMED
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Value mapped from,915771,Patient's highest fasting or direct ldl-c laboratory test result in the measurement period or two years prior to the beginning of the measurement period is 70-189 mg/dl (Deprecated),G9666,HCPCS,HCPCS
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,18262-6,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Mapped from,40763535,HEDIS 2011-2013 Codes to identify LDLc screening (CDC-H),60481-9,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3035899,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,18261-8,Lab Test,LOINC
 4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,2089-1,Lab Test,LOINC
-4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Concept same_as from,40307326,Serum LDL cholesterol level,144109006,Procedure,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,4041556,Serum LDL cholesterol measurement,166833005,Procedure,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Subsumes,4042061,Serum fasting LDL cholesterol measurement,166840006,Procedure,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,37399325,Serum low density lipoprotein cholesterol level,1022191000000100,Observable Entity,SNOMED
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,69419-0,Lab Test,LOINC
+4012479,113079009,Low density lipoprotein cholesterol measurement,SNOMED,Subsumes,36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,96597-0,Lab Test,LOINC
 4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Subsumes,1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),100733-5,Lab Test,LOINC
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Has specimen,4001181,Serum specimen,119364003,Specimen,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,40307326,Serum LDL cholesterol level,144109006,Procedure,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Maps to,4041556,Serum LDL cholesterol measurement,166833005,Procedure,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Subsumes,4042062,Serum random LDL cholesterol measurement,166841005,Procedure,SNOMED
-4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
 4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,3033200,Cholesterol in LDL [Mass or Moles/volume] in Serum or Plasma,35198-1,Lab Test,LOINC
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Concept replaces,40308373,Plasma fasting LDL cholesterol level,144313005,Procedure,SNOMED
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Maps to,4041721,Plasma fasting LDL cholesterol measurement,167075004,Procedure,SNOMED
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Concept same_as from,40308373,Plasma fasting LDL cholesterol level,144313005,Procedure,SNOMED
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Mapped from,37394232,Plasma fasting LDL (low density lipoprotein) cholesterol level,1028861000000101,Observable Entity,SNOMED
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Mapped from,40308373,Plasma fasting LDL cholesterol level,144313005,Procedure,SNOMED
-4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Mapped from,4041721,Plasma fasting LDL cholesterol measurement,167075004,Procedure,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Concept same_as from,40307326,Serum LDL cholesterol level,144109006,Procedure,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Subsumes,4042061,Serum fasting LDL cholesterol measurement,166840006,Procedure,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,4041556,Serum LDL cholesterol measurement,166833005,Procedure,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Maps to,4041556,Serum LDL cholesterol measurement,166833005,Procedure,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Has specimen,4001181,Serum specimen,119364003,Specimen,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,37399325,Serum low density lipoprotein cholesterol level,1022191000000100,Observable Entity,SNOMED
+4041556,166833005,Serum LDL cholesterol measurement,SNOMED,Mapped from,40307326,Serum LDL cholesterol level,144109006,Procedure,SNOMED
 4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Has specimen,4000626,Plasma specimen,119361006,Specimen,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Concept same_as from,40308373,Plasma fasting LDL cholesterol level,144313005,Procedure,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Mapped from,4041721,Plasma fasting LDL cholesterol measurement,167075004,Procedure,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Mapped from,40308373,Plasma fasting LDL cholesterol level,144313005,Procedure,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Concept replaces,40308373,Plasma fasting LDL cholesterol level,144313005,Procedure,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Mapped from,37394232,Plasma fasting LDL (low density lipoprotein) cholesterol level,1028861000000101,Observable Entity,SNOMED
 4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Concept same_as from,40307334,Serum fasting LDL cholesterol level,144116007,Procedure,SNOMED
-4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Maps to,4042061,Serum fasting LDL cholesterol measurement,166840006,Procedure,SNOMED
-4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
+4041721,167075004,Plasma fasting LDL cholesterol measurement,SNOMED,Maps to,4041721,Plasma fasting LDL cholesterol measurement,167075004,Procedure,SNOMED
 4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Mapped from,40307334,Serum fasting LDL cholesterol level,144116007,Procedure,SNOMED
-4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Has specimen,4001181,Serum specimen,119364003,Specimen,SNOMED
+4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Concept same_as from,40307334,Serum fasting LDL cholesterol level,144116007,Procedure,SNOMED
 4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Mapped from,4042061,Serum fasting LDL cholesterol measurement,166840006,Procedure,SNOMED
+4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Maps to,4042061,Serum fasting LDL cholesterol measurement,166840006,Procedure,SNOMED
 4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Mapped from,37394093,Serum fasting LDL (low density lipoprotein) cholesterol level,1026471000000106,Observable Entity,SNOMED
+4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
+4042061,166840006,Serum fasting LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Concept same_as from,40307335,Serum random LDL cholesterol level,144117003,Procedure,SNOMED
+4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
-4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Has specimen,4001181,Serum specimen,119364003,Specimen,SNOMED
 4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Mapped from,37394094,Serum random LDL (low density lipoprotein) cholesterol level,1026481000000108,Observable Entity,SNOMED
 4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Mapped from,4042062,Serum random LDL cholesterol measurement,166841005,Procedure,SNOMED
+4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Has specimen,4001181,Serum specimen,119364003,Specimen,SNOMED
 4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Maps to,4042062,Serum random LDL cholesterol measurement,166841005,Procedure,SNOMED
-4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Concept replaces,40307335,Serum random LDL cholesterol level,144117003,Procedure,SNOMED
-4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Concept same_as from,40307335,Serum random LDL cholesterol level,144117003,Procedure,SNOMED
 4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Mapped from,40307335,Serum random LDL cholesterol level,144117003,Procedure,SNOMED
-4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Has specimen,4000626,Plasma specimen,119361006,Specimen,SNOMED
+4042062,166841005,Serum random LDL cholesterol measurement,SNOMED,Concept replaces,40307335,Serum random LDL cholesterol level,144117003,Procedure,SNOMED
 4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Mapped from,40308372,Plasma random LDL cholesterol level,144312000,Procedure,SNOMED
+4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Concept same_as from,40308372,Plasma random LDL cholesterol level,144312000,Procedure,SNOMED
+4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Has specimen,4000626,Plasma specimen,119361006,Specimen,SNOMED
+4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Mapped from,37394231,Plasma random LDL (low density lipoprotein) cholesterol level,1028851000000104,Observable Entity,SNOMED
+4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Maps to,4042758,Plasma random LDL cholesterol measurement,167074000,Procedure,SNOMED
 4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
 4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Mapped from,4042758,Plasma random LDL cholesterol measurement,167074000,Procedure,SNOMED
-4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Maps to,4042758,Plasma random LDL cholesterol measurement,167074000,Procedure,SNOMED
-4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Mapped from,37394231,Plasma random LDL (low density lipoprotein) cholesterol level,1028851000000104,Observable Entity,SNOMED
-4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Concept same_as from,40308372,Plasma random LDL cholesterol level,144312000,Procedure,SNOMED
-4042758,167074000,Plasma random LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Subsumes,4041721,Plasma fasting LDL cholesterol measurement,167075004,Procedure,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Mapped from,40330202,Plasma LDL cholesterol level,167081007,Procedure,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Concept same_as from,40330202,Plasma LDL cholesterol level,167081007,Procedure,SNOMED
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Concept same_as from,40308379,Plasma LDL cholesterol level,144319009,Procedure,SNOMED
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Mapped from,40308379,Plasma LDL cholesterol level,144319009,Procedure,SNOMED
 4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Mapped from,37392939,Plasma LDL (low density lipoprotein) cholesterol level,1010591000000104,Observable Entity,SNOMED
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Mapped from,40330202,Plasma LDL cholesterol level,167081007,Procedure,SNOMED
 4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Subsumes,4042758,Plasma random LDL cholesterol measurement,167074000,Procedure,SNOMED
 4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Maps to,4210878,Plasma LDL cholesterol measurement,314036004,Procedure,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Mapped from,40308379,Plasma LDL cholesterol level,144319009,Procedure,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Concept same_as from,40308379,Plasma LDL cholesterol level,144319009,Procedure,SNOMED
-4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Has component,4009426,LDL cholesterol,102739008,Substance,SNOMED
 4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Mapped from,4210878,Plasma LDL cholesterol measurement,314036004,Procedure,SNOMED
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Has specimen,4000626,Plasma specimen,119361006,Specimen,SNOMED
-36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Mapped from,36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96258-9,Lab Test,LOINC
-36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Maps to,36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96258-9,Lab Test,LOINC
-36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Concept same_as from,40330202,Plasma LDL cholesterol level,167081007,Procedure,SNOMED
+4210878,314036004,Plasma LDL cholesterol measurement,SNOMED,Subsumes,4041721,Plasma fasting LDL cholesterol measurement,167075004,Procedure,SNOMED
+36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has method,36034318,Calculated.Martin-Hopkins,LP420988-0,LOINC Method,LOINC
+36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Maps to,36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96258-9,Lab Test,LOINC
+36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Mapped from,36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96258-9,Lab Test,LOINC
 36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 36031267,96258-9,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has method,36034318,Calculated.Martin-Hopkins,LP420988-0,LOINC Method,LOINC
+36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Mapped from,36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96259-7,Lab Test,LOINC
 36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Maps to,36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96259-7,Lab Test,LOINC
 36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Mapped from,36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,96259-7,Lab Test,LOINC
+36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
-36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+36031404,96259-7,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Maps to,36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,96597-0,Lab Test,LOINC
-36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Mapped from,36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,96597-0,Lab Test,LOINC
+36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has method,1028974,Direct assay,LP6230-9,LOINC Method,LOINC
+36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
+36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has system,1015160,DBS,LP21304-8,LOINC System,LOINC
 36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has method,1028974,Direct assay,LP6230-9,LOINC Method,LOINC
-36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Has system,1015160,DBS,LP21304-8,LOINC System,LOINC
-40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+36032416,96597-0,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,LOINC,Mapped from,36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,96597-0,Lab Test,LOINC
+40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Mapped from,40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,55440-2,Lab Test,LOINC
 40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Maps to,40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,55440-2,Lab Test,LOINC
 40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
 40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has method,1034360,VAP,LP94759-5,LOINC Method,LOINC
-40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Mapped from,40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,55440-2,Lab Test,LOINC
+40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Mapped from,42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,69419-0,Lab Test,LOINC
+40758569,55440-2,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Mapped from,42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,69419-0,Lab Test,LOINC
+42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Maps to,42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,69419-0,Lab Test,LOINC
+42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC
 42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has method,1028974,Direct assay,LP6230-9,LOINC Method,LOINC
 42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Maps to,42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,69419-0,Lab Test,LOINC
-42870529,69419-0,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,LOINC,Has component,40795800,Cholesterol in LDL,LP15491-1,LOINC Component,LOINC

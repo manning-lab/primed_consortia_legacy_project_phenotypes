@@ -1,245 +1,245 @@
 TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4 - SNOMED eq,4141733,Hematology procedure,33468001,Procedure,SNOMED
+2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4 - SNOMED cat,4022016,Mononuclear cell count,116710004,Procedure,SNOMED
 2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,Mapped from,2108451,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,38215,CPT4,CPT4
 2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4 - SNOMED cat,4129835,Buffy coat smear evaluation,2373006,Procedure,SNOMED
 2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,Maps to,2108451,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,38215,CPT4,CPT4
 2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4 - SNOMED eq,4016240,Bone marrow processing to eliminate cells,104137002,Procedure,SNOMED
-2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4 - SNOMED eq,4141733,Hematology procedure,33468001,Procedure,SNOMED
-2108451,38215,Transplant preparation of hematopoietic progenitor cells; cell concentration in plasma, mononuclear, or buffy coat layer,CPT4,CPT4 - SNOMED cat,4022016,Mononuclear cell count,116710004,Procedure,SNOMED
-2721185,S3630,Eosinophil count, blood, direct,HCPCS,Maps to,2721185,Eosinophil count, blood, direct,S3630,HCPCS,HCPCS
 2721185,S3630,Eosinophil count, blood, direct,HCPCS,Mapped from,2721185,Eosinophil count, blood, direct,S3630,HCPCS,HCPCS
-3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
-3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has component,40792411,Prolymphocytes,LP15082-8,LOINC Component,LOINC
+2721185,S3630,Eosinophil count, blood, direct,HCPCS,Maps to,2721185,Eosinophil count, blood, direct,S3630,HCPCS,HCPCS
 3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Maps to,3001552,Prolymphocytes [#/volume] in Blood,30464-2,Lab Test,LOINC
-3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has component,40792411,Prolymphocytes,LP15082-8,LOINC Component,LOINC
 3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Mapped from,3001552,Prolymphocytes [#/volume] in Blood,30464-2,Lab Test,LOINC
+3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3001552,30464-2,Prolymphocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
 3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has system,1033439,Semen,LP7589-7,LOINC System,LOINC
+3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Maps to,3001687,Leukocytes [#/volume] in Semen by Automated count,811-0,Lab Test,LOINC
+3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
+3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
 3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Mapped from,3001687,Leukocytes [#/volume] in Semen by Automated count,811-0,Lab Test,LOINC
 3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
-3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Maps to,3001687,Leukocytes [#/volume] in Semen by Automated count,811-0,Lab Test,LOINC
-3001687,811-0,Leukocytes [#/volume] in Semen by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
-3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
-3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Maps to,3002125,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,805-2,Lab Test,LOINC
-3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has system,1030067,Cerebral spinal fluid,LP7156-5,LOINC System,LOINC
 3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
-3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Maps to,3002125,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,805-2,Lab Test,LOINC
+3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
 3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Mapped from,3002125,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,805-2,Lab Test,LOINC
-3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has component,40779190,Metamyelocytes,LP15075-2,LOINC Component,LOINC
+3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3002125,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Maps to,3012392,Metamyelocytes [#/volume] in Blood by Manual count,739-3,Lab Test,LOINC
 3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
 3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Mapped from,3012392,Metamyelocytes [#/volume] in Blood by Manual count,739-3,Lab Test,LOINC
+3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has component,40779190,Metamyelocytes,LP15075-2,LOINC Component,LOINC
 3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
-3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Maps to,3012392,Metamyelocytes [#/volume] in Blood by Manual count,739-3,Lab Test,LOINC
+3012392,739-3,Metamyelocytes [#/volume] in Blood by Manual count,LOINC,Mapped from,3012392,Metamyelocytes [#/volume] in Blood by Manual count,739-3,Lab Test,LOINC
 3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
-3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Maps to,3015586,Segmented neutrophils [#/volume] in Blood,30451-9,Lab Test,LOINC
+3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Has component,40792738,Segmented neutrophils,LP29151-5,LOINC Component,LOINC
 3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Mapped from,3015586,Segmented neutrophils [#/volume] in Blood,30451-9,Lab Test,LOINC
 3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
 3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Mapped from,3015586,Segmented neutrophils [#/volume] in Blood,30451-9,Lab Test,LOINC
-3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Has component,40792738,Segmented neutrophils,LP29151-5,LOINC Component,LOINC
-3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Maps to,3017128,Prolymphocytes [#/volume] in Blood by Manual count,6863-5,Lab Test,LOINC
-3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3015586,30451-9,Segmented neutrophils [#/volume] in Blood,LOINC,Maps to,3015586,Segmented neutrophils [#/volume] in Blood,30451-9,Lab Test,LOINC
 3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
-3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
-3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Mapped from,3017128,Prolymphocytes [#/volume] in Blood by Manual count,6863-5,Lab Test,LOINC
 3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has component,40792411,Prolymphocytes,LP15082-8,LOINC Component,LOINC
-3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Maps to,3017128,Prolymphocytes [#/volume] in Blood by Manual count,6863-5,Lab Test,LOINC
+3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3017128,6863-5,Prolymphocytes [#/volume] in Blood by Manual count,LOINC,Mapped from,3017128,Prolymphocytes [#/volume] in Blood by Manual count,6863-5,Lab Test,LOINC
 3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
+3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
 3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has component,40779191,Myelocytes,LP15077-8,LOINC Component,LOINC
 3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Mapped from,3017680,Myelocytes [#/volume] in Blood by Manual count,748-4,Lab Test,LOINC
 3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Maps to,3017680,Myelocytes [#/volume] in Blood by Manual count,748-4,Lab Test,LOINC
-3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Maps to,3021120,Myelocytes [#/volume] in Blood,30446-9,Lab Test,LOINC
-3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
-3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has component,40779191,Myelocytes,LP15077-8,LOINC Component,LOINC
+3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3017680,748-4,Myelocytes [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
 3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Mapped from,3021120,Myelocytes [#/volume] in Blood,30446-9,Lab Test,LOINC
-3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Mapped from,3024507,Metamyelocytes [#/volume] in Blood,30433-7,Lab Test,LOINC
-3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Maps to,3021120,Myelocytes [#/volume] in Blood,30446-9,Lab Test,LOINC
+3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has component,40779191,Myelocytes,LP15077-8,LOINC Component,LOINC
+3021120,30446-9,Myelocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
 3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has component,40779190,Metamyelocytes,LP15075-2,LOINC Component,LOINC
+3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Maps to,3024507,Metamyelocytes [#/volume] in Blood,30433-7,Lab Test,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Maps to,3027270,Segmented neutrophils [#/volume] in Blood by Manual count,768-2,Lab Test,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Mapped from,3027270,Segmented neutrophils [#/volume] in Blood by Manual count,768-2,Lab Test,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has component,40792738,Segmented neutrophils,LP29151-5,LOINC Component,LOINC
+3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3024507,30433-7,Metamyelocytes [#/volume] in Blood,LOINC,Mapped from,3024507,Metamyelocytes [#/volume] in Blood,30433-7,Lab Test,LOINC
 3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has component,40792738,Segmented neutrophils,LP29151-5,LOINC Component,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Mapped from,3027270,Segmented neutrophils [#/volume] in Blood by Manual count,768-2,Lab Test,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has method,1029133,Manual count,LP6377-8,LOINC Method,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Maps to,3027270,Segmented neutrophils [#/volume] in Blood by Manual count,768-2,Lab Test,LOINC
+3027270,768-2,Segmented neutrophils [#/volume] in Blood by Manual count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Maps to,3033822,Leukocytes [#/volume] in Peritoneal fluid by Automated count,809-4,Lab Test,LOINC
+3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
 3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
 3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Mapped from,3033822,Leukocytes [#/volume] in Peritoneal fluid by Automated count,809-4,Lab Test,LOINC
 3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has system,1032584,Peritoneal fluid,LP7507-9,LOINC System,LOINC
 3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
-3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Maps to,3033822,Leukocytes [#/volume] in Peritoneal fluid by Automated count,809-4,Lab Test,LOINC
-3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
-3033822,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
 3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
-3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
+3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has system,1032362,Pleural fluid,LP7486-6,LOINC System,LOINC
 3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Maps to,3037296,Leukocytes [#/volume] in Pleural fluid by Automated count,807-8,Lab Test,LOINC
 3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Mapped from,3037296,Leukocytes [#/volume] in Pleural fluid by Automated count,807-8,Lab Test,LOINC
-3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has system,1032362,Pleural fluid,LP7486-6,LOINC System,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Maps to,3038189,Leukocytes [#/volume] in Synovial fluid by Automated count,813-6,Lab Test,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has system,1033459,Synovial fluid,LP7592-1,LOINC System,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Mapped from,3038189,Leukocytes [#/volume] in Synovial fluid by Automated count,813-6,Lab Test,LOINC
-3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
+3037296,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
 3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Maps to,3038189,Leukocytes [#/volume] in Synovial fluid by Automated count,813-6,Lab Test,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Mapped from,3038189,Leukocytes [#/volume] in Synovial fluid by Automated count,813-6,Lab Test,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has system,1033459,Synovial fluid,LP7592-1,LOINC System,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has property,1029672,Number Concentration,LP6836-3,LOINC Property,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has component,40782521,Leukocytes,LP14419-3,LOINC Component,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3038189,813-6,Leukocytes [#/volume] in Synovial fluid by Automated count,LOINC,Has method,1028881,Automated count,LP6141-8,LOINC Method,LOINC
+3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has component,40779190,Metamyelocytes,LP15075-2,LOINC Component,LOINC
 3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Maps to,3039014,Metamyelocytes [Presence] in Blood,40651-2,Lab Test,LOINC
 3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Mapped from,3039014,Metamyelocytes [Presence] in Blood,40651-2,Lab Test,LOINC
 3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
-3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has component,40779190,Metamyelocytes,LP15075-2,LOINC Component,LOINC
-3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
 3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3039014,40651-2,Metamyelocytes [Presence] in Blood,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
 4001671,10967009,Eosinophil count, nasal,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4001671,10967009,Eosinophil count, nasal,SNOMED,Mapped from,4001671,Eosinophil count, nasal,10967009,Procedure,SNOMED
-4001671,10967009,Eosinophil count, nasal,SNOMED,Maps to,4001671,Eosinophil count, nasal,10967009,Procedure,SNOMED
 4001671,10967009,Eosinophil count, nasal,SNOMED,Has component,4133456,Eosinophilic granulocytic cell,127916009,Body Structure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301791,Diff. white cell count NOS,142925001,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301788,Differential white blood cell count,142922003,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Concept same_as from,40301788,Differential white blood cell count,142922003,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301790,Diff. white count abnormal,142924002,Clinical Finding,SNOMED
+4001671,10967009,Eosinophil count, nasal,SNOMED,Maps to,4001671,Eosinophil count, nasal,10967009,Procedure,SNOMED
 4013251,165511009,Differential white blood cell count procedure,SNOMED,Subsumes,4121153,Determination of percentage differential white blood cells,302560003,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Interprets of,4013992,Differential white cell count within reference range,165512002,Clinical Finding,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4013992,Differential white cell count within reference range,165512002,Clinical Finding,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,3557381,Diff. white cell count NOS,546041000000107,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Concept was_a from,3557381,Diff. white cell count NOS,546041000000107,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301789,Diff. white cell count normal,142923008,Clinical Finding,SNOMED
 4013251,165511009,Differential white blood cell count procedure,SNOMED,Maps to,4013251,Differential white blood cell count procedure,165511009,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4013251,Differential white blood cell count procedure,165511009,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4306253,Differential white cell count outside reference range,165513007,Clinical Finding,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Interprets of,4306253,Differential white cell count outside reference range,165513007,Clinical Finding,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Concept was_a from,40301791,Diff. white cell count NOS,142925001,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4306254,Diff. white cell count NOS,165514001,Procedure,SNOMED
-4013251,165511009,Differential white blood cell count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4013251,165511009,Differential white blood cell count procedure,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4013251,Differential white blood cell count procedure,165511009,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4306253,Differential white cell count outside reference range,165513007,Clinical Finding,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4013992,Differential white cell count within reference range,165512002,Clinical Finding,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,4306254,Diff. white cell count NOS,165514001,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301790,Diff. white count abnormal,142924002,Clinical Finding,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301789,Diff. white cell count normal,142923008,Clinical Finding,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Interprets of,4013992,Differential white cell count within reference range,165512002,Clinical Finding,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301788,Differential white blood cell count,142922003,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Concept was_a from,40301791,Diff. white cell count NOS,142925001,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Concept same_as from,40301788,Differential white blood cell count,142922003,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Interprets of,4306253,Differential white cell count outside reference range,165513007,Clinical Finding,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Concept was_a from,3557381,Diff. white cell count NOS,546041000000107,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,40301791,Diff. white cell count NOS,142925001,Procedure,SNOMED
+4013251,165511009,Differential white blood cell count procedure,SNOMED,Mapped from,3557381,Diff. white cell count NOS,546041000000107,Procedure,SNOMED
 4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Subsumes,3002125,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,805-2,Lab Test,LOINC
-4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Has specimen,4124259,Cerebrospinal fluid specimen,258450006,Specimen,SNOMED
+4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Maps to,4014488,White blood cell count, automated, cerebrospinal fluid,104112007,Procedure,SNOMED
 4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Has specimen,4124259,Cerebrospinal fluid specimen,258450006,Specimen,SNOMED
 4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Mapped from,4014488,White blood cell count, automated, cerebrospinal fluid,104112007,Procedure,SNOMED
 4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4014488,104112007,White blood cell count, automated, cerebrospinal fluid,SNOMED,Maps to,4014488,White blood cell count, automated, cerebrospinal fluid,104112007,Procedure,SNOMED
-4014490,104123006,Neutrophil count, automated, urine,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4014490,104123006,Neutrophil count, automated, urine,SNOMED,Maps to,4014490,Neutrophil count, automated, urine,104123006,Procedure,SNOMED
 4014490,104123006,Neutrophil count, automated, urine,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
 4014490,104123006,Neutrophil count, automated, urine,SNOMED,Has specimen,4046280,Urine specimen,122575003,Specimen,SNOMED
 4014490,104123006,Neutrophil count, automated, urine,SNOMED,Mapped from,4014490,Neutrophil count, automated, urine,104123006,Procedure,SNOMED
-4014490,104123006,Neutrophil count, automated, urine,SNOMED,Maps to,4014490,Neutrophil count, automated, urine,104123006,Procedure,SNOMED
-4014756,104373001,T cells, total count,SNOMED,Maps to,4014756,T cells, total count,104373001,Procedure,SNOMED
-4014756,104373001,T cells, total count,SNOMED,Mapped from,4014756,T cells, total count,104373001,Procedure,SNOMED
+4014490,104123006,Neutrophil count, automated, urine,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4014756,104373001,T cells, total count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4014756,104373001,T cells, total count,SNOMED,Mapped from,4014756,T cells, total count,104373001,Procedure,SNOMED
+4014756,104373001,T cells, total count,SNOMED,Maps to,4014756,T cells, total count,104373001,Procedure,SNOMED
 4014756,104373001,T cells, total count,SNOMED,Subsumes,4212900,T cell total percent,391560001,Procedure,SNOMED
 4014756,104373001,T cells, total count,SNOMED,Has component,4238820,T lymphocyte,57184004,Body Structure,SNOMED
-4015164,104096007,Segmented neutrophil count, blood,SNOMED,Has specimen,4001225,Blood specimen,119297000,Specimen,SNOMED
+4015164,104096007,Segmented neutrophil count, blood,SNOMED,Mapped from,4015164,Segmented neutrophil count, blood,104096007,Procedure,SNOMED
 4015164,104096007,Segmented neutrophil count, blood,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
+4015164,104096007,Segmented neutrophil count, blood,SNOMED,Has specimen,4001225,Blood specimen,119297000,Specimen,SNOMED
+4015164,104096007,Segmented neutrophil count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4015164,104096007,Segmented neutrophil count, blood,SNOMED,Subsumes,3027270,Segmented neutrophils [#/volume] in Blood by Manual count,768-2,Lab Test,LOINC
 4015164,104096007,Segmented neutrophil count, blood,SNOMED,Subsumes,3015586,Segmented neutrophils [#/volume] in Blood,30451-9,Lab Test,LOINC
 4015164,104096007,Segmented neutrophil count, blood,SNOMED,Maps to,4015164,Segmented neutrophil count, blood,104096007,Procedure,SNOMED
-4015164,104096007,Segmented neutrophil count, blood,SNOMED,Mapped from,4015164,Segmented neutrophil count, blood,104096007,Procedure,SNOMED
-4015164,104096007,Segmented neutrophil count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4015165,104097003,Hypersegmented neutrophil count, blood,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
-4015165,104097003,Hypersegmented neutrophil count, blood,SNOMED,Mapped from,4015165,Hypersegmented neutrophil count, blood,104097003,Procedure,SNOMED
 4015165,104097003,Hypersegmented neutrophil count, blood,SNOMED,Maps to,4015165,Hypersegmented neutrophil count, blood,104097003,Procedure,SNOMED
+4015165,104097003,Hypersegmented neutrophil count, blood,SNOMED,Mapped from,4015165,Hypersegmented neutrophil count, blood,104097003,Procedure,SNOMED
 4015165,104097003,Hypersegmented neutrophil count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4015166,104099000,Myelocyte count, blood,SNOMED,Has component,4027902,Myelocyte,127915008,Body Structure,SNOMED
-4015166,104099000,Myelocyte count, blood,SNOMED,Interprets of,4077505,Myelocytes in blood,275757008,Clinical Finding,SNOMED
-4015166,104099000,Myelocyte count, blood,SNOMED,Subsumes,3017680,Myelocytes [#/volume] in Blood by Manual count,748-4,Lab Test,LOINC
-4015166,104099000,Myelocyte count, blood,SNOMED,Subsumes,3021120,Myelocytes [#/volume] in Blood,30446-9,Lab Test,LOINC
-4015166,104099000,Myelocyte count, blood,SNOMED,Maps to,4015166,Myelocyte count, blood,104099000,Procedure,SNOMED
-4015166,104099000,Myelocyte count, blood,SNOMED,Mapped from,4015166,Myelocyte count, blood,104099000,Procedure,SNOMED
 4015166,104099000,Myelocyte count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4015166,104099000,Myelocyte count, blood,SNOMED,Has component,4027902,Myelocyte,127915008,Body Structure,SNOMED
+4015166,104099000,Myelocyte count, blood,SNOMED,Subsumes,3017680,Myelocytes [#/volume] in Blood by Manual count,748-4,Lab Test,LOINC
+4015166,104099000,Myelocyte count, blood,SNOMED,Interprets of,4077505,Myelocytes in blood,275757008,Clinical Finding,SNOMED
+4015166,104099000,Myelocyte count, blood,SNOMED,Mapped from,4015166,Myelocyte count, blood,104099000,Procedure,SNOMED
+4015166,104099000,Myelocyte count, blood,SNOMED,Maps to,4015166,Myelocyte count, blood,104099000,Procedure,SNOMED
 4015166,104099000,Myelocyte count, blood,SNOMED,Has specimen,4001225,Blood specimen,119297000,Specimen,SNOMED
-4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Maps to,4015169,Lymphocytes and monocytes, count, blood,104105003,Procedure,SNOMED
-4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Mapped from,4015169,Lymphocytes and monocytes, count, blood,104105003,Procedure,SNOMED
-4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4015166,104099000,Myelocyte count, blood,SNOMED,Subsumes,3021120,Myelocytes [#/volume] in Blood,30446-9,Lab Test,LOINC
 4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Has component,4208122,Monocyte,55918008,Body Structure,SNOMED
+4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Mapped from,4015169,Lymphocytes and monocytes, count, blood,104105003,Procedure,SNOMED
+4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Maps to,4015169,Lymphocytes and monocytes, count, blood,104105003,Procedure,SNOMED
+4015169,104105003,Lymphocytes and monocytes, count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4015171,104110004,Neutrophil count, automated, cerebrospinal fluid,SNOMED,Maps to,4015171,Neutrophil count, automated, cerebrospinal fluid,104110004,Procedure,SNOMED
 4015171,104110004,Neutrophil count, automated, cerebrospinal fluid,SNOMED,Has specimen,4124259,Cerebrospinal fluid specimen,258450006,Specimen,SNOMED
-4015171,104110004,Neutrophil count, automated, cerebrospinal fluid,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
 4015171,104110004,Neutrophil count, automated, cerebrospinal fluid,SNOMED,Mapped from,4015171,Neutrophil count, automated, cerebrospinal fluid,104110004,Procedure,SNOMED
 4015171,104110004,Neutrophil count, automated, cerebrospinal fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4015171,104110004,Neutrophil count, automated, cerebrospinal fluid,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
 4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Has specimen,4043942,Peritoneal fluid specimen,168139001,Specimen,SNOMED
-4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Mapped from,4015174,Neutrophil count, automated, peritoneal fluid,104116005,Procedure,SNOMED
-4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Maps to,4015174,Neutrophil count, automated, peritoneal fluid,104116005,Procedure,SNOMED
-4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
 4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Maps to,4015174,Neutrophil count, automated, peritoneal fluid,104116005,Procedure,SNOMED
+4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Mapped from,4015174,Neutrophil count, automated, peritoneal fluid,104116005,Procedure,SNOMED
+4015174,104116005,Neutrophil count, automated, peritoneal fluid,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
 4016228,104100008,Promyelocyte count, blood,SNOMED,Maps to,4016228,Promyelocyte count, blood,104100008,Procedure,SNOMED
-4016228,104100008,Promyelocyte count, blood,SNOMED,Has component,4184786,Promyelocyte,43446009,Body Structure,SNOMED
+4016228,104100008,Promyelocyte count, blood,SNOMED,Mapped from,4016228,Promyelocyte count, blood,104100008,Procedure,SNOMED
 4016228,104100008,Promyelocyte count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4016228,104100008,Promyelocyte count, blood,SNOMED,Has specimen,4001225,Blood specimen,119297000,Specimen,SNOMED
-4016228,104100008,Promyelocyte count, blood,SNOMED,Mapped from,4016228,Promyelocyte count, blood,104100008,Procedure,SNOMED
+4016228,104100008,Promyelocyte count, blood,SNOMED,Has component,4184786,Promyelocyte,43446009,Body Structure,SNOMED
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Mapped from,3552004,Prolymphocyte count,108351000000108,Procedure,SNOMED
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Concept same_as from,3552004,Prolymphocyte count,108351000000108,Procedure,SNOMED
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4016229,104101007,Prolymphocyte count, blood,SNOMED,Subsumes,3017128,Prolymphocytes [#/volume] in Blood by Manual count,6863-5,Lab Test,LOINC
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Maps to,4016229,Prolymphocyte count, blood,104101007,Procedure,SNOMED
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Has component,4023589,Prolymphocyte,19394005,Body Structure,SNOMED
 4016229,104101007,Prolymphocyte count, blood,SNOMED,Has specimen,4001225,Blood specimen,119297000,Specimen,SNOMED
 4016229,104101007,Prolymphocyte count, blood,SNOMED,Mapped from,4016229,Prolymphocyte count, blood,104101007,Procedure,SNOMED
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Mapped from,3552004,Prolymphocyte count,108351000000108,Procedure,SNOMED
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Concept same_as from,3551322,Prolymphocyte count,96081000000105,Undefined,SNOMED
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Concept same_as from,3552004,Prolymphocyte count,108351000000108,Procedure,SNOMED
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Subsumes,3001552,Prolymphocytes [#/volume] in Blood,30464-2,Lab Test,LOINC
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Maps to,4016229,Prolymphocyte count, blood,104101007,Procedure,SNOMED
 4016229,104101007,Prolymphocyte count, blood,SNOMED,Mapped from,3551322,Prolymphocyte count,96081000000105,Undefined,SNOMED
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Has component,4023589,Prolymphocyte,19394005,Body Structure,SNOMED
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Concept same_as from,3551322,Prolymphocyte count,96081000000105,Undefined,SNOMED
+4016229,104101007,Prolymphocyte count, blood,SNOMED,Subsumes,3001552,Prolymphocytes [#/volume] in Blood,30464-2,Lab Test,LOINC
 4016229,104101007,Prolymphocyte count, blood,SNOMED,Subsumes,46235445,Prolymphocytes [Presence] in Blood,75663-5,Lab Test,LOINC
-4016229,104101007,Prolymphocyte count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Mapped from,4016236,White blood cell count, automated, synovial fluid,104126003,Procedure,SNOMED
 4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Maps to,4016236,White blood cell count, automated, synovial fluid,104126003,Procedure,SNOMED
 4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Subsumes,3038189,Leukocytes [#/volume] in Synovial fluid by Automated count,813-6,Lab Test,LOINC
+4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Mapped from,4016236,White blood cell count, automated, synovial fluid,104126003,Procedure,SNOMED
+4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4016236,104126003,White blood cell count, automated, synovial fluid,SNOMED,Has specimen,4002875,Synovial fluid specimen,119332005,Specimen,SNOMED
-4016392,103759004,Metamyelocyte count, blood,SNOMED,Subsumes,3024507,Metamyelocytes [#/volume] in Blood,30433-7,Lab Test,LOINC
 4016392,103759004,Metamyelocyte count, blood,SNOMED,Subsumes,3012392,Metamyelocytes [#/volume] in Blood by Manual count,739-3,Lab Test,LOINC
-4016392,103759004,Metamyelocyte count, blood,SNOMED,Maps to,4016392,Metamyelocyte count, blood,103759004,Procedure,SNOMED
+4016392,103759004,Metamyelocyte count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4016392,103759004,Metamyelocyte count, blood,SNOMED,Subsumes,3024507,Metamyelocytes [#/volume] in Blood,30433-7,Lab Test,LOINC
 4016392,103759004,Metamyelocyte count, blood,SNOMED,Has component,4307366,Metamyelocyte,83321009,Body Structure,SNOMED
 4016392,103759004,Metamyelocyte count, blood,SNOMED,Has specimen,4001225,Blood specimen,119297000,Specimen,SNOMED
-4016392,103759004,Metamyelocyte count, blood,SNOMED,Mapped from,4016392,Metamyelocyte count, blood,103759004,Procedure,SNOMED
 4016392,103759004,Metamyelocyte count, blood,SNOMED,Subsumes,3039014,Metamyelocytes [Presence] in Blood,40651-2,Lab Test,LOINC
-4016392,103759004,Metamyelocyte count, blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Mapped from,4016930,White blood cell count, automated, peritoneal fluid,104115009,Procedure,SNOMED
-4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Maps to,4016930,White blood cell count, automated, peritoneal fluid,104115009,Procedure,SNOMED
-4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Has specimen,4043942,Peritoneal fluid specimen,168139001,Specimen,SNOMED
-4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4016392,103759004,Metamyelocyte count, blood,SNOMED,Mapped from,4016392,Metamyelocyte count, blood,103759004,Procedure,SNOMED
+4016392,103759004,Metamyelocyte count, blood,SNOMED,Maps to,4016392,Metamyelocyte count, blood,103759004,Procedure,SNOMED
 4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Subsumes,3033822,Leukocytes [#/volume] in Peritoneal fluid by Automated count,809-4,Lab Test,LOINC
-4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Has specimen,4302933,Pleural fluid specimen,418564007,Specimen,SNOMED
-4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Maps to,4016930,White blood cell count, automated, peritoneal fluid,104115009,Procedure,SNOMED
+4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Mapped from,4016930,White blood cell count, automated, peritoneal fluid,104115009,Procedure,SNOMED
+4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4016930,104115009,White blood cell count, automated, peritoneal fluid,SNOMED,Has specimen,4043942,Peritoneal fluid specimen,168139001,Specimen,SNOMED
+4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Subsumes,3037296,Leukocytes [#/volume] in Pleural fluid by Automated count,807-8,Lab Test,LOINC
 4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Mapped from,4016931,White blood cell count, automated, pleural fluid,104119003,Procedure,SNOMED
 4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Maps to,4016931,White blood cell count, automated, pleural fluid,104119003,Procedure,SNOMED
+4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Subsumes,3037296,Leukocytes [#/volume] in Pleural fluid by Automated count,807-8,Lab Test,LOINC
-4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
-4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Has specimen,4302933,Pleural fluid specimen,418564007,Specimen,SNOMED
+4016931,104119003,White blood cell count, automated, pleural fluid,SNOMED,Has specimen,4302933,Pleural fluid specimen,418564007,Specimen,SNOMED
+4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Mapped from,4016932,Neutrophil count, automated, pleural fluid,104120009,Procedure,SNOMED
 4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Maps to,4016932,Neutrophil count, automated, pleural fluid,104120009,Procedure,SNOMED
 4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Mapped from,4016932,Neutrophil count, automated, pleural fluid,104120009,Procedure,SNOMED
-4016933,104124000,White blood cell count, automated, semen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Has specimen,4302933,Pleural fluid specimen,418564007,Specimen,SNOMED
+4016932,104120009,Neutrophil count, automated, pleural fluid,SNOMED,Has component,4198194,Segmented neutrophil,80153006,Body Structure,SNOMED
 4016933,104124000,White blood cell count, automated, semen,SNOMED,Has specimen,4002881,Seminal fluid specimen,119347001,Specimen,SNOMED
 4016933,104124000,White blood cell count, automated, semen,SNOMED,Maps to,4016933,White blood cell count, automated, semen,104124000,Procedure,SNOMED
 4016933,104124000,White blood cell count, automated, semen,SNOMED,Mapped from,4016933,White blood cell count, automated, semen,104124000,Procedure,SNOMED
-4016933,104124000,White blood cell count, automated, semen,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4016933,104124000,White blood cell count, automated, semen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4016933,104124000,White blood cell count, automated, semen,SNOMED,Subsumes,3001687,Leukocytes [#/volume] in Semen by Automated count,811-0,Lab Test,LOINC
+4016933,104124000,White blood cell count, automated, semen,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4022016,116710004,Mononuclear cell count,SNOMED,Subsumes,4235100,Percentage atypical mononuclear cell count,408222001,Procedure,SNOMED
 4022016,116710004,Mononuclear cell count,SNOMED,Has component,4024223,Mononuclear cell (histiocyte, lymphocyte, plasma cell),116711000,Body Structure,SNOMED
 4022016,116710004,Mononuclear cell count,SNOMED,Subsumes,4255263,Absolute atypical mononuclear cell count,408221008,Procedure,SNOMED
@@ -294,8 +294,8 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4041973,118138007,Granulocyte count,SNOMED,Maps to,4041973,Granulocyte count,118138007,Procedure,SNOMED
 4041973,118138007,Granulocyte count,SNOMED,Interprets of,4030593,Benign granulocytopenia in childhood,129640007,Disorder,SNOMED
 4041973,118138007,Granulocyte count,SNOMED,Subsumes,4024539,Polymorphonuclear leukocyte count,116708001,Procedure,SNOMED
-4041973,118138007,Granulocyte count,SNOMED,Interprets of,608323,Granulocyte count within reference range,1157255008,Clinical Finding,SNOMED
 4041973,118138007,Granulocyte count,SNOMED,Mapped from,600710,Granulocyte count above reference range,1157254007,Clinical Finding,SNOMED
+4041973,118138007,Granulocyte count,SNOMED,Interprets of,608323,Granulocyte count within reference range,1157255008,Clinical Finding,SNOMED
 4041973,118138007,Granulocyte count,SNOMED,Subsumes,4216098,Eosinophil count,71960002,Procedure,SNOMED
 4041973,118138007,Granulocyte count,SNOMED,Interprets of,4122938,Chronic benign granulocytopenia,234418001,Disorder,SNOMED
 4041973,118138007,Granulocyte count,SNOMED,Interprets of,600710,Granulocyte count above reference range,1157254007,Clinical Finding,SNOMED
@@ -314,8 +314,8 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4041974,118140002,Macrophage count,SNOMED,Maps to,4041974,Macrophage count,118140002,Procedure,SNOMED
 4070314,20592001,Eosinophil count, stool,SNOMED,Maps to,4070314,Eosinophil count, stool,20592001,Procedure,SNOMED
 4070314,20592001,Eosinophil count, stool,SNOMED,Mapped from,4070314,Eosinophil count, stool,20592001,Procedure,SNOMED
-4070314,20592001,Eosinophil count, stool,SNOMED,Has component,4133456,Eosinophilic granulocytic cell,127916009,Body Structure,SNOMED
 4070314,20592001,Eosinophil count, stool,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4070314,20592001,Eosinophil count, stool,SNOMED,Has component,4133456,Eosinophilic granulocytic cell,127916009,Body Structure,SNOMED
 4097616,250298004,Reversed neutrophil/lymphocyte ratio measurement,SNOMED,Mapped from,4097616,Reversed neutrophil/lymphocyte ratio measurement,250298004,Procedure,SNOMED
 4097616,250298004,Reversed neutrophil/lymphocyte ratio measurement,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4097616,250298004,Reversed neutrophil/lymphocyte ratio measurement,SNOMED,Maps to,4097616,Reversed neutrophil/lymphocyte ratio measurement,250298004,Procedure,SNOMED
@@ -438,12 +438,12 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4148615,30630007,Neutrophil count,SNOMED,Mapped from,45547611,Other neutropenia,D70.8,4-char billing code,ICD10CM
 4148615,30630007,Neutrophil count,SNOMED,Interprets of,46273778,Periodontitis co-occurrent with acquired neutropenia,709608008,Disorder,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Interprets of,4225434,Acute febrile neutrophilic dermatosis,84625002,Disorder,SNOMED
-4148615,30630007,Neutrophil count,SNOMED,Has component,4133848,Neutrophilic granulocytic cell,127913001,Body Structure,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Interprets of,37203832,Autosomal recessive severe congenital neutropenia due to JAGN1 deficiency,783199003,Disorder,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Interprets of,4130196,Stress neutrophilia,127067009,Disorder,SNOMED
-4148615,30630007,Neutrophil count,SNOMED,Interprets of,4119158,Neutropenic disorder,303011007,Disorder,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Mapped from,40301792,Neutrophil count,142926000,Procedure,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Interprets of,46272545,Periodontitis co-occurrent with cyclical neutropenia,710927004,Disorder,SNOMED
+4148615,30630007,Neutrophil count,SNOMED,Has component,4133848,Neutrophilic granulocytic cell,127913001,Body Structure,SNOMED
+4148615,30630007,Neutrophil count,SNOMED,Interprets of,4119158,Neutropenic disorder,303011007,Disorder,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Interprets of,4190716,Non dose-related drug-induced neutropenia,3902000,Disorder,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Mapped from,4148615,Neutrophil count,30630007,Procedure,SNOMED
 4148615,30630007,Neutrophil count,SNOMED,Maps to,4148615,Neutrophil count,30630007,Procedure,SNOMED
@@ -477,23 +477,23 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4149456,310540006,Eosinophil percent differential count,SNOMED,Concept same_as from,40324183,Percentage eosinophil count,165719008,Procedure,SNOMED
 4149456,310540006,Eosinophil percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4149456,310540006,Eosinophil percent differential count,SNOMED,Mapped from,4149456,Eosinophil percent differential count,310540006,Procedure,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Mapped from,40302438,Percentage monocytes (& level),143115000,Procedure,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Concept poss_eq from,40324177,Percentage monocytes (& level),165713009,Procedure,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Mapped from,4150335,Monocyte percent differential count,271037006,Procedure,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Has component,4208122,Monocyte,55918008,Body Structure,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Maps to,4150335,Monocyte percent differential count,271037006,Procedure,SNOMED
-4150335,271037006,Monocyte percent differential count,SNOMED,Concept same_as from,40302438,Percentage monocytes (& level),143115000,Procedure,SNOMED
 4150335,271037006,Monocyte percent differential count,SNOMED,Mapped from,40324177,Percentage monocytes (& level),165713009,Procedure,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Concept poss_eq from,40324177,Percentage monocytes (& level),165713009,Procedure,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Maps to,4150335,Monocyte percent differential count,271037006,Procedure,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Has component,4208122,Monocyte,55918008,Body Structure,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Mapped from,40302438,Percentage monocytes (& level),143115000,Procedure,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Mapped from,4150335,Monocyte percent differential count,271037006,Procedure,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4150335,271037006,Monocyte percent differential count,SNOMED,Concept same_as from,40302438,Percentage monocytes (& level),143115000,Procedure,SNOMED
+4152974,270924002,Plasma cell count,SNOMED,Has component,4034507,Plasma cell,113335003,Body Structure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Maps to,4152974,Plasma cell count,270924002,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Mapped from,4152974,Plasma cell count,270924002,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Mapped from,37397928,Plasma cell count,993561000000109,Observable Entity,SNOMED
+4152974,270924002,Plasma cell count,SNOMED,Subsumes,4236306,Percentage plasma cell count,407663004,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Concept same_as from,40302434,Plasma cell count (& level),143111009,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Mapped from,40302434,Plasma cell count (& level),143111009,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Concept poss_eq from,40324172,Plasma cell count (& level),165709002,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Mapped from,40324172,Plasma cell count (& level),165709002,Procedure,SNOMED
-4152974,270924002,Plasma cell count,SNOMED,Has component,4034507,Plasma cell,113335003,Body Structure,SNOMED
-4152974,270924002,Plasma cell count,SNOMED,Subsumes,4236306,Percentage plasma cell count,407663004,Procedure,SNOMED
 4152974,270924002,Plasma cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4153001,271035003,Neutrophil percent differential count,SNOMED,Subsumes,44807941,Band neutrophil percent differential count,827591000000105,Procedure,SNOMED
 4153001,271035003,Neutrophil percent differential count,SNOMED,Concept same_as from,40302436,Percentage neutrophils (& level),143113007,Procedure,SNOMED
@@ -520,37 +520,37 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4153003,271040006,Blast cell percent differential count,SNOMED,Concept poss_eq from,40324180,Percentage blast cells (& level),165716001,Procedure,SNOMED
 4153003,271040006,Blast cell percent differential count,SNOMED,Mapped from,40324180,Percentage blast cells (& level),165716001,Procedure,SNOMED
 4153003,271040006,Blast cell percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4154342,271042003,Granulocyte percent differential count,SNOMED,Has component,4105062,Granulocyte,256909001,Body Structure,SNOMED
 4154342,271042003,Granulocyte percent differential count,SNOMED,Mapped from,40302872,Percentage granulocytes (& level),143121001,Procedure,SNOMED
-4154342,271042003,Granulocyte percent differential count,SNOMED,Concept poss_eq from,40324182,Percentage granulocytes (& level),165718000,Procedure,SNOMED
-4154342,271042003,Granulocyte percent differential count,SNOMED,Concept same_as from,40302872,Percentage granulocytes (& level),143121001,Procedure,SNOMED
+4154342,271042003,Granulocyte percent differential count,SNOMED,Has component,4105062,Granulocyte,256909001,Body Structure,SNOMED
 4154342,271042003,Granulocyte percent differential count,SNOMED,Has component,4169076,Granulocytic cell,48791004,Body Structure,SNOMED
+4154342,271042003,Granulocyte percent differential count,SNOMED,Concept same_as from,40302872,Percentage granulocytes (& level),143121001,Procedure,SNOMED
 4154342,271042003,Granulocyte percent differential count,SNOMED,Mapped from,40324182,Percentage granulocytes (& level),165718000,Procedure,SNOMED
 4154342,271042003,Granulocyte percent differential count,SNOMED,Maps to,4154342,Granulocyte percent differential count,271042003,Procedure,SNOMED
 4154342,271042003,Granulocyte percent differential count,SNOMED,Mapped from,4154342,Granulocyte percent differential count,271042003,Procedure,SNOMED
 4154342,271042003,Granulocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4154342,271042003,Granulocyte percent differential count,SNOMED,Concept poss_eq from,40324182,Percentage granulocytes (& level),165718000,Procedure,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Mapped from,40301813,Relative lymphocytosis,142945009,Clinical Finding,SNOMED
+4156652,271036002,Lymphocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Maps to,4156652,Lymphocyte percent differential count,271036002,Procedure,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Mapped from,4156652,Lymphocyte percent differential count,271036002,Procedure,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-4156652,271036002,Lymphocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Mapped from,40302437,Percentage lymphocytes (& level),143114001,Procedure,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Mapped from,40324176,Percentage lymphocytes (& level),165712004,Procedure,SNOMED
-4156652,271036002,Lymphocyte percent differential count,SNOMED,Concept poss_eq from,40324176,Percentage lymphocytes (& level),165712004,Procedure,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Concept same_as from,40302437,Percentage lymphocytes (& level),143114001,Procedure,SNOMED
+4156652,271036002,Lymphocyte percent differential count,SNOMED,Concept poss_eq from,40324176,Percentage lymphocytes (& level),165712004,Procedure,SNOMED
 4156652,271036002,Lymphocyte percent differential count,SNOMED,Mapped from,4306412,Relative lymphocytosis,165532001,Clinical Finding,SNOMED
+4156653,271038001,Basophil percent differential count,SNOMED,Maps to,4156653,Basophil percent differential count,271038001,Procedure,SNOMED
 4156653,271038001,Basophil percent differential count,SNOMED,Mapped from,40324178,Percentage basophils (& level),165714003,Procedure,SNOMED
-4156653,271038001,Basophil percent differential count,SNOMED,Mapped from,4156653,Basophil percent differential count,271038001,Procedure,SNOMED
 4156653,271038001,Basophil percent differential count,SNOMED,Concept poss_eq from,40324178,Percentage basophils (& level),165714003,Procedure,SNOMED
 4156653,271038001,Basophil percent differential count,SNOMED,Has component,4133457,Basophilic granulocytic cell,127917000,Body Structure,SNOMED
-4156653,271038001,Basophil percent differential count,SNOMED,Concept same_as from,40302439,Percentage basophils (& level),143116004,Procedure,SNOMED
 4156653,271038001,Basophil percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4156653,271038001,Basophil percent differential count,SNOMED,Maps to,4156653,Basophil percent differential count,271038001,Procedure,SNOMED
 4156653,271038001,Basophil percent differential count,SNOMED,Mapped from,40302439,Percentage basophils (& level),143116004,Procedure,SNOMED
-4156654,271041005,Smear cell percent differential count,SNOMED,Mapped from,40324181,Percentage smear cells (& level),165717005,Procedure,SNOMED
+4156653,271038001,Basophil percent differential count,SNOMED,Mapped from,4156653,Basophil percent differential count,271038001,Procedure,SNOMED
+4156653,271038001,Basophil percent differential count,SNOMED,Concept same_as from,40302439,Percentage basophils (& level),143116004,Procedure,SNOMED
 4156654,271041005,Smear cell percent differential count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
-4156654,271041005,Smear cell percent differential count,SNOMED,Maps to,4156654,Smear cell percent differential count,271041005,Procedure,SNOMED
 4156654,271041005,Smear cell percent differential count,SNOMED,Concept poss_eq from,40324181,Percentage smear cells (& level),165717005,Procedure,SNOMED
+4156654,271041005,Smear cell percent differential count,SNOMED,Maps to,4156654,Smear cell percent differential count,271041005,Procedure,SNOMED
+4156654,271041005,Smear cell percent differential count,SNOMED,Mapped from,40324181,Percentage smear cells (& level),165717005,Procedure,SNOMED
 4156654,271041005,Smear cell percent differential count,SNOMED,Mapped from,4156654,Smear cell percent differential count,271041005,Procedure,SNOMED
 4156654,271041005,Smear cell percent differential count,SNOMED,Concept same_as from,40302443,Percentage smear cells (& level),143120000,Procedure,SNOMED
 4156654,271041005,Smear cell percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
@@ -568,44 +568,44 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4172647,42351005,Basophil count,SNOMED,Concept poss_eq from,3557283,Basophil count NOS,533701000000102,Procedure,SNOMED
 4172647,42351005,Basophil count,SNOMED,Interprets of,4306257,Basophil count within reference range,165527002,Clinical Finding,SNOMED
 4172647,42351005,Basophil count,SNOMED,Concept replaces,40332463,Basophil count,165526006,Procedure,SNOMED
-4172647,42351005,Basophil count,SNOMED,Interprets of,4306258,Basophil count outside reference range,165528007,Clinical Finding,SNOMED
+4172647,42351005,Basophil count,SNOMED,Interprets of,604240,Basophil count below reference range,1156292004,Clinical Finding,SNOMED
 4172647,42351005,Basophil count,SNOMED,Concept poss_eq from,4306107,Basophil count NOS,165529004,Procedure,SNOMED
-4172647,42351005,Basophil count,SNOMED,Interprets of,314617,Basophilia,65209002,Clinical Finding,SNOMED
-4172647,42351005,Basophil count,SNOMED,Mapped from,40301805,Basophil count normal,142938009,Clinical Finding,SNOMED
+4172647,42351005,Basophil count,SNOMED,Concept same_as from,40332463,Basophil count,165526006,Procedure,SNOMED
+4172647,42351005,Basophil count,SNOMED,Interprets of,4306258,Basophil count outside reference range,165528007,Clinical Finding,SNOMED
 4172647,42351005,Basophil count,SNOMED,Has component,4133457,Basophilic granulocytic cell,127917000,Body Structure,SNOMED
 4172647,42351005,Basophil count,SNOMED,Mapped from,40301807,Basophil count abnormal,142940004,Clinical Finding,SNOMED
 4172647,42351005,Basophil count,SNOMED,Mapped from,4306258,Basophil count outside reference range,165528007,Clinical Finding,SNOMED
-4172647,42351005,Basophil count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4172647,42351005,Basophil count,SNOMED,Concept poss_eq from,40301809,Basophil count NOS,142941000,Procedure,SNOMED
+4172647,42351005,Basophil count,SNOMED,Interprets of,314617,Basophilia,65209002,Clinical Finding,SNOMED
 4172647,42351005,Basophil count,SNOMED,Mapped from,40301804,Basophil count,142937004,Procedure,SNOMED
-4172647,42351005,Basophil count,SNOMED,Mapped from,40332463,Basophil count,165526006,Procedure,SNOMED
 4172647,42351005,Basophil count,SNOMED,Concept same_as from,40301804,Basophil count,142937004,Procedure,SNOMED
+4172647,42351005,Basophil count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4172647,42351005,Basophil count,SNOMED,Mapped from,40301805,Basophil count normal,142938009,Clinical Finding,SNOMED
 4172647,42351005,Basophil count,SNOMED,Mapped from,4172647,Basophil count,42351005,Procedure,SNOMED
 4172647,42351005,Basophil count,SNOMED,Maps to,4172647,Basophil count,42351005,Procedure,SNOMED
-4172647,42351005,Basophil count,SNOMED,Concept same_as from,40332463,Basophil count,165526006,Procedure,SNOMED
-4172647,42351005,Basophil count,SNOMED,Interprets of,604240,Basophil count below reference range,1156292004,Clinical Finding,SNOMED
+4172647,42351005,Basophil count,SNOMED,Concept poss_eq from,40301809,Basophil count NOS,142941000,Procedure,SNOMED
+4172647,42351005,Basophil count,SNOMED,Mapped from,40332463,Basophil count,165526006,Procedure,SNOMED
 4174071,42396003,White blood cell estimate,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4174071,42396003,White blood cell estimate,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4174071,42396003,White blood cell estimate,SNOMED,Maps to,4174071,White blood cell estimate,42396003,Procedure,SNOMED
 4174071,42396003,White blood cell estimate,SNOMED,Mapped from,4174071,White blood cell estimate,42396003,Procedure,SNOMED
 4193711,313478005,Promyelocyte percent differential count,SNOMED,Mapped from,40324186,Percentage promyelocyte count,165721003,Procedure,SNOMED
-4193711,313478005,Promyelocyte percent differential count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4193711,313478005,Promyelocyte percent differential count,SNOMED,Maps to,4193711,Promyelocyte percent differential count,313478005,Procedure,SNOMED
 4193711,313478005,Promyelocyte percent differential count,SNOMED,Concept same_as from,40324186,Percentage promyelocyte count,165721003,Procedure,SNOMED
 4193711,313478005,Promyelocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4193711,313478005,Promyelocyte percent differential count,SNOMED,Concept same_as from,40302876,Percentage promyelocyte count,143125005,Procedure,SNOMED
 4193711,313478005,Promyelocyte percent differential count,SNOMED,Mapped from,40302876,Percentage promyelocyte count,143125005,Procedure,SNOMED
-4193711,313478005,Promyelocyte percent differential count,SNOMED,Maps to,4193711,Promyelocyte percent differential count,313478005,Procedure,SNOMED
+4193711,313478005,Promyelocyte percent differential count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4193711,313478005,Promyelocyte percent differential count,SNOMED,Mapped from,4193711,Promyelocyte percent differential count,313478005,Procedure,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Concept replaces,40557853,Total T lymphocyte count,390137008,Procedure,SNOMED
-4193954,391575009,Total T lymphocyte count,SNOMED,Concept same_as from,40562853,Total T lymphocyte count,389406006,Procedure,SNOMED
+4193954,391575009,Total T lymphocyte count,SNOMED,Concept same_as from,40557853,Total T lymphocyte count,390137008,Procedure,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Mapped from,40562853,Total T lymphocyte count,389406006,Procedure,SNOMED
+4193954,391575009,Total T lymphocyte count,SNOMED,Maps to,4193954,Total T lymphocyte count,391575009,Procedure,SNOMED
+4193954,391575009,Total T lymphocyte count,SNOMED,Concept replaces,40562853,Total T lymphocyte count,389406006,Procedure,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Mapped from,4193954,Total T lymphocyte count,391575009,Procedure,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Mapped from,37398469,Total T lymphocyte count,1001391000000101,Observable Entity,SNOMED
-4193954,391575009,Total T lymphocyte count,SNOMED,Concept replaces,40562853,Total T lymphocyte count,389406006,Procedure,SNOMED
-4193954,391575009,Total T lymphocyte count,SNOMED,Concept same_as from,40557853,Total T lymphocyte count,390137008,Procedure,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Mapped from,40557853,Total T lymphocyte count,390137008,Procedure,SNOMED
-4193954,391575009,Total T lymphocyte count,SNOMED,Maps to,4193954,Total T lymphocyte count,391575009,Procedure,SNOMED
+4193954,391575009,Total T lymphocyte count,SNOMED,Concept same_as from,40562853,Total T lymphocyte count,389406006,Procedure,SNOMED
 4193954,391575009,Total T lymphocyte count,SNOMED,Has component,4238820,T lymphocyte,57184004,Body Structure,SNOMED
 4194332,67776007,Monocyte count,SNOMED,Interprets of,434910,Monocytosis,19636003,Disorder,SNOMED
 4194332,67776007,Monocyte count,SNOMED,Concept was_a from,40301824,Monocyte count NOS,142955008,Procedure,SNOMED
@@ -635,33 +635,34 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4194332,67776007,Monocyte count,SNOMED,Mapped from,37393859,Monocyte count,1022591000000107,Observable Entity,SNOMED
 4194332,67776007,Monocyte count,SNOMED,Mapped from,40301821,Monocytopenia,142952006,Clinical Finding,SNOMED
 4194332,67776007,Monocyte count,SNOMED,Has component,4208122,Monocyte,55918008,Body Structure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Concept same_as from,40302875,Percentage myelocyte count,143124009,Procedure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Concept replaces,40324184,Percentage myelocyte count,165720002,Procedure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Maps to,4195185,Myelocyte percent differential count,313696009,Procedure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Concept same_as from,40324184,Percentage myelocyte count,165720002,Procedure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Mapped from,40302875,Percentage myelocyte count,143124009,Procedure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Mapped from,40324184,Percentage myelocyte count,165720002,Procedure,SNOMED
-4195185,313696009,Myelocyte percent differential count,SNOMED,Mapped from,4195185,Myelocyte percent differential count,313696009,Procedure,SNOMED
 4195185,313696009,Myelocyte percent differential count,SNOMED,Concept replaces,40302875,Percentage myelocyte count,143124009,Procedure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Concept same_as from,40302875,Percentage myelocyte count,143124009,Procedure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Mapped from,40302875,Percentage myelocyte count,143124009,Procedure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Mapped from,4195185,Myelocyte percent differential count,313696009,Procedure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Concept replaces,40324184,Percentage myelocyte count,165720002,Procedure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Concept same_as from,40324184,Percentage myelocyte count,165720002,Procedure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Mapped from,40324184,Percentage myelocyte count,165720002,Procedure,SNOMED
 4195185,313696009,Myelocyte percent differential count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4195185,313696009,Myelocyte percent differential count,SNOMED,Maps to,4195185,Myelocyte percent differential count,313696009,Procedure,SNOMED
+4212899,391558003,Total white blood count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Concept poss_eq from,40557852,Total WBC (IMM),390136004,Procedure,SNOMED
-4212899,391558003,Total white blood count,SNOMED,Concept same_as from,40562851,Total white blood count,389404009,Procedure,SNOMED
-4212899,391558003,Total white blood count,SNOMED,Concept poss_eq from,4310477,Total WBC (IMM),391559006,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Mapped from,40562851,Total white blood count,389404009,Procedure,SNOMED
+4212899,391558003,Total white blood count,SNOMED,Mapped from,40557852,Total WBC (IMM),390136004,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Mapped from,40557851,Total white blood count,390135000,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Concept same_as from,40557851,Total white blood count,390135000,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Concept replaces,40557851,Total white blood count,390135000,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Mapped from,40562852,Total WBC (IMM),389405005,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Concept poss_eq from,40562852,Total WBC (IMM),389405005,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4212899,391558003,Total white blood count,SNOMED,Concept poss_eq from,4310477,Total WBC (IMM),391559006,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Mapped from,4310477,Total WBC (IMM),391559006,Procedure,SNOMED
-4212899,391558003,Total white blood count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4212899,391558003,Total white blood count,SNOMED,Mapped from,40557852,Total WBC (IMM),390136004,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Maps to,4212899,Total white blood count,391558003,Procedure,SNOMED
-4212899,391558003,Total white blood count,SNOMED,Mapped from,4212899,Total white blood count,391558003,Procedure,SNOMED
 4212899,391558003,Total white blood count,SNOMED,Concept replaces,40562851,Total white blood count,389404009,Procedure,SNOMED
+4212899,391558003,Total white blood count,SNOMED,Concept same_as from,40562851,Total white blood count,389404009,Procedure,SNOMED
+4212899,391558003,Total white blood count,SNOMED,Mapped from,4212899,Total white blood count,391558003,Procedure,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Maps to,4212900,T cell total percent,391560001,Procedure,SNOMED
+4212900,391560001,T cell total percent,SNOMED,Concept same_as from,40562874,T cell total %,389425009,Procedure,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Concept replaces,40562874,T cell total %,389425009,Procedure,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Concept replaces,40557875,T cell total %,390157007,Procedure,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Has component,4238820,T lymphocyte,57184004,Body Structure,SNOMED
@@ -669,208 +670,207 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4212900,391560001,T cell total percent,SNOMED,Mapped from,40557875,T cell total %,390157007,Procedure,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Mapped from,40562874,T cell total %,389425009,Procedure,SNOMED
-4212900,391560001,T cell total percent,SNOMED,Concept same_as from,40562874,T cell total %,389425009,Procedure,SNOMED
 4212900,391560001,T cell total percent,SNOMED,Mapped from,4212900,T cell total percent,391560001,Procedure,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,42536521,Constitutional eosinophilia,735441009,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4189795,Panleukopenia,415005004,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4303531,Blood eosinophil number below reference range,418928000,Clinical Finding,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4083100,Fasciitis with eosinophilia syndrome,24129002,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,40452023,Eosinophil count raised,250299007,Clinical Finding,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4303531,Blood eosinophil number below reference range,418928000,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,4303531,Blood eosinophil number below reference range,418928000,Clinical Finding,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Mapped from,725250,Eosinophilia in diseases classified elsewhere,D72.18,5-char billing code,ICD10CM
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,44828821,Eosinophilia,288.3,4-dig billing code,ICD9CM
+4216098,71960002,Eosinophil count,SNOMED,Mapped from,725250,Eosinophilia in diseases classified elsewhere,D72.18,5-char billing code,ICD10CM
 4216098,71960002,Eosinophil count,SNOMED,Subsumes,4001671,Eosinophil count, nasal,10967009,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,258828,Eosinophilia myalgia syndrome,95416007,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,3661596,Eosinophilia due to infectious disease,860824009,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Subsumes,4070314,Eosinophil count, stool,20592001,Procedure,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Mapped from,40301802,Eosinophil count raised,142935007,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Concept same_as from,40301799,Eosinophil count,142932005,Procedure,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Mapped from,40301802,Eosinophil count raised,142935007,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,40301799,Eosinophil count,142932005,Procedure,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4081994,Tropical pulmonary eosinophilia,278484009,Disorder,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4304002,Eosinophil count above reference range,386789004,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Concept poss_eq from,3557470,Eosinophil count NOS,556961000000109,Procedure,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4098893,Hereditary eosinophilia,191358004,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4184190,Eosinopenia,43355006,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,40301800,Eosinophil count normal,142933000,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4086978,Eosinophilic ulcerative colitis,24829000,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,36716162,Severe combined immunodeficiency with hypereosinophilia,722067005,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4343929,Toxic oil syndrome,239910001,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,40367177,Eosinophilia,27955006,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4098893,Hereditary eosinophilia,191358004,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,77923,Eosinophilic colitis,29120000,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4306256,Eosinophil count within reference range,165522008,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,4306256,Eosinophil count within reference range,165522008,Clinical Finding,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,36680602,Idiopathic eosinophilic myositis,778050009,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4269696,Eosinophil count - finding,365601007,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4272496,Allergic eosinophilia,64249002,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,4269696,Eosinophil count - finding,365601007,Clinical Finding,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4304002,Eosinophil count above reference range,386789004,Clinical Finding,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Mapped from,4304002,Eosinophil count above reference range,386789004,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,439279,Eosinophilic disorder,191357009,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,36680602,Idiopathic eosinophilic myositis,778050009,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4307857,Disseminated eosinophilic collagen disease,423486005,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Subsumes,40484040,Count of eosinophils in urine specimen,442562007,Procedure,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4083100,Fasciitis with eosinophilia syndrome,24129002,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,37165593,Immunoglobulin G4 related eosinophilic angiocentric fibrosis,1255207005,Disorder,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4081994,Tropical pulmonary eosinophilia,278484009,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Concept poss_eq from,4306411,Eosinophil count NOS,165525005,Procedure,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,37165593,Immunoglobulin G4 related eosinophilic angiocentric fibrosis,1255207005,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4301289,Eosinophilia-myalgia syndrome from tryptophan,403735006,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Concept was_a from,4306411,Eosinophil count NOS,165525005,Procedure,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Mapped from,4306411,Eosinophil count NOS,165525005,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,3661597,Eosinopenia due to infectious disease,860827002,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4193787,Familial eosinophilia,79336007,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4279553,Pulmonary eosinophilia,367542003,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Mapped from,4306411,Eosinophil count NOS,165525005,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4153777,Idiopathic eosinophilia,320150004,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Mapped from,4304002,Eosinophil count above reference range,386789004,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4153651,Eosinophilic myositis,370474006,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,725251,Other eosinophilia,D72.19,5-char billing code,ICD10CM
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4100240,Drug-induced eosinophilia,191360002,Disorder,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4277596,Simple pulmonary eosinophilia,64936001,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4302954,Disorder characterized by eosinophilia,419455006,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Subsumes,4149456,Eosinophil percent differential count,310540006,Procedure,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,4277596,Simple pulmonary eosinophilia,64936001,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4299977,Eosinophilic fasciitis caused by L-tryptophan,403634001,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4149277,Secondary eosinophilia,30981000,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,4216098,Eosinophil count,71960002,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Maps to,4216098,Eosinophil count,71960002,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,316376,Eosinophilia,419769007,Clinical Finding,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Mapped from,316376,Eosinophilia,419769007,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,40332461,Eosinophil count raised,165524009,Clinical Finding,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Mapped from,316376,Eosinophilia,419769007,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4057610,Sputum: eosinophilia,167997000,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,252942,Asthmatic pulmonary eosinophilia,233691007,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,42536522,Acquired eosinophilia,735442002,Disorder,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Mapped from,37393857,Eosinophil count,1022561000000101,Observable Entity,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Subsumes,2721185,Eosinophil count, blood, direct,S3630,HCPCS,HCPCS
 4216098,71960002,Eosinophil count,SNOMED,Has component,4133456,Eosinophilic granulocytic cell,127916009,Body Structure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,42536520,Acquired eosinopenia,735440005,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4270865,Episodic angioedema with eosinophilia,402404006,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,37203807,Eosinophilia of peritoneal fluid,782865007,Clinical Finding,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,35206777,Eosinophilia,D72.1,4-char nonbill code,ICD10CM
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,42536519,Constitutional eosinopenia,735439008,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4120262,Cryptogenic pulmonary eosinophilia,233692000,Disorder,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Concept poss_eq from,40301803,Eosinophil count NOS,142936008,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Concept was_a from,40301803,Eosinophil count NOS,142936008,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,40301803,Eosinophil count NOS,142936008,Procedure,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Interprets of,4296601,Eosinophilic myopathy,76762001,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Interprets of,42536519,Constitutional eosinopenia,735439008,Disorder,SNOMED
-4216098,71960002,Eosinophil count,SNOMED,Mapped from,37393857,Eosinophil count,1022561000000101,Observable Entity,SNOMED
 4216098,71960002,Eosinophil count,SNOMED,Mapped from,725243,Eosinophilia, unspecified,D72.10,5-char billing code,ICD10CM
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,3571373,Percentage atypical mononuclear cell count,100971000000103,Undefined,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Concept same_as from,3551324,Percentage atypical mononuclear cell count,96111000000102,Undefined,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,3551324,Percentage atypical mononuclear cell count,96111000000102,Undefined,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Has component,4024223,Mononuclear cell (histiocyte, lymphocyte, plasma cell),116711000,Body Structure,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,35609946,Percentage atypical mononuclear cell count,1087951000000101,Observable Entity,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,4235100,Percentage atypical mononuclear cell count,408222001,Procedure,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Maps to,4235100,Percentage atypical mononuclear cell count,408222001,Procedure,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,4189795,Panleukopenia,415005004,Disorder,SNOMED
+4216098,71960002,Eosinophil count,SNOMED,Interprets of,42536521,Constitutional eosinophilia,735441009,Disorder,SNOMED
 4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,3551324,Percentage atypical mononuclear cell count,96111000000102,Undefined,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,4235100,Percentage atypical mononuclear cell count,408222001,Procedure,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Has component,4024223,Mononuclear cell (histiocyte, lymphocyte, plasma cell),116711000,Body Structure,SNOMED
 4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Concept same_as from,3571373,Percentage atypical mononuclear cell count,100971000000103,Undefined,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Concept same_as from,3551324,Percentage atypical mononuclear cell count,96111000000102,Undefined,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,3571373,Percentage atypical mononuclear cell count,100971000000103,Undefined,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Maps to,4235100,Percentage atypical mononuclear cell count,408222001,Procedure,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Mapped from,35609946,Percentage atypical mononuclear cell count,1087951000000101,Observable Entity,SNOMED
+4235100,408222001,Percentage atypical mononuclear cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4236306,407663004,Percentage plasma cell count,SNOMED,Has component,4034507,Plasma cell,113335003,Body Structure,SNOMED
-4236306,407663004,Percentage plasma cell count,SNOMED,Mapped from,4236306,Percentage plasma cell count,407663004,Procedure,SNOMED
-4236306,407663004,Percentage plasma cell count,SNOMED,Mapped from,37398405,Percentage plasma cell count,999451000000109,Observable Entity,SNOMED
-4236306,407663004,Percentage plasma cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4236306,407663004,Percentage plasma cell count,SNOMED,Mapped from,3551604,Percentage plasma cell count,101111000000102,Undefined,SNOMED
+4236306,407663004,Percentage plasma cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4236306,407663004,Percentage plasma cell count,SNOMED,Mapped from,4236306,Percentage plasma cell count,407663004,Procedure,SNOMED
 4236306,407663004,Percentage plasma cell count,SNOMED,Mapped from,3521741,Percentage plasma cell count,96241000000106,Undefined,SNOMED
+4236306,407663004,Percentage plasma cell count,SNOMED,Mapped from,37398405,Percentage plasma cell count,999451000000109,Observable Entity,SNOMED
 4236306,407663004,Percentage plasma cell count,SNOMED,Concept same_as from,3551604,Percentage plasma cell count,101111000000102,Undefined,SNOMED
-4236306,407663004,Percentage plasma cell count,SNOMED,Concept same_as from,3521741,Percentage plasma cell count,96241000000106,Undefined,SNOMED
 4236306,407663004,Percentage plasma cell count,SNOMED,Maps to,4236306,Percentage plasma cell count,407663004,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,3661631,Lymphocytopenia due to COVID-19,866151004,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Concept was_a from,3557383,Lymphocyte count NOS,546061000000108,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Mapped from,37393858,Lymphocyte count,1022581000000105,Observable Entity,SNOMED
+4236306,407663004,Percentage plasma cell count,SNOMED,Concept same_as from,3521741,Percentage plasma cell count,96241000000106,Undefined,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,320074,Blood lymphocyte number above reference range,418010004,Clinical Finding,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301814,Abnormal lymphocytes (& level),142946005,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4168792,Acute infectious lymphocytosis,48516007,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,40301814,Abnormal lymphocytes (& level),142946005,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4041971,B lymphocyte count,118135005,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4106717,Lymphocytic leukemoid reaction,2990008,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Subsumes,37208689,Lymphocyte count in blood,1107961000000106,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Subsumes,44807688,Count of cells positive for both CD33 antigen and CD34 antigen,797781000000106,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,3557383,Lymphocyte count NOS,546061000000108,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301815,Lymphocyte count abnormal,142947001,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4307434,Percentage CD10 count,391305007,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4015169,Lymphocytes and monocytes, count, blood,104105003,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Mapped from,4306414,Lymphocyte count NOS,165535004,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4313853,Reactive lymphocyte count,86528005,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,4306414,Lymphocyte count NOS,165535004,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,3661625,Lymphopenia due to infection,866084002,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,37162067,Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome,1186654001,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Mapped from,4254663,Lymphocyte count,74765001,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4306259,Lymphocyte count within reference range,165530009,Clinical Finding,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Mapped from,37393858,Lymphocyte count,1022581000000105,Observable Entity,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4313853,Reactive lymphocyte count,86528005,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,4306259,Lymphocyte count within reference range,165530009,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Concept same_as from,40301810,Lymphocyte count,142942007,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4156652,Lymphocyte percent differential count,271036002,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,3557383,Lymphocyte count NOS,546061000000108,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Concept was_a from,3557383,Lymphocyte count NOS,546061000000108,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4039856,T lymphocyte count,118136006,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,42536524,Acquired lymphocytosis,735444001,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301811,Lymphocyte count normal,142943002,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4178155,Infectious lymphocytosis,42852008,Disorder,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4168792,Acute infectious lymphocytosis,48516007,Disorder,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,3661631,Lymphocytopenia due to COVID-19,866151004,Disorder,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4041971,B lymphocyte count,118135005,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301814,Abnormal lymphocytes (& level),142946005,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,40301814,Abnormal lymphocytes (& level),142946005,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4106717,Lymphocytic leukemoid reaction,2990008,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4104252,Episodic lymphocytopenia,25502009,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4306412,Relative lymphocytosis,165532001,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,604242,Lymphocyte count below reference range,1156294003,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,604242,Lymphocyte count below reference range,1156294003,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,3557383,Lymphocyte count NOS,546061000000108,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4306412,Relative lymphocytosis,165532001,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,37162756,Combined immunodeficiency, enteropathy spectrum,1197428008,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4306108,Lymphocytosis - absolute,165531008,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4152974,Plasma cell count,270924002,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Subsumes,37208689,Lymphocyte count in blood,1107961000000106,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4293725,Lymphocyte subsets,401133001,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,40332908,Abnormal lymphocytes (& level),165533006,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4035727,Lymphocyte count by cell surface antigen phenotype,117620005,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Mapped from,4254663,Lymphocyte count,74765001,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Concept poss_eq from,40301816,Lymphocyte count NOS,142948006,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Concept was_a from,40301816,Lymphocyte count NOS,142948006,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301816,Lymphocyte count NOS,142948006,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,44807689,Count of cells negative for CD33 antigen and positive for CD34 antigen,797791000000108,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40332908,Abnormal lymphocytes (& level),165533006,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301810,Lymphocyte count,142942007,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,35622391,Persistent polyclonal B-cell lymphocytosis,763864008,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,441541,Lymphocytopenia,48813009,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4293721,Natural killer cell level,401094008,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,4016229,Prolymphocyte count, blood,104101007,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4189795,Panleukopenia,415005004,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4317962,Neonatal lymphocytopenia,95624007,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,37208690,Lymphocyte percent count in blood,1107971000000104,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Maps to,4254663,Lymphocyte count,74765001,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301810,Lymphocyte count,142942007,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4189795,Panleukopenia,415005004,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Mapped from,4306413,Lymphocyte count outside reference range,165534000,Clinical Finding,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Subsumes,40487382,Total lymphocyte count,446325007,Procedure,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4122937,T-cell lymphocytosis,234417006,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Mapped from,40301815,Lymphocyte count abnormal,142947001,Clinical Finding,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Interprets of,42536523,Acquired lymphocytopenia,735443007,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4306413,Lymphocyte count outside reference range,165534000,Clinical Finding,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4122937,T-cell lymphocytosis,234417006,Disorder,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Mapped from,4306414,Lymphocyte count NOS,165535004,Procedure,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,42536523,Acquired lymphocytopenia,735443007,Disorder,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,37162067,Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome,1186654001,Disorder,SNOMED
+4254663,74765001,Lymphocyte count,SNOMED,Interprets of,3661625,Lymphopenia due to infection,866084002,Disorder,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4281826,Lymphocytosis,67023009,Disorder,SNOMED
-4254663,74765001,Lymphocyte count,SNOMED,Subsumes,44807688,Count of cells positive for both CD33 antigen and CD34 antigen,797781000000106,Procedure,SNOMED
 4254663,74765001,Lymphocyte count,SNOMED,Interprets of,4086265,Persistent lymphocytosis,24159007,Disorder,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Maps to,4255263,Absolute atypical mononuclear cell count,408221008,Procedure,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Mapped from,37394155,Absolute atypical mononuclear cell count,1027521000000106,Observable Entity,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Mapped from,3551323,Absolute atypical mononuclear cell count,96101000000104,Undefined,SNOMED
 4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Mapped from,3571372,Absolute atypical mononuclear cell count,100961000000105,Undefined,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Has component,4024223,Mononuclear cell (histiocyte, lymphocyte, plasma cell),116711000,Body Structure,SNOMED
-4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Concept same_as from,3551323,Absolute atypical mononuclear cell count,96101000000104,Undefined,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Maps to,4255263,Absolute atypical mononuclear cell count,408221008,Procedure,SNOMED
 4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Concept same_as from,3571372,Absolute atypical mononuclear cell count,100961000000105,Undefined,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Mapped from,37394155,Absolute atypical mononuclear cell count,1027521000000106,Observable Entity,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Concept same_as from,3551323,Absolute atypical mononuclear cell count,96101000000104,Undefined,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Mapped from,3551323,Absolute atypical mononuclear cell count,96101000000104,Undefined,SNOMED
 4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Mapped from,4255263,Absolute atypical mononuclear cell count,408221008,Procedure,SNOMED
-4268302,401074004,Total B lymphocyte count,SNOMED,Concept same_as from,3551098,Total B lymphocyte count,83761000000108,Undefined,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Has component,4024223,Mononuclear cell (histiocyte, lymphocyte, plasma cell),116711000,Body Structure,SNOMED
+4255263,408221008,Absolute atypical mononuclear cell count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4268302,401074004,Total B lymphocyte count,SNOMED,Concept same_as from,3550893,Total B lymphocyte count,75461000000107,Undefined,SNOMED
 4268302,401074004,Total B lymphocyte count,SNOMED,Mapped from,4268302,Total B lymphocyte count,401074004,Procedure,SNOMED
 4268302,401074004,Total B lymphocyte count,SNOMED,Maps to,4268302,Total B lymphocyte count,401074004,Procedure,SNOMED
-4268302,401074004,Total B lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4268302,401074004,Total B lymphocyte count,SNOMED,Mapped from,3550893,Total B lymphocyte count,75461000000107,Undefined,SNOMED
+4268302,401074004,Total B lymphocyte count,SNOMED,Mapped from,3551098,Total B lymphocyte count,83761000000108,Undefined,SNOMED
 4268302,401074004,Total B lymphocyte count,SNOMED,Has component,4011536,B lymphocyte,112130006,Body Structure,SNOMED
 4268302,401074004,Total B lymphocyte count,SNOMED,Mapped from,37398166,Total B lymphocyte count,996661000000101,Observable Entity,SNOMED
-4268302,401074004,Total B lymphocyte count,SNOMED,Mapped from,3551098,Total B lymphocyte count,83761000000108,Undefined,SNOMED
-4268302,401074004,Total B lymphocyte count,SNOMED,Mapped from,3550893,Total B lymphocyte count,75461000000107,Undefined,SNOMED
-4268302,401074004,Total B lymphocyte count,SNOMED,Concept same_as from,3550893,Total B lymphocyte count,75461000000107,Undefined,SNOMED
-4293721,401094008,Natural killer cell level,SNOMED,Concept same_as from,3550895,Natural killer cell level,75481000000103,Undefined,SNOMED
-4293721,401094008,Natural killer cell level,SNOMED,Mapped from,3550993,Natural killer cell level,79741000000104,Undefined,SNOMED
-4293721,401094008,Natural killer cell level,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+4268302,401074004,Total B lymphocyte count,SNOMED,Concept same_as from,3551098,Total B lymphocyte count,83761000000108,Undefined,SNOMED
+4268302,401074004,Total B lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4293721,401094008,Natural killer cell level,SNOMED,Mapped from,37399644,Natural killer cell level,996681000000105,Observable Entity,SNOMED
-4293721,401094008,Natural killer cell level,SNOMED,Maps to,4293721,Natural killer cell level,401094008,Procedure,SNOMED
-4293721,401094008,Natural killer cell level,SNOMED,Mapped from,3550895,Natural killer cell level,75481000000103,Undefined,SNOMED
-4293721,401094008,Natural killer cell level,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4293721,401094008,Natural killer cell level,SNOMED,Mapped from,4293721,Natural killer cell level,401094008,Procedure,SNOMED
+4293721,401094008,Natural killer cell level,SNOMED,Concept same_as from,3550895,Natural killer cell level,75481000000103,Undefined,SNOMED
+4293721,401094008,Natural killer cell level,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+4293721,401094008,Natural killer cell level,SNOMED,Maps to,4293721,Natural killer cell level,401094008,Procedure,SNOMED
+4293721,401094008,Natural killer cell level,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4293721,401094008,Natural killer cell level,SNOMED,Mapped from,3550895,Natural killer cell level,75481000000103,Undefined,SNOMED
 4293721,401094008,Natural killer cell level,SNOMED,Concept same_as from,3550993,Natural killer cell level,79741000000104,Undefined,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Subsumes,44809933,Natural killer (dim) cell absolute count,876601000000102,Procedure,SNOMED
+4293721,401094008,Natural killer cell level,SNOMED,Mapped from,3550993,Natural killer cell level,79741000000104,Undefined,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,4293725,Lymphocyte subsets,401133001,Procedure,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,3550894,Lymphocyte subsets,75471000000100,Undefined,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Maps to,4293725,Lymphocyte subsets,401133001,Procedure,SNOMED
 4293725,401133001,Lymphocyte subsets,SNOMED,Subsumes,44809936,Natural killer (bright) cell percentage of lymphocytes,876681000000107,Procedure,SNOMED
 4293725,401133001,Lymphocyte subsets,SNOMED,Subsumes,44809935,Natural killer (dim) cell percentage of lymphocytes,876661000000103,Procedure,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,3550894,Lymphocyte subsets,75471000000100,Undefined,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Concept same_as from,3550894,Lymphocyte subsets,75471000000100,Undefined,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Concept same_as from,3550992,Lymphocyte subsets,79731000000108,Undefined,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,3550992,Lymphocyte subsets,79731000000108,Undefined,SNOMED
 4293725,401133001,Lymphocyte subsets,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Subsumes,44809932,Natural killer (bright) cell absolute count,876581000000106,Procedure,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,4293725,Lymphocyte subsets,401133001,Procedure,SNOMED
 4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,37398167,Lymphocyte subsets,996671000000108,Observable Entity,SNOMED
-4293725,401133001,Lymphocyte subsets,SNOMED,Maps to,4293725,Lymphocyte subsets,401133001,Procedure,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,4101582,Aplastic anemia due to chronic disease,191244003,Disorder,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Subsumes,44809933,Natural killer (dim) cell absolute count,876601000000102,Procedure,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Concept same_as from,3550894,Lymphocyte subsets,75471000000100,Undefined,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Subsumes,44809932,Natural killer (bright) cell absolute count,876581000000106,Procedure,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Mapped from,3550992,Lymphocyte subsets,79731000000108,Undefined,SNOMED
+4293725,401133001,Lymphocyte subsets,SNOMED,Concept same_as from,3550992,Lymphocyte subsets,79731000000108,Undefined,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,4298690,Immunologic aplastic anemia,77084001,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4254663,Lymphocyte count,74765001,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,3661511,Down syndrome co-occurrent with leukemoid reaction associated transient neonatal pustulosis,840505007,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4306264,Metamyelocyte count procedure,165551007,Procedure,SNOMED
@@ -883,23 +883,23 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4298431,767002,White blood cell count,SNOMED,Interprets of,42536958,Pancytopenia caused by medication,736024007,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4077348,Pancytopenia-dysmelia,275523003,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4326815,Basophilic leukemoid reaction,430822009,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,81097,Felty's syndrome,57160007,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4101583,Aplastic anemia due to infection,191246001,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4022016,Mononuclear cell count,116710004,Procedure,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,81097,Felty's syndrome,57160007,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,438398,Leukocytosis,111583006,Disorder,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,432283,Leukemoid reaction,56478004,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Subsumes,4016931,White blood cell count, automated, pleural fluid,104119003,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4306234,Promyelocyte count procedure,165549008,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4041973,Granulocyte count,118138007,Procedure,SNOMED
-4298431,767002,White blood cell count,SNOMED,Subsumes,4016931,White blood cell count, automated, pleural fluid,104119003,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,37160421,Felty syndrome with seronegative rheumatoid arthritis,1162364006,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,432283,Leukemoid reaction,56478004,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4097615,Reversed differential,250297009,Clinical Finding,SNOMED
-4298431,767002,White blood cell count,SNOMED,Mapped from,1567869,Elevated white blood cell count,D72.82,5-char nonbill code,ICD10CM
+4298431,767002,White blood cell count,SNOMED,Subsumes,4014488,White blood cell count, automated, cerebrospinal fluid,104112007,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4146088,Aplastic anemia due to drugs,267527002,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4177177,Cellular immunologic aplastic anemia,50220002,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4212899,Total white blood count,391558003,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,601066,Pancytopenia caused by antithyroid drug,328371000119107,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,320682,White blood cell number - finding,365630000,Clinical Finding,SNOMED
-4298431,767002,White blood cell count,SNOMED,Subsumes,4014488,White blood cell count, automated, cerebrospinal fluid,104112007,Procedure,SNOMED
+4298431,767002,White blood cell count,SNOMED,Mapped from,1567869,Elevated white blood cell count,D72.82,5-char nonbill code,ICD10CM
 4298431,767002,White blood cell count,SNOMED,Subsumes,4016930,White blood cell count, automated, peritoneal fluid,104115009,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4187773,Aplastic anemia associated with pregnancy,413567003,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,37117164,Revesz syndrome,723512008,Disorder,SNOMED
@@ -929,8 +929,8 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4298431,767002,White blood cell count,SNOMED,Mapped from,40301785,White cell count abnormal,142920006,Clinical Finding,SNOMED
 4298431,767002,White blood cell count,SNOMED,Mapped from,40301779,White blood cell count,142914005,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Concept same_as from,40301779,White blood cell count,142914005,Procedure,SNOMED
-4298431,767002,White blood cell count,SNOMED,Subsumes,46285876,Absolute smear cell count,977691000000102,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4306261,Immature white blood cells not detected,165544003,Clinical Finding,SNOMED
+4298431,767002,White blood cell count,SNOMED,Subsumes,46285876,Absolute smear cell count,977691000000102,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,36716406,Severe fever with thrombocytopenia syndrome,722401001,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Mapped from,3552545,Leucocyte count,166991000000101,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Concept same_as from,3552545,Leucocyte count,166991000000101,Procedure,SNOMED
@@ -938,11 +938,10 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4298431,767002,White blood cell count,SNOMED,Mapped from,4013094,Total white cell count NOS,165510005,Procedure,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4101586,Leukemoid reaction of the newborn,191273000,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Mapped from,3032907,Deprecated Monocytes+Macrophages/100 lymphocytes,35019-9,Lab Test,LOINC
-4298431,767002,White blood cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,1246248,Pancytopenia caused by colchicine,328321000119106,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Concept same_as from,3552564,Leucocyte count,167511000000104,Undefined,SNOMED
 4298431,767002,White blood cell count,SNOMED,Mapped from,3552564,Leucocyte count,167511000000104,Undefined,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,4298690,Immunologic aplastic anemia,77084001,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,601067,Pancytopenia caused by anticonvulsant,328381000119105,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,137829,Aplastic anemia,306058006,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4305588,Doan-Wright syndrome,38970002,Disorder,SNOMED
@@ -958,15 +957,15 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4298431,767002,White blood cell count,SNOMED,Interprets of,4051056,Autoimmune leukopenia,123777002,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4148471,Fanconi's anemia,30575002,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,35625536,Ataxia pancytopenia syndrome,768556005,Disorder,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,37019055,Aplastic anemia co-occurrent with human immunodeficiency virus infection,713508003,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,37209558,Pancytopenia caused by immunosuppressant,16623961000119100,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,37019055,Aplastic anemia co-occurrent with human immunodeficiency virus infection,713508003,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,37204551,Hereditary isolated aplastic anemia,783255002,Disorder,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,36713112,Pancytopenia due to antineoplastic chemotherapy,328301000119102,Disorder,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,4190500,Blood leukocyte number above reference range,414478003,Clinical Finding,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,4146086,Constitutional aplastic anemia with malformation,267524009,Disorder,SNOMED
-4298431,767002,White blood cell count,SNOMED,Mapped from,4190500,Blood leukocyte number above reference range,414478003,Clinical Finding,SNOMED
-4298431,767002,White blood cell count,SNOMED,Interprets of,4082738,Autoimmune pancytopenia,183005,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,37016151,Aplastic anemia caused by antineoplastic agent,118791000119106,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,36713112,Pancytopenia due to antineoplastic chemotherapy,328301000119102,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,4146086,Constitutional aplastic anemia with malformation,267524009,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,4190500,Blood leukocyte number above reference range,414478003,Clinical Finding,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,4082738,Autoimmune pancytopenia,183005,Disorder,SNOMED
+4298431,767002,White blood cell count,SNOMED,Mapped from,4190500,Blood leukocyte number above reference range,414478003,Clinical Finding,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4013538,White blood cell count within reference range,165507003,Clinical Finding,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,36674474,Pancytopenia with developmental delay syndrome,774071007,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Mapped from,4013538,White blood cell count within reference range,165507003,Clinical Finding,SNOMED
@@ -981,158 +980,159 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4298431,767002,White blood cell count,SNOMED,Interprets of,4184200,Secondary aplastic anemia,43858000,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Interprets of,4031699,Humoral immunologic aplastic anemia,14024008,Disorder,SNOMED
 4298431,767002,White blood cell count,SNOMED,Subsumes,4194332,Monocyte count,67776007,Procedure,SNOMED
-4306234,165549008,Promyelocyte count procedure,SNOMED,Concept same_as from,40301832,Promyelocyte count,142962004,Procedure,SNOMED
-4306234,165549008,Promyelocyte count procedure,SNOMED,Mapped from,40301832,Promyelocyte count,142962004,Procedure,SNOMED
-4306234,165549008,Promyelocyte count procedure,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4298431,767002,White blood cell count,SNOMED,Interprets of,4101582,Aplastic anemia due to chronic disease,191244003,Disorder,SNOMED
 4306234,165549008,Promyelocyte count procedure,SNOMED,Maps to,4306234,Promyelocyte count procedure,165549008,Procedure,SNOMED
-4306234,165549008,Promyelocyte count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4306234,165549008,Promyelocyte count procedure,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4306234,165549008,Promyelocyte count procedure,SNOMED,Mapped from,40301832,Promyelocyte count,142962004,Procedure,SNOMED
+4306234,165549008,Promyelocyte count procedure,SNOMED,Concept same_as from,40301832,Promyelocyte count,142962004,Procedure,SNOMED
 4306234,165549008,Promyelocyte count procedure,SNOMED,Mapped from,4306234,Promyelocyte count procedure,165549008,Procedure,SNOMED
+4306234,165549008,Promyelocyte count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 4306234,165549008,Promyelocyte count procedure,SNOMED,Concept replaces,40301832,Promyelocyte count,142962004,Procedure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Has component,4027902,Myelocyte,127915008,Body Structure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Concept same_as from,40301833,Myelocyte count,142963009,Procedure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Interprets of,4152670,Myelocytes present,269818000,Clinical Finding,SNOMED
 4306263,165550008,Myelocyte count procedure,SNOMED,Subsumes,4015166,Myelocyte count, blood,104099000,Procedure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,40301827,Myelocytes present (& in blood),142958005,Clinical Finding,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,4306263,Myelocyte count procedure,165550008,Procedure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,40301833,Myelocyte count,142963009,Procedure,SNOMED
 4306263,165550008,Myelocyte count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,4152670,Myelocytes present,269818000,Clinical Finding,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Interprets of,4152670,Myelocytes present,269818000,Clinical Finding,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Maps to,4306263,Myelocyte count procedure,165550008,Procedure,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Has component,4027902,Myelocyte,127915008,Body Structure,SNOMED
 4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,40332920,Myelocyte (& present),165545002,Procedure,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,40301827,Myelocytes present (& in blood),142958005,Clinical Finding,SNOMED
 4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,3556995,Myelocyte level,509551000000104,Procedure,SNOMED
 4306263,165550008,Myelocyte count procedure,SNOMED,Concept same_as from,3556995,Myelocyte level,509551000000104,Procedure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Maps to,4306263,Myelocyte count procedure,165550008,Procedure,SNOMED
-4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,4152670,Myelocytes present,269818000,Clinical Finding,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Maps to,4306264,Metamyelocyte count procedure,165551007,Procedure,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,4306418,Metamyelocytes present,165546001,Clinical Finding,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,4306263,Myelocyte count procedure,165550008,Procedure,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Concept same_as from,40301833,Myelocyte count,142963009,Procedure,SNOMED
+4306263,165550008,Myelocyte count procedure,SNOMED,Mapped from,40301833,Myelocyte count,142963009,Procedure,SNOMED
 4306264,165551007,Metamyelocyte count procedure,SNOMED,Concept same_as from,40301834,Metamyelocyte count,142964003,Procedure,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Interprets of,4306418,Metamyelocytes present,165546001,Clinical Finding,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,40301828,Metamyelocytes present (& in blood),142959002,Clinical Finding,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,40301834,Metamyelocyte count,142964003,Procedure,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,4306264,Metamyelocyte count procedure,165551007,Procedure,SNOMED
-4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,40354159,Metamyelocytes present (& in blood),269970000,Clinical Finding,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,4306418,Metamyelocytes present,165546001,Clinical Finding,SNOMED
 4306264,165551007,Metamyelocyte count procedure,SNOMED,Concept replaces,40301834,Metamyelocyte count,142964003,Procedure,SNOMED
 4306264,165551007,Metamyelocyte count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,40354159,Metamyelocytes present (& in blood),269970000,Clinical Finding,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,40301834,Metamyelocyte count,142964003,Procedure,SNOMED
 4306264,165551007,Metamyelocyte count procedure,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,4306264,Metamyelocyte count procedure,165551007,Procedure,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Interprets of,4306418,Metamyelocytes present,165546001,Clinical Finding,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Mapped from,40301828,Metamyelocytes present (& in blood),142959002,Clinical Finding,SNOMED
+4306264,165551007,Metamyelocyte count procedure,SNOMED,Maps to,4306264,Metamyelocyte count procedure,165551007,Procedure,SNOMED
 4306419,165552000,Myeloblast count procedure,SNOMED,Concept same_as from,40301835,Myeloblast count,142965002,Procedure,SNOMED
-4306419,165552000,Myeloblast count procedure,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 4306419,165552000,Myeloblast count procedure,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4306419,165552000,Myeloblast count procedure,SNOMED,Maps to,4306419,Myeloblast count procedure,165552000,Procedure,SNOMED
-4306419,165552000,Myeloblast count procedure,SNOMED,Mapped from,4306419,Myeloblast count procedure,165552000,Procedure,SNOMED
 4306419,165552000,Myeloblast count procedure,SNOMED,Mapped from,40301835,Myeloblast count,142965002,Procedure,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Has component,4164934,Lymphocyte antigen,40992002,Substance,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,40562894,Percentage CD10 count,389443008,Procedure,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,37392247,Percentage CD10 count,1001671000000108,Observable Entity,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,4307434,Percentage CD10 count,391305007,Procedure,SNOMED
+4306419,165552000,Myeloblast count procedure,SNOMED,Mapped from,4306419,Myeloblast count procedure,165552000,Procedure,SNOMED
+4306419,165552000,Myeloblast count procedure,SNOMED,Maps to,4306419,Myeloblast count procedure,165552000,Procedure,SNOMED
+4306419,165552000,Myeloblast count procedure,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Concept replaces,40562894,Percentage CD10 count,389443008,Procedure,SNOMED
 4307434,391305007,Percentage CD10 count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Maps to,4307434,Percentage CD10 count,391305007,Procedure,SNOMED
 4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,40558293,Percentage CD10 count,390175008,Procedure,SNOMED
 4307434,391305007,Percentage CD10 count,SNOMED,Concept same_as from,40558293,Percentage CD10 count,390175008,Procedure,SNOMED
 4307434,391305007,Percentage CD10 count,SNOMED,Concept replaces,40558293,Percentage CD10 count,390175008,Procedure,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Concept replaces,40562894,Percentage CD10 count,389443008,Procedure,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Maps to,4307434,Percentage CD10 count,391305007,Procedure,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Concept same_as from,40562894,Percentage CD10 count,389443008,Procedure,SNOMED
-4307434,391305007,Percentage CD10 count,SNOMED,Has property,4042999,Ratio,118586006,Qualifier Value,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,4307434,Percentage CD10 count,391305007,Procedure,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Has component,4164934,Lymphocyte antigen,40992002,Substance,SNOMED
 4307434,391305007,Percentage CD10 count,SNOMED,Has component,4022165,Lymphocyte positive for CD10 antigen,116848002,Body Structure,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Concept same_as from,40356330,Atypical lymphocytes,270921005,Body Structure,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Has property,4042999,Ratio,118586006,Qualifier Value,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,40562894,Percentage CD10 count,389443008,Procedure,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Concept same_as from,40562894,Percentage CD10 count,389443008,Procedure,SNOMED
+4307434,391305007,Percentage CD10 count,SNOMED,Mapped from,37392247,Percentage CD10 count,1001671000000108,Observable Entity,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Concept same_as from,40560672,Reactive lymphocyte count,390740004,Procedure,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,3551591,Reactive lymphocyte count,100951000000107,Undefined,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,37398412,Reactive lymphocyte count,999561000000106,Observable Entity,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Concept replaces,40560672,Reactive lymphocyte count,390740004,Procedure,SNOMED
 4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,4313853,Reactive lymphocyte count,86528005,Procedure,SNOMED
 4313853,86528005,Reactive lymphocyte count,SNOMED,Concept same_as from,3551591,Reactive lymphocyte count,100951000000107,Undefined,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,37398412,Reactive lymphocyte count,999561000000106,Observable Entity,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,40560672,Reactive lymphocyte count,390740004,Procedure,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Concept same_as from,40356330,Atypical lymphocytes,270921005,Body Structure,SNOMED
 4313853,86528005,Reactive lymphocyte count,SNOMED,Maps to,4313853,Reactive lymphocyte count,86528005,Procedure,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Concept same_as from,40560672,Reactive lymphocyte count,390740004,Procedure,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Concept replaces,40560672,Reactive lymphocyte count,390740004,Procedure,SNOMED
-4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,3551591,Reactive lymphocyte count,100951000000107,Undefined,SNOMED
 4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,40356330,Atypical lymphocytes,270921005,Body Structure,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Mapped from,40560672,Reactive lymphocyte count,390740004,Procedure,SNOMED
+4313853,86528005,Reactive lymphocyte count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
 37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Mapped from,37174016,Lymphocyte count in blood,67541000237108,Observable Entity,SNOMED
-37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Mapped from,320074,Blood lymphocyte number above reference range,418010004,Clinical Finding,SNOMED
 37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Mapped from,37208689,Lymphocyte count in blood,1107961000000106,Procedure,SNOMED
+37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Mapped from,320074,Blood lymphocyte number above reference range,418010004,Clinical Finding,SNOMED
+37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 37208689,1107961000000106,Lymphocyte count in blood,SNOMED,Maps to,37208689,Lymphocyte count in blood,1107961000000106,Procedure,SNOMED
 37208690,1107971000000104,Lymphocyte percent count in blood,SNOMED,Mapped from,37208690,Lymphocyte percent count in blood,1107971000000104,Procedure,SNOMED
+37208690,1107971000000104,Lymphocyte percent count in blood,SNOMED,Maps to,37208690,Lymphocyte percent count in blood,1107971000000104,Procedure,SNOMED
 37208690,1107971000000104,Lymphocyte percent count in blood,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 37208690,1107971000000104,Lymphocyte percent count in blood,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
 37208690,1107971000000104,Lymphocyte percent count in blood,SNOMED,Mapped from,37174059,Lymphocyte percent count in blood,67871000237102,Observable Entity,SNOMED
-37208690,1107971000000104,Lymphocyte percent count in blood,SNOMED,Maps to,37208690,Lymphocyte percent count in blood,1107971000000104,Procedure,SNOMED
-40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Has specimen,4046280,Urine specimen,122575003,Specimen,SNOMED
+40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Has component,4133456,Eosinophilic granulocytic cell,127916009,Body Structure,SNOMED
 40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Maps to,40484040,Count of eosinophils in urine specimen,442562007,Procedure,SNOMED
 40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Mapped from,40484040,Count of eosinophils in urine specimen,442562007,Procedure,SNOMED
-40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,4310465,Total lymphocyte count (IMM),391504007,Procedure,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Concept poss_eq from,40557855,Total lymphocyte count (IMM),390139006,Procedure,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Maps to,40487382,Total lymphocyte count,446325007,Procedure,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Concept poss_eq from,4310465,Total lymphocyte count (IMM),391504007,Procedure,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,40557855,Total lymphocyte count (IMM),390139006,Procedure,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,40487382,Total lymphocyte count,446325007,Procedure,SNOMED
+40484040,442562007,Count of eosinophils in urine specimen,SNOMED,Has specimen,4046280,Urine specimen,122575003,Specimen,SNOMED
 40487382,446325007,Total lymphocyte count,SNOMED,Concept poss_eq from,40562855,Total lymphocyte count (IMM),389408007,Procedure,SNOMED
-40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,40562855,Total lymphocyte count (IMM),389408007,Procedure,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,40557855,Total lymphocyte count (IMM),390139006,Procedure,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Maps to,40487382,Total lymphocyte count,446325007,Procedure,SNOMED
 40487382,446325007,Total lymphocyte count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-44807688,797781000000106,Count of cells positive for both CD33 antigen and CD34 antigen,SNOMED,Maps to,44807688,Count of cells positive for both CD33 antigen and CD34 antigen,797781000000106,Procedure,SNOMED
-44807688,797781000000106,Count of cells positive for both CD33 antigen and CD34 antigen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,40487382,Total lymphocyte count,446325007,Procedure,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Concept poss_eq from,4310465,Total lymphocyte count (IMM),391504007,Procedure,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,4310465,Total lymphocyte count (IMM),391504007,Procedure,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Mapped from,40562855,Total lymphocyte count (IMM),389408007,Procedure,SNOMED
+40487382,446325007,Total lymphocyte count,SNOMED,Concept poss_eq from,40557855,Total lymphocyte count (IMM),390139006,Procedure,SNOMED
 44807688,797781000000106,Count of cells positive for both CD33 antigen and CD34 antigen,SNOMED,Has component,4037034,Lymphocyte positive for both CD33 antigen and CD44 antigen,117579000,Body Structure,SNOMED
 44807688,797781000000106,Count of cells positive for both CD33 antigen and CD34 antigen,SNOMED,Mapped from,44807688,Count of cells positive for both CD33 antigen and CD34 antigen,797781000000106,Procedure,SNOMED
+44807688,797781000000106,Count of cells positive for both CD33 antigen and CD34 antigen,SNOMED,Maps to,44807688,Count of cells positive for both CD33 antigen and CD34 antigen,797781000000106,Procedure,SNOMED
+44807688,797781000000106,Count of cells positive for both CD33 antigen and CD34 antigen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 44807689,797791000000108,Count of cells negative for CD33 antigen and positive for CD34 antigen,SNOMED,Mapped from,44807689,Count of cells negative for CD33 antigen and positive for CD34 antigen,797791000000108,Procedure,SNOMED
 44807689,797791000000108,Count of cells negative for CD33 antigen and positive for CD34 antigen,SNOMED,Has component,42872777,Lymphocyte negative for CD33 antigen and positive for CD34 antigen,450769002,Body Structure,SNOMED
 44807689,797791000000108,Count of cells negative for CD33 antigen and positive for CD34 antigen,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 44807689,797791000000108,Count of cells negative for CD33 antigen and positive for CD34 antigen,SNOMED,Maps to,44807689,Count of cells negative for CD33 antigen and positive for CD34 antigen,797791000000108,Procedure,SNOMED
 44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Has component,4133848,Neutrophilic granulocytic cell,127913001,Body Structure,SNOMED
-44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Mapped from,3559287,Percent band neutrophil count,830991000000103,Undefined,SNOMED
 44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Concept same_as from,3559287,Percent band neutrophil count,830991000000103,Undefined,SNOMED
-44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Mapped from,44807941,Band neutrophil percent differential count,827591000000105,Procedure,SNOMED
+44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Maps to,44807941,Band neutrophil percent differential count,827591000000105,Procedure,SNOMED
-44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Maps to,44809932,Natural killer (bright) cell absolute count,876581000000106,Procedure,SNOMED
-44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Mapped from,44809932,Natural killer (bright) cell absolute count,876581000000106,Procedure,SNOMED
-44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Concept same_as from,3560025,Natural killer (bright) cell absolute count,876591000000108,Undefined,SNOMED
-44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Mapped from,37392457,Natural killer (bright) cell absolute count,1004321000000102,Observable Entity,SNOMED
-44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Mapped from,3559287,Percent band neutrophil count,830991000000103,Undefined,SNOMED
+44807941,827591000000105,Band neutrophil percent differential count,SNOMED,Mapped from,44807941,Band neutrophil percent differential count,827591000000105,Procedure,SNOMED
 44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Mapped from,3560025,Natural killer (bright) cell absolute count,876591000000108,Undefined,SNOMED
+44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Mapped from,37392457,Natural killer (bright) cell absolute count,1004321000000102,Observable Entity,SNOMED
+44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Maps to,44809932,Natural killer (bright) cell absolute count,876581000000106,Procedure,SNOMED
+44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Concept same_as from,3560025,Natural killer (bright) cell absolute count,876591000000108,Undefined,SNOMED
+44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Mapped from,44809932,Natural killer (bright) cell absolute count,876581000000106,Procedure,SNOMED
 44809932,876581000000106,Natural killer (bright) cell absolute count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
 44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Mapped from,37392456,Natural killer (dim) cell absolute count,1004311000000108,Observable Entity,SNOMED
 44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
 44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Mapped from,3560026,Natural killer (dim) cell absolute count,876611000000100,Undefined,SNOMED
-44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Maps to,44809933,Natural killer (dim) cell absolute count,876601000000102,Procedure,SNOMED
-44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Mapped from,44809933,Natural killer (dim) cell absolute count,876601000000102,Procedure,SNOMED
 44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Concept same_as from,3560026,Natural killer (dim) cell absolute count,876611000000100,Undefined,SNOMED
-44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Mapped from,37392460,Natural killer (dim) cell percentage of lymphocytes,1004361000000105,Observable Entity,SNOMED
-44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Mapped from,3574049,Natural killer (dim) cell percentage of lymphocytes,890181000000106,Undefined,SNOMED
-44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
-44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Concept same_as from,3574049,Natural killer (dim) cell percentage of lymphocytes,890181000000106,Undefined,SNOMED
-44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Mapped from,44809935,Natural killer (dim) cell percentage of lymphocytes,876661000000103,Procedure,SNOMED
+44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Maps to,44809933,Natural killer (dim) cell absolute count,876601000000102,Procedure,SNOMED
+44809933,876601000000102,Natural killer (dim) cell absolute count,SNOMED,Mapped from,44809933,Natural killer (dim) cell absolute count,876601000000102,Procedure,SNOMED
 44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Maps to,44809935,Natural killer (dim) cell percentage of lymphocytes,876661000000103,Procedure,SNOMED
 44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Mapped from,3574050,Natural killer (bright) cell percentage of lymphocytes,890191000000108,Undefined,SNOMED
+44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Mapped from,44809935,Natural killer (dim) cell percentage of lymphocytes,876661000000103,Procedure,SNOMED
+44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Concept same_as from,3574049,Natural killer (dim) cell percentage of lymphocytes,890181000000106,Undefined,SNOMED
+44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Mapped from,3574049,Natural killer (dim) cell percentage of lymphocytes,890181000000106,Undefined,SNOMED
+44809935,876661000000103,Natural killer (dim) cell percentage of lymphocytes,SNOMED,Mapped from,37392460,Natural killer (dim) cell percentage of lymphocytes,1004361000000105,Observable Entity,SNOMED
 44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Mapped from,37399128,Natural killer (bright) cell percentage of lymphocytes,1004251000000104,Observable Entity,SNOMED
-44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Concept same_as from,3574050,Natural killer (bright) cell percentage of lymphocytes,890191000000108,Undefined,SNOMED
+44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Mapped from,3574050,Natural killer (bright) cell percentage of lymphocytes,890191000000108,Undefined,SNOMED
 44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Mapped from,44809936,Natural killer (bright) cell percentage of lymphocytes,876681000000107,Procedure,SNOMED
-44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
 44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Maps to,44809936,Natural killer (bright) cell percentage of lymphocytes,876681000000107,Procedure,SNOMED
-44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Maps to,44810444,HLA-DR+ percentage of lymphocytes/blast cells,887911000000101,Procedure,SNOMED
+44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Has component,4211531,Lymphocyte,56972008,Body Structure,SNOMED
+44809936,876681000000107,Natural killer (bright) cell percentage of lymphocytes,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
 44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Mapped from,44810444,HLA-DR+ percentage of lymphocytes/blast cells,887911000000101,Procedure,SNOMED
 44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Mapped from,37392146,HLA-DR+ percentage of lymphocytes/blast cells,1000321000000109,Observable Entity,SNOMED
 44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
 44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Concept same_as from,3560153,HLA-DR+ percentage of lymphocytes/blast cells,887921000000107,Undefined,SNOMED
 44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Mapped from,3560153,HLA-DR+ percentage of lymphocytes/blast cells,887921000000107,Undefined,SNOMED
 44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Maps to,46235445,Prolymphocytes [Presence] in Blood,75663-5,Lab Test,LOINC
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has Answer,45878582,None,LA137-2,Answer,LOINC
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Mapped from,46235445,Prolymphocytes [Presence] in Blood,75663-5,Lab Test,LOINC
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+44810444,887911000000101,HLA-DR+ percentage of lymphocytes/blast cells,SNOMED,Maps to,44810444,HLA-DR+ percentage of lymphocytes/blast cells,887911000000101,Procedure,SNOMED
 46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has component,40792411,Prolymphocytes,LP15082-8,LOINC Component,LOINC
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has Answer,45878239,Few,LA15680-4,Answer,LOINC
 46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has Answer,45880913,Many,LA15681-2,Answer,LOINC
-46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
 46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has Answer,45877983,Moderate,LA6751-7,Answer,LOINC
-46285876,977691000000102,Absolute smear cell count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
-46285876,977691000000102,Absolute smear cell count,SNOMED,Maps to,46285876,Absolute smear cell count,977691000000102,Procedure,SNOMED
-46285876,977691000000102,Absolute smear cell count,SNOMED,Mapped from,46285876,Absolute smear cell count,977691000000102,Procedure,SNOMED
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Maps to,46235445,Prolymphocytes [Presence] in Blood,75663-5,Lab Test,LOINC
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Mapped from,46235445,Prolymphocytes [Presence] in Blood,75663-5,Lab Test,LOINC
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has Answer,45878582,None,LA137-2,Answer,LOINC
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
+46235445,75663-5,Prolymphocytes [Presence] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
 46285876,977691000000102,Absolute smear cell count,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+46285876,977691000000102,Absolute smear cell count,SNOMED,Mapped from,46285876,Absolute smear cell count,977691000000102,Procedure,SNOMED
+46285876,977691000000102,Absolute smear cell count,SNOMED,Maps to,46285876,Absolute smear cell count,977691000000102,Procedure,SNOMED
+46285876,977691000000102,Absolute smear cell count,SNOMED,Has component,4198678,Leukocyte,52501007,Body Structure,SNOMED
+46285876,977691000000102,Absolute smear cell count,SNOMED,Mapped from,3574293,Absolute smear cell count,977701000000102,Undefined,SNOMED
 46285876,977691000000102,Absolute smear cell count,SNOMED,Concept same_as from,3574293,Absolute smear cell count,977701000000102,Undefined,SNOMED
 46285876,977691000000102,Absolute smear cell count,SNOMED,Mapped from,37398589,Absolute smear cell count,1013791000000103,Observable Entity,SNOMED
-46285876,977691000000102,Absolute smear cell count,SNOMED,Mapped from,3574293,Absolute smear cell count,977701000000102,Undefined,SNOMED

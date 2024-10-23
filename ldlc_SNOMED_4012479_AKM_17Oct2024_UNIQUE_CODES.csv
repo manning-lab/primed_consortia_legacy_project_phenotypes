@@ -1,75 +1,75 @@
 CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
-1033751,Qn,LOINC Scale,LOINC
-1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),Lab Test,LOINC
-1028907,Calculated,LOINC Method,LOINC
+1033211,Serum,LOINC System,LOINC
 1029816,Point in time (spot),LOINC Time,LOINC
 1029650,Mass Concentration,LOINC Property,LOINC
-1033211,Serum,LOINC System,LOINC
 1762517,Cholesterol.in LDL^corrected for Cholesterol.in lipoprotein (little a),LOINC Component,LOINC
-1033306,Serum or Plasma,LOINC System,LOINC
+1761709,Cholesterol in LDL [Mass/volume] in Serum by calculation --corrected for Cholesterol.in lipoprotein (little a),Lab Test,LOINC
+1028907,Calculated,LOINC Method,LOINC
+1033751,Qn,LOINC Scale,LOINC
 3001308,Cholesterol in LDL [Moles/volume] in Serum or Plasma,Lab Test,LOINC
 1029726,Substance Concentration,LOINC Property,LOINC
 40795800,Cholesterol in LDL,LOINC Component,LOINC
-1029715,Percentile,LOINC Property,LOINC
-3968295,SemiQn,LOINC Scale,LOINC
+1033306,Serum or Plasma,LOINC System,LOINC
 3008631,Cholesterol in LDL [Percentile],Lab Test,LOINC
+3968295,SemiQn,LOINC Scale,LOINC
+1029715,Percentile,LOINC Property,LOINC
 1028974,Direct assay,LOINC Method,LOINC
 3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,Lab Test,LOINC
 3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,Lab Test,LOINC
 3004169,Deprecated Cholesterol.in LDL [Mass/volume] in Serum or Plasma,Lab Test,LOINC
 3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,Lab Test,LOINC
-3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,Lab Test,LOINC
 1029599,Arbitrary Concentration,LOINC Property,LOINC
+3035009,Cholesterol in LDL [Units/volume] in Serum or Plasma by Electrophoresis,Lab Test,LOINC
 1028989,Electrophoresis,LOINC Method,LOINC
 1033324,Serum or Plasma ultracentrifugate,LOINC System,LOINC
 3035899,Cholesterol in LDL [Mass/volume] in Serum or Plasma ultracentrifugate,Lab Test,LOINC
 3038988,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,Lab Test,LOINC
-3039873,Cholesterol in LDL [Moles/volume] in Body fluid,Lab Test,LOINC
 1030397,Body fluid,LOINC System,LOINC
+3039873,Cholesterol in LDL [Moles/volume] in Body fluid,Lab Test,LOINC
 3053341,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Electrophoresis,Lab Test,LOINC
-40763533,HEDIS 2011-2013 Codes to identify LDLc screening (CMC-D),Lab Test,LOINC
-36031943,HEDIS MY 2020 Value Set - LDL-C Tests,Lab Test,LOINC
-44786904,HEDIS 2014 Value Set - LDL-C Tests,Lab Test,LOINC
-4210878,Plasma LDL cholesterol measurement,Procedure,SNOMED
-40763535,HEDIS 2011-2013 Codes to identify LDLc screening (CDC-H),Lab Test,LOINC
-36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,Lab Test,LOINC
-42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,Lab Test,LOINC
-4012479,Low density lipoprotein cholesterol measurement,Procedure,SNOMED
-40760924,HEDIS 2010 Codes to identify LDLc screening (CDC-H),Lab Test,LOINC
-3042241,HEDIS 2009 Codes to identify LDLc screening (CMC-D),Lab Test,LOINC
-46235674,HEDIS 2015-2020 Value Set - LDL-C Tests,Lab Test,LOINC
-37174860,Low density lipoprotein cholesterol below reference range,Clinical Finding,SNOMED
-40760925,HEDIS 2010 Codes to identify LDLc screening (CMC-D),Lab Test,LOINC
-36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,Lab Test,LOINC
-36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,Lab Test,LOINC
-40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,Lab Test,LOINC
-4044177,Measurement - action,Qualifier Value,SNOMED
 4041556,Serum LDL cholesterol measurement,Procedure,SNOMED
-3040294,HEDIS 2009 Codes to identify LDLc screening (CDC-H),Lab Test,LOINC
+36031943,HEDIS MY 2020 Value Set - LDL-C Tests,Lab Test,LOINC
+3042241,HEDIS 2009 Codes to identify LDLc screening (CMC-D),Lab Test,LOINC
+4012479,Low density lipoprotein cholesterol measurement,Procedure,SNOMED
+36031267,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Calculated by Martin-Hopkins,Lab Test,LOINC
 37174861,Low density lipoprotein cholesterol within reference range,Clinical Finding,SNOMED
+4210878,Plasma LDL cholesterol measurement,Procedure,SNOMED
+36031404,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Calculated by Martin-Hopkins,Lab Test,LOINC
+4044177,Measurement - action,Qualifier Value,SNOMED
+37174860,Low density lipoprotein cholesterol below reference range,Clinical Finding,SNOMED
+40763533,HEDIS 2011-2013 Codes to identify LDLc screening (CMC-D),Lab Test,LOINC
+44786904,HEDIS 2014 Value Set - LDL-C Tests,Lab Test,LOINC
+46235674,HEDIS 2015-2020 Value Set - LDL-C Tests,Lab Test,LOINC
+40760925,HEDIS 2010 Codes to identify LDLc screening (CMC-D),Lab Test,LOINC
+4009426,LDL cholesterol,Substance,SNOMED
+40760924,HEDIS 2010 Codes to identify LDLc screening (CDC-H),Lab Test,LOINC
+40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,Lab Test,LOINC
+3040294,HEDIS 2009 Codes to identify LDLc screening (CDC-H),Lab Test,LOINC
 40483758,Low density lipoprotein cholesterol above reference range,Clinical Finding,SNOMED
 915771,Patient's highest fasting or direct ldl-c laboratory test result in the measurement period or two years prior to the beginning of the measurement period is 70-189 mg/dl (Deprecated),HCPCS,HCPCS
-4009426,LDL cholesterol,Substance,SNOMED
-40307326,Serum LDL cholesterol level,Procedure,SNOMED
-4042061,Serum fasting LDL cholesterol measurement,Procedure,SNOMED
-37399325,Serum low density lipoprotein cholesterol level,Observable Entity,SNOMED
-4001181,Serum specimen,Specimen,SNOMED
+40763535,HEDIS 2011-2013 Codes to identify LDLc screening (CDC-H),Lab Test,LOINC
+42870529,Cholesterol in LDL [Moles/volume] in Serum or Plasma by Direct assay,Lab Test,LOINC
+36032416,Cholesterol in LDL [Mass/volume] in DBS by Direct assay,Lab Test,LOINC
 4042062,Serum random LDL cholesterol measurement,Procedure,SNOMED
 3033200,Cholesterol in LDL [Mass or Moles/volume] in Serum or Plasma,Lab Test,LOINC
+40307326,Serum LDL cholesterol level,Procedure,SNOMED
+4042061,Serum fasting LDL cholesterol measurement,Procedure,SNOMED
+4001181,Serum specimen,Specimen,SNOMED
+37399325,Serum low density lipoprotein cholesterol level,Observable Entity,SNOMED
+4000626,Plasma specimen,Specimen,SNOMED
 40308373,Plasma fasting LDL cholesterol level,Procedure,SNOMED
 4041721,Plasma fasting LDL cholesterol measurement,Procedure,SNOMED
 37394232,Plasma fasting LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
-4000626,Plasma specimen,Specimen,SNOMED
 40307334,Serum fasting LDL cholesterol level,Procedure,SNOMED
 37394093,Serum fasting LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
-37394094,Serum random LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
 40307335,Serum random LDL cholesterol level,Procedure,SNOMED
+37394094,Serum random LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
 40308372,Plasma random LDL cholesterol level,Procedure,SNOMED
-4042758,Plasma random LDL cholesterol measurement,Procedure,SNOMED
 37394231,Plasma random LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
-40330202,Plasma LDL cholesterol level,Procedure,SNOMED
-37392939,Plasma LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
+4042758,Plasma random LDL cholesterol measurement,Procedure,SNOMED
 40308379,Plasma LDL cholesterol level,Procedure,SNOMED
+37392939,Plasma LDL (low density lipoprotein) cholesterol level,Observable Entity,SNOMED
+40330202,Plasma LDL cholesterol level,Procedure,SNOMED
 36034318,Calculated.Martin-Hopkins,LOINC Method,LOINC
 1015160,DBS,LOINC System,LOINC
 1034360,VAP,LOINC Method,LOINC

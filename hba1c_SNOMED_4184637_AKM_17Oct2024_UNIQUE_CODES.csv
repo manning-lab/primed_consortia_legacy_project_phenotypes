@@ -2,8 +2,8 @@ CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
 4184637,Hemoglobin A1c measurement,Procedure,SNOMED
 2106238,Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated),CPT4,CPT4
 1029919,Blood,LOINC System,LOINC
-40758583,Deprecated Hemoglobin A1c in Blood,Lab Test,LOINC
 3034639,Hemoglobin A1c [Mass/volume] in Blood,Lab Test,LOINC
+40758583,Deprecated Hemoglobin A1c in Blood,Lab Test,LOINC
 1033751,Qn,LOINC Scale,LOINC
 1029816,Point in time (spot),LOINC Time,LOINC
 1029650,Mass Concentration,LOINC Property,LOINC

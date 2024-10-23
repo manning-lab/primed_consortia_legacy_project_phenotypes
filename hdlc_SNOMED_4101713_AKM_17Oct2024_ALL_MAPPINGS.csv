@@ -1,80 +1,80 @@
 TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Concept replaces,3005984,Deprecated Cholesterol.in HDL [Mass/volume] in Serum or Plasma,2086-7,Lab Test,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3005984,Deprecated Cholesterol.in HDL [Mass/volume] in Serum or Plasma,2086-7,Lab Test,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Maps to,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,2085-9,Lab Test,LOINC
 3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,2085-9,Lab Test,LOINC
-3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Maps to,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,2085-9,Lab Test,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Mapped from,3005984,Deprecated Cholesterol.in HDL [Mass/volume] in Serum or Plasma,2086-7,Lab Test,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3007070,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,Concept replaces,3005984,Deprecated Cholesterol.in HDL [Mass/volume] in Serum or Plasma,2086-7,Lab Test,LOINC
 3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Mapped from,3011884,Cholesterol in HDL [Presence] in Serum or Plasma,27340-9,Lab Test,LOINC
 3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
 3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
 3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
 3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Maps to,3011884,Cholesterol in HDL [Presence] in Serum or Plasma,27340-9,Lab Test,LOINC
+3011884,27340-9,Cholesterol in HDL [Presence] in Serum or Plasma,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
+3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has system,1033324,Serum or Plasma ultracentrifugate,LP7578-0,LOINC System,LOINC
 3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Maps to,3013473,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,18263-4,Lab Test,LOINC
 3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Mapped from,3013473,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,18263-4,Lab Test,LOINC
-3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has system,1033324,Serum or Plasma ultracentrifugate,LP7578-0,LOINC System,LOINC
 3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3013473,18263-4,Cholesterol in HDL [Mass/volume] in Serum or Plasma ultracentrifugate,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
-3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
-3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Maps to,3023602,Cholesterol in HDL [Moles/volume] in Serum or Plasma,14646-4,Lab Test,LOINC
-3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Mapped from,3023602,Cholesterol in HDL [Moles/volume] in Serum or Plasma,14646-4,Lab Test,LOINC
-3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
+3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Maps to,3023602,Cholesterol in HDL [Moles/volume] in Serum or Plasma,14646-4,Lab Test,LOINC
+3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
+3023602,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LOINC,Mapped from,3023602,Cholesterol in HDL [Moles/volume] in Serum or Plasma,14646-4,Lab Test,LOINC
+3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Mapped from,3030792,Cholesterol in HDL [Moles/volume] in Body fluid,50840-8,Lab Test,LOINC
+3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
+3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
 3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Maps to,3030792,Cholesterol in HDL [Moles/volume] in Body fluid,50840-8,Lab Test,LOINC
 3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has system,1030397,Body fluid,LP7238-1,LOINC System,LOINC
-3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
-3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Mapped from,3030792,Cholesterol in HDL [Moles/volume] in Body fluid,50840-8,Lab Test,LOINC
-3030792,50840-8,Cholesterol in HDL [Moles/volume] in Body fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
-3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3033638,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,12771-2,Lab Test,LOINC
-3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
 3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3033638,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,12771-2,Lab Test,LOINC
 3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
+3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3033638,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,12771-2,Lab Test,LOINC
+3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
+3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has property,1015176,Presence or Threshold,LP217195-9,LOINC Property,LOINC
 3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
-3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033749,Ord,LP7751-3,LOINC Scale,LOINC
-3033638,12771-2,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
+3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
+3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
+3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3034482,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,12772-0,Lab Test,LOINC
+3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3034482,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,12772-0,Lab Test,LOINC
 3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
 3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has property,1029599,Arbitrary Concentration,LP6773-8,LOINC Property,LOINC
-3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
-3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
-3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3034482,12772-0,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3034482,Cholesterol in HDL [Units/volume] in Serum or Plasma by Electrophoresis,12772-0,Lab Test,LOINC
+3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has system,1030088,Dialysis fluid,LP7169-8,LOINC System,LOINC
+3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
+3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Maps to,3040815,Cholesterol in HDL [Moles/volume] in Dialysis fluid,53135-0,Lab Test,LOINC
+3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Mapped from,3040815,Cholesterol in HDL [Moles/volume] in Dialysis fluid,53135-0,Lab Test,LOINC
 3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
 3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
-3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Mapped from,3040815,Cholesterol in HDL [Moles/volume] in Dialysis fluid,53135-0,Lab Test,LOINC
-3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Maps to,3040815,Cholesterol in HDL [Moles/volume] in Dialysis fluid,53135-0,Lab Test,LOINC
-3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has property,1029726,Substance Concentration,LP6860-3,LOINC Property,LOINC
-3040815,53135-0,Cholesterol in HDL [Moles/volume] in Dialysis fluid,LOINC,Has system,1030088,Dialysis fluid,LP7169-8,LOINC System,LOINC
-3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Maps to,3053286,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,49130-8,Lab Test,LOINC
+3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has component,40782589,Cholesterol in HDL,LP15489-5,LOINC Component,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has system,1033306,Serum or Plasma,LP7576-4,LOINC System,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Has method,1028989,Electrophoresis,LP6247-3,LOINC Method,LOINC
 3053286,49130-8,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,Mapped from,3053286,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,49130-8,Lab Test,LOINC
-4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Mapped from,40329065,High density lipoprotein/total cholesterol ratio,166843008,Procedure,SNOMED
-4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Concept same_as from,40329065,High density lipoprotein/total cholesterol ratio,166843008,Procedure,SNOMED
-4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Mapped from,4019543,HDL/total cholesterol ratio measurement,104583003,Procedure,SNOMED
-4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Maps to,4019543,HDL/total cholesterol ratio measurement,104583003,Procedure,SNOMED
 4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Mapped from,37398736,High density lipoprotein/total cholesterol ratio,1031421000000101,Observable Entity,SNOMED
+4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Mapped from,4019543,HDL/total cholesterol ratio measurement,104583003,Procedure,SNOMED
 4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Has property,4042999,Ratio,118586006,Qualifier Value,SNOMED
+4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
+4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Concept same_as from,40329065,High density lipoprotein/total cholesterol ratio,166843008,Procedure,SNOMED
+4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Maps to,4019543,HDL/total cholesterol ratio measurement,104583003,Procedure,SNOMED
 4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Has component,4011133,HDL cholesterol,102737005,Substance,SNOMED
+4019543,104583003,HDL/total cholesterol ratio measurement,SNOMED,Mapped from,40329065,High density lipoprotein/total cholesterol ratio,166843008,Procedure,SNOMED
 4041557,166838001,Serum fasting HDL cholesterol measurement,SNOMED,Mapped from,40307332,Serum fasting HDL cholesterol level,144114005,Procedure,SNOMED
 4041557,166838001,Serum fasting HDL cholesterol measurement,SNOMED,Concept same_as from,40307332,Serum fasting HDL cholesterol level,144114005,Procedure,SNOMED
 4041557,166838001,Serum fasting HDL cholesterol measurement,SNOMED,Mapped from,37394092,Serum fasting HDL (high density lipoprotein) cholesterol level,1026451000000102,Observable Entity,SNOMED
@@ -121,7 +121,7 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4055665,166839009,Serum random HDL cholesterol measurement,SNOMED,Concept same_as from,40307333,Serum random HDL cholesterol level,144115006,Procedure,SNOMED
 4055665,166839009,Serum random HDL cholesterol measurement,SNOMED,Mapped from,40307333,Serum random HDL cholesterol level,144115006,Procedure,SNOMED
 4055665,166839009,Serum random HDL cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,4195503,Plasma HDL cholesterol measurement,314035000,Procedure,SNOMED
+4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,3033638,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,12771-2,Lab Test,LOINC
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,3053286,Cholesterol in HDL [Mass/volume] in Serum or Plasma by Electrophoresis,49130-8,Lab Test,LOINC
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,4042059,Serum HDL cholesterol measurement,166832000,Procedure,SNOMED
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,4019543,HDL/total cholesterol ratio measurement,104583003,Procedure,SNOMED
@@ -130,9 +130,9 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Mapped from,4101713,High density lipoprotein cholesterol measurement,28036006,Procedure,SNOMED
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Interprets of,37167480,Familial lecithin cholesterol acyltransferase deficiency,1264565005,Disorder,SNOMED
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Has component,4011133,HDL cholesterol,102737005,Substance,SNOMED
-4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Interprets of,4029266,Fish-eye disease,238092004,Disorder,SNOMED
+4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,4195503,Plasma HDL cholesterol measurement,314035000,Procedure,SNOMED
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Has method,4044177,Measurement - action,129266000,Qualifier Value,SNOMED
-4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,3033638,Cholesterol in HDL [Presence] in Serum or Plasma by Electrophoresis,12771-2,Lab Test,LOINC
+4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Interprets of,4029266,Fish-eye disease,238092004,Disorder,SNOMED
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,3011884,Cholesterol in HDL [Presence] in Serum or Plasma,27340-9,Lab Test,LOINC
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,36032229,Cholesterol in HDL [Mass/volume] in DBS,96596-2,Lab Test,LOINC
 4101713,28036006,High density lipoprotein cholesterol measurement,SNOMED,Subsumes,3040815,Cholesterol in HDL [Moles/volume] in Dialysis fluid,53135-0,Lab Test,LOINC

@@ -4,14 +4,14 @@ TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATI
 2106238,3045F,Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated),CPT4,Mapped from,2106238,Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated),3045F,CPT4,CPT4
 2106238,3045F,Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated),CPT4,CPT4 - SNOMED eq,4184637,Hemoglobin A1c measurement,43396009,Procedure,SNOMED
 3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Has system,1029919,Blood,LP7057-5,LOINC System,LOINC
-3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Concept replaces,40758583,Deprecated Hemoglobin A1c in Blood,55454-3,Lab Test,LOINC
-3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Maps to,3034639,Hemoglobin A1c [Mass/volume] in Blood,41995-2,Lab Test,LOINC
+3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Mapped from,3034639,Hemoglobin A1c [Mass/volume] in Blood,41995-2,Lab Test,LOINC
+3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Mapped from,40758583,Deprecated Hemoglobin A1c in Blood,55454-3,Lab Test,LOINC
 3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Has scale type,1033751,Qn,LP7753-9,LOINC Scale,LOINC
 3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Has time aspect,1029816,Point in time (spot),LP6960-1,LOINC Time,LOINC
-3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Mapped from,3034639,Hemoglobin A1c [Mass/volume] in Blood,41995-2,Lab Test,LOINC
+3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Concept replaces,40758583,Deprecated Hemoglobin A1c in Blood,55454-3,Lab Test,LOINC
 3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Has property,1029650,Mass Concentration,LP6827-2,LOINC Property,LOINC
 3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Has component,40789263,Hemoglobin A1c,LP16413-4,LOINC Component,LOINC
-3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Mapped from,40758583,Deprecated Hemoglobin A1c in Blood,55454-3,Lab Test,LOINC
+3034639,41995-2,Hemoglobin A1c [Mass/volume] in Blood,LOINC,Maps to,3034639,Hemoglobin A1c [Mass/volume] in Blood,41995-2,Lab Test,LOINC
 4184637,43396009,Hemoglobin A1c measurement,SNOMED,Mapped from,40324189,HbA1 less than 7% - good control,165724006,Clinical Finding,SNOMED
 4184637,43396009,Hemoglobin A1c measurement,SNOMED,Interprets of,37174831,Hemoglobin A1c within reference range,1172919000,Clinical Finding,SNOMED
 4184637,43396009,Hemoglobin A1c measurement,SNOMED,Mapped from,764124,Hemoglobin A1c between 7%-9% indicating borderline diabetic control,451051000124101,Clinical Finding,SNOMED
