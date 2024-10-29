@@ -1,0 +1,4 @@
+"DX_CODE_2","CODE","SHORT_DESCRIPTION","LONG_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"Z79.4",NA,NA,NA,45576185,"Long term (current) use of insulin","Observation","ICD10CM","4-char billing code","1970-01-01","2099-12-31"
+"Z79.84",NA,NA,NA,37202300,"Long term (current) use of oral hypoglycemic drugs","Observation","ICD10CM","5-char billing code","2017-01-01","2099-12-31"
+"Z79.85",NA,NA,NA,37403777,"Long-term (current) use of injectable non-insulin antidiabetic drugs","Observation","ICD10CM","5-char billing code","2022-10-01","2099-12-31"
