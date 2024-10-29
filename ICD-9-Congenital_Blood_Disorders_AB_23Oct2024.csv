@@ -1,0 +1,13 @@
+"DX_CODE_2","CODE","LONG_DESCRIPTION","SHORT_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE","PREV_DOC_FLAG"
+"288.01","28801","Congenital neutropenia","Congenital neutropenia",44833396,"Congenital neutropenia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31",FALSE
+"776",NA,NA,NA,44824610,"Hematological disorders of newborn","Condition","ICD9CM","3-dig nonbill code","1970-01-01","2099-12-31",TRUE
+"776.0","7760","Hemorrhagic disease of newborn","NB hemorrhagic disease",44824611,"Hemorrhagic disease of newborn","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.1","7761","Transient neonatal thrombocytopenia","Neonatal thrombocytopen",44837420,"Transient neonatal thrombocytopenia","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.2","7762","Disseminated intravascular coagulation in newborn","Dissem intravasc coag NB",44829290,"Disseminated intravascular coagulation in newborn","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.3","7763","Other transient neonatal disorders of coagulation","Oth neonatal coag dis",44825792,"Other transient neonatal disorders of coagulation","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.4","7764","Polycythemia neonatorum","Polycythemia neonatorum",44821232,"Polycythemia neonatorum","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.5","7765","Congenital anemia","Congenital anemia",44820048,"Congenital anemia","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.6","7766","Anemia of prematurity","Anemia of prematurity",44824612,"Anemia of prematurity","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.7","7767","Transient neonatal neutropenia","Neonatal neutropenia",44833908,"Transient neonatal neutropenia","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.8","7768","Other specified transient hematological disorders of fetus or newborn","Transient hemat dis NEC",44825793,"Other specified transient hematological disorders of fetus or newborn","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"776.9","7769","Unspecified hematological disorder specific to newborn","NB hematological dis NOS",44831578,"Unspecified hematological disorder specific to newborn","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE

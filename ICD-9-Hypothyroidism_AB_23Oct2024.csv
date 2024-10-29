@@ -1,0 +1,9 @@
+"DX_CODE_2","CODE","LONG_DESCRIPTION","SHORT_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE","PREV_DOC_FLAG"
+"243",NA,NA,NA,44829873,"Congenital hypothyroidism","Condition","ICD9CM","3-dig billing code","1970-01-01","2099-12-31",FALSE
+"244",NA,NA,NA,44819497,"Acquired hypothyroidism","Condition","ICD9CM","3-dig nonbill code","1970-01-01","2099-12-31",TRUE
+"244.0","2440","Postsurgical hypothyroidism","Postsurgical hypothyroid",44825259,"Postsurgical hypothyroidism","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"244.1","2441","Other postablative hypothyroidism","Postablat hypothyr NEC",44829874,"Other postablative hypothyroidism","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"244.2","2442","Iodine hypothyroidism","Iodine hypothyroidism",44821784,"Iodine hypothyroidism","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"244.3","2443","Other iatrogenic hypothyroidism","Iatrogen hypothyroid NEC",44826456,"Other iatrogenic hypothyroidism","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"244.8","2448","Other specified acquired hypothyroidism","Acquired hypothyroid NEC",44827613,"Other specified acquired hypothyroidism","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
+"244.9","2449","Unspecified acquired hypothyroidism","Hypothyroidism NOS",44828786,"Unspecified acquired hypothyroidism","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31",TRUE
