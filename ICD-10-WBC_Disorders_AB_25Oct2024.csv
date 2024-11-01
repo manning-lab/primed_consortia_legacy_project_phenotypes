@@ -1,29 +1,29 @@
-"DX_CODE_2","CODE","SHORT_DESCRIPTION","LONG_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
-"D72",NA,NA,NA,1567866,"Other disorders of white blood cells","Condition","ICD10CM","3-char nonbill code","2012-01-01","2099-12-31"
-"D72.0","D720","Genetic anomalies of leukocytes","Genetic anomalies of leukocytes",35206776,"Genetic anomalies of leukocytes","Condition","ICD10CM","4-char billing code","2007-01-01","2099-12-31"
-"D72.1","D721","Eosinophilia","Eosinophilia",35206777,"Eosinophilia","Measurement","ICD10CM","4-char nonbill code","2007-01-01","2099-12-31"
-"D72.10","D7210","Eosinophilia, unspecified","Eosinophilia, unspecified",725243,"Eosinophilia, unspecified","Measurement","ICD10CM","5-char billing code","2021-01-01","2099-12-31"
-"D72.11",NA,NA,NA,725244,"Hypereosinophilic syndrome [HES]","Condition","ICD10CM","5-char nonbill code","2021-01-01","2099-12-31"
-"D72.110","D72110","Idiopathic hypereosinophilic syndrome [IHES]","Idiopathic hypereosinophilic syndrome [IHES]",725245,"Idiopathic hypereosinophilic syndrome [IHES]","Condition","ICD10CM","6-char billing code","2021-01-01","2099-12-31"
-"D72.111","D72111","Lymphocytic Variant Hypereosinophilic Syndrome [LHES]","Lymphocytic Variant Hypereosinophilic Syndrome [LHES]",725246,"Lymphocytic Variant Hypereosinophilic Syndrome [LHES]","Condition","ICD10CM","6-char billing code","2021-01-01","2099-12-31"
-"D72.118","D72118","Other hypereosinophilic syndrome","Other hypereosinophilic syndrome",725247,"Other hypereosinophilic syndrome","Condition","ICD10CM","6-char billing code","2021-01-01","2099-12-31"
-"D72.119","D72119","Hypereosinophilic syndrome [HES], unspecified","Hypereosinophilic syndrome [HES], unspecified",725248,"Hypereosinophilic syndrome [HES], unspecified","Condition","ICD10CM","6-char billing code","2021-01-01","2099-12-31"
-"D72.12","D7212","Drug rash with eosinophilia and systemic symptoms syndrome","Drug rash with eosinophilia and systemic symptoms syndrome",725249,"Drug rash with eosinophilia and systemic symptoms syndrome","Condition","ICD10CM","5-char billing code","2021-01-01","2099-12-31"
-"D72.18","D7218","Eosinophilia in diseases classified elsewhere","Eosinophilia in diseases classified elsewhere",725250,"Eosinophilia in diseases classified elsewhere","Measurement","ICD10CM","5-char billing code","2021-01-01","2099-12-31"
-"D72.19","D7219","Other eosinophilia","Other eosinophilia",725251,"Other eosinophilia","Measurement","ICD10CM","5-char billing code","2021-01-01","2099-12-31"
-"D72.8",NA,NA,NA,1567867,"Other specified disorders of white blood cells","Condition","ICD10CM","4-char nonbill code","2012-01-01","2099-12-31"
-"D72.81",NA,NA,NA,1567868,"Decreased white blood cell count","Measurement","ICD10CM","5-char nonbill code","2012-01-01","2099-12-31"
-"D72.810","D72810","Lymphocytopenia","Lymphocytopenia",45552365,"Lymphocytopenia","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.818","D72818","Other decreased white blood cell count","Other decreased white blood cell count",45576413,"Other decreased white blood cell count","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.819","D72819","Decreased white blood cell count, unspecified","Decreased white blood cell count, unspecified",45566711,"Decreased white blood cell count, unspecified","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.82",NA,NA,NA,1567869,"Elevated white blood cell count","Measurement","ICD10CM","5-char nonbill code","2012-01-01","2099-12-31"
-"D72.820","D72820","Lymphocytosis (symptomatic)","Lymphocytosis (symptomatic)",45605380,"Lymphocytosis (symptomatic)","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.821","D72821","Monocytosis (symptomatic)","Monocytosis (symptomatic)",45595774,"Monocytosis (symptomatic)","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.822","D72822","Plasmacytosis","Plasmacytosis",45581329,"Plasmacytosis","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.823","D72823","Leukemoid reaction","Leukemoid reaction",45547612,"Leukemoid reaction","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.824","D72824","Basophilia","Basophilia",45537932,"Basophilia","Measurement","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.825","D72825","Bandemia","Bandemia",45557095,"Bandemia","Measurement","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.828","D72828","Other elevated white blood cell count","Other elevated white blood cell count",45542715,"Other elevated white blood cell count","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.829","D72829","Elevated white blood cell count, unspecified","Elevated white blood cell count, unspecified",45537933,"Elevated white blood cell count, unspecified","Condition","ICD10CM","6-char billing code","1970-01-01","2099-12-31"
-"D72.89","D7289","Other specified disorders of white blood cells","Other specified disorders of white blood cells",45542716,"Other specified disorders of white blood cells","Condition","ICD10CM","5-char billing code","1970-01-01","2099-12-31"
-"D72.9","D729","Disorder of white blood cells, unspecified","Disorder of white blood cells, unspecified",35206778,"Disorder of white blood cells, unspecified","Condition","ICD10CM","4-char billing code","2007-01-01","2099-12-31"
+DX_CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+D72,NA,NA,NA,1567866,Other disorders of white blood cells,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,TRUE
+D72.0,D720,Genetic anomalies of leukocytes,Genetic anomalies of leukocytes,35206776,Genetic anomalies of leukocytes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D72.1,D721,Eosinophilia,Eosinophilia,35206777,Eosinophilia,Measurement,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,TRUE
+D72.10,D7210,"Eosinophilia, unspecified","Eosinophilia, unspecified",725243,"Eosinophilia, unspecified",Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099,TRUE
+D72.11,NA,NA,NA,725244,Hypereosinophilic syndrome [HES],Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099,TRUE
+D72.110,D72110,Idiopathic hypereosinophilic syndrome [IHES],Idiopathic hypereosinophilic syndrome [IHES],725245,Idiopathic hypereosinophilic syndrome [IHES],Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,TRUE
+D72.111,D72111,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],Lymphocytic Variant Hypereosinophilic Syndrome [LHES],725246,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,TRUE
+D72.118,D72118,Other hypereosinophilic syndrome,Other hypereosinophilic syndrome,725247,Other hypereosinophilic syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,TRUE
+D72.119,D72119,"Hypereosinophilic syndrome [HES], unspecified","Hypereosinophilic syndrome [HES], unspecified",725248,"Hypereosinophilic syndrome [HES], unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,TRUE
+D72.12,D7212,Drug rash with eosinophilia and systemic symptoms syndrome,Drug rash with eosinophilia and systemic symptoms syndrome,725249,Drug rash with eosinophilia and systemic symptoms syndrome,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,TRUE
+D72.18,D7218,Eosinophilia in diseases classified elsewhere,Eosinophilia in diseases classified elsewhere,725250,Eosinophilia in diseases classified elsewhere,Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099,TRUE
+D72.19,D7219,Other eosinophilia,Other eosinophilia,725251,Other eosinophilia,Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099,TRUE
+D72.8,NA,NA,NA,1567867,Other specified disorders of white blood cells,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+D72.81,NA,NA,NA,1567868,Decreased white blood cell count,Measurement,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099,TRUE
+D72.810,D72810,Lymphocytopenia,Lymphocytopenia,45552365,Lymphocytopenia,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.818,D72818,Other decreased white blood cell count,Other decreased white blood cell count,45576413,Other decreased white blood cell count,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.819,D72819,"Decreased white blood cell count, unspecified","Decreased white blood cell count, unspecified",45566711,"Decreased white blood cell count, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.82,NA,NA,NA,1567869,Elevated white blood cell count,Measurement,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099,TRUE
+D72.820,D72820,Lymphocytosis (symptomatic),Lymphocytosis (symptomatic),45605380,Lymphocytosis (symptomatic),Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.821,D72821,Monocytosis (symptomatic),Monocytosis (symptomatic),45595774,Monocytosis (symptomatic),Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.822,D72822,Plasmacytosis,Plasmacytosis,45581329,Plasmacytosis,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.823,D72823,Leukemoid reaction,Leukemoid reaction,45547612,Leukemoid reaction,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.824,D72824,Basophilia,Basophilia,45537932,Basophilia,Measurement,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.825,D72825,Bandemia,Bandemia,45557095,Bandemia,Measurement,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.828,D72828,Other elevated white blood cell count,Other elevated white blood cell count,45542715,Other elevated white blood cell count,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.829,D72829,"Elevated white blood cell count, unspecified","Elevated white blood cell count, unspecified",45537933,"Elevated white blood cell count, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,TRUE
+D72.89,D7289,Other specified disorders of white blood cells,Other specified disorders of white blood cells,45542716,Other specified disorders of white blood cells,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+D72.9,D729,"Disorder of white blood cells, unspecified","Disorder of white blood cells, unspecified",35206778,"Disorder of white blood cells, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE

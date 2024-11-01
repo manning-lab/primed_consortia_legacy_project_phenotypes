@@ -1,0 +1,7 @@
+CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+670.2,NA,NA,NA,45890919,Puerperal sepsis,Condition,ICD9CM,4-dig nonbill code,10/1/2014,12/31/2099,FALSE
+670.2,67020,"Puerperal sepsis, unspecified as to episode of care or not applicable",Puerperal sepsis-unsp,44829163,"Puerperal sepsis, unspecified as to episode of care or not applicable",Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+670.22,67022,"Puerperal sepsis, delivered, with mention of postpartum complication",Puerprl sepsis-del w p/p,44832579,"Puerperal sepsis, delivered, with mention of postpartum complication",Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+670.24,67024,"Puerperal sepsis, postpartum condition or complication",Puerperl sepsis-postpart,44834934,"Puerperal sepsis, postpartum condition or complication",Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+995.91,99591,Sepsis,Sepsis,44820254,Sepsis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+995.92,99592,Severe sepsis,Severe sepsis,44827180,Severe sepsis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE

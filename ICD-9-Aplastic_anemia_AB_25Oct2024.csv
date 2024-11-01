@@ -1,14 +1,14 @@
-"DX_CODE_2","CODE","LONG_DESCRIPTION","SHORT_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
-"284",NA,NA,NA,44826481,"Aplastic anemia and other bone marrow failure syndromes","Condition","ICD9CM","3-dig nonbill code","1970-01-01","2099-12-31"
-"284.0",NA,NA,NA,44831067,"Constitutional aplastic anemia","Condition","ICD9CM","4-dig nonbill code","1970-01-01","2099-12-31"
-"284.01","28401","Constitutional red blood cell aplasia","Constitution RBC aplasia",44829910,"Constitutional red blood cell aplasia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"284.09","28409","Other constitutional aplastic anemia","Const aplastc anemia NEC",44826482,"Other constitutional aplastic anemia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"284.1",NA,NA,NA,44832210,"Pancytopenia","Condition","ICD9CM","4-dig nonbill code","1970-01-01","2099-12-31"
-"284.11","28411","Antineoplastic chemotherapy induced pancytopenia","Antin chemo indcd pancyt",44832211,"Antineoplastic chemotherapy induced pancytopenia","Condition","ICD9CM","5-dig billing code","2013-10-01","2099-12-31"
-"284.12","28412","Other drug-induced pancytopenia","Oth drg indcd pancytopna",44821805,"Other drug-induced pancytopenia","Condition","ICD9CM","5-dig billing code","2013-10-01","2099-12-31"
-"284.19","28419","Other pancytopenia","Other pancytopenia",44821806,"Other pancytopenia","Condition","ICD9CM","5-dig billing code","2013-10-10","2099-12-31"
-"284.2","2842","Myelophthisis","Myelophthisis",44832212,"Myelophthisis","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
-"284.8",NA,NA,NA,44825279,"Other specified aplastic anemias","Condition","ICD9CM","4-dig nonbill code","1970-01-01","2099-12-31"
-"284.81","28481","Red cell aplasia (acquired)(adult)(with thymoma)","Red cell aplasia",44832213,"Red cell aplasia (acquired)(adult)(with thymoma)","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"284.89","28489","Other specified aplastic anemias","Aplastic anemias NEC",44836943,"Other specified aplastic anemias","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"284.9","2849","Aplastic anemia, unspecified","Aplastic anemia NOS",44835768,"Aplastic anemia, unspecified","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
+DX_CODE_2,CODE,LONG_DESCRIPTION,SHORT_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+284,NA,NA,NA,44826481,Aplastic anemia and other bone marrow failure syndromes,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,TRUE
+284,NA,NA,NA,44831067,Constitutional aplastic anemia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+284.01,28401,Constitutional red blood cell aplasia,Constitution RBC aplasia,44829910,Constitutional red blood cell aplasia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+284.09,28409,Other constitutional aplastic anemia,Const aplastc anemia NEC,44826482,Other constitutional aplastic anemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+284.1,NA,NA,NA,44832210,Pancytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+284.11,28411,Antineoplastic chemotherapy induced pancytopenia,Antin chemo indcd pancyt,44832211,Antineoplastic chemotherapy induced pancytopenia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,TRUE
+284.12,28412,Other drug-induced pancytopenia,Oth drg indcd pancytopna,44821805,Other drug-induced pancytopenia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,TRUE
+284.19,28419,Other pancytopenia,Other pancytopenia,44821806,Other pancytopenia,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099,TRUE
+284.2,2842,Myelophthisis,Myelophthisis,44832212,Myelophthisis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+284.8,NA,NA,NA,44825279,Other specified aplastic anemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+284.81,28481,Red cell aplasia (acquired)(adult)(with thymoma),Red cell aplasia,44832213,Red cell aplasia (acquired)(adult)(with thymoma),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+284.89,28489,Other specified aplastic anemias,Aplastic anemias NEC,44836943,Other specified aplastic anemias,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+284.9,2849,"Aplastic anemia, unspecified",Aplastic anemia NOS,44835768,"Aplastic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE

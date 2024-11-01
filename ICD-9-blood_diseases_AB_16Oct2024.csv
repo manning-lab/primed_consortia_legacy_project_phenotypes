@@ -1,149 +1,149 @@
-DIAGNOSIS_CODE_ATHENA,DIAGNOSIS_CODE_MEDICARE,CONCEPT_NAME_MEDICARE,SHORT_NAME_MEDICARE,CONCEPT_ID,CONCEPT_NAME_ATHENA,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE
-280,NA,NA,NA,44821803,Iron deficiency anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-280,2800,Iron deficiency anemia secondary to blood loss (chronic),Chr blood loss anemia,44836940,Iron deficiency anemia secondary to blood loss (chronic),Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-280.1,2801,Iron deficiency anemia secondary to inadequate dietary iron intake,Iron def anemia dietary,44827636,Iron deficiency anemia secondary to inadequate dietary iron intake,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-280.8,2808,Other specified iron deficiency anemias,Iron defic anemia NEC,44824094,Other specified iron deficiency anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-280.9,2809,"Iron deficiency anemia, unspecified",Iron defic anemia NOS,44828816,"Iron deficiency anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281,NA,NA,NA,44831061,Other deficiency anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-281,2810,Pernicious anemia,Pernicious anemia,44819527,Pernicious anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281.1,2811,Other vitamin B12 deficiency anemia,B12 defic anemia NEC,44833390,Other vitamin B12 deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281.2,2812,Folate-deficiency anemia,Folate-deficiency anemia,44831062,Folate-deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281.3,2813,Other specified megaloblastic anemias not elsewhere classified,Megaloblastic anemia NEC,44829907,Other specified megaloblastic anemias not elsewhere classified,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281.4,2814,Protein-deficiency anemia,Protein defic anemia,44835765,Protein-deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281.8,2818,Anemia associated with other specified nutritional deficiency,Nutritional anemia NEC,44831063,Anemia associated with other specified nutritional deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-281.9,2819,Unspecified deficiency anemia,Deficiency anemia NOS,44824095,Unspecified deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282,NA,NA,NA,44836941,Hereditary hemolytic anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-282,2820,Hereditary spherocytosis,Hereditary spherocytosis,44832209,Hereditary spherocytosis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.1,2821,Hereditary elliptocytosis,Heredit elliptocytosis,44820697,Hereditary elliptocytosis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.2,2822,Anemias due to disorders of glutathione metabolism,Glutathione dis anemia,44827637,Anemias due to disorders of glutathione metabolism,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.3,2823,Other hemolytic anemias due to enzyme deficiency,Enzyme defic anemia NEC,44821804,Other hemolytic anemias due to enzyme deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.4,NA,NA,NA,44822956,Thalassemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-282.4,28240,"Thalassemia, unspecified","Thalassemia, unspecified",44834572,"Thalassemia, unspecified",Condition,ICD9CM,5-dig billing code,8/31/2012,12/31/2099
-282.41,28241,Sickle-cell thalassemia without crisis,Thlasema Hb-S w/o crisis,44829908,Sickle-cell thalassemia without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.42,28242,Sickle-cell thalassemia with crisis,Thlassemia Hb-S w crisis,44824096,Sickle-cell thalassemia with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.43,28243,Alpha thalassemia,Alpha thalassemia,44828817,Alpha thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.44,28244,Beta thalassemia,Beta thalassemia,44829909,Beta thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.45,28245,Delta-beta thalassemia,Delta-beta thalassemia,44822957,Delta-beta thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.46,28246,Thalassemia minor,Thalassemia minor,44831064,Thalassemia minor,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099
-282.47,28247,Hemoglobin E-beta thalassemia,Hgb E-beta thalassemia,44819528,Hemoglobin E-beta thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.49,28249,Other thalassemia,Thalassemia NEC,44820698,Other thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.5,2825,Sickle-cell trait,Sickle-cell trait,44828818,Sickle-cell trait,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.6,NA,NA,NA,44820699,Sickle-cell disease,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-282.6,28260,"Sickle-cell disease, unspecified",Sickle cell disease NOS,44831065,"Sickle-cell disease, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.61,28261,Hb-SS disease without crisis,Hb-SS disease w/o crisis,44827638,Hb-SS disease without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.62,28262,Hb-SS disease with crisis,Hb-SS disease w crisis,44825276,Hb-SS disease with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.63,28263,Sickle-cell/Hb-C disease without crisis,Hb-SS/hb-C dis w/o crsis,44835766,Sickle-cell/Hb-C disease without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.64,28264,Sickle-cell/Hb-C disease with crisis,Hb-S/Hb-C dis w crisis,44819529,Sickle-cell/Hb-C disease with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.68,28268,Other sickle-cell disease without crisis,Hb-S dis w/o crisis NEC,44836942,Other sickle-cell disease without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.69,28269,Other sickle-cell disease with crisis,Hb-SS dis NEC w crisis,44825277,Other sickle-cell disease with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-282.7,2827,Other hemoglobinopathies,Hemoglobinopathies NEC,44831066,Other hemoglobinopathies,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.8,2828,Other specified hereditary hemolytic anemias,Hered hemolytic anem NEC,44828819,Other specified hereditary hemolytic anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-282.9,2829,"Hereditary hemolytic anemia, unspecified",Hered hemolytic anem NOS,44824097,"Hereditary hemolytic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-283,NA,NA,NA,44825278,Acquired hemolytic anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-283,2830,Autoimmune hemolytic anemias,Autoimmun hemolytic anem,44833391,Autoimmune hemolytic anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-283.1,NA,NA,NA,44824098,Non-autoimmune hemolytic anemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-283.1,28310,"Non-autoimmune hemolytic anemia, unspecified",Nonauto hem anemia NOS,44834573,"Non-autoimmune hemolytic anemia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-283.11,28311,Hemolytic-uremic syndrome,Hemolytic uremic synd,44833392,Hemolytic-uremic syndrome,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-283.19,28319,Other non-autoimmune hemolytic anemias,Oth nonauto hem anemia,44835767,Other non-autoimmune hemolytic anemias,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-283.2,2832,Hemoglobinuria due to hemolysis from external causes,Hemolytic hemoglobinuria,44822958,Hemoglobinuria due to hemolysis from external causes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-283.9,2839,"Acquired hemolytic anemia, unspecified",Acq hemolytic anemia NOS,44833393,"Acquired hemolytic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-284,NA,NA,NA,44826481,Aplastic anemia and other bone marrow failure syndromes,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-284,NA,NA,NA,44831067,Constitutional aplastic anemia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-284.01,28401,Constitutional red blood cell aplasia,Constitution RBC aplasia,44829910,Constitutional red blood cell aplasia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-284.09,28409,Other constitutional aplastic anemia,Const aplastc anemia NEC,44826482,Other constitutional aplastic anemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-284.1,NA,NA,NA,44832210,Pancytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-284.11,28411,Antineoplastic chemotherapy induced pancytopenia,Antin chemo indcd pancyt,44832211,Antineoplastic chemotherapy induced pancytopenia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099
-284.12,28412,Other drug-induced pancytopenia,Oth drg indcd pancytopna,44821805,Other drug-induced pancytopenia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099
-284.19,28419,Other pancytopenia,Other pancytopenia,44821806,Other pancytopenia,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099
-284.2,2842,Myelophthisis,Myelophthisis,44832212,Myelophthisis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-284.8,NA,NA,NA,44825279,Other specified aplastic anemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-284.81,28481,Red cell aplasia (acquired)(adult)(with thymoma),Red cell aplasia,44832213,Red cell aplasia (acquired)(adult)(with thymoma),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-284.89,28489,Other specified aplastic anemias,Aplastic anemias NEC,44836943,Other specified aplastic anemias,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-284.9,2849,"Aplastic anemia, unspecified",Aplastic anemia NOS,44835768,"Aplastic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-285,NA,NA,NA,44832214,Other and unspecified anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-285,2850,Sideroblastic anemia,Sideroblastic anemia,44836944,Sideroblastic anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-285.1,2851,Acute posthemorrhagic anemia,Ac posthemorrhag anemia,44825280,Acute posthemorrhagic anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-285.2,NA,NA,NA,44836945,Anemia of chronic disease,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-285.21,28521,Anemia in chronic kidney disease,Anemia in chr kidney dis,44831068,Anemia in chronic kidney disease,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-285.22,28522,Anemia in neoplastic disease,Anemia in neoplastic dis,44825281,Anemia in neoplastic disease,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-285.29,28529,Anemia of other chronic disease,Anemia-other chronic dis,44835769,Anemia of other chronic disease,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-285.3,2853,Antineoplastic chemotherapy induced anemia,Anemia d/t antineo chemo,44833394,Antineoplastic chemotherapy induced anemia,Condition,ICD9CM,4-dig billing code,10/1/2013,12/31/2099
-285.8,2858,Other specified anemias,Anemia NEC,44828820,Other specified anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-285.9,2859,"Anemia, unspecified",Anemia NOS,44825282,"Anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286,NA,NA,NA,44836946,Coagulation defects,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-286,2860,Congenital factor VIII disorder,Cong factor viii diord,44822959,Congenital factor VIII disorder,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.1,2861,Congenital factor IX disorder,Cong factor IX disorder,44834574,Congenital factor IX disorder,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.2,2862,Congenital factor XI deficiency,Cong factor xi disorder,44821807,Congenital factor XI deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.3,2863,Congenital deficiency of other clotting factors,Cong def clot factor NEC,44836947,Congenital deficiency of other clotting factors,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.4,2864,Von Willebrand's disease,Von willebrand's disease,44822960,Von Willebrand's disease,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.5,NA,NA,NA,44832215,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-286.52,28652,Acquired hemophilia,Acquired hemophilia,44820700,Acquired hemophilia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099
-286.53,28653,Antiphospholipid antibody with hemorrhagic disorder,Antiphospholipid w hemor,44835770,Antiphospholipid antibody with hemorrhagic disorder,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099
-286.59,28659,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Ot hem d/t circ anticoag,44831069,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099
-286.6,2866,Defibrination syndrome,Defibrination syndrome,44820701,Defibrination syndrome,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.7,2867,Acquired coagulation factor deficiency,Acq coagul factor defic,44824099,Acquired coagulation factor deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-286.9,2869,Other and unspecified coagulation defects,Coagulat defect NEC/NOS,44819530,Other and unspecified coagulation defects,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-287,NA,NA,NA,44834575,Purpura and other hemorrhagic conditions,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-287,2870,Allergic purpura,Allergic purpura,44824100,Allergic purpura,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-287.1,2871,Qualitative platelet defects,Thrombocytopathy,44820702,Qualitative platelet defects,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-287.2,2872,Other nonthrombocytopenic purpuras,Purpura NOS,44825283,Other nonthrombocytopenic purpuras,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-287.3,NA,NA,NA,44826483,Primary thrombocytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-287.3,28730,"Primary thrombocytopenia,unspecified",Prim thrombocytopen NOS,44824101,"Primary thrombocytopenia,unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-287.31,28731,Immune thrombocytopenic purpura,Immune thrombocyt purpra,44834576,Immune thrombocytopenic purpura,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-287.32,28732,Evans' syndrome,Evans' syndrome,44826484,Evans' syndrome,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-287.33,28733,Congenital and hereditary thrombocytopenic purpura,Cong/herid thromb purpra,44831070,Congenital and hereditary thrombocytopenic purpura,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-287.39,28739,Other primary thrombocytopenia,Prim thrombocytopen NEC,44819531,Other primary thrombocytopenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-287.4,NA,NA,NA,44831071,Secondary thrombocytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-287.41,28741,Posttransfusion purpura,Posttransfusion purpura,44836948,Posttransfusion purpura,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099
-287.49,28749,Other secondary thrombocytopenia,Sec thrombocytpenia NEC,44820703,Other secondary thrombocytopenia,Condition,ICD9CM,5-dig billing code,10/1/2010,12/31/2099
-287.5,2875,"Thrombocytopenia, unspecified",Thrombocytopenia NOS,44825284,"Thrombocytopenia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-287.8,2878,Other specified hemorrhagic conditions,Hemorrhagic cond NEC,44819532,Other specified hemorrhagic conditions,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-287.9,2879,Unspecified hemorrhagic conditions,Hemorrhagic cond NOS,44824102,Unspecified hemorrhagic conditions,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-288,NA,NA,NA,44832216,Diseases of white blood cells,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-288,NA,NA,NA,44833395,Neutropenia,Measurement,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-288,28800,"Neutropenia, unspecified",Neutropenia NOS,44824103,"Neutropenia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.01,28801,Congenital neutropenia,Congenital neutropenia,44833396,Congenital neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.02,28802,Cyclic neutropenia,Cyclic neutropenia,44822961,Cyclic neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.03,28803,Drug induced neutropenia,Drug induced neutropenia,44827639,Drug induced neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.04,28804,Neutropenia due to infection,Neutropenia d/t infectn,44820704,Neutropenia due to infection,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.09,28809,Other neutropenia,Neutropenia NEC,44826485,Other neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.1,2881,Functional disorders of polymorphonuclear neutrophils,Function dis neutrophils,44819533,Functional disorders of polymorphonuclear neutrophils,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-288.2,2882,Genetic anomalies of leukocytes,Genetic anomaly leukocyt,44831072,Genetic anomalies of leukocytes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-288.3,2883,Eosinophilia,Eosinophilia,44828821,Eosinophilia,Measurement,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-288.4,2884,Hemophagocytic syndromes,Hemophagocytic syndromes,44825285,Hemophagocytic syndromes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-288.5,NA,NA,NA,44836949,Decreased white blood cell count,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-288.5,28850,"Leukocytopenia, unspecified",Leukocytopenia NOS,44829911,"Leukocytopenia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.51,28851,Lymphocytopenia,Lymphocytopenia,44835771,Lymphocytopenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.59,28859,Other decreased white blood cell count,Decreased WBC count NEC,44828822,Other decreased white blood cell count,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.6,NA,NA,NA,44836950,Elevated white blood cell count,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-288.6,28860,"Leukocytosis, unspecified",Leukocytosis NOS,44822962,"Leukocytosis, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.61,28861,Lymphocytosis (symptomatic),Lymphocytosis-symptomatc,44822963,Lymphocytosis (symptomatic),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.62,28862,Leukemoid reaction,Leukemoid reaction,44834577,Leukemoid reaction,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.63,28863,Monocytosis (symptomatic),Monocytosis-symptomatic,44829912,Monocytosis (symptomatic),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.64,28864,Plasmacytosis,Plasmacytosis,44834578,Plasmacytosis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.65,28865,Basophilia,Basophilia,44831073,Basophilia,Measurement,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.66,28866,Bandemia,Bandemia,44822964,Bandemia,Measurement,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.69,28869,Other elevated white blood cell count,Elevated WBC count NEC,44826486,Other elevated white blood cell count,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-288.8,2888,Other specified disease of white blood cells,Wbc disease NEC,44824104,Other specified disease of white blood cells,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-288.9,2889,Unspecified disease of white blood cells,Wbc disease NOS,44828823,Unspecified disease of white blood cells,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289,NA,NA,NA,44822965,Other diseases of blood and blood-forming organs,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099
-289,2890,"Polycythemia, secondary",Secondary polycythemia,44822966,"Polycythemia, secondary",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.1,2891,Chronic lymphadenitis,Chronic lymphadenitis,44831074,Chronic lymphadenitis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.2,2892,Nonspecific mesenteric lymphadenitis,Mesenteric lymphadenitis,44832217,Nonspecific mesenteric lymphadenitis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.3,2893,"Lymphadenitis, unspecified, except mesenteric",Lymphadenitis NOS,44820705,"Lymphadenitis, unspecified, except mesenteric",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.4,2894,Hypersplenism,Hypersplenism,44821808,Hypersplenism,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.5,NA,NA,NA,44831075,Other diseases of spleen,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-289.5,28950,"Disease of spleen, unspecified",Spleen disease NOS,44827640,"Disease of spleen, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.51,28951,Chronic congestive splenomegaly,Chr congest splenomegaly,44836951,Chronic congestive splenomegaly,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.52,28952,Splenic sequestration,Splenic sequestration,44836952,Splenic sequestration,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.53,28953,Neutropenic splenomegaly,Neutropenic splenomegaly,44829913,Neutropenic splenomegaly,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.59,28959,Other diseases of spleen,Spleen disease NEC,44820706,Other diseases of spleen,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.6,2896,Familial polycythemia,Familial polycythemia,44821809,Familial polycythemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.7,2897,Methemoglobinemia,Methemoglobinemia,44831076,Methemoglobinemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
-289.8,NA,NA,NA,44836953,Other specified diseases of blood and blood-forming organs,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099
-289.81,28981,Primary hypercoagulable state,Prim hypercoagulable st,44832218,Primary hypercoagulable state,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.82,28982,Secondary hypercoagulable state,Sec hypercoagulable st,44820707,Secondary hypercoagulable state,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.83,28983,Myelofibrosis,Myelofibrosis,44834579,Myelofibrosis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.84,28984,Heparin-induced thrombocytopenia (HIT),Heparin-indu thrombocyto,44825286,Heparin-induced thrombocytopenia (HIT),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.89,28989,Other specified diseases of blood and blood-forming organs,Blood diseases NEC,44834580,Other specified diseases of blood and blood-forming organs,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099
-289.9,2899,Unspecified diseases of blood and blood-forming organs,Blood disease NOS,44831077,Unspecified diseases of blood and blood-forming organs,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099
+DIAGNOSIS_CODE_ATHENA,DIAGNOSIS_CODE_MEDICARE,CONCEPT_NAME_MEDICARE,SHORT_NAME_MEDICARE,CONCEPT_ID,CONCEPT_NAME_ATHENA,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+280,NA,NA,NA,44821803,Iron deficiency anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+280,2800,Iron deficiency anemia secondary to blood loss (chronic),Chr blood loss anemia,44836940,Iron deficiency anemia secondary to blood loss (chronic),Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+280.1,2801,Iron deficiency anemia secondary to inadequate dietary iron intake,Iron def anemia dietary,44827636,Iron deficiency anemia secondary to inadequate dietary iron intake,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+280.8,2808,Other specified iron deficiency anemias,Iron defic anemia NEC,44824094,Other specified iron deficiency anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+280.9,2809,"Iron deficiency anemia, unspecified",Iron defic anemia NOS,44828816,"Iron deficiency anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281,NA,NA,NA,44831061,Other deficiency anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+281,2810,Pernicious anemia,Pernicious anemia,44819527,Pernicious anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281.1,2811,Other vitamin B12 deficiency anemia,B12 defic anemia NEC,44833390,Other vitamin B12 deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281.2,2812,Folate-deficiency anemia,Folate-deficiency anemia,44831062,Folate-deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281.3,2813,Other specified megaloblastic anemias not elsewhere classified,Megaloblastic anemia NEC,44829907,Other specified megaloblastic anemias not elsewhere classified,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281.4,2814,Protein-deficiency anemia,Protein defic anemia,44835765,Protein-deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281.8,2818,Anemia associated with other specified nutritional deficiency,Nutritional anemia NEC,44831063,Anemia associated with other specified nutritional deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+281.9,2819,Unspecified deficiency anemia,Deficiency anemia NOS,44824095,Unspecified deficiency anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282,NA,NA,NA,44836941,Hereditary hemolytic anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+282,2820,Hereditary spherocytosis,Hereditary spherocytosis,44832209,Hereditary spherocytosis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.1,2821,Hereditary elliptocytosis,Heredit elliptocytosis,44820697,Hereditary elliptocytosis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.2,2822,Anemias due to disorders of glutathione metabolism,Glutathione dis anemia,44827637,Anemias due to disorders of glutathione metabolism,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.3,2823,Other hemolytic anemias due to enzyme deficiency,Enzyme defic anemia NEC,44821804,Other hemolytic anemias due to enzyme deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.4,NA,NA,NA,44822956,Thalassemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+282.4,28240,"Thalassemia, unspecified","Thalassemia, unspecified",44834572,"Thalassemia, unspecified",Condition,ICD9CM,5-dig billing code,8/31/2012,12/31/2099,FALSE
+282.41,28241,Sickle-cell thalassemia without crisis,Thlasema Hb-S w/o crisis,44829908,Sickle-cell thalassemia without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.42,28242,Sickle-cell thalassemia with crisis,Thlassemia Hb-S w crisis,44824096,Sickle-cell thalassemia with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.43,28243,Alpha thalassemia,Alpha thalassemia,44828817,Alpha thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.44,28244,Beta thalassemia,Beta thalassemia,44829909,Beta thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.45,28245,Delta-beta thalassemia,Delta-beta thalassemia,44822957,Delta-beta thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.46,28246,Thalassemia minor,Thalassemia minor,44831064,Thalassemia minor,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099,FALSE
+282.47,28247,Hemoglobin E-beta thalassemia,Hgb E-beta thalassemia,44819528,Hemoglobin E-beta thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.49,28249,Other thalassemia,Thalassemia NEC,44820698,Other thalassemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.5,2825,Sickle-cell trait,Sickle-cell trait,44828818,Sickle-cell trait,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.6,NA,NA,NA,44820699,Sickle-cell disease,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+282.6,28260,"Sickle-cell disease, unspecified",Sickle cell disease NOS,44831065,"Sickle-cell disease, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.61,28261,Hb-SS disease without crisis,Hb-SS disease w/o crisis,44827638,Hb-SS disease without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.62,28262,Hb-SS disease with crisis,Hb-SS disease w crisis,44825276,Hb-SS disease with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.63,28263,Sickle-cell/Hb-C disease without crisis,Hb-SS/hb-C dis w/o crsis,44835766,Sickle-cell/Hb-C disease without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.64,28264,Sickle-cell/Hb-C disease with crisis,Hb-S/Hb-C dis w crisis,44819529,Sickle-cell/Hb-C disease with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.68,28268,Other sickle-cell disease without crisis,Hb-S dis w/o crisis NEC,44836942,Other sickle-cell disease without crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.69,28269,Other sickle-cell disease with crisis,Hb-SS dis NEC w crisis,44825277,Other sickle-cell disease with crisis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+282.7,2827,Other hemoglobinopathies,Hemoglobinopathies NEC,44831066,Other hemoglobinopathies,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.8,2828,Other specified hereditary hemolytic anemias,Hered hemolytic anem NEC,44828819,Other specified hereditary hemolytic anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+282.9,2829,"Hereditary hemolytic anemia, unspecified",Hered hemolytic anem NOS,44824097,"Hereditary hemolytic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+283,NA,NA,NA,44825278,Acquired hemolytic anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+283,2830,Autoimmune hemolytic anemias,Autoimmun hemolytic anem,44833391,Autoimmune hemolytic anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+283.1,NA,NA,NA,44824098,Non-autoimmune hemolytic anemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+283.1,28310,"Non-autoimmune hemolytic anemia, unspecified",Nonauto hem anemia NOS,44834573,"Non-autoimmune hemolytic anemia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+283.11,28311,Hemolytic-uremic syndrome,Hemolytic uremic synd,44833392,Hemolytic-uremic syndrome,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+283.19,28319,Other non-autoimmune hemolytic anemias,Oth nonauto hem anemia,44835767,Other non-autoimmune hemolytic anemias,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+283.2,2832,Hemoglobinuria due to hemolysis from external causes,Hemolytic hemoglobinuria,44822958,Hemoglobinuria due to hemolysis from external causes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+283.9,2839,"Acquired hemolytic anemia, unspecified",Acq hemolytic anemia NOS,44833393,"Acquired hemolytic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+284,NA,NA,NA,44826481,Aplastic anemia and other bone marrow failure syndromes,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+284,NA,NA,NA,44831067,Constitutional aplastic anemia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+284.01,28401,Constitutional red blood cell aplasia,Constitution RBC aplasia,44829910,Constitutional red blood cell aplasia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+284.09,28409,Other constitutional aplastic anemia,Const aplastc anemia NEC,44826482,Other constitutional aplastic anemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+284.1,NA,NA,NA,44832210,Pancytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+284.11,28411,Antineoplastic chemotherapy induced pancytopenia,Antin chemo indcd pancyt,44832211,Antineoplastic chemotherapy induced pancytopenia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+284.12,28412,Other drug-induced pancytopenia,Oth drg indcd pancytopna,44821805,Other drug-induced pancytopenia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+284.19,28419,Other pancytopenia,Other pancytopenia,44821806,Other pancytopenia,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099,FALSE
+284.2,2842,Myelophthisis,Myelophthisis,44832212,Myelophthisis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+284.8,NA,NA,NA,44825279,Other specified aplastic anemias,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+284.81,28481,Red cell aplasia (acquired)(adult)(with thymoma),Red cell aplasia,44832213,Red cell aplasia (acquired)(adult)(with thymoma),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+284.89,28489,Other specified aplastic anemias,Aplastic anemias NEC,44836943,Other specified aplastic anemias,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+284.9,2849,"Aplastic anemia, unspecified",Aplastic anemia NOS,44835768,"Aplastic anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+285,NA,NA,NA,44832214,Other and unspecified anemias,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+285,2850,Sideroblastic anemia,Sideroblastic anemia,44836944,Sideroblastic anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+285.1,2851,Acute posthemorrhagic anemia,Ac posthemorrhag anemia,44825280,Acute posthemorrhagic anemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+285.2,NA,NA,NA,44836945,Anemia of chronic disease,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+285.21,28521,Anemia in chronic kidney disease,Anemia in chr kidney dis,44831068,Anemia in chronic kidney disease,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+285.22,28522,Anemia in neoplastic disease,Anemia in neoplastic dis,44825281,Anemia in neoplastic disease,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+285.29,28529,Anemia of other chronic disease,Anemia-other chronic dis,44835769,Anemia of other chronic disease,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+285.3,2853,Antineoplastic chemotherapy induced anemia,Anemia d/t antineo chemo,44833394,Antineoplastic chemotherapy induced anemia,Condition,ICD9CM,4-dig billing code,10/1/2013,12/31/2099,FALSE
+285.8,2858,Other specified anemias,Anemia NEC,44828820,Other specified anemias,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+285.9,2859,"Anemia, unspecified",Anemia NOS,44825282,"Anemia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286,NA,NA,NA,44836946,Coagulation defects,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+286,2860,Congenital factor VIII disorder,Cong factor viii diord,44822959,Congenital factor VIII disorder,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.1,2861,Congenital factor IX disorder,Cong factor IX disorder,44834574,Congenital factor IX disorder,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.2,2862,Congenital factor XI deficiency,Cong factor xi disorder,44821807,Congenital factor XI deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.3,2863,Congenital deficiency of other clotting factors,Cong def clot factor NEC,44836947,Congenital deficiency of other clotting factors,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.4,2864,Von Willebrand's disease,Von willebrand's disease,44822960,Von Willebrand's disease,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.5,NA,NA,NA,44832215,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+286.52,28652,Acquired hemophilia,Acquired hemophilia,44820700,Acquired hemophilia,Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+286.53,28653,Antiphospholipid antibody with hemorrhagic disorder,Antiphospholipid w hemor,44835770,Antiphospholipid antibody with hemorrhagic disorder,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099,FALSE
+286.59,28659,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Ot hem d/t circ anticoag,44831069,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD9CM,5-dig billing code,10/1/2013,12/31/2099,FALSE
+286.6,2866,Defibrination syndrome,Defibrination syndrome,44820701,Defibrination syndrome,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.7,2867,Acquired coagulation factor deficiency,Acq coagul factor defic,44824099,Acquired coagulation factor deficiency,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+286.9,2869,Other and unspecified coagulation defects,Coagulat defect NEC/NOS,44819530,Other and unspecified coagulation defects,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+287,NA,NA,NA,44834575,Purpura and other hemorrhagic conditions,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+287,2870,Allergic purpura,Allergic purpura,44824100,Allergic purpura,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+287.1,2871,Qualitative platelet defects,Thrombocytopathy,44820702,Qualitative platelet defects,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+287.2,2872,Other nonthrombocytopenic purpuras,Purpura NOS,44825283,Other nonthrombocytopenic purpuras,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+287.3,NA,NA,NA,44826483,Primary thrombocytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+287.3,28730,"Primary thrombocytopenia,unspecified",Prim thrombocytopen NOS,44824101,"Primary thrombocytopenia,unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+287.31,28731,Immune thrombocytopenic purpura,Immune thrombocyt purpra,44834576,Immune thrombocytopenic purpura,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+287.32,28732,Evans' syndrome,Evans' syndrome,44826484,Evans' syndrome,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+287.33,28733,Congenital and hereditary thrombocytopenic purpura,Cong/herid thromb purpra,44831070,Congenital and hereditary thrombocytopenic purpura,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+287.39,28739,Other primary thrombocytopenia,Prim thrombocytopen NEC,44819531,Other primary thrombocytopenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+287.4,NA,NA,NA,44831071,Secondary thrombocytopenia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+287.41,28741,Posttransfusion purpura,Posttransfusion purpura,44836948,Posttransfusion purpura,Condition,ICD9CM,5-dig billing code,10/10/2013,12/31/2099,FALSE
+287.49,28749,Other secondary thrombocytopenia,Sec thrombocytpenia NEC,44820703,Other secondary thrombocytopenia,Condition,ICD9CM,5-dig billing code,10/1/2010,12/31/2099,FALSE
+287.5,2875,"Thrombocytopenia, unspecified",Thrombocytopenia NOS,44825284,"Thrombocytopenia, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+287.8,2878,Other specified hemorrhagic conditions,Hemorrhagic cond NEC,44819532,Other specified hemorrhagic conditions,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+287.9,2879,Unspecified hemorrhagic conditions,Hemorrhagic cond NOS,44824102,Unspecified hemorrhagic conditions,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+288,NA,NA,NA,44832216,Diseases of white blood cells,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,FALSE
+288,NA,NA,NA,44833395,Neutropenia,Measurement,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+288,28800,"Neutropenia, unspecified",Neutropenia NOS,44824103,"Neutropenia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.01,28801,Congenital neutropenia,Congenital neutropenia,44833396,Congenital neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.02,28802,Cyclic neutropenia,Cyclic neutropenia,44822961,Cyclic neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.03,28803,Drug induced neutropenia,Drug induced neutropenia,44827639,Drug induced neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.04,28804,Neutropenia due to infection,Neutropenia d/t infectn,44820704,Neutropenia due to infection,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.09,28809,Other neutropenia,Neutropenia NEC,44826485,Other neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.1,2881,Functional disorders of polymorphonuclear neutrophils,Function dis neutrophils,44819533,Functional disorders of polymorphonuclear neutrophils,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+288.2,2882,Genetic anomalies of leukocytes,Genetic anomaly leukocyt,44831072,Genetic anomalies of leukocytes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+288.3,2883,Eosinophilia,Eosinophilia,44828821,Eosinophilia,Measurement,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+288.4,2884,Hemophagocytic syndromes,Hemophagocytic syndromes,44825285,Hemophagocytic syndromes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+288.5,NA,NA,NA,44836949,Decreased white blood cell count,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+288.5,28850,"Leukocytopenia, unspecified",Leukocytopenia NOS,44829911,"Leukocytopenia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.51,28851,Lymphocytopenia,Lymphocytopenia,44835771,Lymphocytopenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.59,28859,Other decreased white blood cell count,Decreased WBC count NEC,44828822,Other decreased white blood cell count,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.6,NA,NA,NA,44836950,Elevated white blood cell count,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,FALSE
+288.6,28860,"Leukocytosis, unspecified",Leukocytosis NOS,44822962,"Leukocytosis, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.61,28861,Lymphocytosis (symptomatic),Lymphocytosis-symptomatc,44822963,Lymphocytosis (symptomatic),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.62,28862,Leukemoid reaction,Leukemoid reaction,44834577,Leukemoid reaction,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.63,28863,Monocytosis (symptomatic),Monocytosis-symptomatic,44829912,Monocytosis (symptomatic),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.64,28864,Plasmacytosis,Plasmacytosis,44834578,Plasmacytosis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.65,28865,Basophilia,Basophilia,44831073,Basophilia,Measurement,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.66,28866,Bandemia,Bandemia,44822964,Bandemia,Measurement,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.69,28869,Other elevated white blood cell count,Elevated WBC count NEC,44826486,Other elevated white blood cell count,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,FALSE
+288.8,2888,Other specified disease of white blood cells,Wbc disease NEC,44824104,Other specified disease of white blood cells,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+288.9,2889,Unspecified disease of white blood cells,Wbc disease NOS,44828823,Unspecified disease of white blood cells,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,FALSE
+289,NA,NA,NA,44822965,Other diseases of blood and blood-forming organs,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,TRUE
+289,2890,"Polycythemia, secondary",Secondary polycythemia,44822966,"Polycythemia, secondary",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.1,2891,Chronic lymphadenitis,Chronic lymphadenitis,44831074,Chronic lymphadenitis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.2,2892,Nonspecific mesenteric lymphadenitis,Mesenteric lymphadenitis,44832217,Nonspecific mesenteric lymphadenitis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.3,2893,"Lymphadenitis, unspecified, except mesenteric",Lymphadenitis NOS,44820705,"Lymphadenitis, unspecified, except mesenteric",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.4,2894,Hypersplenism,Hypersplenism,44821808,Hypersplenism,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.5,NA,NA,NA,44831075,Other diseases of spleen,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+289.5,28950,"Disease of spleen, unspecified",Spleen disease NOS,44827640,"Disease of spleen, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.51,28951,Chronic congestive splenomegaly,Chr congest splenomegaly,44836951,Chronic congestive splenomegaly,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.52,28952,Splenic sequestration,Splenic sequestration,44836952,Splenic sequestration,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.53,28953,Neutropenic splenomegaly,Neutropenic splenomegaly,44829913,Neutropenic splenomegaly,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.59,28959,Other diseases of spleen,Spleen disease NEC,44820706,Other diseases of spleen,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.6,2896,Familial polycythemia,Familial polycythemia,44821809,Familial polycythemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.7,2897,Methemoglobinemia,Methemoglobinemia,44831076,Methemoglobinemia,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+289.8,NA,NA,NA,44836953,Other specified diseases of blood and blood-forming organs,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+289.81,28981,Primary hypercoagulable state,Prim hypercoagulable st,44832218,Primary hypercoagulable state,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.82,28982,Secondary hypercoagulable state,Sec hypercoagulable st,44820707,Secondary hypercoagulable state,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.83,28983,Myelofibrosis,Myelofibrosis,44834579,Myelofibrosis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.84,28984,Heparin-induced thrombocytopenia (HIT),Heparin-indu thrombocyto,44825286,Heparin-induced thrombocytopenia (HIT),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.89,28989,Other specified diseases of blood and blood-forming organs,Blood diseases NEC,44834580,Other specified diseases of blood and blood-forming organs,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+289.9,2899,Unspecified diseases of blood and blood-forming organs,Blood disease NOS,44831077,Unspecified diseases of blood and blood-forming organs,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE

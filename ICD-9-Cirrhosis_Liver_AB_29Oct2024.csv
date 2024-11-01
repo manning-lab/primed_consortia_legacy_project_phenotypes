@@ -1,0 +1,15 @@
+CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+571,NA,NA,NA,44826726,Chronic liver disease and cirrhosis,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,TRUE
+571,5710,Alcoholic fatty liver,Alcoholic fatty liver,44827878,Alcoholic fatty liver,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.1,5711,Acute alcoholic hepatitis,Ac alcoholic hepatitis,44832476,Acute alcoholic hepatitis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.2,5712,Alcoholic cirrhosis of liver,Alcohol cirrhosis liver,44819802,Alcoholic cirrhosis of liver,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.3,5713,"Alcoholic liver damage, unspecified",Alcohol liver damage NOS,44820955,"Alcoholic liver damage, unspecified",Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.4,NA,NA,NA,44824334,Chronic hepatitis,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+571.4,57140,"Chronic hepatitis, unspecified",Chronic hepatitis NOS,44829055,"Chronic hepatitis, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+571.41,57141,Chronic persistent hepatitis,Chr persistent hepatitis,44827879,Chronic persistent hepatitis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+571.42,57142,Autoimmune hepatitis,Autoimmune hepatitis,44837177,Autoimmune hepatitis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+571.49,57149,Other chronic hepatitis,Chronic hepatitis NEC,44830167,Other chronic hepatitis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+571.5,5715,Cirrhosis of liver without mention of alcohol,Cirrhosis of liver NOS,44832477,Cirrhosis of liver without mention of alcohol,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.6,5716,Biliary cirrhosis,Biliary cirrhosis,44832478,Biliary cirrhosis,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.8,5718,Other chronic nonalcoholic liver disease,Chronic liver dis NEC,44836029,Other chronic nonalcoholic liver disease,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+571.9,5719,Unspecified chronic liver disease without mention of alcohol,Chronic liver dis NOS,44823185,Unspecified chronic liver disease without mention of alcohol,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE

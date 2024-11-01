@@ -1,0 +1,48 @@
+CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+203,NA,NA,NA,44827582,Multiple myeloma and immunoproliferative neoplasms,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,TRUE
+203,NA,NA,NA,44833334,Multiple myeloma,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+203,20300,"Multiple myeloma, without mention of having achieved remission",Mult mye w/o achv rmson,44833335,"Multiple myeloma, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.01,20301,"Multiple myeloma, in remission",Mult myelm w remission,44827583,"Multiple myeloma, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.02,20302,"Multiple myeloma, in relapse",Mult myeloma in relapse,44825229,"Multiple myeloma, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.1,NA,NA,NA,44821756,Plasma cell leukemia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+203.1,20310,"Plasma cell leukemia, without mention of having achieved remission",Pls cl leu w/o achv rmsn,44821757,"Plasma cell leukemia, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.11,20311,"Plasma cell leukemia, in remission",Plsm cell leuk w rmson,44825230,"Plasma cell leukemia, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.12,20312,"Plasma cell leukemia, in relapse",Plsm cel leuk in relapse,44820641,"Plasma cell leukemia, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.8,NA,NA,NA,44835712,Other immunoproliferative neoplasms,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+203.8,20380,"Other immunoproliferative neoplasms, without mention of having achieved remission",Oth imno npl wo ach rmsn,44819464,"Other immunoproliferative neoplasms, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.81,20381,"Other immunoproliferative neoplasms, in remission",Oth imnprfl npl w rmsn,44834517,"Other immunoproliferative neoplasms, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+203.82,20382,"Other immunoproliferative neoplasms, in relapse",Oth imnprlf neo-relapse,44834518,"Other immunoproliferative neoplasms, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205,NA,NA,NA,44825232,Myeloid leukemia,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205,NA,NA,NA,44820645,"Myeloid leukemia, acute",Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205,20500,"Acute myeloid leukemia, without mention of having achieved remission",Ac myl leuk wo achv rmsn,44826430,"Acute myeloid leukemia, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.01,20501,"Acute myeloid leukemia, in remission",Act myl leuk w rmsion,44828757,"Acute myeloid leukemia, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.02,20502,"Acute myeloid leukemia, in relapse",Act myel leuk in relapse,44828758,"Acute myeloid leukemia, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.1,NA,NA,NA,44819465,"Myeloid leukemia, chronic",Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205.1,20510,"Chronic myeloid leukemia, without mention of having achieved remission",Ch myl leuk wo achv rmsn,44832156,"Chronic myeloid leukemia, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.11,20511,"Chronic myeloid leukemia, in remission",Chr myl leuk w rmsion,44832157,"Chronic myeloid leukemia, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.12,20512,"Chronic myeloid leukemia, in relapse",Chr myel leuk in relapse,44827584,"Chronic myeloid leukemia, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.2,NA,NA,NA,44834520,"Myeloid leukemia, subacute",Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205.2,20520,"Subacute myeloid leukemia, without mention of having achieved remission",Sbac myl leu wo ach rmsn,44820646,"Subacute myeloid leukemia, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.21,20521,"Subacute myeloid leukemia,in remission",Sbac myl leuk w rmsion,44832158,"Subacute myeloid leukemia,in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.22,20522,"Subacute myeloid leukemia, in relapse",Sbac myl leuk in relapse,44827585,"Subacute myeloid leukemia, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.3,NA,NA,NA,44829845,Myeloid sarcoma,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205.3,20530,"Myeloid sarcoma, without mention of having achieved remission",Myl sarcoma wo achv rmsn,44836871,"Myeloid sarcoma, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.31,20531,"Myeloid sarcoma, in remission",Myl srcoma w rmsion,44829846,"Myeloid sarcoma, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.32,20532,"Myeloid sarcoma, in relapse",Myel sarcoma in relapse,44826431,"Myeloid sarcoma, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.8,NA,NA,NA,44822909,Other myeloid leukemia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205.8,20580,"Other myeloid leukemia, without mention of having achieved remission",Oth my leuk wo achv rmsn,44822910,"Other myeloid leukemia, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.81,20581,"Other myeloid leukemia, in remission",Oth myl leuk w rmsion,44821762,"Other myeloid leukemia, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.82,20582,"Other myeloid leukemia, in relapse",Oth myel leuk in relapse,44821763,"Other myeloid leukemia, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.9,NA,NA,NA,44835713,Unspecified myeloid leukemia,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+205.9,20590,"Unspecified myeloid leukemia, without mention of having achieved remission",Uns my leu wo ach rmsn,44826432,"Unspecified myeloid leukemia, without mention of having achieved remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.91,20591,"Unspecified myeloid leukemia, in remission",Uns myl leuk w rmsion,44829847,"Unspecified myeloid leukemia, in remission",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+205.92,20592,"Unspecified myeloid leukemia, in relapse",Myel leuk NOS in relapse,44832159,"Unspecified myeloid leukemia, in relapse",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.7,NA,NA,NA,44834542,Neoplasm of uncertain behavior of other lymphatic and hematopoietic tissues,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+238.71,23871,Essential thrombocythemia,Essntial thrombocythemia,44833360,Essential thrombocythemia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.72,23872,Low grade myelodysplastic syndrome lesions,Low grde myelody syn les,44832185,Low grade myelodysplastic syndrome lesions,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.73,23873,High grade myelodysplastic syndrome lesions,Hi grde myelodys syn les,44831041,High grade myelodysplastic syndrome lesions,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.74,23874,Myelodysplastic syndrome with 5q deletion,Myelodyspls syn w 5q del,44820675,Myelodysplastic syndrome with 5q deletion,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.75,23875,"Myelodysplastic syndrome, unspecified",Myelodysplastic synd NOS,44827610,"Myelodysplastic syndrome, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.76,23876,Myelofibrosis with myeloid metaplasia,Myelofi w myelo metaplas,44821779,Myelofibrosis with myeloid metaplasia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.77,23877,Post-transplant lymphoproliferative disorder (PTLD),Post tp lymphprolif dis,44820676,Post-transplant lymphoproliferative disorder (PTLD),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+238.79,23879,Other lymphatic and hematopoietic tissues,Lymph/hematpoitc tis NEC,44835740,Other lymphatic and hematopoietic tissues,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE

@@ -1,3 +1,3 @@
-"DX_CODE_2","CODE","LONG_DESCRIPTION","SHORT_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
-"996.85","99685","Complications of transplanted bone marrow","Compl marrow transplant",44830635,"Complications of transplanted bone marrow","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"V42.81","V4281","Bone marrow replaced by transplant","Trnspl status-bne marrow",44820426,"Bone marrow replaced by transplant","Observation","ICD9CM","5-dig billing V code","1970-01-01","2099-12-31"
+DX_CODE_2,CODE,LONG_DESCRIPTION,SHORT_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+996.85,99685,Complications of transplanted bone marrow,Compl marrow transplant,44830635,Complications of transplanted bone marrow,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+V42.81,V4281,Bone marrow replaced by transplant,Trnspl status-bne marrow,44820426,Bone marrow replaced by transplant,Observation,ICD9CM,5-dig billing V code,1/1/1970,12/31/2099,TRUE

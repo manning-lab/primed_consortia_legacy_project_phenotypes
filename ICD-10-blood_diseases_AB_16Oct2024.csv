@@ -1,283 +1,283 @@
-DIAGNOSIS_CODE_ATHENA,DIAGNOSIS_CODE_MEDICARE,SHORT_NAME_MEDICARE,CONCEPT_NAME_MEDICARE,CONCEPT_ID,CONCEPT_NAME_ATHENA,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE
-D50,NA,NA,NA,1567838,Iron deficiency anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D50.0,D500,Iron deficiency anemia secondary to blood loss (chronic),Iron deficiency anemia secondary to blood loss (chronic),35206692,Iron deficiency anemia secondary to blood loss (chronic),Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D50.1,D501,Sideropenic dysphagia,Sideropenic dysphagia,35206693,Sideropenic dysphagia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D50.8,D508,Other iron deficiency anemias,Other iron deficiency anemias,35206694,Other iron deficiency anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D50.9,D509,"Iron deficiency anemia, unspecified","Iron deficiency anemia, unspecified",35206695,"Iron deficiency anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D51,NA,NA,NA,1567839,Vitamin B12 deficiency anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D51.0,D510,Vitamin B12 defic anemia due to intrinsic factor deficiency,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,35206696,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D51.1,D511,Vit B12 defic anemia d/t slctv vit B12 malabsorp w protein,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,35206697,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D51.2,D512,Transcobalamin II deficiency,Transcobalamin II deficiency,35206698,Transcobalamin II deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D51.3,D513,Other dietary vitamin B12 deficiency anemia,Other dietary vitamin B12 deficiency anemia,35206699,Other dietary vitamin B12 deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D51.8,D518,Other vitamin B12 deficiency anemias,Other vitamin B12 deficiency anemias,35206700,Other vitamin B12 deficiency anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D51.9,D519,"Vitamin B12 deficiency anemia, unspecified","Vitamin B12 deficiency anemia, unspecified",35206701,"Vitamin B12 deficiency anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D52,NA,NA,NA,1567840,Folate deficiency anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D52.0,D520,Dietary folate deficiency anemia,Dietary folate deficiency anemia,35206702,Dietary folate deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D52.1,D521,Drug-induced folate deficiency anemia,Drug-induced folate deficiency anemia,35206703,Drug-induced folate deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D52.8,D528,Other folate deficiency anemias,Other folate deficiency anemias,35206704,Other folate deficiency anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D52.9,D529,"Folate deficiency anemia, unspecified","Folate deficiency anemia, unspecified",35206705,"Folate deficiency anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D53,NA,NA,NA,1567841,Other nutritional anemias,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D53.0,D530,Protein deficiency anemia,Protein deficiency anemia,35206706,Protein deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D53.1,D531,"Other megaloblastic anemias, not elsewhere classified","Other megaloblastic anemias, not elsewhere classified",35206707,"Other megaloblastic anemias, not elsewhere classified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D53.2,D532,Scorbutic anemia,Scorbutic anemia,35206708,Scorbutic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D53.8,D538,Other specified nutritional anemias,Other specified nutritional anemias,35206709,Other specified nutritional anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D53.9,D539,"Nutritional anemia, unspecified","Nutritional anemia, unspecified",35206710,"Nutritional anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D55,NA,NA,NA,1567842,Anemia due to enzyme disorders,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D55.0,D550,Anemia due to glucose-6-phosphate dehydrogenase deficiency,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,35206711,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D55.1,D551,Anemia due to other disorders of glutathione metabolism,Anemia due to other disorders of glutathione metabolism,35206712,Anemia due to other disorders of glutathione metabolism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D55.2,D552,Anemia due to disorders of glycolytic enzymes,Anemia due to disorders of glycolytic enzymes,35206713,Anemia due to disorders of glycolytic enzymes,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D55.21,D5521,Anemia due to pyruvate kinase deficiency,Anemia due to pyruvate kinase deficiency,766342,Anemia due to pyruvate kinase deficiency,Condition,ICD10CM,5-char billing code,10/1/2021,12/31/2099
-D55.29,D5529,Anemia due to other disorders of glycolytic enzymes,Anemia due to other disorders of glycolytic enzymes,766343,Anemia due to other disorders of glycolytic enzymes,Condition,ICD10CM,5-char billing code,10/1/2021,12/31/2099
-D55.3,D553,Anemia due to disorders of nucleotide metabolism,Anemia due to disorders of nucleotide metabolism,35206714,Anemia due to disorders of nucleotide metabolism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D55.8,D558,Other anemias due to enzyme disorders,Other anemias due to enzyme disorders,35206715,Other anemias due to enzyme disorders,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D55.9,D559,"Anemia due to enzyme disorder, unspecified","Anemia due to enzyme disorder, unspecified",35206716,"Anemia due to enzyme disorder, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56,NA,NA,NA,1567843,Thalassemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D56.0,D560,Alpha thalassemia,Alpha thalassemia,35206717,Alpha thalassemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56.1,D561,Beta thalassemia,Beta thalassemia,35206718,Beta thalassemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56.2,D562,Delta-beta thalassemia,Delta-beta thalassemia,35206719,Delta-beta thalassemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56.3,D563,Thalassemia minor,Thalassemia minor,35206720,Thalassemia minor,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56.4,D564,Hereditary persistence of fetal hemoglobin [HPFH],Hereditary persistence of fetal hemoglobin [HPFH],35206721,Hereditary persistence of fetal hemoglobin [HPFH],Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56.5,D565,Hemoglobin E-beta thalassemia,Hemoglobin E-beta thalassemia,45532989,Hemoglobin E-beta thalassemia,Condition,ICD10CM,4-char billing code,12/30/2006,12/31/2099
-D56.8,D568,Other thalassemias,Other thalassemias,35206722,Other thalassemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D56.9,D569,"Thalassemia, unspecified","Thalassemia, unspecified",35206723,"Thalassemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D57,NA,NA,NA,1567844,Sickle-cell disorders,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D57.0,NA,NA,NA,1567845,Hb-SS disease with crisis,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D57.00,D5700,"Hb-SS disease with crisis, unspecified","Hb-SS disease with crisis, unspecified",45595765,"Hb-SS disease with crisis, unspecified",Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D57.01,D5701,Hb-SS disease with acute chest syndrome,Hb-SS disease with acute chest syndrome,45542708,Hb-SS disease with acute chest syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D57.02,D5702,Hb-SS disease with splenic sequestration,Hb-SS disease with splenic sequestration,45561923,Hb-SS disease with splenic sequestration,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D57.03,D5703,Hb-SS disease with cerebral vascular involvement,Hb-SS disease with cerebral vascular involvement,725216,Hb-SS disease with cerebral vascular involvement,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D57.04,D5704,Hb-SS disease with dactylitis,Hb-SS disease with dactylitis,785896,Hb-SS disease with dactylitis,Condition,ICD10CM,5-char billing code,10/1/2023,12/31/2099
-D57.09,D5709,Hb-SS disease with crisis with other specified complication,Hb-SS disease with crisis with other specified complication,725217,Hb-SS disease with crisis with other specified complication,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D57.1,D571,Sickle-cell disease without crisis,Sickle-cell disease without crisis,35206724,Sickle-cell disease without crisis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D57.2,NA,NA,NA,1567846,Sickle-cell/Hb-C disease,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D57.20,D5720,Sickle-cell/Hb-C disease without crisis,Sickle-cell/Hb-C disease without crisis,45542710,Sickle-cell/Hb-C disease without crisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D57.21,NA,NA,NA,45542711,Sickle-cell/Hb-C disease with crisis,Condition,ICD10CM,5-char nonbill code,12/30/2006,12/31/2099
-D57.211,D57211,Sickle-cell/Hb-C disease with acute chest syndrome,Sickle-cell/Hb-C disease with acute chest syndrome,45576406,Sickle-cell/Hb-C disease with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.212,D57212,Sickle-cell/Hb-C disease with splenic sequestration,Sickle-cell/Hb-C disease with splenic sequestration,45571635,Sickle-cell/Hb-C disease with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.213,D57213,Sickle-cell/Hb-C disease with cerebral vascular involvement,Sickle-cell/Hb-C disease with cerebral vascular involvement,725218,Sickle-cell/Hb-C disease with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.214,D57214,Sickle-cell/Hb-C disease with dactylitis,Sickle-cell/Hb-C disease with dactylitis,785897,Sickle-cell/Hb-C disease with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099
-D57.218,D57218,Sickle-cell/Hb-C disease with crisis with oth complication,Sickle-cell/Hb-C disease with crisis with other specified complication,725219,Sickle-cell/Hb-C disease with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.219,D57219,"Sickle-cell/Hb-C disease with crisis, unspecified","Sickle-cell/Hb-C disease with crisis, unspecified",45561924,"Sickle-cell/Hb-C disease with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.3,D573,Sickle-cell trait,Sickle-cell trait,35206725,Sickle-cell trait,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D57.4,NA,NA,NA,1567847,Sickle-cell thalassemia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D57.40,D5740,Sickle-cell thalassemia without crisis,Sickle-cell thalassemia without crisis,45561925,Sickle-cell thalassemia without crisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D57.41,D5741,"Sickle-cell thalassemia, unspecified, with crisis","Sickle-cell thalassemia, unspecified, with crisis",1567848,"Sickle-cell thalassemia, unspecified, with crisis",Condition,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099
-D57.411,D57411,"Sickle-cell thalassemia, unsp, with acute chest syndrome","Sickle-cell thalassemia, unspecified, with acute chest syndrome",45586115,"Sickle-cell thalassemia, unspecified, with acute chest syndrome",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.412,D57412,"Sickle-cell thalassemia, unsp, with splenic sequestration","Sickle-cell thalassemia, unspecified, with splenic sequestration",45561926,"Sickle-cell thalassemia, unspecified, with splenic sequestration",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.413,D57413,"Sickle-cell thalassemia, unsp, with cerebral vascular invl","Sickle-cell thalassemia, unspecified, with cerebral vascular involvement",725220,"Sickle-cell thalassemia, unspecified, with cerebral vascular involvement",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.414,D57414,"Sickle-cell thalassemia, unspecified, with dactylitis","Sickle-cell thalassemia, unspecified, with dactylitis",785898,"Sickle-cell thalassemia, unspecified, with dactylitis",Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099
-D57.418,D57418,"Sickle-cell thalassemia, unsp, with crisis with oth comp","Sickle-cell thalassemia, unspecified, with crisis with other specified complication",725221,"Sickle-cell thalassemia, unspecified, with crisis with other specified complication",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.419,D57419,"Sickle-cell thalassemia, unspecified, with crisis","Sickle-cell thalassemia, unspecified, with crisis",45566702,"Sickle-cell thalassemia, unspecified, with crisis",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.42,D5742,Sickle-cell thalassemia beta zero without crisis,Sickle-cell thalassemia beta zero without crisis,725222,Sickle-cell thalassemia beta zero without crisis,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D57.43,NA,NA,NA,725223,Sickle-cell thalassemia beta zero with crisis,Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099
-D57.431,D57431,Sickle-cell thalassemia beta zero with acute chest syndrome,Sickle-cell thalassemia beta zero with acute chest syndrome,725224,Sickle-cell thalassemia beta zero with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.432,D57432,Sickle-cell thalassemia beta zero with splenic sequestration,Sickle-cell thalassemia beta zero with splenic sequestration,725225,Sickle-cell thalassemia beta zero with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.433,D57433,Sickle-cell thalassemia beta zero with cereb vascular invl,Sickle-cell thalassemia beta zero with cerebral vascular involvement,725226,Sickle-cell thalassemia beta zero with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.434,D57434,Sickle-cell thalassemia beta zero with dactylitis,Sickle-cell thalassemia beta zero with dactylitis,785899,Sickle-cell thalassemia beta zero with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099
-D57.438,D57438,Sickle-cell thalassemia beta zero with crisis with oth comp,Sickle-cell thalassemia beta zero with crisis with other specified complication,725227,Sickle-cell thalassemia beta zero with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.439,D57439,"Sickle-cell thalassemia beta zero with crisis, unspecified","Sickle-cell thalassemia beta zero with crisis, unspecified",725228,"Sickle-cell thalassemia beta zero with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.44,D5744,Sickle-cell thalassemia beta plus without crisis,Sickle-cell thalassemia beta plus without crisis,725229,Sickle-cell thalassemia beta plus without crisis,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D57.45,NA,NA,NA,725230,Sickle-cell thalassemia beta plus with crisis,Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099
-D57.451,D57451,Sickle-cell thalassemia beta plus with acute chest syndrome,Sickle-cell thalassemia beta plus with acute chest syndrome,725231,Sickle-cell thalassemia beta plus with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.452,D57452,Sickle-cell thalassemia beta plus with splenic sequestration,Sickle-cell thalassemia beta plus with splenic sequestration,725232,Sickle-cell thalassemia beta plus with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.453,D57453,Sickle-cell thalassemia beta plus with cereb vascular invl,Sickle-cell thalassemia beta plus with cerebral vascular involvement,725233,Sickle-cell thalassemia beta plus with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.454,D57454,Sickle-cell thalassemia beta plus with dactylitis,Sickle-cell thalassemia beta plus with dactylitis,785900,Sickle-cell thalassemia beta plus with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099
-D57.458,D57458,Sickle-cell thalassemia beta plus with crisis with oth comp,Sickle-cell thalassemia beta plus with crisis with other specified complication,725234,Sickle-cell thalassemia beta plus with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.459,D57459,"Sickle-cell thalassemia beta plus with crisis, unspecified","Sickle-cell thalassemia beta plus with crisis, unspecified",725235,"Sickle-cell thalassemia beta plus with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.8,NA,NA,NA,1567849,Other sickle-cell disorders,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D57.80,D5780,Other sickle-cell disorders without crisis,Other sickle-cell disorders without crisis,45552357,Other sickle-cell disorders without crisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D57.81,NA,NA,NA,1567850,Other sickle-cell disorders with crisis,Condition,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099
-D57.811,D57811,Other sickle-cell disorders with acute chest syndrome,Other sickle-cell disorders with acute chest syndrome,45595766,Other sickle-cell disorders with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.812,D57812,Other sickle-cell disorders with splenic sequestration,Other sickle-cell disorders with splenic sequestration,45600606,Other sickle-cell disorders with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D57.813,D57813,Other sickle-cell disorders with cerebral vascular invl ,Other sickle-cell disorders with cerebral vascular involvement,725236,Other sickle-cell disorders with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.814,D57814,Other sickle-cell disorders with dactylitis,Other sickle-cell disorders with dactylitis,785901,Other sickle-cell disorders with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099
-D57.818,D57818,Other sickle-cell disorders with crisis with oth comp ,Other sickle-cell disorders with crisis with other specified complication,725237,Other sickle-cell disorders with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D57.819,D57819,"Other sickle-cell disorders with crisis, unspecified","Other sickle-cell disorders with crisis, unspecified",45581324,"Other sickle-cell disorders with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D58,NA,NA,NA,1567851,Other hereditary hemolytic anemias,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D58.0,D580,Hereditary spherocytosis,Hereditary spherocytosis,35206726,Hereditary spherocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D58.1,D581,Hereditary elliptocytosis,Hereditary elliptocytosis,35206727,Hereditary elliptocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D58.2,D582,Other hemoglobinopathies,Other hemoglobinopathies,35206728,Other hemoglobinopathies,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D58.8,D588,Other specified hereditary hemolytic anemias,Other specified hereditary hemolytic anemias,35206729,Other specified hereditary hemolytic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D58.9,D589,"Hereditary hemolytic anemia, unspecified","Hereditary hemolytic anemia, unspecified",35206730,"Hereditary hemolytic anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59,NA,NA,NA,1567852,Acquired hemolytic anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D59.0,D590,Drug-induced autoimmune hemolytic anemia,Drug-induced autoimmune hemolytic anemia,35206731,Drug-induced autoimmune hemolytic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59.1,D591,Other autoimmune hemolytic anemias,Other autoimmune hemolytic anemias,35206732,Other autoimmune hemolytic anemias,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D59.10,D5910,"Autoimmune hemolytic anemia, unspecified","Autoimmune hemolytic anemia, unspecified",725238,"Autoimmune hemolytic anemia, unspecified",Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D59.11,D5911,Warm autoimmune hemolytic anemia,Warm autoimmune hemolytic anemia,725239,Warm autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D59.12,D5912,Cold autoimmune hemolytic anemia,Cold autoimmune hemolytic anemia,725240,Cold autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D59.13,D5913,Mixed type autoimmune hemolytic anemia ,Mixed type autoimmune hemolytic anemia ,725241,Mixed type autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D59.19,D5919,Other autoimmune hemolytic anemia ,Other autoimmune hemolytic anemia ,725242,Other autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D59.2,D592,Drug-induced nonautoimmune hemolytic anemia,Drug-induced nonautoimmune hemolytic anemia,35206733,Drug-induced nonautoimmune hemolytic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59.3,D593,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,35206734,Hemolytic-uremic syndrome,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D59.30,D5930,"Hemolytic-uremic syndrome, unspecified","Hemolytic-uremic syndrome, unspecified",37402338,"Hemolytic-uremic syndrome, unspecified",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D59.31,D5931,Infection-associated hemolytic-uremic syndrome,Infection-associated hemolytic-uremic syndrome,37402339,Infection-associated hemolytic-uremic syndrome,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D59.32,D5932,Hereditary hemolytic-uremic syndrome,Hereditary hemolytic-uremic syndrome,37402340,Hereditary hemolytic-uremic syndrome,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D59.39,D5939,Other hemolytic-uremic syndrome,Other hemolytic-uremic syndrome,37402341,Other hemolytic-uremic syndrome,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D59.4,D594,Other nonautoimmune hemolytic anemias,Other nonautoimmune hemolytic anemias,35206735,Other nonautoimmune hemolytic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59.5,D595,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],35206736,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59.6,D596,Hemoglobinuria due to hemolysis from other external causes,Hemoglobinuria due to hemolysis from other external causes,35206737,Hemoglobinuria due to hemolysis from other external causes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59.8,D598,Other acquired hemolytic anemias,Other acquired hemolytic anemias,35206738,Other acquired hemolytic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D59.9,D599,"Acquired hemolytic anemia, unspecified","Acquired hemolytic anemia, unspecified",35206739,"Acquired hemolytic anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D60,NA,NA,NA,1567853,Acquired pure red cell aplasia [erythroblastopenia],Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D60.0,D600,Chronic acquired pure red cell aplasia,Chronic acquired pure red cell aplasia,35206740,Chronic acquired pure red cell aplasia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D60.1,D601,Transient acquired pure red cell aplasia,Transient acquired pure red cell aplasia,35206741,Transient acquired pure red cell aplasia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D60.8,D608,Other acquired pure red cell aplasias,Other acquired pure red cell aplasias,35206742,Other acquired pure red cell aplasias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D60.9,D609,"Acquired pure red cell aplasia, unspecified","Acquired pure red cell aplasia, unspecified",35206743,"Acquired pure red cell aplasia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D61,NA,NA,NA,1567854,Other aplastic anemias and other bone marrow failure syndromes,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D61.0,NA,NA,NA,1567855,Constitutional aplastic anemia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D61.01,D6101,Constitutional (pure) red blood cell aplasia,Constitutional (pure) red blood cell aplasia,45532992,Constitutional (pure) red blood cell aplasia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D61.02,D6102,Shwachman-Diamond syndrome,Shwachman-Diamond syndrome,785902,Shwachman-Diamond syndrome,Condition,ICD10CM,5-char billing code,10/1/2023,12/31/2099
-D61.03,NA,NA,NA,1102626,Fanconi anemia,Condition,ICD10CM,5-char billing code,10/1/2024,12/31/2099
-D61.09,D6109,Other constitutional aplastic anemia,Other constitutional aplastic anemia,45557087,Other constitutional aplastic anemia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D61.1,D611,Drug-induced aplastic anemia,Drug-induced aplastic anemia,35206744,Drug-induced aplastic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D61.2,D612,Aplastic anemia due to other external agents,Aplastic anemia due to other external agents,35206745,Aplastic anemia due to other external agents,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D61.3,D613,Idiopathic aplastic anemia,Idiopathic aplastic anemia,35206746,Idiopathic aplastic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D61.8,NA,NA,NA,1567856,Other specified aplastic anemias and other bone marrow failure syndromes,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D61.81,NA,NA,NA,45566706,Pancytopenia,Condition,ICD10CM,5-char nonbill code,1/1/1970,12/31/2099
-D61.810,D61810,Antineoplastic chemotherapy induced pancytopenia,Antineoplastic chemotherapy induced pancytopenia,45591012,Antineoplastic chemotherapy induced pancytopenia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099
-D61.811,D61811,Other drug-induced pancytopenia,Other drug-induced pancytopenia,45591013,Other drug-induced pancytopenia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099
-D61.818,D61818,Other pancytopenia,Other pancytopenia,45595770,Other pancytopenia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099
-D61.82,D6182,Myelophthisis,Myelophthisis,45537922,Myelophthisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D61.89,D6189,Oth aplastic anemias and other bone marrow failure syndromes,Other specified aplastic anemias and other bone marrow failure syndromes,45557088,Other specified aplastic anemias and other bone marrow failure syndromes,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D61.9,D619,"Aplastic anemia, unspecified","Aplastic anemia, unspecified",35206747,"Aplastic anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D62,NA,NA,NA,35206748,Acute posthemorrhagic anemia,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099
-D63,NA,NA,NA,1567857,Anemia in chronic diseases classified elsewhere,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D63.0,D630,Anemia in neoplastic disease,Anemia in neoplastic disease                                                                                                                                                                                                                                    ,35206749,Anemia in neoplastic disease,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D63.1,D631,Anemia in chronic kidney disease,Anemia in chronic kidney disease,45557089,Anemia in chronic kidney disease,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D63.8,D638,Anemia in other chronic diseases classified elsewhere,Anemia in other chronic diseases classified elsewhere                                                                                                                                                                                                           ,35206750,Anemia in other chronic diseases classified elsewhere,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D64,NA,NA,NA,1567858,Other anemias,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D64.0,D640,Hereditary sideroblastic anemia,Hereditary sideroblastic anemia                                                                                                                                                                                                                                 ,35206751,Hereditary sideroblastic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D64.1,D641,Secondary sideroblastic anemia due to disease,Secondary sideroblastic anemia due to disease                                                                                                                                                                                                                   ,35206752,Secondary sideroblastic anemia due to disease,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D64.2,D642,Secondary sideroblastic anemia due to drugs and toxins,Secondary sideroblastic anemia due to drugs and toxins                                                                                                                                                                                                          ,35206753,Secondary sideroblastic anemia due to drugs and toxins,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D64.3,D643,Other sideroblastic anemias,Other sideroblastic anemias                                                                                                                                                                                                                                     ,35206754,Other sideroblastic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D64.4,D644,Congenital dyserythropoietic anemia,Congenital dyserythropoietic anemia                                                                                                                                                                                                                             ,35206755,Congenital dyserythropoietic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D64.8,NA,NA,NA,35206756,Other specified anemias,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D64.81,D6481,Anemia due to antineoplastic chemotherapy,Anemia due to antineoplastic chemotherapy                                                                                                                                                                                                                       ,45600609,Anemia due to antineoplastic chemotherapy,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D64.89,D6489,Other specified anemias,Other specified anemias                                                                                                                                                                                                                                         ,45586119,Other specified anemias,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D64.9,D649,"Anemia, unspecified","Anemia, unspecified                                                                                                                                                                                                                                             ",35206757,"Anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D65,NA,NA,NA,35206758,Disseminated intravascular coagulation [defibrination syndrome],Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099
-D66,NA,NA,NA,35206759,Hereditary factor VIII deficiency,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099
-D67,NA,NA,NA,35206760,Hereditary factor IX deficiency,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099
-D68,NA,NA,NA,1567859,Other coagulation defects,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D68.0,D680,Von Willebrand's disease,Von Willebrand's disease,35206761,Von Willebrand disease,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D68.00,D6800,"Von Willebrand disease, unspecified","Von Willebrand disease, unspecified",37402342,"Von Willebrand disease, unspecified",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D68.01,D6801,"Von Willebrand disease, type 1","Von Willebrand disease, type 1",37402343,"Von Willebrand disease, type 1",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D68.02,NA,NA,NA,37402344,"Von Willebrand disease, type 2",Condition,ICD10CM,5-char nonbill code,10/1/2022,12/31/2099
-D68.020,D68020,"Von Willebrand disease, type 2A","Von Willebrand disease, type 2A",37402345,"Von Willebrand disease, type 2A",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D68.021,D68021,"Von Willebrand disease, type 2B","Von Willebrand disease, type 2B",37402346,"Von Willebrand disease, type 2B",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D68.022,D68022,"Von Willebrand disease, type 2M","Von Willebrand disease, type 2M",37402347,"Von Willebrand disease, type 2M",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D68.023,D68023,"Von Willebrand disease, type 2N","Von Willebrand disease, type 2N",37402348,"Von Willebrand disease, type 2N",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D68.029,D68029,"Von Willebrand disease, type 2, unspecified","Von Willebrand disease, type 2, unspecified",37402349,"Von Willebrand disease, type 2, unspecified",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D68.03,D6803,"Von Willebrand disease, type 3","Von Willebrand disease, type 3",37402350,"Von Willebrand disease, type 3",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D68.04,D6804,Acquired von Willebrand disease,Acquired von Willebrand disease,37402351,Acquired von Willebrand disease,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D68.09,D6809,Other von Willebrand disease,Other von Willebrand disease,37402352,Other von Willebrand disease,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D68.1,D681,Hereditary factor XI deficiency,Hereditary factor XI deficiency,35206762,Hereditary factor XI deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D68.2,D682,Hereditary deficiency of other clotting factors,Hereditary deficiency of other clotting factors,35206763,Hereditary deficiency of other clotting factors,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D68.3,NA,NA,NA,1567860,Hemorrhagic disorder due to circulating anticoagulants,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D68.31,NA,NA,NA,45552359,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD10CM,5-char nonbill code,1/1/1970,12/31/2099
-D68.311,D68311,Acquired hemophilia,Acquired hemophilia,45605379,Acquired hemophilia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099
-D68.312,D68312,Antiphospholipid antibody with hemorrhagic disorder,Antiphospholipid antibody with hemorrhagic disorder,45557090,Antiphospholipid antibody with hemorrhagic disorder,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099
-D68.318,D68318,"Oth hemorrhagic disord d/t intrns circ anticoag,antib,inhib","Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",45576410,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099
-D68.32,D6832,Hemorrhagic disord d/t extrinsic circulating anticoagulants,Hemorrhagic disorder due to extrinsic circulating anticoagulants,45561928,Hemorrhagic disorder due to extrinsic circulating anticoagulants,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.4,D684,Acquired coagulation factor deficiency,Acquired coagulation factor deficiency,35206764,Acquired coagulation factor deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D68.5,NA,NA,NA,1567861,Primary thrombophilia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D68.51,D6851,Activated protein C resistance,Activated protein C resistance,45537927,Activated protein C resistance,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.52,D6852,Prothrombin gene mutation,Prothrombin gene mutation,45561929,Prothrombin gene mutation,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.59,D6859,Other primary thrombophilia,Other primary thrombophilia,45571638,Other primary thrombophilia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.6,NA,NA,NA,1567862,Other thrombophilia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D68.61,D6861,Antiphospholipid syndrome,Antiphospholipid syndrome,45552361,Antiphospholipid syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.62,D6862,Lupus anticoagulant syndrome,Lupus anticoagulant syndrome,45595772,Lupus anticoagulant syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.69,D6869,Other thrombophilia,Other thrombophilia,45571639,Other thrombophilia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D68.8,D688,Other specified coagulation defects,Other specified coagulation defects,35206765,Other specified coagulation defects,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D68.9,D689,"Coagulation defect, unspecified","Coagulation defect, unspecified",35206766,"Coagulation defect, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69,NA,NA,NA,1567863,Purpura and other hemorrhagic conditions,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D69.0,D690,Allergic purpura,Allergic purpura,35206767,Allergic purpura,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69.1,D691,Qualitative platelet defects,Qualitative platelet defects,35206768,Qualitative platelet defects,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69.2,D692,Other nonthrombocytopenic purpura,Other nonthrombocytopenic purpura,35206769,Other nonthrombocytopenic purpura,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69.3,D693,Immune thrombocytopenic purpura,Immune thrombocytopenic purpura,35206770,Immune thrombocytopenic purpura,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69.4,NA,NA,NA,1567864,Other primary thrombocytopenia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D69.41,D6941,Evans syndrome,Evans syndrome,45557091,Evans syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D69.42,D6942,Congenital and hereditary thrombocytopenia purpura,Congenital and hereditary thrombocytopenia purpura,45571640,Congenital and hereditary thrombocytopenia purpura,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D69.49,D6949,Other primary thrombocytopenia,Other primary thrombocytopenia,45542714,Other primary thrombocytopenia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D69.5,NA,NA,NA,35206771,Secondary thrombocytopenia,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D69.51,D6951,Posttransfusion purpura,Posttransfusion purpura,45586120,Posttransfusion purpura,Condition,ICD10CM,5-char billing code,12/30/2006,12/31/2099
-D69.59,D6959,Other secondary thrombocytopenia,Other secondary thrombocytopenia,45576412,Other secondary thrombocytopenia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D69.6,D696,"Thrombocytopenia, unspecified","Thrombocytopenia, unspecified",35206772,"Thrombocytopenia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69.8,D698,Other specified hemorrhagic conditions,Other specified hemorrhagic conditions,35206773,Other specified hemorrhagic conditions,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D69.9,D699,"Hemorrhagic condition, unspecified","Hemorrhagic condition, unspecified",35206774,"Hemorrhagic condition, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D70,NA,NA,NA,1567865,Neutropenia,Measurement,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D70.0,D700,Congenital agranulocytosis,Congenital agranulocytosis,45532997,Congenital agranulocytosis,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D70.1,D701,Agranulocytosis secondary to cancer chemotherapy,Agranulocytosis secondary to cancer chemotherapy,45537931,Agranulocytosis secondary to cancer chemotherapy,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D70.2,D702,Other drug-induced agranulocytosis,Other drug-induced agranulocytosis,45581328,Other drug-induced agranulocytosis,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D70.3,D703,Neutropenia due to infection,Neutropenia due to infection,45552363,Neutropenia due to infection,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D70.4,D704,Cyclic neutropenia,Cyclic neutropenia,45557093,Cyclic neutropenia,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D70.8,D708,Other neutropenia,Other neutropenia,45547611,Other neutropenia,Measurement,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D70.9,D709,"Neutropenia, unspecified","Neutropenia, unspecified",45557094,"Neutropenia, unspecified",Measurement,ICD10CM,4-char billing code,1/1/1970,12/31/2099
-D71,NA,NA,NA,35206775,Functional disorders of polymorphonuclear neutrophils,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099
-D72,NA,NA,NA,1567866,Other disorders of white blood cells,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D72.0,D720,Genetic anomalies of leukocytes,Genetic anomalies of leukocytes,35206776,Genetic anomalies of leukocytes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D72.1,D721,Eosinophilia,Eosinophilia,35206777,Eosinophilia,Measurement,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099
-D72.10,D7210,"Eosinophilia, unspecified","Eosinophilia, unspecified",725243,"Eosinophilia, unspecified",Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D72.11,NA,NA,NA,725244,Hypereosinophilic syndrome [HES],Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099
-D72.110,D72110,Idiopathic hypereosinophilic syndrome [IHES],Idiopathic hypereosinophilic syndrome [IHES],725245,Idiopathic hypereosinophilic syndrome [IHES],Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D72.111,D72111,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],Lymphocytic Variant Hypereosinophilic Syndrome [LHES],725246,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D72.118,D72118,Other hypereosinophilic syndrome,Other hypereosinophilic syndrome,725247,Other hypereosinophilic syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D72.119,D72119,"Hypereosinophilic syndrome [HES], unspecified","Hypereosinophilic syndrome [HES], unspecified",725248,"Hypereosinophilic syndrome [HES], unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099
-D72.12,D7212,Drug rash with eosinophilia and systemic symptoms syndrome,Drug rash with eosinophilia and systemic symptoms syndrome,725249,Drug rash with eosinophilia and systemic symptoms syndrome,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D72.18,D7218,Eosinophilia in diseases classified elsewhere,Eosinophilia in diseases classified elsewhere,725250,Eosinophilia in diseases classified elsewhere,Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D72.19,D7219,Other eosinophilia,Other eosinophilia,725251,Other eosinophilia,Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099
-D72.8,NA,NA,NA,1567867,Other specified disorders of white blood cells,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D72.81,NA,NA,NA,1567868,Decreased white blood cell count,Measurement,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099
-D72.810,D72810,Lymphocytopenia,Lymphocytopenia,45552365,Lymphocytopenia,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.818,D72818,Other decreased white blood cell count,Other decreased white blood cell count,45576413,Other decreased white blood cell count,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.819,D72819,"Decreased white blood cell count, unspecified","Decreased white blood cell count, unspecified",45566711,"Decreased white blood cell count, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.82,NA,NA,NA,1567869,Elevated white blood cell count,Measurement,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099
-D72.820,D72820,Lymphocytosis (symptomatic),Lymphocytosis (symptomatic),45605380,Lymphocytosis (symptomatic),Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.821,D72821,Monocytosis (symptomatic),Monocytosis (symptomatic),45595774,Monocytosis (symptomatic),Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.822,D72822,Plasmacytosis,Plasmacytosis,45581329,Plasmacytosis,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.823,D72823,Leukemoid reaction,Leukemoid reaction,45547612,Leukemoid reaction,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.824,D72824,Basophilia,Basophilia,45537932,Basophilia,Measurement,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.825,D72825,Bandemia,Bandemia,45557095,Bandemia,Measurement,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.828,D72828,Other elevated white blood cell count,Other elevated white blood cell count,45542715,Other elevated white blood cell count,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.829,D72829,"Elevated white blood cell count, unspecified","Elevated white blood cell count, unspecified",45537933,"Elevated white blood cell count, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099
-D72.89,D7289,Other specified disorders of white blood cells,Other specified disorders of white blood cells,45542716,Other specified disorders of white blood cells,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D72.9,D729,"Disorder of white blood cells, unspecified","Disorder of white blood cells, unspecified",35206778,"Disorder of white blood cells, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73,NA,NA,NA,1567870,Diseases of spleen,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D73.0,D730,Hyposplenism,Hyposplenism,35206779,Hyposplenism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73.1,D731,Hypersplenism,Hypersplenism,35206780,Hypersplenism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73.2,D732,Chronic congestive splenomegaly,Chronic congestive splenomegaly,35206781,Chronic congestive splenomegaly,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73.3,D733,Abscess of spleen,Abscess of spleen,35206782,Abscess of spleen,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73.4,D734,Cyst of spleen,Cyst of spleen,35206783,Cyst of spleen,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73.5,D735,Infarction of spleen,Infarction of spleen,35206784,Infarction of spleen,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D73.8,NA,NA,NA,1567871,Other diseases of spleen,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D73.81,D7381,Neutropenic splenomegaly,Neutropenic splenomegaly,45576415,Neutropenic splenomegaly,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D73.89,D7389,Other diseases of spleen,Other diseases of spleen,45586122,Other diseases of spleen,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D73.9,D739,"Disease of spleen, unspecified","Disease of spleen, unspecified",35206785,"Disease of spleen, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D74,NA,NA,NA,1567872,Methemoglobinemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D74.0,D740,Congenital methemoglobinemia,Congenital methemoglobinemia,35206786,Congenital methemoglobinemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D74.8,D748,Other methemoglobinemias,Other methemoglobinemias,35206787,Other methemoglobinemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D74.9,D749,"Methemoglobinemia, unspecified","Methemoglobinemia, unspecified",35206788,"Methemoglobinemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D75,NA,NA,NA,1567873,Other and unspecified diseases of blood and blood-forming organs,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D75.0,D750,Familial erythrocytosis,Familial erythrocytosis,35206789,Familial erythrocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D75.1,D751,Secondary polycythemia,Secondary polycythemia,35206790,Secondary polycythemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D75.2,NA,NA,NA,35206791,Essential thrombocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2009
-D75.8,NA,NA,NA,1567874,Other specified diseases of blood and blood-forming organs,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099
-D75.81,D7581,Myelofibrosis,Myelofibrosis,45605385,Myelofibrosis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D75.82,D7582,Heparin induced thrombocytopenia (HIT),Heparin induced thrombocytopenia (HIT),45537936,Heparin induced thrombocytopenia (HIT),Condition,ICD10CM,5-char nonbill code,1/1/1970,12/31/2099
-D75.821,D75821,Non-immune heparin-induced thrombocytopenia,Non-immune heparin-induced thrombocytopenia,37402353,Non-immune heparin-induced thrombocytopenia,Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D75.822,D75822,Immune-mediated heparin-induced thrombocytopenia,Immune-mediated heparin-induced thrombocytopenia,37402354,Immune-mediated heparin-induced thrombocytopenia,Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D75.828,D75828,Other heparin-induced thrombocytopenia syndrome,Other heparin-induced thrombocytopenia syndrome,37402355,Other heparin-induced thrombocytopenia syndrome,Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D75.829,D75829,"Heparin-induced thrombocytopenia, unspecified","Heparin-induced thrombocytopenia, unspecified",37402356,"Heparin-induced thrombocytopenia, unspecified",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099
-D75.83,NA,NA,NA,766344,Thrombocytosis,Condition,ICD10CM,5-char nonbill code,10/1/2021,12/31/2099
-D75.838,D75838,Other thrombocytosis,Other thrombocytosis,766345,Other thrombocytosis,Condition,ICD10CM,6-char billing code,10/1/2021,12/31/2099
-D75.839,D75839,"Thrombocytosis, unspecified","Thrombocytosis, unspecified",766346,"Thrombocytosis, unspecified",Condition,ICD10CM,6-char billing code,10/1/2021,12/31/2099
-D75.84,D7584,Other platelet-activating anti-PF4 disorders,Other platelet-activating anti-PF4 disorders,37402357,Other platelet-activating anti-PF4 disorders,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099
-D75.89,D7589,Other specified diseases of blood and blood-forming organs,Other specified diseases of blood and blood-forming organs,45542717,Other specified diseases of blood and blood-forming organs,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099
-D75.9,D759,"Disease of blood and blood-forming organs, unspecified","Disease of blood and blood-forming organs, unspecified",35206792,"Disease of blood and blood-forming organs, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D75.A,D75A,Glucose-6-phosphate dehydrgnse (G6PD) defic without anemia,Glucose-6-phosphate dehydrgnse (G6PD) defic without anemia,1553744,Glucose-6-phosphate dehydrogenase (G6PD) deficiency without anemia,Condition,ICD10CM,4-char billing code,1/1/2020,12/31/2099
-D76,NA,NA,NA,1567875,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099
-D76.0,NA,NA,NA,35206793,"Langerhans' cell histiocytosis, not elsewhere classified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2009
-D76.1,D761,Hemophagocytic lymphohistiocytosis,Hemophagocytic lymphohistiocytosis,35206794,Hemophagocytic lymphohistiocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D76.2,D762,"Hemophagocytic syndrome, infection-associated","Hemophagocytic syndrome, infection-associated",35206795,"Hemophagocytic syndrome, infection-associated",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D76.3,D763,Other histiocytosis syndromes,Other histiocytosis syndromes,35206796,Other histiocytosis syndromes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099
-D77,NA,NA,NA,35206797,Other disorders of blood and blood-forming organs in diseases classified elsewhere,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099
+DIAGNOSIS_CODE_ATHENA,DIAGNOSIS_CODE_MEDICARE,SHORT_NAME_MEDICARE,CONCEPT_NAME_MEDICARE,CONCEPT_ID,CONCEPT_NAME_ATHENA,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+D50,NA,NA,NA,1567838,Iron deficiency anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D50.0,D500,Iron deficiency anemia secondary to blood loss (chronic),Iron deficiency anemia secondary to blood loss (chronic),35206692,Iron deficiency anemia secondary to blood loss (chronic),Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D50.1,D501,Sideropenic dysphagia,Sideropenic dysphagia,35206693,Sideropenic dysphagia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D50.8,D508,Other iron deficiency anemias,Other iron deficiency anemias,35206694,Other iron deficiency anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D50.9,D509,"Iron deficiency anemia, unspecified","Iron deficiency anemia, unspecified",35206695,"Iron deficiency anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D51,NA,NA,NA,1567839,Vitamin B12 deficiency anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D51.0,D510,Vitamin B12 defic anemia due to intrinsic factor deficiency,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,35206696,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D51.1,D511,Vit B12 defic anemia d/t slctv vit B12 malabsorp w protein,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,35206697,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D51.2,D512,Transcobalamin II deficiency,Transcobalamin II deficiency,35206698,Transcobalamin II deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D51.3,D513,Other dietary vitamin B12 deficiency anemia,Other dietary vitamin B12 deficiency anemia,35206699,Other dietary vitamin B12 deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D51.8,D518,Other vitamin B12 deficiency anemias,Other vitamin B12 deficiency anemias,35206700,Other vitamin B12 deficiency anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D51.9,D519,"Vitamin B12 deficiency anemia, unspecified","Vitamin B12 deficiency anemia, unspecified",35206701,"Vitamin B12 deficiency anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D52,NA,NA,NA,1567840,Folate deficiency anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D52.0,D520,Dietary folate deficiency anemia,Dietary folate deficiency anemia,35206702,Dietary folate deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D52.1,D521,Drug-induced folate deficiency anemia,Drug-induced folate deficiency anemia,35206703,Drug-induced folate deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D52.8,D528,Other folate deficiency anemias,Other folate deficiency anemias,35206704,Other folate deficiency anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D52.9,D529,"Folate deficiency anemia, unspecified","Folate deficiency anemia, unspecified",35206705,"Folate deficiency anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D53,NA,NA,NA,1567841,Other nutritional anemias,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D53.0,D530,Protein deficiency anemia,Protein deficiency anemia,35206706,Protein deficiency anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D53.1,D531,"Other megaloblastic anemias, not elsewhere classified","Other megaloblastic anemias, not elsewhere classified",35206707,"Other megaloblastic anemias, not elsewhere classified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D53.2,D532,Scorbutic anemia,Scorbutic anemia,35206708,Scorbutic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D53.8,D538,Other specified nutritional anemias,Other specified nutritional anemias,35206709,Other specified nutritional anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D53.9,D539,"Nutritional anemia, unspecified","Nutritional anemia, unspecified",35206710,"Nutritional anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D55,NA,NA,NA,1567842,Anemia due to enzyme disorders,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D55.0,D550,Anemia due to glucose-6-phosphate dehydrogenase deficiency,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,35206711,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D55.1,D551,Anemia due to other disorders of glutathione metabolism,Anemia due to other disorders of glutathione metabolism,35206712,Anemia due to other disorders of glutathione metabolism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D55.2,D552,Anemia due to disorders of glycolytic enzymes,Anemia due to disorders of glycolytic enzymes,35206713,Anemia due to disorders of glycolytic enzymes,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D55.21,D5521,Anemia due to pyruvate kinase deficiency,Anemia due to pyruvate kinase deficiency,766342,Anemia due to pyruvate kinase deficiency,Condition,ICD10CM,5-char billing code,10/1/2021,12/31/2099,FALSE
+D55.29,D5529,Anemia due to other disorders of glycolytic enzymes,Anemia due to other disorders of glycolytic enzymes,766343,Anemia due to other disorders of glycolytic enzymes,Condition,ICD10CM,5-char billing code,10/1/2021,12/31/2099,FALSE
+D55.3,D553,Anemia due to disorders of nucleotide metabolism,Anemia due to disorders of nucleotide metabolism,35206714,Anemia due to disorders of nucleotide metabolism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D55.8,D558,Other anemias due to enzyme disorders,Other anemias due to enzyme disorders,35206715,Other anemias due to enzyme disorders,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D55.9,D559,"Anemia due to enzyme disorder, unspecified","Anemia due to enzyme disorder, unspecified",35206716,"Anemia due to enzyme disorder, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56,NA,NA,NA,1567843,Thalassemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D56.0,D560,Alpha thalassemia,Alpha thalassemia,35206717,Alpha thalassemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56.1,D561,Beta thalassemia,Beta thalassemia,35206718,Beta thalassemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56.2,D562,Delta-beta thalassemia,Delta-beta thalassemia,35206719,Delta-beta thalassemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56.3,D563,Thalassemia minor,Thalassemia minor,35206720,Thalassemia minor,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56.4,D564,Hereditary persistence of fetal hemoglobin [HPFH],Hereditary persistence of fetal hemoglobin [HPFH],35206721,Hereditary persistence of fetal hemoglobin [HPFH],Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56.5,D565,Hemoglobin E-beta thalassemia,Hemoglobin E-beta thalassemia,45532989,Hemoglobin E-beta thalassemia,Condition,ICD10CM,4-char billing code,12/30/2006,12/31/2099,FALSE
+D56.8,D568,Other thalassemias,Other thalassemias,35206722,Other thalassemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D56.9,D569,"Thalassemia, unspecified","Thalassemia, unspecified",35206723,"Thalassemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D57,NA,NA,NA,1567844,Sickle-cell disorders,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.0,NA,NA,NA,1567845,Hb-SS disease with crisis,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.00,D5700,"Hb-SS disease with crisis, unspecified","Hb-SS disease with crisis, unspecified",45595765,"Hb-SS disease with crisis, unspecified",Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D57.01,D5701,Hb-SS disease with acute chest syndrome,Hb-SS disease with acute chest syndrome,45542708,Hb-SS disease with acute chest syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D57.02,D5702,Hb-SS disease with splenic sequestration,Hb-SS disease with splenic sequestration,45561923,Hb-SS disease with splenic sequestration,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D57.03,D5703,Hb-SS disease with cerebral vascular involvement,Hb-SS disease with cerebral vascular involvement,725216,Hb-SS disease with cerebral vascular involvement,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D57.04,D5704,Hb-SS disease with dactylitis,Hb-SS disease with dactylitis,785896,Hb-SS disease with dactylitis,Condition,ICD10CM,5-char billing code,10/1/2023,12/31/2099,FALSE
+D57.09,D5709,Hb-SS disease with crisis with other specified complication,Hb-SS disease with crisis with other specified complication,725217,Hb-SS disease with crisis with other specified complication,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D57.1,D571,Sickle-cell disease without crisis,Sickle-cell disease without crisis,35206724,Sickle-cell disease without crisis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D57.2,NA,NA,NA,1567846,Sickle-cell/Hb-C disease,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.20,D5720,Sickle-cell/Hb-C disease without crisis,Sickle-cell/Hb-C disease without crisis,45542710,Sickle-cell/Hb-C disease without crisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D57.21,NA,NA,NA,45542711,Sickle-cell/Hb-C disease with crisis,Condition,ICD10CM,5-char nonbill code,12/30/2006,12/31/2099,FALSE
+D57.211,D57211,Sickle-cell/Hb-C disease with acute chest syndrome,Sickle-cell/Hb-C disease with acute chest syndrome,45576406,Sickle-cell/Hb-C disease with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.212,D57212,Sickle-cell/Hb-C disease with splenic sequestration,Sickle-cell/Hb-C disease with splenic sequestration,45571635,Sickle-cell/Hb-C disease with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.213,D57213,Sickle-cell/Hb-C disease with cerebral vascular involvement,Sickle-cell/Hb-C disease with cerebral vascular involvement,725218,Sickle-cell/Hb-C disease with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.214,D57214,Sickle-cell/Hb-C disease with dactylitis,Sickle-cell/Hb-C disease with dactylitis,785897,Sickle-cell/Hb-C disease with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099,FALSE
+D57.218,D57218,Sickle-cell/Hb-C disease with crisis with oth complication,Sickle-cell/Hb-C disease with crisis with other specified complication,725219,Sickle-cell/Hb-C disease with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.219,D57219,"Sickle-cell/Hb-C disease with crisis, unspecified","Sickle-cell/Hb-C disease with crisis, unspecified",45561924,"Sickle-cell/Hb-C disease with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.3,D573,Sickle-cell trait,Sickle-cell trait,35206725,Sickle-cell trait,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D57.4,NA,NA,NA,1567847,Sickle-cell thalassemia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.40,D5740,Sickle-cell thalassemia without crisis,Sickle-cell thalassemia without crisis,45561925,Sickle-cell thalassemia without crisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D57.41,D5741,"Sickle-cell thalassemia, unspecified, with crisis","Sickle-cell thalassemia, unspecified, with crisis",1567848,"Sickle-cell thalassemia, unspecified, with crisis",Condition,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.411,D57411,"Sickle-cell thalassemia, unsp, with acute chest syndrome","Sickle-cell thalassemia, unspecified, with acute chest syndrome",45586115,"Sickle-cell thalassemia, unspecified, with acute chest syndrome",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.412,D57412,"Sickle-cell thalassemia, unsp, with splenic sequestration","Sickle-cell thalassemia, unspecified, with splenic sequestration",45561926,"Sickle-cell thalassemia, unspecified, with splenic sequestration",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.413,D57413,"Sickle-cell thalassemia, unsp, with cerebral vascular invl","Sickle-cell thalassemia, unspecified, with cerebral vascular involvement",725220,"Sickle-cell thalassemia, unspecified, with cerebral vascular involvement",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.414,D57414,"Sickle-cell thalassemia, unspecified, with dactylitis","Sickle-cell thalassemia, unspecified, with dactylitis",785898,"Sickle-cell thalassemia, unspecified, with dactylitis",Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099,FALSE
+D57.418,D57418,"Sickle-cell thalassemia, unsp, with crisis with oth comp","Sickle-cell thalassemia, unspecified, with crisis with other specified complication",725221,"Sickle-cell thalassemia, unspecified, with crisis with other specified complication",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.419,D57419,"Sickle-cell thalassemia, unspecified, with crisis","Sickle-cell thalassemia, unspecified, with crisis",45566702,"Sickle-cell thalassemia, unspecified, with crisis",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.42,D5742,Sickle-cell thalassemia beta zero without crisis,Sickle-cell thalassemia beta zero without crisis,725222,Sickle-cell thalassemia beta zero without crisis,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D57.43,NA,NA,NA,725223,Sickle-cell thalassemia beta zero with crisis,Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099,FALSE
+D57.431,D57431,Sickle-cell thalassemia beta zero with acute chest syndrome,Sickle-cell thalassemia beta zero with acute chest syndrome,725224,Sickle-cell thalassemia beta zero with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.432,D57432,Sickle-cell thalassemia beta zero with splenic sequestration,Sickle-cell thalassemia beta zero with splenic sequestration,725225,Sickle-cell thalassemia beta zero with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.433,D57433,Sickle-cell thalassemia beta zero with cereb vascular invl,Sickle-cell thalassemia beta zero with cerebral vascular involvement,725226,Sickle-cell thalassemia beta zero with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.434,D57434,Sickle-cell thalassemia beta zero with dactylitis,Sickle-cell thalassemia beta zero with dactylitis,785899,Sickle-cell thalassemia beta zero with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099,FALSE
+D57.438,D57438,Sickle-cell thalassemia beta zero with crisis with oth comp,Sickle-cell thalassemia beta zero with crisis with other specified complication,725227,Sickle-cell thalassemia beta zero with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.439,D57439,"Sickle-cell thalassemia beta zero with crisis, unspecified","Sickle-cell thalassemia beta zero with crisis, unspecified",725228,"Sickle-cell thalassemia beta zero with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.44,D5744,Sickle-cell thalassemia beta plus without crisis,Sickle-cell thalassemia beta plus without crisis,725229,Sickle-cell thalassemia beta plus without crisis,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D57.45,NA,NA,NA,725230,Sickle-cell thalassemia beta plus with crisis,Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099,FALSE
+D57.451,D57451,Sickle-cell thalassemia beta plus with acute chest syndrome,Sickle-cell thalassemia beta plus with acute chest syndrome,725231,Sickle-cell thalassemia beta plus with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.452,D57452,Sickle-cell thalassemia beta plus with splenic sequestration,Sickle-cell thalassemia beta plus with splenic sequestration,725232,Sickle-cell thalassemia beta plus with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.453,D57453,Sickle-cell thalassemia beta plus with cereb vascular invl,Sickle-cell thalassemia beta plus with cerebral vascular involvement,725233,Sickle-cell thalassemia beta plus with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.454,D57454,Sickle-cell thalassemia beta plus with dactylitis,Sickle-cell thalassemia beta plus with dactylitis,785900,Sickle-cell thalassemia beta plus with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099,FALSE
+D57.458,D57458,Sickle-cell thalassemia beta plus with crisis with oth comp,Sickle-cell thalassemia beta plus with crisis with other specified complication,725234,Sickle-cell thalassemia beta plus with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.459,D57459,"Sickle-cell thalassemia beta plus with crisis, unspecified","Sickle-cell thalassemia beta plus with crisis, unspecified",725235,"Sickle-cell thalassemia beta plus with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.8,NA,NA,NA,1567849,Other sickle-cell disorders,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.80,D5780,Other sickle-cell disorders without crisis,Other sickle-cell disorders without crisis,45552357,Other sickle-cell disorders without crisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D57.81,NA,NA,NA,1567850,Other sickle-cell disorders with crisis,Condition,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099,FALSE
+D57.811,D57811,Other sickle-cell disorders with acute chest syndrome,Other sickle-cell disorders with acute chest syndrome,45595766,Other sickle-cell disorders with acute chest syndrome,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.812,D57812,Other sickle-cell disorders with splenic sequestration,Other sickle-cell disorders with splenic sequestration,45600606,Other sickle-cell disorders with splenic sequestration,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D57.813,D57813,Other sickle-cell disorders with cerebral vascular invl ,Other sickle-cell disorders with cerebral vascular involvement,725236,Other sickle-cell disorders with cerebral vascular involvement,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.814,D57814,Other sickle-cell disorders with dactylitis,Other sickle-cell disorders with dactylitis,785901,Other sickle-cell disorders with dactylitis,Condition,ICD10CM,6-char billing code,10/1/2023,12/31/2099,FALSE
+D57.818,D57818,Other sickle-cell disorders with crisis with oth comp ,Other sickle-cell disorders with crisis with other specified complication,725237,Other sickle-cell disorders with crisis with other specified complication,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D57.819,D57819,"Other sickle-cell disorders with crisis, unspecified","Other sickle-cell disorders with crisis, unspecified",45581324,"Other sickle-cell disorders with crisis, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D58,NA,NA,NA,1567851,Other hereditary hemolytic anemias,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D58.0,D580,Hereditary spherocytosis,Hereditary spherocytosis,35206726,Hereditary spherocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D58.1,D581,Hereditary elliptocytosis,Hereditary elliptocytosis,35206727,Hereditary elliptocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D58.2,D582,Other hemoglobinopathies,Other hemoglobinopathies,35206728,Other hemoglobinopathies,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D58.8,D588,Other specified hereditary hemolytic anemias,Other specified hereditary hemolytic anemias,35206729,Other specified hereditary hemolytic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D58.9,D589,"Hereditary hemolytic anemia, unspecified","Hereditary hemolytic anemia, unspecified",35206730,"Hereditary hemolytic anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59,NA,NA,NA,1567852,Acquired hemolytic anemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D59.0,D590,Drug-induced autoimmune hemolytic anemia,Drug-induced autoimmune hemolytic anemia,35206731,Drug-induced autoimmune hemolytic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59.1,D591,Other autoimmune hemolytic anemias,Other autoimmune hemolytic anemias,35206732,Other autoimmune hemolytic anemias,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D59.10,D5910,"Autoimmune hemolytic anemia, unspecified","Autoimmune hemolytic anemia, unspecified",725238,"Autoimmune hemolytic anemia, unspecified",Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D59.11,D5911,Warm autoimmune hemolytic anemia,Warm autoimmune hemolytic anemia,725239,Warm autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D59.12,D5912,Cold autoimmune hemolytic anemia,Cold autoimmune hemolytic anemia,725240,Cold autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D59.13,D5913,Mixed type autoimmune hemolytic anemia ,Mixed type autoimmune hemolytic anemia ,725241,Mixed type autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D59.19,D5919,Other autoimmune hemolytic anemia ,Other autoimmune hemolytic anemia ,725242,Other autoimmune hemolytic anemia,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D59.2,D592,Drug-induced nonautoimmune hemolytic anemia,Drug-induced nonautoimmune hemolytic anemia,35206733,Drug-induced nonautoimmune hemolytic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59.3,D593,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,35206734,Hemolytic-uremic syndrome,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D59.30,D5930,"Hemolytic-uremic syndrome, unspecified","Hemolytic-uremic syndrome, unspecified",37402338,"Hemolytic-uremic syndrome, unspecified",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D59.31,D5931,Infection-associated hemolytic-uremic syndrome,Infection-associated hemolytic-uremic syndrome,37402339,Infection-associated hemolytic-uremic syndrome,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D59.32,D5932,Hereditary hemolytic-uremic syndrome,Hereditary hemolytic-uremic syndrome,37402340,Hereditary hemolytic-uremic syndrome,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D59.39,D5939,Other hemolytic-uremic syndrome,Other hemolytic-uremic syndrome,37402341,Other hemolytic-uremic syndrome,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D59.4,D594,Other nonautoimmune hemolytic anemias,Other nonautoimmune hemolytic anemias,35206735,Other nonautoimmune hemolytic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59.5,D595,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],35206736,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59.6,D596,Hemoglobinuria due to hemolysis from other external causes,Hemoglobinuria due to hemolysis from other external causes,35206737,Hemoglobinuria due to hemolysis from other external causes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59.8,D598,Other acquired hemolytic anemias,Other acquired hemolytic anemias,35206738,Other acquired hemolytic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D59.9,D599,"Acquired hemolytic anemia, unspecified","Acquired hemolytic anemia, unspecified",35206739,"Acquired hemolytic anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D60,NA,NA,NA,1567853,Acquired pure red cell aplasia [erythroblastopenia],Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D60.0,D600,Chronic acquired pure red cell aplasia,Chronic acquired pure red cell aplasia,35206740,Chronic acquired pure red cell aplasia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D60.1,D601,Transient acquired pure red cell aplasia,Transient acquired pure red cell aplasia,35206741,Transient acquired pure red cell aplasia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D60.8,D608,Other acquired pure red cell aplasias,Other acquired pure red cell aplasias,35206742,Other acquired pure red cell aplasias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D60.9,D609,"Acquired pure red cell aplasia, unspecified","Acquired pure red cell aplasia, unspecified",35206743,"Acquired pure red cell aplasia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D61,NA,NA,NA,1567854,Other aplastic anemias and other bone marrow failure syndromes,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D61.0,NA,NA,NA,1567855,Constitutional aplastic anemia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D61.01,D6101,Constitutional (pure) red blood cell aplasia,Constitutional (pure) red blood cell aplasia,45532992,Constitutional (pure) red blood cell aplasia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D61.02,D6102,Shwachman-Diamond syndrome,Shwachman-Diamond syndrome,785902,Shwachman-Diamond syndrome,Condition,ICD10CM,5-char billing code,10/1/2023,12/31/2099,FALSE
+D61.03,NA,NA,NA,1102626,Fanconi anemia,Condition,ICD10CM,5-char billing code,10/1/2024,12/31/2099,FALSE
+D61.09,D6109,Other constitutional aplastic anemia,Other constitutional aplastic anemia,45557087,Other constitutional aplastic anemia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D61.1,D611,Drug-induced aplastic anemia,Drug-induced aplastic anemia,35206744,Drug-induced aplastic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D61.2,D612,Aplastic anemia due to other external agents,Aplastic anemia due to other external agents,35206745,Aplastic anemia due to other external agents,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D61.3,D613,Idiopathic aplastic anemia,Idiopathic aplastic anemia,35206746,Idiopathic aplastic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D61.8,NA,NA,NA,1567856,Other specified aplastic anemias and other bone marrow failure syndromes,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D61.81,NA,NA,NA,45566706,Pancytopenia,Condition,ICD10CM,5-char nonbill code,1/1/1970,12/31/2099,FALSE
+D61.810,D61810,Antineoplastic chemotherapy induced pancytopenia,Antineoplastic chemotherapy induced pancytopenia,45591012,Antineoplastic chemotherapy induced pancytopenia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099,FALSE
+D61.811,D61811,Other drug-induced pancytopenia,Other drug-induced pancytopenia,45591013,Other drug-induced pancytopenia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099,FALSE
+D61.818,D61818,Other pancytopenia,Other pancytopenia,45595770,Other pancytopenia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099,FALSE
+D61.82,D6182,Myelophthisis,Myelophthisis,45537922,Myelophthisis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D61.89,D6189,Oth aplastic anemias and other bone marrow failure syndromes,Other specified aplastic anemias and other bone marrow failure syndromes,45557088,Other specified aplastic anemias and other bone marrow failure syndromes,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D61.9,D619,"Aplastic anemia, unspecified","Aplastic anemia, unspecified",35206747,"Aplastic anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D62,NA,NA,NA,35206748,Acute posthemorrhagic anemia,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE
+D63,NA,NA,NA,1567857,Anemia in chronic diseases classified elsewhere,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D63.0,D630,Anemia in neoplastic disease,Anemia in neoplastic disease                                                                                                                                                                                                                                    ,35206749,Anemia in neoplastic disease,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D63.1,D631,Anemia in chronic kidney disease,Anemia in chronic kidney disease,45557089,Anemia in chronic kidney disease,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,FALSE
+D63.8,D638,Anemia in other chronic diseases classified elsewhere,Anemia in other chronic diseases classified elsewhere                                                                                                                                                                                                           ,35206750,Anemia in other chronic diseases classified elsewhere,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D64,NA,NA,NA,1567858,Other anemias,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D64.0,D640,Hereditary sideroblastic anemia,Hereditary sideroblastic anemia                                                                                                                                                                                                                                 ,35206751,Hereditary sideroblastic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D64.1,D641,Secondary sideroblastic anemia due to disease,Secondary sideroblastic anemia due to disease                                                                                                                                                                                                                   ,35206752,Secondary sideroblastic anemia due to disease,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D64.2,D642,Secondary sideroblastic anemia due to drugs and toxins,Secondary sideroblastic anemia due to drugs and toxins                                                                                                                                                                                                          ,35206753,Secondary sideroblastic anemia due to drugs and toxins,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D64.3,D643,Other sideroblastic anemias,Other sideroblastic anemias                                                                                                                                                                                                                                     ,35206754,Other sideroblastic anemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D64.4,D644,Congenital dyserythropoietic anemia,Congenital dyserythropoietic anemia                                                                                                                                                                                                                             ,35206755,Congenital dyserythropoietic anemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D64.8,NA,NA,NA,35206756,Other specified anemias,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D64.81,D6481,Anemia due to antineoplastic chemotherapy,Anemia due to antineoplastic chemotherapy                                                                                                                                                                                                                       ,45600609,Anemia due to antineoplastic chemotherapy,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D64.89,D6489,Other specified anemias,Other specified anemias                                                                                                                                                                                                                                         ,45586119,Other specified anemias,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D64.9,D649,"Anemia, unspecified","Anemia, unspecified                                                                                                                                                                                                                                             ",35206757,"Anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D65,NA,NA,NA,35206758,Disseminated intravascular coagulation [defibrination syndrome],Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE
+D66,NA,NA,NA,35206759,Hereditary factor VIII deficiency,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE
+D67,NA,NA,NA,35206760,Hereditary factor IX deficiency,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE
+D68,NA,NA,NA,1567859,Other coagulation defects,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D68.0,D680,Von Willebrand's disease,Von Willebrand's disease,35206761,Von Willebrand disease,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D68.00,D6800,"Von Willebrand disease, unspecified","Von Willebrand disease, unspecified",37402342,"Von Willebrand disease, unspecified",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D68.01,D6801,"Von Willebrand disease, type 1","Von Willebrand disease, type 1",37402343,"Von Willebrand disease, type 1",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D68.02,NA,NA,NA,37402344,"Von Willebrand disease, type 2",Condition,ICD10CM,5-char nonbill code,10/1/2022,12/31/2099,FALSE
+D68.020,D68020,"Von Willebrand disease, type 2A","Von Willebrand disease, type 2A",37402345,"Von Willebrand disease, type 2A",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D68.021,D68021,"Von Willebrand disease, type 2B","Von Willebrand disease, type 2B",37402346,"Von Willebrand disease, type 2B",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D68.022,D68022,"Von Willebrand disease, type 2M","Von Willebrand disease, type 2M",37402347,"Von Willebrand disease, type 2M",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D68.023,D68023,"Von Willebrand disease, type 2N","Von Willebrand disease, type 2N",37402348,"Von Willebrand disease, type 2N",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D68.029,D68029,"Von Willebrand disease, type 2, unspecified","Von Willebrand disease, type 2, unspecified",37402349,"Von Willebrand disease, type 2, unspecified",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D68.03,D6803,"Von Willebrand disease, type 3","Von Willebrand disease, type 3",37402350,"Von Willebrand disease, type 3",Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D68.04,D6804,Acquired von Willebrand disease,Acquired von Willebrand disease,37402351,Acquired von Willebrand disease,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D68.09,D6809,Other von Willebrand disease,Other von Willebrand disease,37402352,Other von Willebrand disease,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D68.1,D681,Hereditary factor XI deficiency,Hereditary factor XI deficiency,35206762,Hereditary factor XI deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D68.2,D682,Hereditary deficiency of other clotting factors,Hereditary deficiency of other clotting factors,35206763,Hereditary deficiency of other clotting factors,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D68.3,NA,NA,NA,1567860,Hemorrhagic disorder due to circulating anticoagulants,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D68.31,NA,NA,NA,45552359,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD10CM,5-char nonbill code,1/1/1970,12/31/2099,FALSE
+D68.311,D68311,Acquired hemophilia,Acquired hemophilia,45605379,Acquired hemophilia,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099,FALSE
+D68.312,D68312,Antiphospholipid antibody with hemorrhagic disorder,Antiphospholipid antibody with hemorrhagic disorder,45557090,Antiphospholipid antibody with hemorrhagic disorder,Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099,FALSE
+D68.318,D68318,"Oth hemorrhagic disord d/t intrns circ anticoag,antib,inhib","Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",45576410,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",Condition,ICD10CM,6-char billing code,12/30/2006,12/31/2099,FALSE
+D68.32,D6832,Hemorrhagic disord d/t extrinsic circulating anticoagulants,Hemorrhagic disorder due to extrinsic circulating anticoagulants,45561928,Hemorrhagic disorder due to extrinsic circulating anticoagulants,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.4,D684,Acquired coagulation factor deficiency,Acquired coagulation factor deficiency,35206764,Acquired coagulation factor deficiency,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D68.5,NA,NA,NA,1567861,Primary thrombophilia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D68.51,D6851,Activated protein C resistance,Activated protein C resistance,45537927,Activated protein C resistance,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.52,D6852,Prothrombin gene mutation,Prothrombin gene mutation,45561929,Prothrombin gene mutation,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.59,D6859,Other primary thrombophilia,Other primary thrombophilia,45571638,Other primary thrombophilia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.6,NA,NA,NA,1567862,Other thrombophilia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D68.61,D6861,Antiphospholipid syndrome,Antiphospholipid syndrome,45552361,Antiphospholipid syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.62,D6862,Lupus anticoagulant syndrome,Lupus anticoagulant syndrome,45595772,Lupus anticoagulant syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.69,D6869,Other thrombophilia,Other thrombophilia,45571639,Other thrombophilia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D68.8,D688,Other specified coagulation defects,Other specified coagulation defects,35206765,Other specified coagulation defects,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D68.9,D689,"Coagulation defect, unspecified","Coagulation defect, unspecified",35206766,"Coagulation defect, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69,NA,NA,NA,1567863,Purpura and other hemorrhagic conditions,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D69.0,D690,Allergic purpura,Allergic purpura,35206767,Allergic purpura,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69.1,D691,Qualitative platelet defects,Qualitative platelet defects,35206768,Qualitative platelet defects,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69.2,D692,Other nonthrombocytopenic purpura,Other nonthrombocytopenic purpura,35206769,Other nonthrombocytopenic purpura,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69.3,D693,Immune thrombocytopenic purpura,Immune thrombocytopenic purpura,35206770,Immune thrombocytopenic purpura,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69.4,NA,NA,NA,1567864,Other primary thrombocytopenia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D69.41,D6941,Evans syndrome,Evans syndrome,45557091,Evans syndrome,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D69.42,D6942,Congenital and hereditary thrombocytopenia purpura,Congenital and hereditary thrombocytopenia purpura,45571640,Congenital and hereditary thrombocytopenia purpura,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D69.49,D6949,Other primary thrombocytopenia,Other primary thrombocytopenia,45542714,Other primary thrombocytopenia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D69.5,NA,NA,NA,35206771,Secondary thrombocytopenia,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D69.51,D6951,Posttransfusion purpura,Posttransfusion purpura,45586120,Posttransfusion purpura,Condition,ICD10CM,5-char billing code,12/30/2006,12/31/2099,FALSE
+D69.59,D6959,Other secondary thrombocytopenia,Other secondary thrombocytopenia,45576412,Other secondary thrombocytopenia,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D69.6,D696,"Thrombocytopenia, unspecified","Thrombocytopenia, unspecified",35206772,"Thrombocytopenia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69.8,D698,Other specified hemorrhagic conditions,Other specified hemorrhagic conditions,35206773,Other specified hemorrhagic conditions,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D69.9,D699,"Hemorrhagic condition, unspecified","Hemorrhagic condition, unspecified",35206774,"Hemorrhagic condition, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D70,NA,NA,NA,1567865,Neutropenia,Measurement,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,TRUE
+D70.0,D700,Congenital agranulocytosis,Congenital agranulocytosis,45532997,Congenital agranulocytosis,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D70.1,D701,Agranulocytosis secondary to cancer chemotherapy,Agranulocytosis secondary to cancer chemotherapy,45537931,Agranulocytosis secondary to cancer chemotherapy,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D70.2,D702,Other drug-induced agranulocytosis,Other drug-induced agranulocytosis,45581328,Other drug-induced agranulocytosis,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D70.3,D703,Neutropenia due to infection,Neutropenia due to infection,45552363,Neutropenia due to infection,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D70.4,D704,Cyclic neutropenia,Cyclic neutropenia,45557093,Cyclic neutropenia,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D70.8,D708,Other neutropenia,Other neutropenia,45547611,Other neutropenia,Measurement,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D70.9,D709,"Neutropenia, unspecified","Neutropenia, unspecified",45557094,"Neutropenia, unspecified",Measurement,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D71,NA,NA,NA,35206775,Functional disorders of polymorphonuclear neutrophils,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE
+D72,NA,NA,NA,1567866,Other disorders of white blood cells,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D72.0,D720,Genetic anomalies of leukocytes,Genetic anomalies of leukocytes,35206776,Genetic anomalies of leukocytes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D72.1,D721,Eosinophilia,Eosinophilia,35206777,Eosinophilia,Measurement,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+D72.10,D7210,"Eosinophilia, unspecified","Eosinophilia, unspecified",725243,"Eosinophilia, unspecified",Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D72.11,NA,NA,NA,725244,Hypereosinophilic syndrome [HES],Condition,ICD10CM,5-char nonbill code,1/1/2021,12/31/2099,FALSE
+D72.110,D72110,Idiopathic hypereosinophilic syndrome [IHES],Idiopathic hypereosinophilic syndrome [IHES],725245,Idiopathic hypereosinophilic syndrome [IHES],Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D72.111,D72111,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],Lymphocytic Variant Hypereosinophilic Syndrome [LHES],725246,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D72.118,D72118,Other hypereosinophilic syndrome,Other hypereosinophilic syndrome,725247,Other hypereosinophilic syndrome,Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D72.119,D72119,"Hypereosinophilic syndrome [HES], unspecified","Hypereosinophilic syndrome [HES], unspecified",725248,"Hypereosinophilic syndrome [HES], unspecified",Condition,ICD10CM,6-char billing code,1/1/2021,12/31/2099,FALSE
+D72.12,D7212,Drug rash with eosinophilia and systemic symptoms syndrome,Drug rash with eosinophilia and systemic symptoms syndrome,725249,Drug rash with eosinophilia and systemic symptoms syndrome,Condition,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D72.18,D7218,Eosinophilia in diseases classified elsewhere,Eosinophilia in diseases classified elsewhere,725250,Eosinophilia in diseases classified elsewhere,Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D72.19,D7219,Other eosinophilia,Other eosinophilia,725251,Other eosinophilia,Measurement,ICD10CM,5-char billing code,1/1/2021,12/31/2099,FALSE
+D72.8,NA,NA,NA,1567867,Other specified disorders of white blood cells,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D72.81,NA,NA,NA,1567868,Decreased white blood cell count,Measurement,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099,FALSE
+D72.810,D72810,Lymphocytopenia,Lymphocytopenia,45552365,Lymphocytopenia,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.818,D72818,Other decreased white blood cell count,Other decreased white blood cell count,45576413,Other decreased white blood cell count,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.819,D72819,"Decreased white blood cell count, unspecified","Decreased white blood cell count, unspecified",45566711,"Decreased white blood cell count, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.82,NA,NA,NA,1567869,Elevated white blood cell count,Measurement,ICD10CM,5-char nonbill code,1/1/2012,12/31/2099,FALSE
+D72.820,D72820,Lymphocytosis (symptomatic),Lymphocytosis (symptomatic),45605380,Lymphocytosis (symptomatic),Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.821,D72821,Monocytosis (symptomatic),Monocytosis (symptomatic),45595774,Monocytosis (symptomatic),Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.822,D72822,Plasmacytosis,Plasmacytosis,45581329,Plasmacytosis,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.823,D72823,Leukemoid reaction,Leukemoid reaction,45547612,Leukemoid reaction,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.824,D72824,Basophilia,Basophilia,45537932,Basophilia,Measurement,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.825,D72825,Bandemia,Bandemia,45557095,Bandemia,Measurement,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.828,D72828,Other elevated white blood cell count,Other elevated white blood cell count,45542715,Other elevated white blood cell count,Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.829,D72829,"Elevated white blood cell count, unspecified","Elevated white blood cell count, unspecified",45537933,"Elevated white blood cell count, unspecified",Condition,ICD10CM,6-char billing code,1/1/1970,12/31/2099,FALSE
+D72.89,D7289,Other specified disorders of white blood cells,Other specified disorders of white blood cells,45542716,Other specified disorders of white blood cells,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D72.9,D729,"Disorder of white blood cells, unspecified","Disorder of white blood cells, unspecified",35206778,"Disorder of white blood cells, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73,NA,NA,NA,1567870,Diseases of spleen,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D73.0,D730,Hyposplenism,Hyposplenism,35206779,Hyposplenism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73.1,D731,Hypersplenism,Hypersplenism,35206780,Hypersplenism,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73.2,D732,Chronic congestive splenomegaly,Chronic congestive splenomegaly,35206781,Chronic congestive splenomegaly,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73.3,D733,Abscess of spleen,Abscess of spleen,35206782,Abscess of spleen,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73.4,D734,Cyst of spleen,Cyst of spleen,35206783,Cyst of spleen,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73.5,D735,Infarction of spleen,Infarction of spleen,35206784,Infarction of spleen,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D73.8,NA,NA,NA,1567871,Other diseases of spleen,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D73.81,D7381,Neutropenic splenomegaly,Neutropenic splenomegaly,45576415,Neutropenic splenomegaly,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D73.89,D7389,Other diseases of spleen,Other diseases of spleen,45586122,Other diseases of spleen,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D73.9,D739,"Disease of spleen, unspecified","Disease of spleen, unspecified",35206785,"Disease of spleen, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D74,NA,NA,NA,1567872,Methemoglobinemia,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D74.0,D740,Congenital methemoglobinemia,Congenital methemoglobinemia,35206786,Congenital methemoglobinemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D74.8,D748,Other methemoglobinemias,Other methemoglobinemias,35206787,Other methemoglobinemias,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D74.9,D749,"Methemoglobinemia, unspecified","Methemoglobinemia, unspecified",35206788,"Methemoglobinemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D75,NA,NA,NA,1567873,Other and unspecified diseases of blood and blood-forming organs,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D75.0,D750,Familial erythrocytosis,Familial erythrocytosis,35206789,Familial erythrocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D75.1,D751,Secondary polycythemia,Secondary polycythemia,35206790,Secondary polycythemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D75.2,NA,NA,NA,35206791,Essential thrombocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2009,FALSE
+D75.8,NA,NA,NA,1567874,Other specified diseases of blood and blood-forming organs,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+D75.81,D7581,Myelofibrosis,Myelofibrosis,45605385,Myelofibrosis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+D75.82,D7582,Heparin induced thrombocytopenia (HIT),Heparin induced thrombocytopenia (HIT),45537936,Heparin induced thrombocytopenia (HIT),Condition,ICD10CM,5-char nonbill code,1/1/1970,12/31/2099,FALSE
+D75.821,D75821,Non-immune heparin-induced thrombocytopenia,Non-immune heparin-induced thrombocytopenia,37402353,Non-immune heparin-induced thrombocytopenia,Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D75.822,D75822,Immune-mediated heparin-induced thrombocytopenia,Immune-mediated heparin-induced thrombocytopenia,37402354,Immune-mediated heparin-induced thrombocytopenia,Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D75.828,D75828,Other heparin-induced thrombocytopenia syndrome,Other heparin-induced thrombocytopenia syndrome,37402355,Other heparin-induced thrombocytopenia syndrome,Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D75.829,D75829,"Heparin-induced thrombocytopenia, unspecified","Heparin-induced thrombocytopenia, unspecified",37402356,"Heparin-induced thrombocytopenia, unspecified",Condition,ICD10CM,6-char billing code,10/1/2022,12/31/2099,FALSE
+D75.83,NA,NA,NA,766344,Thrombocytosis,Condition,ICD10CM,5-char nonbill code,10/1/2021,12/31/2099,FALSE
+D75.838,D75838,Other thrombocytosis,Other thrombocytosis,766345,Other thrombocytosis,Condition,ICD10CM,6-char billing code,10/1/2021,12/31/2099,FALSE
+D75.839,D75839,"Thrombocytosis, unspecified","Thrombocytosis, unspecified",766346,"Thrombocytosis, unspecified",Condition,ICD10CM,6-char billing code,10/1/2021,12/31/2099,FALSE
+D75.84,D7584,Other platelet-activating anti-PF4 disorders,Other platelet-activating anti-PF4 disorders,37402357,Other platelet-activating anti-PF4 disorders,Condition,ICD10CM,5-char billing code,10/1/2022,12/31/2099,FALSE
+D75.89,D7589,Other specified diseases of blood and blood-forming organs,Other specified diseases of blood and blood-forming organs,45542717,Other specified diseases of blood and blood-forming organs,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+D75.9,D759,"Disease of blood and blood-forming organs, unspecified","Disease of blood and blood-forming organs, unspecified",35206792,"Disease of blood and blood-forming organs, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D75.A,D75A,Glucose-6-phosphate dehydrgnse (G6PD) defic without anemia,Glucose-6-phosphate dehydrgnse (G6PD) defic without anemia,1553744,Glucose-6-phosphate dehydrogenase (G6PD) deficiency without anemia,Condition,ICD10CM,4-char billing code,1/1/2020,12/31/2099,FALSE
+D76,NA,NA,NA,1567875,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+D76.0,NA,NA,NA,35206793,"Langerhans' cell histiocytosis, not elsewhere classified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2009,FALSE
+D76.1,D761,Hemophagocytic lymphohistiocytosis,Hemophagocytic lymphohistiocytosis,35206794,Hemophagocytic lymphohistiocytosis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D76.2,D762,"Hemophagocytic syndrome, infection-associated","Hemophagocytic syndrome, infection-associated",35206795,"Hemophagocytic syndrome, infection-associated",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D76.3,D763,Other histiocytosis syndromes,Other histiocytosis syndromes,35206796,Other histiocytosis syndromes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+D77,NA,NA,NA,35206797,Other disorders of blood and blood-forming organs in diseases classified elsewhere,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE

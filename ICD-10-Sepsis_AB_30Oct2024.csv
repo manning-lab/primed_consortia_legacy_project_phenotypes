@@ -1,0 +1,46 @@
+CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+A02.1,A021,Salmonella sepsis,Salmonella sepsis,35205404,Salmonella sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A22.7,A227,Anthrax sepsis,Anthrax sepsis,35205487,Anthrax sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A26.7,A267,Erysipelothrix sepsis,Erysipelothrix sepsis,35205504,Erysipelothrix sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A32.7,A327,Listerial sepsis,Listerial sepsis,35205527,Listerial sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A40,NA,NA,NA,1567285,Streptococcal sepsis,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+A40.0,A400,"Sepsis due to streptococcus, group A","Sepsis due to streptococcus, group A",35205543,"Sepsis due to streptococcus, group A",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A40.1,A401,"Sepsis due to streptococcus, group B","Sepsis due to streptococcus, group B",35205544,"Sepsis due to streptococcus, group B",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A40.3,A403,Sepsis due to Streptococcus pneumoniae,Sepsis due to Streptococcus pneumoniae,35205545,Sepsis due to Streptococcus pneumoniae,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A40.8,A408,Other streptococcal sepsis,Other streptococcal sepsis,35205546,Other streptococcal sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A40.9,A409,"Streptococcal sepsis, unspecified","Streptococcal sepsis, unspecified",35205547,"Streptococcal sepsis, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A41,NA,NA,NA,1567286,Other sepsis,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,FALSE
+A41.0,NA,NA,NA,35205548,Sepsis due to Staphylococcus aureus,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,FALSE
+A41.01,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus,Sepsis due to Methicillin susceptible Staphylococcus aureus,45532833,Sepsis due to Methicillin susceptible Staphylococcus aureus,Condition,ICD10CM,5-char billing code,12/30/2006,12/31/2099,FALSE
+A41.02,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,Sepsis due to Methicillin resistant Staphylococcus aureus,45581112,Sepsis due to Methicillin resistant Staphylococcus aureus,Condition,ICD10CM,5-char billing code,12/30/2006,12/31/2099,FALSE
+A41.1,A411,Sepsis due to other specified staphylococcus,Sepsis due to other specified staphylococcus,35205549,Sepsis due to other specified staphylococcus,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A41.2,A412,Sepsis due to unspecified staphylococcus,Sepsis due to unspecified staphylococcus,35205550,Sepsis due to unspecified staphylococcus,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A41.3,A413,Sepsis due to Hemophilus influenzae,Sepsis due to Hemophilus influenzae,35205551,Sepsis due to Hemophilus influenzae,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A41.4,A414,Sepsis due to anaerobes,Sepsis due to anaerobes,35205552,Sepsis due to anaerobes,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A41.5,NA,NA,NA,1567287,Sepsis due to other Gram-negative organisms,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+A41.50,A4150,"Gram-negative sepsis, unspecified","Gram-negative sepsis, unspecified",45537722,"Gram-negative sepsis, unspecified",Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+A41.51,A4151,Sepsis due to Escherichia coli [E. coli],Sepsis due to Escherichia coli [E. coli],45552179,Sepsis due to Escherichia coli [E. coli],Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+A41.52,A4152,Sepsis due to Pseudomonas,Sepsis due to Pseudomonas,45595586,Sepsis due to Pseudomonas,Condition,ICD10CM,5-char billing code,7/1/2014,12/31/2099,FALSE
+A41.53,A4153,Sepsis due to Serratia,Sepsis due to Serratia,45571428,Sepsis due to Serratia,Condition,ICD10CM,5-char billing code,7/1/2014,12/31/2099,FALSE
+A41.54,A4154,Sepsis due to Acinetobacter baumannii,Sepsis due to Acinetobacter baumannii,785880,Sepsis due to Acinetobacter baumannii,Condition,ICD10CM,5-char billing code,10/1/2023,12/31/2099,FALSE
+A41.59,A4159,Other Gram-negative sepsis,Other Gram-negative sepsis,45566504,Other Gram-negative sepsis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+A41.8,NA,NA,NA,1567288,Other specified sepsis,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+A41.81,A4181,Sepsis due to Enterococcus,Sepsis due to Enterococcus,45552180,Sepsis due to Enterococcus,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+A41.89,A4189,Other specified sepsis,Other specified sepsis,45537723,Other specified sepsis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+A41.9,A419,"Sepsis, unspecified organism","Sepsis, unspecified organism",35205553,"Sepsis, unspecified organism",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A42.7,A427,Actinomycotic sepsis,Actinomycotic sepsis,35205557,Actinomycotic sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+A54.86,A5486,Gonococcal sepsis,Gonococcal sepsis,45547419,Gonococcal sepsis,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+B37.7,B377,Candidal sepsis,Candidal sepsis,35205826,Candidal sepsis,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,FALSE
+O85,NA,NA,NA,35210364,Puerperal sepsis,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,FALSE
+O86.04,O8604,Sepsis following an obstetrical procedure,Sepsis following an obstetrical procedure,1595656,Sepsis following an obstetrical procedure,Condition,ICD10CM,5-char billing code,1/1/2019,12/31/2099,FALSE
+R65.2,NA,NA,NA,1572267,Severe sepsis,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,FALSE
+R65.20,R6520,Severe sepsis without septic shock,Severe sepsis without septic shock,45548977,Severe sepsis without septic shock,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+R65.21,R6521,Severe sepsis with septic shock,Severe sepsis with septic shock,45577803,Severe sepsis with septic shock,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,FALSE
+T81.12,NA,NA,NA,19325,Postprocedural septic shock,Condition,ICD10CM,5-char nonbill code,1/1/2014,12/31/2099,FALSE
+T81.12XA,T8112XA,"Postprocedural septic shock, initial encounter","Postprocedural septic shock, initial encounter",45590049,"Postprocedural septic shock, initial encounter",Condition,ICD10CM,7-char billing code,12/30/2006,12/31/2099,FALSE
+T81.12XD,T8112XD,"Postprocedural septic shock, subsequent encounter","Postprocedural septic shock, subsequent encounter",45561017,"Postprocedural septic shock, subsequent encounter",Condition,ICD10CM,7-char billing code,12/30/2006,12/31/2099,FALSE
+T81.12XS,T8112XS,"Postprocedural septic shock, sequela","Postprocedural septic shock, sequela",45561018,"Postprocedural septic shock, sequela",Condition,ICD10CM,7-char billing code,12/30/2006,12/31/2099,FALSE
+T81.44,NA,NA,NA,1595771,Sepsis following a procedure,Condition,ICD10CM,5-char nonbill code,1/1/2019,12/31/2099,FALSE
+T81.44XA,T8144XA,"Sepsis following a procedure, initial encounter","Sepsis following a procedure, initial encounter",1595772,"Sepsis following a procedure, initial encounter",Condition,ICD10CM,7-char billing code,1/1/2019,12/31/2099,FALSE
+T81.44XD,T8144XD,"Sepsis following a procedure, subsequent encounter","Sepsis following a procedure, subsequent encounter",1595773,"Sepsis following a procedure, subsequent encounter",Condition,ICD10CM,7-char billing code,1/1/2019,12/31/2099,FALSE
+T81.44XS,T8144XS,"Sepsis following a procedure, sequela","Sepsis following a procedure, sequela",1595774,"Sepsis following a procedure, sequela",Condition,ICD10CM,7-char billing code,1/1/2019,12/31/2099,FALSE

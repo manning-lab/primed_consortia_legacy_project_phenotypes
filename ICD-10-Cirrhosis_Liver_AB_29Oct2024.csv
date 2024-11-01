@@ -1,0 +1,8 @@
+CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+K70.3,NA,NA,NA,1569671,Alcoholic cirrhosis of liver,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+K70.30,K7030,Alcoholic cirrhosis of liver without ascites,Alcoholic cirrhosis of liver without ascites,45605952,Alcoholic cirrhosis of liver without ascites,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+K70.31,K7031,Alcoholic cirrhosis of liver with ascites,Alcoholic cirrhosis of liver with ascites,45538545,Alcoholic cirrhosis of liver with ascites,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+K74.6,NA,NA,NA,1569682,Other and unspecified cirrhosis of liver,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+K74.60,K7460,Unspecified cirrhosis of liver,Unspecified cirrhosis of liver,45601187,Unspecified cirrhosis of liver,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+K74.69,K7469,Other cirrhosis of liver,Other cirrhosis of liver,45581912,Other cirrhosis of liver,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+P78.81,P7881,Congenital cirrhosis (of liver),Congenital cirrhosis (of liver),45539251,Congenital cirrhosis (of liver),Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE

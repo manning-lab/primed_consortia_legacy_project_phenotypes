@@ -1,28 +1,28 @@
-"DX_CODE_2","CODE","LONG_DESCRIPTION","SHORT_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
-"288",NA,NA,NA,44832216,"Diseases of white blood cells","Condition","ICD9CM","3-dig nonbill code","1970-01-01","2099-12-31"
-"288.0",NA,NA,NA,44833395,"Neutropenia","Measurement","ICD9CM","4-dig nonbill code","1970-01-01","2099-12-31"
-"288.00","28800","Neutropenia, unspecified","Neutropenia NOS",44824103,"Neutropenia, unspecified","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.01","28801","Congenital neutropenia","Congenital neutropenia",44833396,"Congenital neutropenia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.02","28802","Cyclic neutropenia","Cyclic neutropenia",44822961,"Cyclic neutropenia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.03","28803","Drug induced neutropenia","Drug induced neutropenia",44827639,"Drug induced neutropenia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.04","28804","Neutropenia due to infection","Neutropenia d/t infectn",44820704,"Neutropenia due to infection","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.09","28809","Other neutropenia","Neutropenia NEC",44826485,"Other neutropenia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.1","2881","Functional disorders of polymorphonuclear neutrophils","Function dis neutrophils",44819533,"Functional disorders of polymorphonuclear neutrophils","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
-"288.2","2882","Genetic anomalies of leukocytes","Genetic anomaly leukocyt",44831072,"Genetic anomalies of leukocytes","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
-"288.3","2883","Eosinophilia","Eosinophilia",44828821,"Eosinophilia","Measurement","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
-"288.4","2884","Hemophagocytic syndromes","Hemophagocytic syndromes",44825285,"Hemophagocytic syndromes","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
-"288.5",NA,NA,NA,44836949,"Decreased white blood cell count","Condition","ICD9CM","4-dig nonbill code","1970-01-01","2099-12-31"
-"288.50","28850","Leukocytopenia, unspecified","Leukocytopenia NOS",44829911,"Leukocytopenia, unspecified","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.51","28851","Lymphocytopenia","Lymphocytopenia",44835771,"Lymphocytopenia","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.59","28859","Other decreased white blood cell count","Decreased WBC count NEC",44828822,"Other decreased white blood cell count","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.6",NA,NA,NA,44836950,"Elevated white blood cell count","Condition","ICD9CM","4-dig nonbill code","1970-01-01","2099-12-31"
-"288.60","28860","Leukocytosis, unspecified","Leukocytosis NOS",44822962,"Leukocytosis, unspecified","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.61","28861","Lymphocytosis (symptomatic)","Lymphocytosis-symptomatc",44822963,"Lymphocytosis (symptomatic)","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.62","28862","Leukemoid reaction","Leukemoid reaction",44834577,"Leukemoid reaction","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.63","28863","Monocytosis (symptomatic)","Monocytosis-symptomatic",44829912,"Monocytosis (symptomatic)","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.64","28864","Plasmacytosis","Plasmacytosis",44834578,"Plasmacytosis","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.65","28865","Basophilia","Basophilia",44831073,"Basophilia","Measurement","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.66","28866","Bandemia","Bandemia",44822964,"Bandemia","Measurement","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.69","28869","Other elevated white blood cell count","Elevated WBC count NEC",44826486,"Other elevated white blood cell count","Condition","ICD9CM","5-dig billing code","1970-01-01","2099-12-31"
-"288.8","2888","Other specified disease of white blood cells","Wbc disease NEC",44824104,"Other specified disease of white blood cells","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
-"288.9","2889","Unspecified disease of white blood cells","Wbc disease NOS",44828823,"Unspecified disease of white blood cells","Condition","ICD9CM","4-dig billing code","1970-01-01","2099-12-31"
+DX_CODE_2,CODE,LONG_DESCRIPTION,SHORT_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+288,NA,NA,NA,44832216,Diseases of white blood cells,Condition,ICD9CM,3-dig nonbill code,1/1/1970,12/31/2099,TRUE
+288,NA,NA,NA,44833395,Neutropenia,Measurement,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+288,28800,"Neutropenia, unspecified",Neutropenia NOS,44824103,"Neutropenia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.01,28801,Congenital neutropenia,Congenital neutropenia,44833396,Congenital neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.02,28802,Cyclic neutropenia,Cyclic neutropenia,44822961,Cyclic neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.03,28803,Drug induced neutropenia,Drug induced neutropenia,44827639,Drug induced neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.04,28804,Neutropenia due to infection,Neutropenia d/t infectn,44820704,Neutropenia due to infection,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.09,28809,Other neutropenia,Neutropenia NEC,44826485,Other neutropenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.1,2881,Functional disorders of polymorphonuclear neutrophils,Function dis neutrophils,44819533,Functional disorders of polymorphonuclear neutrophils,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+288.2,2882,Genetic anomalies of leukocytes,Genetic anomaly leukocyt,44831072,Genetic anomalies of leukocytes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+288.3,2883,Eosinophilia,Eosinophilia,44828821,Eosinophilia,Measurement,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+288.4,2884,Hemophagocytic syndromes,Hemophagocytic syndromes,44825285,Hemophagocytic syndromes,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+288.5,NA,NA,NA,44836949,Decreased white blood cell count,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+288.5,28850,"Leukocytopenia, unspecified",Leukocytopenia NOS,44829911,"Leukocytopenia, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.51,28851,Lymphocytopenia,Lymphocytopenia,44835771,Lymphocytopenia,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.59,28859,Other decreased white blood cell count,Decreased WBC count NEC,44828822,Other decreased white blood cell count,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.6,NA,NA,NA,44836950,Elevated white blood cell count,Condition,ICD9CM,4-dig nonbill code,1/1/1970,12/31/2099,TRUE
+288.6,28860,"Leukocytosis, unspecified",Leukocytosis NOS,44822962,"Leukocytosis, unspecified",Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.61,28861,Lymphocytosis (symptomatic),Lymphocytosis-symptomatc,44822963,Lymphocytosis (symptomatic),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.62,28862,Leukemoid reaction,Leukemoid reaction,44834577,Leukemoid reaction,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.63,28863,Monocytosis (symptomatic),Monocytosis-symptomatic,44829912,Monocytosis (symptomatic),Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.64,28864,Plasmacytosis,Plasmacytosis,44834578,Plasmacytosis,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.65,28865,Basophilia,Basophilia,44831073,Basophilia,Measurement,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.66,28866,Bandemia,Bandemia,44822964,Bandemia,Measurement,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.69,28869,Other elevated white blood cell count,Elevated WBC count NEC,44826486,Other elevated white blood cell count,Condition,ICD9CM,5-dig billing code,1/1/1970,12/31/2099,TRUE
+288.8,2888,Other specified disease of white blood cells,Wbc disease NEC,44824104,Other specified disease of white blood cells,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE
+288.9,2889,Unspecified disease of white blood cells,Wbc disease NOS,44828823,Unspecified disease of white blood cells,Condition,ICD9CM,4-dig billing code,1/1/1970,12/31/2099,TRUE

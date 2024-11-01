@@ -1,0 +1,52 @@
+CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+C90,NA,NA,NA,1567675,Multiple myeloma and malignant plasma cell neoplasms,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,TRUE
+C90.0,NA,NA,NA,1567676,Multiple myeloma,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+C90.00,C9000,Multiple myeloma not having achieved remission,Multiple myeloma not having achieved remission,45605329,Multiple myeloma not having achieved remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.01,C9001,Multiple myeloma in remission,Multiple myeloma in remission,45581251,Multiple myeloma in remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.02,C9002,Multiple myeloma in relapse,Multiple myeloma in relapse,45600563,Multiple myeloma in relapse,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.1,NA,NA,NA,1567677,Plasma cell leukemia,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+C90.10,C9010,Plasma cell leukemia not having achieved remission,Plasma cell leukemia not having achieved remission,45557038,Plasma cell leukemia not having achieved remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.11,C9011,Plasma cell leukemia in remission,Plasma cell leukemia in remission,45595716,Plasma cell leukemia in remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.12,C9012,Plasma cell leukemia in relapse,Plasma cell leukemia in relapse,45595717,Plasma cell leukemia in relapse,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.2,NA,NA,NA,1567678,Extramedullary plasmacytoma,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+C90.20,C9020,Extramedullary plasmacytoma not having achieved remission,Extramedullary plasmacytoma not having achieved remission,45542660,Extramedullary plasmacytoma not having achieved remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.21,C9021,Extramedullary plasmacytoma in remission,Extramedullary plasmacytoma in remission,45605330,Extramedullary plasmacytoma in remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.22,C9022,Extramedullary plasmacytoma in relapse,Extramedullary plasmacytoma in relapse,45586060,Extramedullary plasmacytoma in relapse,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.3,NA,NA,NA,1567679,Solitary plasmacytoma,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+C90.30,C9030,Solitary plasmacytoma not having achieved remission,Solitary plasmacytoma not having achieved remission,45537872,Solitary plasmacytoma not having achieved remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.31,C9031,Solitary plasmacytoma in remission,Solitary plasmacytoma in remission,45590963,Solitary plasmacytoma in remission,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+C90.32,C9032,Solitary plasmacytoma in relapse,Solitary plasmacytoma in relapse,45571567,Solitary plasmacytoma in relapse,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+D45,NA,NA,NA,35206666,Polycythemia vera,Condition,ICD10CM,3-char billing code,1/1/2007,12/31/2099,TRUE
+D46,NA,NA,NA,1567831,Myelodysplastic syndromes,Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,TRUE
+D46.0,D460,"Refractory anemia without ring sideroblasts, so stated","Refractory anemia without ring sideroblasts, so stated",35206667,"Refractory anemia without ring sideroblasts, so stated",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D46.1,D461,Refractory anemia with ring sideroblasts,Refractory anemia with ring sideroblasts,35206668,Refractory anemia with ring sideroblasts,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D46.2,NA,NA,NA,1567832,Refractory anemia with excess of blasts [RAEB],Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+D46.20,D4620,"Refractory anemia with excess of blasts, unspecified","Refractory anemia with excess of blasts, unspecified",45591007,"Refractory anemia with excess of blasts, unspecified",Condition,ICD10CM,5-char billing code,7/1/2014,12/31/2099,TRUE
+D46.21,D4621,Refractory anemia with excess of blasts 1,Refractory anemia with excess of blasts 1,45557082,Refractory anemia with excess of blasts 1,Condition,ICD10CM,5-char billing code,7/1/2014,12/31/2099,TRUE
+D46.22,D4622,Refractory anemia with excess of blasts 2,Refractory anemia with excess of blasts 2,45591008,Refractory anemia with excess of blasts 2,Condition,ICD10CM,5-char billing code,7/1/2014,12/31/2099,TRUE
+D46.3,NA,NA,NA,35206669,Refractory anemia with excess blasts in transformation,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2009,TRUE
+D46.4,D464,"Refractory anemia, unspecified","Refractory anemia, unspecified",35206670,"Refractory anemia, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D46.71,NA,NA,NA,35206671,Refractory cytopenia with multilineage dysplasia,Condition,ICD10CM,5-char billing code,1/1/2007,12/31/2009,TRUE
+D46.72,NA,NA,NA,35206672,Refractory cytopenia with multilineage dysplasia and ringed sideroblasts,Condition,ICD10CM,5-char billing code,1/1/2007,12/31/2009,TRUE
+D46.73,NA,NA,NA,35206673,Myelodysplastic syndrome with 5q deletion,Condition,ICD10CM,5-char billing code,1/1/2007,12/31/2009,TRUE
+D46.79,NA,NA,NA,35206674,Other myelodysplastic syndromes,Condition,ICD10CM,5-char billing code,1/1/2007,12/31/2009,TRUE
+D46.9,D469,"Myelodysplastic syndrome, unspecified","Myelodysplastic syndrome, unspecified",35206675,"Myelodysplastic syndrome, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D46.A,D46A,Refractory cytopenia with multilineage dysplasia,Refractory cytopenia with multilineage dysplasia,45566692,Refractory cytopenia with multilineage dysplasia,Condition,ICD10CM,4-char billing code,12/30/2006,12/31/2099,TRUE
+D46.B,D46B,Refract cytopenia w multilin dysplasia and ring sideroblasts,Refractory cytopenia with multilineage dysplasia and ring sideroblasts,45586110,Refractory cytopenia with multilineage dysplasia and ring sideroblasts,Condition,ICD10CM,4-char billing code,12/30/2006,12/31/2099,TRUE
+D46.C,D46C,Myelodysplastic syndrome w isolated del(5q) chromsoml abnlt,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality,45537913,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D46.Z,D46Z,Other myelodysplastic syndromes,Other myelodysplastic syndromes,45547603,Other myelodysplastic syndromes,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D47,NA,NA,NA,1567833,"Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",Condition,ICD10CM,3-char nonbill code,1/1/2012,12/31/2099,TRUE
+D47.0,D470,Histiocytic and mast cell tumors of uncertain behavior,Histiocytic and mast cell tumors of uncertain behavior,35206676,Mast cell neoplasms of uncertain behavior,Condition,ICD10CM,4-char nonbill code,1/1/2007,12/31/2099,TRUE
+D47.01,D4701,Cutaneous mastocytosis,Cutaneous mastocytosis,1326488,Cutaneous mastocytosis,Condition,ICD10CM,5-char billing code,1/1/2018,12/31/2099,TRUE
+D47.02,D4702,Systemic mastocytosis,Systemic mastocytosis,1326489,Systemic mastocytosis,Condition,ICD10CM,5-char billing code,1/1/2018,12/31/2099,TRUE
+D47.09,D4709,Other mast cell neoplasms of uncertain behavior,Other mast cell neoplasms of uncertain behavior,1326490,Other mast cell neoplasms of uncertain behavior,Condition,ICD10CM,5-char billing code,1/1/2018,12/31/2099,TRUE
+D47.1,D471,Chronic myeloproliferative disease,Chronic myeloproliferative disease,35206677,Chronic myeloproliferative disease,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D47.2,D472,Monoclonal gammopathy,Monoclonal gammopathy,35206678,Monoclonal gammopathy,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D47.3,D473,Essential (hemorrhagic) thrombocythemia,Essential (hemorrhagic) thrombocythemia,35206679,Essential (hemorrhagic) thrombocythemia,Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D47.4,D474,Osteomyelofibrosis,Osteomyelofibrosis,45595763,Osteomyelofibrosis,Condition,ICD10CM,4-char billing code,1/1/1970,12/31/2099,TRUE
+D47.7,NA,NA,NA,35206680,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2009,TRUE
+D47.9,D479,"Neoplm of uncrt behav of lymphoid,hematpoetc & rel tiss,unsp","Neoplasm of uncertain behavior of lymphoid, hematopoietic and related tissue, unspecified",35206681,"Neoplasm of uncertain behavior of lymphoid, hematopoietic and related tissue, unspecified",Condition,ICD10CM,4-char billing code,1/1/2007,12/31/2099,TRUE
+D47.Z,NA,NA,NA,1567834,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+D47.Z1,D47Z1,Post-transplant lymphoproliferative disorder (PTLD),Post-transplant lymphoproliferative disorder (PTLD),45542704,Post-transplant lymphoproliferative disorder (PTLD),Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+D47.Z2,D47Z2,Castleman disease,Castleman disease,37200010,Castleman disease,Condition,ICD10CM,5-char billing code,1/1/2017,12/31/2099,TRUE
+D47.Z9,D47Z9,"Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss","Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",45552354,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE

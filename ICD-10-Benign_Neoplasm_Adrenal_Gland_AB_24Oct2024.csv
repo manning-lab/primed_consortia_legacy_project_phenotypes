@@ -1,5 +1,5 @@
-"DX_CODE_2","CODE","SHORT_DESCRIPTION","LONG_DESCRIPTION","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCABULARY_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
-"D35.0",NA,NA,NA,1567807,"Benign neoplasm of adrenal gland","Condition","ICD10CM","4-char nonbill code","2012-01-01","2099-12-31"
-"D35.00","D3500","Benign neoplasm of unspecified adrenal gland","Benign neoplasm of unspecified adrenal gland",45591000,"Benign neoplasm of unspecified adrenal gland","Condition","ICD10CM","5-char billing code","1970-01-01","2099-12-31"
-"D35.01","D3501","Benign neoplasm of right adrenal gland","Benign neoplasm of right adrenal gland",45586098,"Benign neoplasm of right adrenal gland","Condition","ICD10CM","5-char billing code","1970-01-01","2099-12-31"
-"D35.02","D3502","Benign neoplasm of left adrenal gland","Benign neoplasm of left adrenal gland",45552346,"Benign neoplasm of left adrenal gland","Condition","ICD10CM","5-char billing code","1970-01-01","2099-12-31"
+DX_CODE_2,CODE,SHORT_DESCRIPTION,LONG_DESCRIPTION,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCABULARY_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE,PREV_DOC_FLAG
+D35.0,NA,NA,NA,1567807,Benign neoplasm of adrenal gland,Condition,ICD10CM,4-char nonbill code,1/1/2012,12/31/2099,TRUE
+D35.00,D3500,Benign neoplasm of unspecified adrenal gland,Benign neoplasm of unspecified adrenal gland,45591000,Benign neoplasm of unspecified adrenal gland,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+D35.01,D3501,Benign neoplasm of right adrenal gland,Benign neoplasm of right adrenal gland,45586098,Benign neoplasm of right adrenal gland,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
+D35.02,D3502,Benign neoplasm of left adrenal gland,Benign neoplasm of left adrenal gland,45552346,Benign neoplasm of left adrenal gland,Condition,ICD10CM,5-char billing code,1/1/1970,12/31/2099,TRUE
