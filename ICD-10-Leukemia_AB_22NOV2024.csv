@@ -1,0 +1,46 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"C91.2",45755348,"Subacute lymphocytic leukemia","Observation","ICD10","ICD10 code",19900501,20091231
+"C93.2",45755350,"Subacute monocytic leukemia","Condition","ICD10","ICD10 code",19900501,20091231
+"C94.1",45755352,"Chronic erythremia","Observation","ICD10","ICD10 code",19900501,20091231
+"C94.5",45586071,"Acute myelofibrosis","Condition","ICD10","ICD10 code",19900501,20091231
+"C95.2",45755329,"Subacute leukemia of unspecified cell type","Condition","ICD10","ICD10 code",19900501,20091231
+"C96.1",45537881,"Malignant histiocytosis","Condition","ICD10","ICD10 code",19900501,20091231
+"C96.3",45755330,"True histiocytic lymphoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C91.8",45755349,"Mature B-cell leukaemia Burkitt-type","Condition","ICD10","ICD10 code",20100101,20991231
+"C92",45571570,"Myeloid leukaemia","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C92.3",45537876,"Myeloid sarcoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C91",45586062,"Lymphoid leukaemia","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C91.0",45537873,"Acute lymphoblastic leukaemia [ALL]","Condition","ICD10","ICD10 code",19900501,20991231
+"C91.1",45600564,"Chronic lymphocytic leukaemia of B-cell type","Condition","ICD10","ICD10 code",19900501,20991231
+"C91.3",45542661,"Prolymphocytic leukaemia of B-cell type","Condition","ICD10","ICD10 code",19900501,20991231
+"C91.4",45557041,"Hairy-cell leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C91.5",45552312,"Adult T-cell lymphoma/leukaemia [HTLV-1-associated]","Condition","ICD10","ICD10 code",19900501,20991231
+"C91.6",45581254,"Prolymphocytic leukaemia of T-cell type","Condition","ICD10","ICD10 code",20100101,20991231
+"C91.7",45561874,"Other lymphoid leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C92.0",45600565,"Acute myeloblastic leukaemia [AML]","Condition","ICD10","ICD10 code",19900501,20991231
+"C92.4",45571572,"Acute promyelocytic leukaemia [PML]","Condition","ICD10","ICD10 code",19900501,20991231
+"C92.5",45557042,"Acute myelomonocytic leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C92.6",45581256,"Acute myeloid leukaemia with 11q23-abnormality","Condition","ICD10","ICD10 code",20100101,20991231
+"C92.7",45600566,"Other myeloid leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C92.8",45557044,"Acute myeloid leukaemia with multilineage dysplasia","Condition","ICD10","ICD10 code",20100101,20991231
+"C93",45547558,"Monocytic leukaemia","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C93.0",45561880,"Acute monoblastic/monocytic leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C93.1",45605333,"Chronic myelomonocytic leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C93.3",45600568,"Juvenile myelomonocytic leukaemia","Condition","ICD10","ICD10 code",20100101,20991231
+"C93.7",45581258,"Other monocytic leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C94",45755351,"Other leukaemias of specified cell type","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C94.0",45571576,"Acute erythroid leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C94.2",45542667,"Acute megakaryoblastic leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C94.3",45537879,"Mast cell leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C94.4",45537880,"Acute panmyelosis with myelofibrosis","Condition","ICD10","ICD10 code",19900501,20991231
+"C94.7",45595725,"Other specified leukaemias","Condition","ICD10","ICD10 code",19900501,20991231
+"C95",45557048,"Leukaemia of unspecified cell type","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C95.0",45600572,"Acute leukaemia of unspecified cell type","Condition","ICD10","ICD10 code",19900501,20991231
+"C95.1",45561882,"Chronic leukaemia of unspecified cell type","Condition","ICD10","ICD10 code",19900501,20991231
+"C95.7",45581262,"Other leukaemia of unspecified cell type","Condition","ICD10","ICD10 code",19900501,20991231
+"C96.0",45542670,"Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]","Condition","ICD10","ICD10 code",19900501,20991231
+"C96.2",45600573,"Malignant mast cell tumour","Condition","ICD10","ICD10 code",19900501,20991231
+"C96.4",45586074,"Sarcoma of dendritic cells (accessory cells)","Condition","ICD10","ICD10 code",20100101,20991231
+"C96.5",45590969,"Multifocal and unisystemic Langerhans-cell histiocytosis","Condition","ICD10","ICD10 code",20100101,20991231
+"C96.6",45581263,"Unifocal Langerhans-cell histiocytosis","Condition","ICD10","ICD10 code",20100101,20991231
+"C96.8",45581265,"Histiocytic sarcoma","Condition","ICD10","ICD10 code",20100101,20991231

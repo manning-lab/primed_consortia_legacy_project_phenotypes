@@ -1,0 +1,20 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"D46.3",45600597,"Refractory anemia with excess of blasts with transformation","Condition","ICD10","ICD10 code",19900501,20161130
+"D46",45605369,"Myelodysplastic syndromes","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C90",45755347,"Multiple myeloma and malignant plasma cell neoplasms","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C90.0",45600562,"Multiple myeloma","Condition","ICD10","ICD10 code",19900501,20991231
+"D45",45595761,"Polycythaemia vera","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"D46.1",45532985,"Refractory anaemia with ring sideroblasts","Condition","ICD10","ICD10 code",19900501,20991231
+"D46.2",45586109,"Refractory anaemia with excess of blasts [RAEB]","Condition","ICD10","ICD10 code",19900501,20991231
+"D46.5",42616299,"Refractory anaemia with multi-lineage dysplasia","Condition","ICD10","ICD10 code",20161201,20991231
+"D46.6",42616300,"Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality","Condition","ICD10","ICD10 code",20161201,20991231
+"D46.7",45595762,"Other myelodysplastic syndromes","Condition","ICD10","ICD10 code",19900501,20991231
+"D47.0",45537914,"Histiocytic and mast cell tumours of uncertain and unknown behaviour","Condition","ICD10","ICD10 code",19900501,20991231
+"D47.1",45600598,"Chronic myeloproliferative disease","Condition","ICD10","ICD10 code",19900501,20991231
+"D47.2",45566693,"Monoclonal gammopathy of undetermined significance (MGUS)","Condition","ICD10","ICD10 code",19900501,20991231
+"D47.3",45576400,"Essential (haemorrhagic) thrombocythaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"D47.4",42619338,"Osteomyelofibrosis","Condition","ICD10","ICD10 code",20161201,20991231
+"D47.5",42616301,"Chronic eosinophilic leukaemia [hypereosinophilic syndrome]","Condition","ICD10","ICD10 code",20161201,20991231
+"C90.1",45552310,"Plasma cell leukaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"C90.2",45581252,"Extramedullary plasmacytoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C90.3",45586061,"Solitary plasmacytoma","Condition","ICD10","ICD10 code",20100101,20991231

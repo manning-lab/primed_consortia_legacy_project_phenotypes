@@ -1,0 +1,8 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"E24.1",45552391,"Nelson syndrome","Condition","ICD10","ICD10 code",19900501,20991231
+"E24.2",45571669,"Drug-induced Cushing syndrome","Condition","ICD10","ICD10 code",19900501,20991231
+"E24",45605411,"Cushing syndrome","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E24.0",45586151,"Pituitary-dependent Cushing disease","Condition","ICD10","ICD10 code",19900501,20991231
+"E24.3",45600652,"Ectopic ACTH syndrome","Condition","ICD10","ICD10 code",19900501,20991231
+"E24.4",45605412,"Alcohol-induced pseudo-Cushing syndrome","Condition","ICD10","ICD10 code",19900501,20991231
+"E24.8",45605413,"Other Cushing syndrome","Condition","ICD10","ICD10 code",19900501,20991231

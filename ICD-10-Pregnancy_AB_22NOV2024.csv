@@ -1,0 +1,33 @@
+CONCEPT_CODE,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCAB_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE
+O23,45601780,Infections of genitourinary tract in pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O80,45597030,Single spontaneous delivery,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O00,45606528,Ectopic pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O01,45572744,Hydatidiform mole,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O02,45534154,Other abnormal products of conception,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O03,45592170,Spontaneous abortion,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O04,45596900,Medical abortion,Procedure,ICD10,ICD10 Hierarchy,19900501,20991231
+O07,45592174,Failed attempted abortion,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O08,45572754,Complications following abortion and ectopic and molar pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O13,45539091,Gestational [pregnancy-induced] hypertension,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O20,45572766,Haemorrhage in early pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O21,45543915,Excessive vomiting in pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O22,45755601,Venous complications and haemorrhoids in pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O24,45534186,Diabetes mellitus in pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O25,45553485,Malnutrition in pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O26,45755602,Maternal care for other conditions predominantly related to pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O30,45558223,Multiple gestation,Observation,ICD10,ICD10 Hierarchy,19900501,20991231
+O48,45582557,Prolonged pregnancy,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O81,45755595,Single delivery by forceps and vacuum extractor,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O82,45582578,Single delivery by caesarean section,Observation,ICD10,ICD10 Hierarchy,19900501,20991231
+O83,45597034,Other assisted single delivery,Procedure,ICD10,ICD10 Hierarchy,19900501,20991231
+O84,45755596,Multiple delivery,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+Z34,45566419,Supervision of normal pregnancy,Observation,ICD10,ICD10 Hierarchy,19900501,20991231
+Z35,45756076,Supervision of high-risk pregnancy,Observation,ICD10,ICD10 Hierarchy,19900501,20991231
+O80,45597030,Single spontaneous delivery,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+O80.0,45577661,Spontaneous vertex delivery,Condition,ICD10,ICD10 code,19900501,20991231
+O80.1,45572892,Spontaneous breech delivery,Procedure,ICD10,ICD10 code,19900501,20991231
+O80.8,45534307,Other single spontaneous delivery,Condition,ICD10,ICD10 code,19900501,20991231
+Z64.0,45581053,Problems related to unwanted pregnancy,Observation,ICD10,ICD10 code,19900501,20991231
+O15.0,45592190,Eclampsia in pregnancy,Condition,ICD10,ICD10 code,19900501,20991231
+O88.1,45606657,Amniotic fluid embolism,Condition,ICD10,ICD10 code,19900501,20991231
+Z32.1,45566418,Pregnancy confirmed,Observation,ICD10,ICD10 code,19900501,20991231

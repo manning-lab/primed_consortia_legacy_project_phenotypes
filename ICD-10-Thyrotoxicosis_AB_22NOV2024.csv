@@ -1,0 +1,9 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"E05",45533007,"Thyrotoxicosis [hyperthyroidism]","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E05.0",45600628,"Thyrotoxicosis with diffuse goitre","Condition","ICD10","ICD10 code",19900501,20991231
+"E05.1",45557104,"Thyrotoxicosis with toxic single thyroid nodule","Condition","ICD10","ICD10 code",19900501,20991231
+"E05.2",45600629,"Thyrotoxicosis with toxic multinodular goitre","Condition","ICD10","ICD10 code",19900501,20991231
+"E05.3",45566719,"Thyrotoxicosis from ectopic thyroid tissue","Condition","ICD10","ICD10 code",19900501,20991231
+"E05.4",45576429,"Thyrotoxicosis factitia","Condition","ICD10","ICD10 code",19900501,20991231
+"E05.5",45566720,"Thyroid crisis or storm","Condition","ICD10","ICD10 code",19900501,20991231
+"E05.8",45537950,"Other thyrotoxicosis","Condition","ICD10","ICD10 code",19900501,20991231

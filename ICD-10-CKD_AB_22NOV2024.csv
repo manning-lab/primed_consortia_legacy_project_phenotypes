@@ -1,0 +1,4 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"N18.0",45601717,"End-stage renal disease","Condition","ICD10","ICD10 code",19900501,20091231
+"N18.8",45534123,"Other chronic renal failure","Condition","ICD10","ICD10 code",19900501,20091231
+"N18",45582391,"Chronic kidney disease","Condition","ICD10","ICD10 Hierarchy",19900501,20991231

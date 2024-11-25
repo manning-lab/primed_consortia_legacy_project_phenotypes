@@ -1,0 +1,7 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"D61",45537921,"Other aplastic anaemias","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"D61.0",45532991,"Constitutional aplastic anaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"D61.1",45547606,"Drug-induced aplastic anaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"D61.2",45605378,"Aplastic anaemia due to other external agents","Condition","ICD10","ICD10 code",19900501,20991231
+"D61.3",45595769,"Idiopathic aplastic anaemia","Condition","ICD10","ICD10 code",19900501,20991231
+"D61.8",45561927,"Other specified aplastic anaemias","Condition","ICD10","ICD10 code",19900501,20991231

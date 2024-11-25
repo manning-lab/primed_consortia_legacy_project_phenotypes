@@ -1,0 +1,9 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"E10",45576436,"Type 1 diabetes mellitus","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E11",45571656,"Type 2 diabetes mellitus","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E12",45586141,"Malnutrition-related diabetes mellitus","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E13",45566732,"Other specified diabetes mellitus","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E14",45571663,"Unspecified diabetes mellitus","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"O24",45534186,"Diabetes mellitus in pregnancy","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"O24.2",45548716,"Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus","Condition","ICD10","ICD10 code",19900501,20991231
+"O24.4",45543922,"Diabetes mellitus arising in pregnancy","Condition","ICD10","ICD10 code",19900501,20991231

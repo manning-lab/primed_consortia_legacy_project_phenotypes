@@ -1,0 +1,4 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"E23.0",45561963,"Hypopituitarism","Condition","ICD10","ICD10 code",19900501,20991231
+"E23.1",45600650,"Drug-induced hypopituitarism","Condition","ICD10","ICD10 code",19900501,20991231
+"E89.3",45605440,"Postprocedural hypopituitarism","Condition","ICD10","ICD10 code",19900501,20991231

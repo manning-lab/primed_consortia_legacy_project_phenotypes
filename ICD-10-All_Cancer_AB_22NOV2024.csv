@@ -1,0 +1,83 @@
+CONCEPT_CODE,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCAB_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE
+C01,45571487,Malignant neoplasm of base of tongue,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C02,45566569,Malignant neoplasm of other and unspecified parts of tongue,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C09,45561784,Malignant neoplasm of tonsil,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C10,45556963,Malignant neoplasm of oropharynx,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C15,45600480,Malignant neoplasm of oesophagus,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C16,45532893,Malignant neoplasm of stomach,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C17,45585985,Malignant neoplasm of small intestine,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C19,45561791,Malignant neoplasm of rectosigmoid junction,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C20,45542587,Malignant neoplasm of rectum,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C21,45755315,Malignant neoplasm of anus and anal canal,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C26,45581203,Malignant neoplasm of other and ill-defined digestive organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C37,45605264,Malignant neoplasm of thymus,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C39,45605266,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C41,45595650,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C43,45571501,Malignant melanoma of skin,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C46,45561805,Kaposi sarcoma,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C50,45571518,Malignant neoplasm of breast,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C56,45542614,Malignant neoplasm of ovary,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C57,45556998,Malignant neoplasm of other and unspecified female genital organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C58,45605281,Malignant neoplasm of placenta,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C60,45566610,Malignant neoplasm of penis,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C61,45547509,Malignant neoplasm of prostate,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C62,45557000,Malignant neoplasm of testis,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C63,45537827,Malignant neoplasm of other and unspecified male genital organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C65,45552268,Malignant neoplasm of renal pelvis,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C66,45600518,Malignant neoplasm of ureter,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C67,45552269,Malignant neoplasm of bladder,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C68,45566612,Malignant neoplasm of other and unspecified urinary organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C70,45557007,Malignant neoplasm of meninges,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C71,45532930,Malignant neoplasm of brain,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C73,45590920,Malignant neoplasm of thyroid gland,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C74,45590921,Malignant neoplasm of adrenal gland,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C75,45542624,Malignant neoplasm of other endocrine glands and related structures,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C76,45755340,Malignant neoplasm of other and ill-defined sites,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C83,45755342,Non-follicular lymphoma,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C88,45561870,Malignant immunoproliferative diseases,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C90,45755347,Multiple myeloma and malignant plasma cell neoplasms,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C92,45571570,Myeloid leukaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C00,45581197,Malignant neoplasm of lip,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C03,45581200,Malignant neoplasm of gum,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C04,45585982,Malignant neoplasm of floor of mouth,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C05,45595635,Malignant neoplasm of palate,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C06,45576296,Malignant neoplasm of other and unspecified parts of mouth,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C07,45576298,Malignant neoplasm of parotid gland,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C08,45571488,Malignant neoplasm of other and unspecified major salivary glands,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C11,45537792,Malignant neoplasm of nasopharynx,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C12,45576301,Malignant neoplasm of piriform sinus,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C13,45566575,Malignant neoplasm of hypopharynx,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C18,45576305,Malignant neoplasm of colon,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C22,45532897,Malignant neoplasm of liver and intrahepatic bile ducts,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C23,45590880,Malignant neoplasm of gallbladder,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C24,45576307,Malignant neoplasm of other and unspecified parts of biliary tract,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C25,45547484,Malignant neoplasm of pancreas,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C30,45755316,Malignant neoplasm of nasal cavity and middle ear,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C31,45585988,Malignant neoplasm of accessory sinuses,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C32,45595642,Malignant neoplasm of larynx,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C33,45585989,Malignant neoplasm of trachea,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C34,45595645,Malignant neoplasm of bronchus and lung,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C40,45755318,Malignant neoplasm of bone and articular cartilage of limbs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C44,45537806,Other malignant neoplasms of skin,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C45,45537814,Mesothelioma,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C47,45595660,Malignant neoplasm of peripheral nerves and autonomic nervous system,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C48,45561808,Malignant neoplasm of retroperitoneum and peritoneum,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C49,45552258,Malignant neoplasm of other connective and soft tissue,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C51,45600512,Malignant neoplasm of vulva,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C52,45576328,Malignant neoplasm of vagina,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C53,45537825,Malignant neoplasm of cervix uteri,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C54,45586016,Malignant neoplasm of corpus uteri,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C69,45755339,Malignant neoplasm of eye and adnexa,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C77,45561830,Secondary and unspecified malignant neoplasm of lymph nodes,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C78,45755341,Secondary malignant neoplasm of respiratory and digestive organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C79,45537841,Secondary malignant neoplasm of other and unspecified sites,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C81,45576344,Hodgkin lymphoma,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C82,45571549,Follicular lymphoma,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C84,45755344,Mature T/NK-cell lymphomas,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C85,45547547,Other and unspecified types of non-Hodgkin lymphoma,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C86,45755346,Other specified types of T/NK-cell lymphoma,Condition,ICD10,ICD10 Hierarchy,20100101,20991231
+C91,45586062,Lymphoid leukaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C93,45547558,Monocytic leukaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C94,45755351,Other leukaemias of specified cell type,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C95,45557048,Leukaemia of unspecified cell type,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+C97,45566652,Malignant neoplasms of independent (primary) multiple sites,Condition,ICD10,ICD10 Hierarchy,19900501,20991231

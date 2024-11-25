@@ -1,0 +1,5 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"D72",45552364,"Other disorders of white blood cells","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"D72.0",45566710,"Genetic anomalies of leukocytes","Condition","ICD10","ICD10 code",19900501,20991231
+"D72.1",45586121,"Eosinophilia","Measurement","ICD10","ICD10 code",19900501,20991231
+"D72.8",45561931,"Other specified disorders of white blood cells","Condition","ICD10","ICD10 code",19900501,20991231

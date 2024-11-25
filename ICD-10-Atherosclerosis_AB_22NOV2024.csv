@@ -1,0 +1,11 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"H36.8",45596079,"Other retinal disorders in diseases classified elsewhere","Condition","ICD10","ICD10 code",19900501,20991231
+"I25.1",45596196,"Atherosclerotic heart disease","Condition","ICD10","ICD10 code",19900501,20991231
+"I67.2",45552811,"Cerebral atherosclerosis","Condition","ICD10","ICD10 code",19900501,20991231
+"I70",45576902,"Atherosclerosis","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"I70.0",45596230,"Atherosclerosis of aorta","Condition","ICD10","ICD10 code",19900501,20991231
+"I70.1",45596231,"Atherosclerosis of renal artery","Condition","ICD10","ICD10 code",19900501,20991231
+"I70.2",45538421,"Atherosclerosis of arteries of extremities","Condition","ICD10","ICD10 code",19900501,20991231
+"I70.8",45572128,"Atherosclerosis of other arteries","Condition","ICD10","ICD10 code",19900501,20991231
+"I70.9",45538439,"Generalized and unspecified atherosclerosis","Condition","ICD10","ICD10 code",19900501,20991231
+"K55.1",45567312,"Chronic vascular disorders of intestine","Condition","ICD10","ICD10 code",19900501,20991231

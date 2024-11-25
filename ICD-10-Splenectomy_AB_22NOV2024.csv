@@ -1,0 +1,9 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"D73.0",45571641,"Hyposplenism","Condition","ICD10","ICD10 code",19900501,20991231
+"D73",45595775,"Diseases of spleen","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"D73.1",45595776,"Hypersplenism","Condition","ICD10","ICD10 code",19900501,20991231
+"D73.2",45591018,"Chronic congestive splenomegaly","Condition","ICD10","ICD10 code",19900501,20991231
+"D73.3",45605381,"Abscess of spleen","Condition","ICD10","ICD10 code",19900501,20991231
+"D73.4",45537935,"Cyst of spleen","Condition","ICD10","ICD10 code",19900501,20991231
+"D73.5",45576414,"Infarction of spleen","Condition","ICD10","ICD10 code",19900501,20991231
+"D73.8",45605382,"Other diseases of spleen","Condition","ICD10","ICD10 code",19900501,20991231

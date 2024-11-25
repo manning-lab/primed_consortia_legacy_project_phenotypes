@@ -1,0 +1,28 @@
+CONCEPT_CODE,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,VOCAB_ID,CONCEPT_CLASS_ID,START_DATE,END_DATE
+D50,45571628,Iron deficiency anaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D64,45537924,Other anaemias,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D60,45591011,Acquired pure red cell aplasia [erythroblastopenia],Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D51,45571630,Vitamin B12deficiency anaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D52,45566698,Folate deficiency anaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D53,45605374,Other nutritional anaemias,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D55,45595764,Anaemia due to enzyme disorders,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D56,45566699,Thalassaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D57,45755365,Sickle-cell disorders,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D58,45581325,Other hereditary haemolytic anaemias,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D59,45605377,Acquired haemolytic anaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D61,45537921,Other aplastic anaemias,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D62,45591014,Acute posthaemorrhagic anaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D63,45755366,Anaemia in chronic diseases classified elsewhere,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D65,45547609,Disseminated intravascular coagulation [defibrination syndrome],Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D66,45532993,Hereditary factor VIII deficiency,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D67,45600611,Hereditary factor IX deficiency,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D68,45542713,Other coagulation defects,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D69,45561930,Purpura and other haemorrhagic conditions,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D70,45557092,Agranulocytosis,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D71,45566709,Functional disorders of polymorphonuclear neutrophils,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D72,45552364,Other disorders of white blood cells,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D73,45595775,Diseases of spleen,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D74,45566712,Methaemoglobinaemia,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D75,45547613,Other diseases of blood and blood-forming organs,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D76,45755353,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,Condition,ICD10,ICD10 Hierarchy,19900501,20991231
+D77,45542718,Other disorders of blood and blood-forming organs in diseases classified elsewhere,Condition,ICD10,ICD10 Hierarchy,19900501,20991231

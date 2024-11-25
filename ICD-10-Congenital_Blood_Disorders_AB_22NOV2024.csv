@@ -1,0 +1,9 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"P61.1",45553643,"Polycythaemia neonatorum","Condition","ICD10","ICD10 code",19900501,20991231
+"P61.2",45548872,"Anaemia of prematurity","Condition","ICD10","ICD10 code",19900501,20991231
+"P61.3",45577709,"Congenital anaemia from fetal blood loss","Condition","ICD10","ICD10 code",19900501,20991231
+"P61",45568034,"Other perinatal haematological disorders","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"P61.0",45601943,"Transient neonatal thrombocytopenia","Condition","ICD10","ICD10 code",19900501,20991231
+"P61.5",45553644,"Transient neonatal neutropenia","Condition","ICD10","ICD10 code",19900501,20991231
+"P61.6",45597089,"Other transient neonatal disorders of coagulation","Condition","ICD10","ICD10 code",19900501,20991231
+"P61.8",45592338,"Other specified perinatal haematological disorders","Condition","ICD10","ICD10 code",19900501,20991231

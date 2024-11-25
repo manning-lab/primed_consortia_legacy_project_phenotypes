@@ -1,0 +1,43 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"C83.2",45755343,"Mixed small and large cell (diffuse) non-Hodgkin's lymphoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C83.4",45571555,"Immunoblastic (diffuse) non-Hodgkin's lymphoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C83.6",45605307,"Undifferentiated (diffuse) non-Hodgkin's lymphoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C84.2",45542651,"T-zone lymphoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C84.3",45537864,"Lymphoepithelioid lymphoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C85.0",45755345,"Lymphosarcoma","Condition","ICD10","ICD10 code",19900501,20091231
+"C82.3",45590936,"Follicular lymphoma grade IIIa","Condition","ICD10","ICD10 code",20100101,20991231
+"C82.4",45552299,"Follicular lymphoma grade IIIb","Condition","ICD10","ICD10 code",20100101,20991231
+"C82.5",45576353,"Diffuse follicle centre lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C82.6",45605300,"Cutaneous follicle centre lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C82.7",45600546,"Other types of follicular lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C83",45755342,"Non-follicular lymphoma","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C86.3",45532956,"Subcutaneous panniculitis-like T-cell lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C86.4",45566646,"Blastic NK-cell lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C86.5",45561869,"Angioimmunoblastic T-cell lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C86.6",45590961,"Primary cutaneous C","Condition","ICD10","ICD10 code",20100101,20991231
+"C81",45576344,"Hodgkin lymphoma","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C81.0",45586030,"Nodular lymphocyte predominant Hodgkin lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C81.1",45547530,"Nodular sclerosis classical Hodgkin lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C81.2",45566622,"Mixed cellularity classical Hodgkin lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C81.3",45571545,"Lymphocyte depleted classical Hodgkin lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C81.4",45547532,"Lymphocyte-rich (classical) Hodgkin lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C81.7",45552293,"Other classical Hodgkin lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C82",45571549,"Follicular lymphoma","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C82.0",45595698,"Follicular lymphoma grade I","Condition","ICD10","ICD10 code",19900501,20991231
+"C82.1",45532946,"Follicular lymphoma grade II","Condition","ICD10","ICD10 code",19900501,20991231
+"C83.0",45590939,"Small cell B-cell lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C83.1",45542646,"Mantle cell lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C83.3",45600549,"Diffuse large B-cell lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C83.5",45586044,"Lymphoblastic (diffuse) lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C83.7",45590945,"Burkitt lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C83.8",45576359,"Other non-follicular lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C84",45755344,"Mature T/NK-cell lymphomas","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C84.0",45605312,"Mycosis fungoides","Condition","ICD10","ICD10 code",19900501,20991231
+"C84.1",45595708,"Sézary disease","Condition","ICD10","ICD10 code",19900501,20991231
+"C84.5",45561857,"Other mature T/NK-cell lymphomas","Condition","ICD10","ICD10 code",19900501,20991231
+"C85",45547547,"Other and unspecified types of non-Hodgkin lymphoma","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"C85.2",45542659,"Mediastinal (thymic) large B-cell lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C85.7",45595715,"Other specified types of non-Hodgkin lymphoma","Condition","ICD10","ICD10 code",19900501,20991231
+"C86",45755346,"Other specified types of T/NK-cell lymphoma","Condition","ICD10","ICD10 Hierarchy",20100101,20991231
+"C86.1",45605328,"Hepatosplenic T-cell lymphoma","Condition","ICD10","ICD10 code",20100101,20991231
+"C86.2",45600561,"Enteropathy-type (intestinal) T-cell lymphoma","Condition","ICD10","ICD10 code",20100101,20991231

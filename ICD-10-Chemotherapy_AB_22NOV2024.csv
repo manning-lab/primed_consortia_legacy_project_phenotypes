@@ -1,0 +1,3 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"Z08.2",45595481,"Follow-up examination after chemotherapy for malignant neoplasm","Observation","ICD10","ICD10 code",19900501,20991231
+"Z51.1",45595526,"Chemotherapy session for neoplasm","Procedure","ICD10","ICD10 code",19900501,20991231

@@ -1,0 +1,10 @@
+"CONCEPT_CODE","CONCEPT_ID","CONCEPT_NAME","DOMAIN_ID","VOCAB_ID","CONCEPT_CLASS_ID","START_DATE","END_DATE"
+"E03",45581337,"Other hypothyroidism","Condition","ICD10","ICD10 Hierarchy",19900501,20991231
+"E03.0",45586129,"Congenital hypothyroidism with diffuse goitre","Condition","ICD10","ICD10 code",19900501,20991231
+"E03.1",45576424,"Congenital hypothyroidism without goitre","Condition","ICD10","ICD10 code",19900501,20991231
+"E03.2",45566718,"Hypothyroidism due to medicaments and other exogenous substances","Condition","ICD10","ICD10 code",19900501,20991231
+"E03.3",45586130,"Postinfectious hypothyroidism","Condition","ICD10","ICD10 code",19900501,20991231
+"E03.4",45542724,"Atrophy of thyroid (acquired)","Condition","ICD10","ICD10 code",19900501,20991231
+"E03.5",45600627,"Myxoedema coma","Condition","ICD10","ICD10 code",19900501,20991231
+"E03.8",45557102,"Other specified hypothyroidism","Condition","ICD10","ICD10 code",19900501,20991231
+"E89.0",45552421,"Postprocedural hypothyroidism","Condition","ICD10","ICD10 code",19900501,20991231
