@@ -165,20 +165,20 @@ FLIBS=-L /opt/gfortran/lib</code></pre>
 <section id="install-cdm-5.4.0" class="level1">
 <h1>Install CDM 5.4.0</h1>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">require</span>(<span class="st">"devtools"</span>)) <span class="fu">install.packages</span>(<span class="st">"devtools"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Loading required package: devtools</code></pre>
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">require</span>(<span class="st">"devtools"</span>)) <span class="fu">install.packages</span>(<span class="st">"devtools"</span>)</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"OHDSI/CommonDataModel"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Loading required package: usethis</code></pre>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">listSupportedDialects</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code> [1] "sql server"      "oracle"          "postgresql"      "pdw"            
+ [5] "impala"          "netezza"         "bigquery"        "spark"          
+ [9] "sqlite"          "redshift"        "hive"            "sqlite extended"
+[13] "duckdb"          "snowflake"       "synapse"        </code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"OHDSI/CommonDataModel"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Using github PAT from envvar GITHUB_PAT. Use `gitcreds::gitcreds_set()` and unset GITHUB_PAT in .Renviron (or elsewhere) if you want to use the more secure git credential store instead.</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Skipping install of 'CommonDataModel' from a github remote, the SHA1 (032e842b) has not changed since last install.
-  Use `force = TRUE` to force installation</code></pre>
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">listSupportedVersions</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "5.3" "5.4"</code></pre>
 </div>
 </div>
 </section>
@@ -207,139 +207,47 @@ Installation Log: /tmp/install-postgresql.log</code></pre>
 <p>I created a user called ‘primed’ with password ‘primed’. I created a database called ‘primed’ with owner ‘primed’. I created a schema called ‘primed’ in the database ‘primed’.</p>
 <p>Website:<a href="https://solutions.posit.co/connections/db/">Best Practices in Working with Databases</a></p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="co">#install.packages("tidyverse")</span></span>
-<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.1.4     ✔ readr     2.1.5
-✔ forcats   1.0.0     ✔ stringr   1.5.1
-✔ ggplot2   3.5.1     ✔ tibble    3.2.1
-✔ lubridate 1.9.3     ✔ tidyr     1.3.1
-✔ purrr     1.0.2     
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
-</div>
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co">#install.packages("tidyverse")</span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(DBI)</span>
-<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RPostgreSQL)</span>
-<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(DatabaseConnector)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>
-Attaching package: 'DatabaseConnector'</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>The following objects are masked from 'package:lubridate':
-
-    day, month, year</code></pre>
-</div>
-<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a><span class="fu">downloadJdbcDrivers</span>(<span class="st">"postgresql"</span>,<span class="at">pathToDriver=</span><span class="st">"./JdbcDrivers/"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Consider adding `DATABASECONNECTOR_JAR_FOLDER='./JdbcDrivers/'` to
-/Users/amanning/.Renviron and restarting R.</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>DatabaseConnector postgresql JDBC driver downloaded to './JdbcDrivers/'.</code></pre>
-</div>
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(DBI)</span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RPostgreSQL)</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(DatabaseConnector)</span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a><span class="fu">downloadJdbcDrivers</span>(<span class="st">"postgresql"</span>,<span class="at">pathToDriver=</span><span class="st">"./JdbcDrivers/"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>connectionDetails <span class="ot">&lt;-</span> <span class="fu">createConnectionDetails</span>(<span class="at">dbms=</span><span class="st">"postgresql"</span>, </span>
-<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>                                             <span class="at">user=</span><span class="st">"primed"</span>, <span class="at">password=</span><span class="st">"primed"</span>, </span>
-<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>                                             <span class="at">server=</span><span class="st">"localhost/primed"</span>, <span class="at">port=</span><span class="dv">5432</span>, </span>
-<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>                                             <span class="at">pathToDriver=</span><span class="st">"./JdbcDrivers/"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>connectionDetails <span class="ot">&lt;-</span> <span class="fu">createConnectionDetails</span>(<span class="at">dbms=</span><span class="st">"postgresql"</span>, </span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a>                                             <span class="at">user=</span><span class="st">"primed"</span>, <span class="at">password=</span><span class="st">"primed"</span>, </span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a>                                             <span class="at">server=</span><span class="st">"localhost/primed"</span>, <span class="at">port=</span><span class="dv">5432</span>, </span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a>                                             <span class="at">pathToDriver=</span><span class="st">"./JdbcDrivers/"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>Create connection and test</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Connecting using PostgreSQL driver</code></pre>
-</div>
-<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>mytargetdialect <span class="ot">&lt;-</span> <span class="fu">dbms</span>(<span class="at">connection =</span> conn)</span>
-<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(mytargetdialect)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] "postgresql"</code></pre>
-</div>
-<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>mytargetdialect <span class="ot">&lt;-</span> <span class="fu">dbms</span>(<span class="at">connection =</span> conn)</span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(mytargetdialect)</span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="execute-the-ddl-on-the-database" class="level2">
 <h2 class="anchored" data-anchor-id="execute-the-ddl-on-the-database">Execute the DDL on the database</h2>
-<p>Do not create KEYs or FKs</p>
+<p>Do not create KEYs or FKs at first. The DDL sets up the database tables.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">executeDdl</span>(</span>
-<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">connectionDetails=</span>connectionDetails,</span>
-<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmVersion=</span><span class="st">"5.4"</span>,</span>
-<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmDatabaseSchema =</span> <span class="st">"primed"</span>,</span>
-<span id="cb31-5"><a href="#cb31-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeDdl =</span> <span class="cn">TRUE</span>,</span>
-<span id="cb31-6"><a href="#cb31-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">executePrimaryKey =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb31-7"><a href="#cb31-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeForeignKey =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb31-8"><a href="#cb31-8" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">executeDdl</span>(</span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">connectionDetails=</span>connectionDetails,</span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmVersion=</span><span class="st">"5.4"</span>,</span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmDatabaseSchema =</span> <span class="st">"primed"</span>,</span>
+<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeDdl =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">executePrimaryKey =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb20-7"><a href="#cb20-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeForeignKey =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb20-8"><a href="#cb20-8" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="write-table-contents-to-the-database" class="level2">
 <h2 class="anchored" data-anchor-id="write-table-contents-to-the-database">Write table contents to the database</h2>
-<section id="concept" class="level3">
-<h3 class="anchored" data-anchor-id="concept">CONCEPT</h3>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a>in.concept <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT.csv"</span>, </span>
-<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a>                         <span class="at">delim=</span><span class="st">"</span><span class="sc">\t</span><span class="st">"</span>,</span>
-<span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a>                         <span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_name =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a>                           <span class="at">domain_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb32-7"><a href="#cb32-7" aria-hidden="true" tabindex="-1"></a>                           <span class="at">vocabulary_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb32-8"><a href="#cb32-8" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_class_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb32-9"><a href="#cb32-9" aria-hidden="true" tabindex="-1"></a>                           <span class="at">standard_concept =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb32-10"><a href="#cb32-10" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_code =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb32-11"><a href="#cb32-11" aria-hidden="true" tabindex="-1"></a>                           <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
-<span id="cb32-12"><a href="#cb32-12" aria-hidden="true" tabindex="-1"></a>                           <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
-<span id="cb32-13"><a href="#cb32-13" aria-hidden="true" tabindex="-1"></a>                           <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
-<span id="cb32-14"><a href="#cb32-14" aria-hidden="true" tabindex="-1"></a>                         ),<span class="at">na=</span><span class="st">"NULL"</span>)</span>
-<span id="cb32-15"><a href="#cb32-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb32-16"><a href="#cb32-16" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept)</span>
-<span id="cb32-17"><a href="#cb32-17" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb32-18"><a href="#cb32-18" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb32-19"><a href="#cb32-19" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb32-20"><a href="#cb32-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb32-21"><a href="#cb32-21" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-</section>
-<section id="domain" class="level3">
-<h3 class="anchored" data-anchor-id="domain">DOMAIN</h3>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a>in.domain <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/DOMAIN.csv"</span>,<span class="at">delim=</span><span class="st">"</span><span class="sc">\t</span><span class="st">"</span>,<span class="at">na=</span><span class="st">"NULL"</span>,<span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">domain_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb33-3"><a href="#cb33-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">domain_name =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb33-4"><a href="#cb33-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">domain_concept_id =</span> <span class="fu">col_integer</span>()</span>
-<span id="cb33-5"><a href="#cb33-5" aria-hidden="true" tabindex="-1"></a>))</span>
-<span id="cb33-6"><a href="#cb33-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb33-7"><a href="#cb33-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.domain)</span>
-<span id="cb33-8"><a href="#cb33-8" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb33-9"><a href="#cb33-9" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'domain'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.domain), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb33-10"><a href="#cb33-10" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb33-11"><a href="#cb33-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb33-12"><a href="#cb33-12" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.domain)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-</section>
-<section id="concept_class" class="level3">
-<h3 class="anchored" data-anchor-id="concept_class">CONCEPT_CLASS</h3>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb34"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a>in.concept_class <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_CLASS.csv"</span>,</span>
-<span id="cb34-2"><a href="#cb34-2" aria-hidden="true" tabindex="-1"></a>                               <span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb34-3"><a href="#cb34-3" aria-hidden="true" tabindex="-1"></a>                                 <span class="at">concept_class_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb34-4"><a href="#cb34-4" aria-hidden="true" tabindex="-1"></a>                                 <span class="at">concept_class_name =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb34-5"><a href="#cb34-5" aria-hidden="true" tabindex="-1"></a>                                 <span class="at">concept_class_concept_id =</span> <span class="fu">col_integer</span>()</span>
-<span id="cb34-6"><a href="#cb34-6" aria-hidden="true" tabindex="-1"></a>                               ))</span>
-<span id="cb34-7"><a href="#cb34-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_class)</span>
-<span id="cb34-8"><a href="#cb34-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb34-9"><a href="#cb34-9" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb34-10"><a href="#cb34-10" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_class'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_class), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb34-11"><a href="#cb34-11" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb34-12"><a href="#cb34-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb34-13"><a href="#cb34-13" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
 </section>
 <section id="concept-cpt4" class="level3">
 <h3 class="anchored" data-anchor-id="concept-cpt4">CONCEPT CPT4</h3>
@@ -367,147 +275,231 @@ Updated CPT4 records:  17455/17455
 [INFO ] 2024-09-30 02:53:26.996 [main] ConceptService - Not processed cpt4 concepts: 13553. See logs/not-processed-concepts-09-30-2024-01-55-09.out, file. You can find more information about errors in the logs/logfile.log file
 amanning@wm6ad-0b7 vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965 % </code></pre>
 </section>
+<section id="concept" class="level3">
+<h3 class="anchored" data-anchor-id="concept">CONCEPT</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>in.concept <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT.csv"</span>, </span>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>                         <span class="at">delim=</span><span class="st">"</span><span class="sc">\t</span><span class="st">"</span>,</span>
+<span id="cb22-3"><a href="#cb22-3" aria-hidden="true" tabindex="-1"></a>                         <span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb22-4"><a href="#cb22-4" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb22-5"><a href="#cb22-5" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb22-6"><a href="#cb22-6" aria-hidden="true" tabindex="-1"></a>                           <span class="at">domain_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb22-7"><a href="#cb22-7" aria-hidden="true" tabindex="-1"></a>                           <span class="at">vocabulary_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb22-8"><a href="#cb22-8" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_class_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb22-9"><a href="#cb22-9" aria-hidden="true" tabindex="-1"></a>                           <span class="at">standard_concept =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb22-10"><a href="#cb22-10" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_code =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb22-11"><a href="#cb22-11" aria-hidden="true" tabindex="-1"></a>                           <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb22-12"><a href="#cb22-12" aria-hidden="true" tabindex="-1"></a>                           <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb22-13"><a href="#cb22-13" aria-hidden="true" tabindex="-1"></a>                           <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
+<span id="cb22-14"><a href="#cb22-14" aria-hidden="true" tabindex="-1"></a>                         ),<span class="at">na=</span><span class="st">"NULL"</span>)</span>
+<span id="cb22-15"><a href="#cb22-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb22-16"><a href="#cb22-16" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept)</span>
+<span id="cb22-17"><a href="#cb22-17" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb22-18"><a href="#cb22-18" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb22-19"><a href="#cb22-19" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb22-20"><a href="#cb22-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb22-21"><a href="#cb22-21" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a>in.concept_cpt4 <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_CPT4.csv"</span>, </span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a>                         <span class="at">delim=</span><span class="st">"</span><span class="sc">\t</span><span class="st">"</span>,</span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a>                         <span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb23-6"><a href="#cb23-6" aria-hidden="true" tabindex="-1"></a>                           <span class="at">domain_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb23-7"><a href="#cb23-7" aria-hidden="true" tabindex="-1"></a>                           <span class="at">vocabulary_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb23-8"><a href="#cb23-8" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_class_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb23-9"><a href="#cb23-9" aria-hidden="true" tabindex="-1"></a>                           <span class="at">standard_concept =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb23-10"><a href="#cb23-10" aria-hidden="true" tabindex="-1"></a>                           <span class="at">concept_code =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb23-11"><a href="#cb23-11" aria-hidden="true" tabindex="-1"></a>                           <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb23-12"><a href="#cb23-12" aria-hidden="true" tabindex="-1"></a>                           <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb23-13"><a href="#cb23-13" aria-hidden="true" tabindex="-1"></a>                           <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
+<span id="cb23-14"><a href="#cb23-14" aria-hidden="true" tabindex="-1"></a>                         ),<span class="at">na=</span><span class="st">"NULL"</span>)</span>
+<span id="cb23-15"><a href="#cb23-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb23-16"><a href="#cb23-16" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_cpt4)</span>
+<span id="cb23-17"><a href="#cb23-17" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb23-18"><a href="#cb23-18" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_cpt4), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb23-19"><a href="#cb23-19" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb23-20"><a href="#cb23-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb23-21"><a href="#cb23-21" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_cpt4)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="domain" class="level3">
+<h3 class="anchored" data-anchor-id="domain">DOMAIN</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>in.domain <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/DOMAIN.csv"</span>,<span class="at">delim=</span><span class="st">"</span><span class="sc">\t</span><span class="st">"</span>,<span class="at">na=</span><span class="st">"NULL"</span>,<span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">domain_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb24-3"><a href="#cb24-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">domain_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb24-4"><a href="#cb24-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">domain_concept_id =</span> <span class="fu">col_integer</span>()</span>
+<span id="cb24-5"><a href="#cb24-5" aria-hidden="true" tabindex="-1"></a>))</span>
+<span id="cb24-6"><a href="#cb24-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb24-7"><a href="#cb24-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.domain)</span>
+<span id="cb24-8"><a href="#cb24-8" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb24-9"><a href="#cb24-9" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'domain'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.domain), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb24-10"><a href="#cb24-10" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb24-11"><a href="#cb24-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb24-12"><a href="#cb24-12" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.domain)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="concept_class" class="level3">
+<h3 class="anchored" data-anchor-id="concept_class">CONCEPT_CLASS</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>in.concept_class <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_CLASS.csv"</span>,</span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>                               <span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>                                 <span class="at">concept_class_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>                                 <span class="at">concept_class_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a>                                 <span class="at">concept_class_concept_id =</span> <span class="fu">col_integer</span>()</span>
+<span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a>                               ))</span>
+<span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_class)</span>
+<span id="cb25-8"><a href="#cb25-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb25-10"><a href="#cb25-10" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_class'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_class), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb25-11"><a href="#cb25-11" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb25-12"><a href="#cb25-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-13"><a href="#cb25-13" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
 <section id="relationaship" class="level3">
 <h3 class="anchored" data-anchor-id="relationaship">RELATIONASHIP</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a>in.relationship <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/RELATIONSHIP.csv"</span>, <span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb36-2"><a href="#cb36-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb36-3"><a href="#cb36-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_name =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb36-4"><a href="#cb36-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">is_hierarchical =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb36-5"><a href="#cb36-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">defines_ancestry =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb36-6"><a href="#cb36-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">reverse_relationship_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb36-7"><a href="#cb36-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_concept_id =</span> <span class="fu">col_integer</span>()</span>
-<span id="cb36-8"><a href="#cb36-8" aria-hidden="true" tabindex="-1"></a>))</span>
-<span id="cb36-9"><a href="#cb36-9" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.relationship)</span>
-<span id="cb36-10"><a href="#cb36-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb36-11"><a href="#cb36-11" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb36-12"><a href="#cb36-12" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'relationship'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.relationship), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb36-13"><a href="#cb36-13" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>in.relationship <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/RELATIONSHIP.csv"</span>, <span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">is_hierarchical =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb26-5"><a href="#cb26-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">defines_ancestry =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb26-6"><a href="#cb26-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">reverse_relationship_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb26-7"><a href="#cb26-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_concept_id =</span> <span class="fu">col_integer</span>()</span>
+<span id="cb26-8"><a href="#cb26-8" aria-hidden="true" tabindex="-1"></a>))</span>
+<span id="cb26-9"><a href="#cb26-9" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.relationship)</span>
+<span id="cb26-10"><a href="#cb26-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb26-11"><a href="#cb26-11" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb26-12"><a href="#cb26-12" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'relationship'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.relationship), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb26-13"><a href="#cb26-13" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="drug-strength" class="level3">
 <h3 class="anchored" data-anchor-id="drug-strength">DRUG STRENGTH</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb37"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a>in.drug_strength <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/DRUG_STRENGTH.csv"</span>, <span class="at">col_types =</span> <span class="fu">cols</span>(</span>
-<span id="cb37-2"><a href="#cb37-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">drug_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb37-3"><a href="#cb37-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">ingredient_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">amount_value =</span> <span class="fu">col_double</span>(),</span>
-<span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">amount_unit_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb37-6"><a href="#cb37-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">numerator_value =</span> <span class="fu">col_double</span>(),</span>
-<span id="cb37-7"><a href="#cb37-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">numerator_unit_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb37-8"><a href="#cb37-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">denominator_value =</span> <span class="fu">col_double</span>(),</span>
-<span id="cb37-9"><a href="#cb37-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">denominator_unit_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb37-10"><a href="#cb37-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">box_size =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb37-11"><a href="#cb37-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
-<span id="cb37-12"><a href="#cb37-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
-<span id="cb37-13"><a href="#cb37-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
-<span id="cb37-14"><a href="#cb37-14" aria-hidden="true" tabindex="-1"></a>))</span>
-<span id="cb37-15"><a href="#cb37-15" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.drug_strength)</span>
-<span id="cb37-16"><a href="#cb37-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb37-17"><a href="#cb37-17" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb37-18"><a href="#cb37-18" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'drug_strength'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.drug_strength), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb37-19"><a href="#cb37-19" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb37-20"><a href="#cb37-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb37-21"><a href="#cb37-21" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.drug_strength)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>in.drug_strength <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/DRUG_STRENGTH.csv"</span>, <span class="at">col_types =</span> <span class="fu">cols</span>(</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">drug_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">ingredient_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">amount_value =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">amount_unit_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">numerator_value =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">numerator_unit_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb27-8"><a href="#cb27-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">denominator_value =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb27-9"><a href="#cb27-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">denominator_unit_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb27-10"><a href="#cb27-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">box_size =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb27-11"><a href="#cb27-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb27-12"><a href="#cb27-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb27-13"><a href="#cb27-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
+<span id="cb27-14"><a href="#cb27-14" aria-hidden="true" tabindex="-1"></a>))</span>
+<span id="cb27-15"><a href="#cb27-15" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.drug_strength)</span>
+<span id="cb27-16"><a href="#cb27-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-17"><a href="#cb27-17" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb27-18"><a href="#cb27-18" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'drug_strength'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.drug_strength), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb27-19"><a href="#cb27-19" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb27-20"><a href="#cb27-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-21"><a href="#cb27-21" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.drug_strength)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="vocabulary" class="level3">
 <h3 class="anchored" data-anchor-id="vocabulary">VOCABULARY</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb38"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a>in.vocabulary <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/VOCABULARY.csv"</span>, <span class="at">col_types =</span> <span class="fu">cols</span>(</span>
-<span id="cb38-2"><a href="#cb38-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb38-3"><a href="#cb38-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_name =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb38-4"><a href="#cb38-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_reference =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb38-5"><a href="#cb38-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_version =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb38-6"><a href="#cb38-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_concept_id =</span> <span class="fu">col_integer</span>()))</span>
-<span id="cb38-7"><a href="#cb38-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.vocabulary)</span>
-<span id="cb38-8"><a href="#cb38-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb38-9"><a href="#cb38-9" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb38-10"><a href="#cb38-10" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'vocabulary'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.vocabulary), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb38-11"><a href="#cb38-11" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb38-12"><a href="#cb38-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb38-13"><a href="#cb38-13" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.vocabulary)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>in.vocabulary <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/VOCABULARY.csv"</span>, <span class="at">col_types =</span> <span class="fu">cols</span>(</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_reference =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_version =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">vocabulary_concept_id =</span> <span class="fu">col_integer</span>()))</span>
+<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.vocabulary)</span>
+<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'vocabulary'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.vocabulary), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb28-11"><a href="#cb28-11" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb28-12"><a href="#cb28-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-13"><a href="#cb28-13" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.vocabulary)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="concept_synonym" class="level3">
 <h3 class="anchored" data-anchor-id="concept_synonym">CONCEPT_SYNONYM</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb39"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb39-1"><a href="#cb39-1" aria-hidden="true" tabindex="-1"></a>in.concept_synonym <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_SYNONYM.csv"</span>,<span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb39-2"><a href="#cb39-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb39-3"><a href="#cb39-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_synonym_name =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb39-4"><a href="#cb39-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">language_concept_id =</span> <span class="fu">col_integer</span>()</span>
-<span id="cb39-5"><a href="#cb39-5" aria-hidden="true" tabindex="-1"></a>))</span>
-<span id="cb39-6"><a href="#cb39-6" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_synonym)</span>
-<span id="cb39-7"><a href="#cb39-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb39-8"><a href="#cb39-8" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb39-9"><a href="#cb39-9" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_synonym'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_synonym), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb39-10"><a href="#cb39-10" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb39-11"><a href="#cb39-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb39-12"><a href="#cb39-12" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_synonym)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>in.concept_synonym <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_SYNONYM.csv"</span>,<span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_synonym_name =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">language_concept_id =</span> <span class="fu">col_integer</span>()</span>
+<span id="cb29-5"><a href="#cb29-5" aria-hidden="true" tabindex="-1"></a>))</span>
+<span id="cb29-6"><a href="#cb29-6" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_synonym)</span>
+<span id="cb29-7"><a href="#cb29-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-8"><a href="#cb29-8" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb29-9"><a href="#cb29-9" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_synonym'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_synonym), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb29-10"><a href="#cb29-10" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb29-11"><a href="#cb29-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-12"><a href="#cb29-12" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_synonym)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="concept_ancester" class="level3">
 <h3 class="anchored" data-anchor-id="concept_ancester">CONCEPT_ANCESTER</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb40"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a>in.concept_ancestor <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_ANCESTOR.csv"</span>,<span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb40-2"><a href="#cb40-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">ancestor_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb40-3"><a href="#cb40-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">descendant_concept_id =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb40-4"><a href="#cb40-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">min_levels_of_separation =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb40-5"><a href="#cb40-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_levels_of_separation =</span> <span class="fu">col_integer</span>()</span>
-<span id="cb40-6"><a href="#cb40-6" aria-hidden="true" tabindex="-1"></a>))</span>
-<span id="cb40-7"><a href="#cb40-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_ancestor)</span>
-<span id="cb40-8"><a href="#cb40-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb40-9"><a href="#cb40-9" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb40-10"><a href="#cb40-10" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_ancestor'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_ancestor), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb40-11"><a href="#cb40-11" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb40-12"><a href="#cb40-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb40-13"><a href="#cb40-13" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_ancestor)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>in.concept_ancestor <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_ANCESTOR.csv"</span>,<span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">ancestor_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">descendant_concept_id =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">min_levels_of_separation =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb30-5"><a href="#cb30-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_levels_of_separation =</span> <span class="fu">col_integer</span>()</span>
+<span id="cb30-6"><a href="#cb30-6" aria-hidden="true" tabindex="-1"></a>))</span>
+<span id="cb30-7"><a href="#cb30-7" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_ancestor)</span>
+<span id="cb30-8"><a href="#cb30-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-9"><a href="#cb30-9" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb30-10"><a href="#cb30-10" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_ancestor'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_ancestor), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb30-11"><a href="#cb30-11" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb30-12"><a href="#cb30-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-13"><a href="#cb30-13" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_ancestor)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="concept_relationship" class="level3">
 <h3 class="anchored" data-anchor-id="concept_relationship">CONCEPT_RELATIONSHIP</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb41"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a>in.concept_relationship <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_RELATIONSHIP.csv"</span>,<span class="at">na=</span><span class="st">"NULL"</span>, <span class="at">col_types=</span><span class="fu">cols</span>(</span>
-<span id="cb41-2"><a href="#cb41-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_id_1 =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb41-3"><a href="#cb41-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_id_2 =</span> <span class="fu">col_integer</span>(),</span>
-<span id="cb41-4"><a href="#cb41-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_id =</span> <span class="fu">col_character</span>(),</span>
-<span id="cb41-5"><a href="#cb41-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
-<span id="cb41-6"><a href="#cb41-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
-<span id="cb41-7"><a href="#cb41-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
-<span id="cb41-8"><a href="#cb41-8" aria-hidden="true" tabindex="-1"></a>))</span>
-<span id="cb41-9"><a href="#cb41-9" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_relationship)</span>
-<span id="cb41-10"><a href="#cb41-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb41-11"><a href="#cb41-11" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
-<span id="cb41-12"><a href="#cb41-12" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_relationship'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_relationship), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb41-13"><a href="#cb41-13" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
-<span id="cb41-14"><a href="#cb41-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb41-15"><a href="#cb41-15" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_relationship)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>in.concept_relationship <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(<span class="st">"vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_RELATIONSHIP.csv"</span>,<span class="at">na=</span><span class="st">"NULL"</span>, <span class="at">col_types=</span><span class="fu">cols</span>(</span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_id_1 =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">concept_id_2 =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">relationship_id =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb31-5"><a href="#cb31-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_start_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb31-6"><a href="#cb31-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">valid_end_date =</span> <span class="fu">col_date</span>(<span class="at">format =</span> <span class="st">"%Y%m%d"</span>),</span>
+<span id="cb31-7"><a href="#cb31-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">invalid_reason =</span> <span class="fu">col_character</span>()</span>
+<span id="cb31-8"><a href="#cb31-8" aria-hidden="true" tabindex="-1"></a>))</span>
+<span id="cb31-9"><a href="#cb31-9" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(in.concept_relationship)</span>
+<span id="cb31-10"><a href="#cb31-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-11"><a href="#cb31-11" aria-hidden="true" tabindex="-1"></a>conn <span class="ot">&lt;-</span> <span class="fu">connect</span>(connectionDetails)</span>
+<span id="cb31-12"><a href="#cb31-12" aria-hidden="true" tabindex="-1"></a><span class="fu">dbWriteTable</span>(<span class="at">conn =</span> conn, <span class="at">name =</span> <span class="st">'concept_relationship'</span>, <span class="at">value =</span> <span class="fu">data.frame</span>(in.concept_relationship), <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">header =</span> <span class="cn">TRUE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb31-13"><a href="#cb31-13" aria-hidden="true" tabindex="-1"></a><span class="fu">disconnect</span>(conn)</span>
+<span id="cb31-14"><a href="#cb31-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-15"><a href="#cb31-15" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(in.concept_relationship)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 </section>
 <section id="execute-the-ddl-on-the-database-to-create-keys-and-fks" class="level2">
 <h2 class="anchored" data-anchor-id="execute-the-ddl-on-the-database-to-create-keys-and-fks">Execute the DDL on the database to create KEYs and FKs</h2>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb42"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">executeDdl</span>(</span>
-<span id="cb42-2"><a href="#cb42-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">connectionDetails=</span>connectionDetails,</span>
-<span id="cb42-3"><a href="#cb42-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmVersion=</span><span class="st">"5.4"</span>,</span>
-<span id="cb42-4"><a href="#cb42-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmDatabaseSchema =</span> <span class="st">"primed"</span>,</span>
-<span id="cb42-5"><a href="#cb42-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeDdl =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb42-6"><a href="#cb42-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">executePrimaryKey =</span> <span class="cn">TRUE</span>,</span>
-<span id="cb42-7"><a href="#cb42-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeForeignKey =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb42-8"><a href="#cb42-8" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb42-9"><a href="#cb42-9" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">executeDdl</span>(</span>
+<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">connectionDetails=</span>connectionDetails,</span>
+<span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmVersion=</span><span class="st">"5.4"</span>,</span>
+<span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmDatabaseSchema =</span> <span class="st">"primed"</span>,</span>
+<span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeDdl =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">executePrimaryKey =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb32-7"><a href="#cb32-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeForeignKey =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb32-8"><a href="#cb32-8" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb32-9"><a href="#cb32-9" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb43"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">executeDdl</span>(</span>
-<span id="cb43-2"><a href="#cb43-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">connectionDetails=</span>connectionDetails,</span>
-<span id="cb43-3"><a href="#cb43-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmVersion=</span><span class="st">"5.4"</span>,</span>
-<span id="cb43-4"><a href="#cb43-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmDatabaseSchema =</span> <span class="st">"primed"</span>,</span>
-<span id="cb43-5"><a href="#cb43-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeDdl =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb43-6"><a href="#cb43-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">executePrimaryKey =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb43-7"><a href="#cb43-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeForeignKey =</span> <span class="cn">TRUE</span>,</span>
-<span id="cb43-8"><a href="#cb43-8" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb43-9"><a href="#cb43-9" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a>CommonDataModel<span class="sc">::</span><span class="fu">executeDdl</span>(</span>
+<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">connectionDetails=</span>connectionDetails,</span>
+<span id="cb33-3"><a href="#cb33-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmVersion=</span><span class="st">"5.4"</span>,</span>
+<span id="cb33-4"><a href="#cb33-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">cdmDatabaseSchema =</span> <span class="st">"primed"</span>,</span>
+<span id="cb33-5"><a href="#cb33-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeDdl =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb33-6"><a href="#cb33-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">executePrimaryKey =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb33-7"><a href="#cb33-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">executeForeignKey =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb33-8"><a href="#cb33-8" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb33-9"><a href="#cb33-9" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 </section>

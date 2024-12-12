@@ -26,7 +26,7 @@ Prerequisites for DatabaseConnector and SqlRender packages: https://github.com/o
 
     -   Download and install the gfortran compiler `gfortran-12.2-universal.pkg`
 
-```{r eval=FALSE}
+```{r setup1, eval=FALSE}
 usethis::edit_r_makevars()
 ```
 
@@ -40,7 +40,7 @@ FLIBS=-L /opt/gfortran/lib
 
 -   Verify that build tools are installed and available by opening an R console and running- verified!
 
-```{r  eval=FALSE}
+```{r setup2, eval=FALSE}
 install.packages("pkgbuild")
 pkgbuild::check_build_tools()
 
@@ -50,7 +50,7 @@ pkgbuild::check_build_tools()
 
 ## Install SQLRender and Verify Installation
 
-```{r  eval=FALSE}
+```{r setup3, eval=FALSE}
 #install.packages("SqlRender", dependencies = TRUE)
 library(SqlRender)
 translate("SELECT TOP 10 * FROM person;", "postgresql")
@@ -58,21 +58,21 @@ translate("SELECT TOP 10 * FROM person;", "postgresql")
 
 ## Install DatabaseConnector
 
-```{r  eval=FALSE}
+```{r setup4, eval=FALSE}
 install.packages("DatabaseConnector")
 
 ```
 
 ## Install SQLlite
 
-```{r  eval=FALSE}
+```{r setup5, eval=FALSE}
 install.packages("RSQLite")
 
 ```
 
 Set up Github Personal Access Token
 
-```{r  eval=FALSE}
+```{r setup6, eval=FALSE}
 install.packages("usethis")
 library(usethis)
 create_github_token(scopes = c("(no scope)"), description = "R:GITHUB_PAT", host = "https://github.com")
@@ -80,16 +80,24 @@ create_github_token(scopes = c("(no scope)"), description = "R:GITHUB_PAT", host
 
 Add PAT to .Renviron
 
-```{r  eval=FALSE}
+```{r setup7, eval=FALSE}
 edit_r_environ()
 
 ```
 
 # Install CDM 5.4.0
 
-```{r}
+```{r setup8, eval=FALSE}
 if (!require("devtools")) install.packages("devtools")
 devtools::install_github("OHDSI/CommonDataModel")
+```
+
+```{r}
+CommonDataModel::listSupportedDialects()
+CommonDataModel::listSupportedVersions()
+
+
+
 ```
 
 # Create a database for CDM5.4.0
@@ -124,12 +132,12 @@ I created a user called 'primed' with password 'primed'. I created a database ca
 
 Website:[Best Practices in Working with Databases](https://solutions.posit.co/connections/db/)
 
-```{r}
+```{r database1, eval=FALSE}
 #install.packages("tidyverse")
 library(tidyverse)
 ```
 
-```{r}
+```{r database2, eval=FALSE}
 library(DBI)
 library(RPostgreSQL)
 library(DatabaseConnector)
@@ -137,7 +145,7 @@ downloadJdbcDrivers("postgresql",pathToDriver="./JdbcDrivers/")
 
 ```
 
-```{r}
+```{r database3, eval=FALSE}
 connectionDetails <- createConnectionDetails(dbms="postgresql", 
                                              user="primed", password="primed", 
                                              server="localhost/primed", port=5432, 
@@ -147,7 +155,7 @@ connectionDetails <- createConnectionDetails(dbms="postgresql",
 
 Create connection and test
 
-```{r}
+```{r eval=FALSE}
 conn <- connect(connectionDetails)
 mytargetdialect <- dbms(connection = conn)
 print(mytargetdialect)
@@ -156,7 +164,7 @@ disconnect(conn)
 
 ## Execute the DDL on the database
 
-Do not create KEYs or FKs
+Do not create KEYs or FKs at first. The DDL sets up the database tables.
 
 ```{r eval=FALSE}
 CommonDataModel::executeDdl(
@@ -171,68 +179,7 @@ CommonDataModel::executeDdl(
 
 ## Write table contents to the database
 
-### CONCEPT
-
-```{r eval=FALSE}
-
-in.concept <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT.csv", 
-                         delim="\t",
-                         col_types=cols(
-                           concept_id = col_integer(),
-                           concept_name = col_character(),
-                           domain_id = col_character(),
-                           vocabulary_id = col_character(),
-                           concept_class_id = col_character(),
-                           standard_concept = col_character(),
-                           concept_code = col_character(),
-                           valid_start_date = col_date(format = "%Y%m%d"),
-                           valid_end_date = col_date(format = "%Y%m%d"),
-                           invalid_reason = col_character()
-                         ),na="NULL")
-
-head(in.concept)
-conn <- connect(connectionDetails)
-dbWriteTable(conn = conn, name = 'concept', value = data.frame(in.concept), append = TRUE, header = TRUE, row.names = FALSE)
-disconnect(conn)
-
-rm(in.concept)
-```
-
-### DOMAIN
-
-```{r  eval=FALSE}
-
-in.domain <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/DOMAIN.csv",delim="\t",na="NULL",col_types=cols(
-  domain_id = col_character(),
-  domain_name = col_character(),
-  domain_concept_id = col_integer()
-))
-
-head(in.domain)
-conn <- connect(connectionDetails)
-dbWriteTable(conn = conn, name = 'domain', value = data.frame(in.domain), append = TRUE, header = TRUE, row.names = FALSE)
-disconnect(conn)
-
-rm(in.domain)
-```
-
-### CONCEPT_CLASS
-
-```{r  eval=FALSE}
-in.concept_class <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_CLASS.csv",
-                               col_types=cols(
-                                 concept_class_id = col_character(),
-                                 concept_class_name = col_character(),
-                                 concept_class_concept_id = col_integer()
-                               ))
-head(in.concept_class)
-
-conn <- connect(connectionDetails)
-dbWriteTable(conn = conn, name = 'concept_class', value = data.frame(in.concept_class), append = TRUE, header = TRUE, row.names = FALSE)
-disconnect(conn)
-
-rm(in.concept_class)
-```
+### 
 
 ### CONCEPT CPT4
 
@@ -263,10 +210,98 @@ Updated CPT4 records:  17455/17455
 amanning@wm6ad-0b7 vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965 % 
 ```
 
+### CONCEPT
+
+```{r eval=FALSE}
+
+in.concept <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT.csv", 
+                         delim="\t",
+                         col_types=cols(
+                           concept_id = col_integer(),
+                           concept_name = col_character(),
+                           domain_id = col_character(),
+                           vocabulary_id = col_character(),
+                           concept_class_id = col_character(),
+                           standard_concept = col_character(),
+                           concept_code = col_character(),
+                           valid_start_date = col_date(format = "%Y%m%d"),
+                           valid_end_date = col_date(format = "%Y%m%d"),
+                           invalid_reason = col_character()
+                         ),na="NULL")
+
+head(in.concept)
+conn <- connect(connectionDetails)
+dbWriteTable(conn = conn, name = 'concept', value = data.frame(in.concept), append = TRUE, header = TRUE, row.names = FALSE)
+disconnect(conn)
+
+rm(in.concept)
+```
+
+```{r  eval=FALSE}
+
+in.concept_cpt4 <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_CPT4.csv", 
+                         delim="\t",
+                         col_types=cols(
+                           concept_id = col_integer(),
+                           concept_name = col_character(),
+                           domain_id = col_character(),
+                           vocabulary_id = col_character(),
+                           concept_class_id = col_character(),
+                           standard_concept = col_character(),
+                           concept_code = col_character(),
+                           valid_start_date = col_date(format = "%Y%m%d"),
+                           valid_end_date = col_date(format = "%Y%m%d"),
+                           invalid_reason = col_character()
+                         ),na="NULL")
+
+head(in.concept_cpt4)
+conn <- connect(connectionDetails)
+dbWriteTable(conn = conn, name = 'concept', value = data.frame(in.concept_cpt4), append = TRUE, header = TRUE, row.names = FALSE)
+disconnect(conn)
+
+rm(in.concept_cpt4)
+```
+
+### DOMAIN
+
+```{r  eval=FALSE}
+
+in.domain <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/DOMAIN.csv",delim="\t",na="NULL",col_types=cols(
+  domain_id = col_character(),
+  domain_name = col_character(),
+  domain_concept_id = col_integer()
+))
+
+head(in.domain)
+conn <- connect(connectionDetails)
+dbWriteTable(conn = conn, name = 'domain', value = data.frame(in.domain), append = TRUE, header = TRUE, row.names = FALSE)
+disconnect(conn)
+
+rm(in.domain)
+```
+
+### CONCEPT_CLASS
+
+```{r  eval=FALSE}
+in.concept_class <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_CLASS.csv",
+                               col_types=cols(
+                                 concept_class_id = col_character(),
+                                 concept_class_name = col_character(),
+                                 concept_class_concept_id = col_integer()
+                               ))
+head(in.concept_class)
+
+conn <- connect(connectionDetails)
+dbWriteTable(conn = conn, name = 'concept_class', value = data.frame(in.concept_class), append = TRUE, header = TRUE, row.names = FALSE)
+disconnect(conn)
+
+rm(in.concept_class)
+```
+
 ### RELATIONASHIP
 
 ```{r  eval=FALSE}
-in.relationship <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/RELATIONSHIP.csv", col_types=cols(
+in.relationship <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/RELATIONSHIP.csv", col_types=cols(
   relationship_id = col_character(),
   relationship_name = col_character(),
   is_hierarchical = col_character(),
@@ -284,7 +319,7 @@ disconnect(conn)
 ### DRUG STRENGTH
 
 ```{r  eval=FALSE}
-in.drug_strength <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/DRUG_STRENGTH.csv", col_types = cols(
+in.drug_strength <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/DRUG_STRENGTH.csv", col_types = cols(
   drug_concept_id = col_integer(),
   ingredient_concept_id = col_integer(),
   amount_value = col_double(),
@@ -310,7 +345,7 @@ rm(in.drug_strength)
 ### VOCABULARY
 
 ```{r  eval=FALSE}
-in.vocabulary <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/VOCABULARY.csv", col_types = cols(
+in.vocabulary <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/VOCABULARY.csv", col_types = cols(
   vocabulary_id = col_character(),
   vocabulary_name = col_character(),
   vocabulary_reference = col_character(),
@@ -328,7 +363,7 @@ rm(in.vocabulary)
 ### CONCEPT_SYNONYM
 
 ```{r  eval=FALSE}
-in.concept_synonym <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_SYNONYM.csv",col_types=cols(
+in.concept_synonym <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_SYNONYM.csv",col_types=cols(
   concept_id = col_integer(),
   concept_synonym_name = col_character(),
   language_concept_id = col_integer()
@@ -345,7 +380,7 @@ rm(in.concept_synonym)
 ### CONCEPT_ANCESTER
 
 ```{r  eval=FALSE}
-in.concept_ancestor <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_ANCESTOR.csv",col_types=cols(
+in.concept_ancestor <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_ANCESTOR.csv",col_types=cols(
   ancestor_concept_id = col_integer(),
   descendant_concept_id = col_integer(),
   min_levels_of_separation = col_integer(),
@@ -363,7 +398,7 @@ rm(in.concept_ancestor)
 ### CONCEPT_RELATIONSHIP
 
 ```{r  eval=FALSE}
-in.concept_relationship <- read_delim("/Users/amanning/Downloads/vocabulary_download_v5_{38bddeb0-45da-435f-bb8e-6f34aba2ec5a}_1727651640965/CONCEPT_RELATIONSHIP.csv",na="NULL", col_types=cols(
+in.concept_relationship <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/CONCEPT_RELATIONSHIP.csv",na="NULL", col_types=cols(
   concept_id_1 = col_integer(),
   concept_id_2 = col_integer(),
   relationship_id = col_character(),

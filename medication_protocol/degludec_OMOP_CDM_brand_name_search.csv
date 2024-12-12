@@ -1,0 +1,156 @@
+CONCEPT_CODE,CONCEPT_NAME,DOMAIN_ID,CONCEPT_CLASS_ID,STANDARD_CONCEPT,VOCABULARY_ID,VOCABULARY_NAME,brand_name
+OMOP5123242,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5123245,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128586,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML [Ryzodeg],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5160139,insulin aspart / insulin degludec Pen Injector [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4689504,"insulin degludec 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML Injectable Solution [RYZODEG FLEX TOUCH]",Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+1994314,"insulin aspart, human / insulin degludec Pen Injector [Ryzodeg]",Drug,Branded Drug Form,S,RxNorm,RxNorm (NLM),ryzodeg
+OMOP5128582,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128587,insulin aspart / insulin degludec Cartridge [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128589,insulin aspart / insulin degludec Pen Injector [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4648537,"3 ML insulin degludec 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML Injectable Solution [RYZODEG FLEX TOUCH]",Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+OMOP4689505,"insulin degludec 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML [RYZODEG FLEX TOUCH]",Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+1994316,"3 ML insulin aspart, human 30 UNT/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg]",Drug,Quant Branded Drug,S,RxNorm,RxNorm (NLM),ryzodeg
+OMOP5123246,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128579,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128583,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4817883,insulin aspart / insulin degludec Prefilled Syringe [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5160141,insulin aspart / insulin degludec Cartridge [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+1994313,"insulin aspart, human 30 UNT/ML / insulin degludec 70 UNT/ML [Ryzodeg]",Drug,Branded Drug Comp,S,RxNorm,RxNorm (NLM),ryzodeg
+1994318,"insulin aspart, human 30 UNT/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg]",Drug,Branded Drug,S,RxNorm,RxNorm (NLM),ryzodeg
+OMOP5123241,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128578,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4689507,"insulin degludec / Insulin, Aspart, Human Injectable Solution [RYZODEG FLEX TOUCH]",Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+2107521,insulin degludec Injectable Solution [Tresiba],Drug,Branded Drug Form,S,RxNorm,RxNorm (NLM),tresiba
+2107522,insulin degludec 100 UNT/ML Injectable Solution [Tresiba],Drug,Branded Drug,S,RxNorm,RxNorm (NLM),tresiba
+1860169,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML [Xultophy],Drug,Branded Drug Comp,S,RxNorm,RxNorm (NLM),xultophy
+1860170,insulin degludec / liraglutide Pen Injector [Xultophy],Drug,Branded Drug Form,S,RxNorm,RxNorm (NLM),xultophy
+OMOP4937821,insulin degludec 200 IU/ML [TRESIBA FLEXTOUCH],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5123221,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5123242,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5123245,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128007,insulin degludec 100 UNT/ML Cartridge [Tresiba],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5128010,insulin degludec Cartridge [Tresiba],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5128586,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML [Ryzodeg],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP266124,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP266122,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+1670023,3 ML insulin degludec 200 UNT/ML Pen Injector [Tresiba],Drug,Quant Branded Drug,S,RxNorm,RxNorm (NLM),tresiba
+OMOP2772418,insulin degludec 100 UNT/ML Injectable Suspension [Tresiba] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3097271,insulin degludec 200 UNT/ML Injectable Solution [Tresiba] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3101096,insulin degludec 200 UNT/ML Injectable Solution [Tresiba],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP4823780,3 ML insulin degludec 100 UNT/ML Injectable Solution [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5206729,insulin degludec 100 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5206732,insulin degludec 200 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP2373489,insulin degludec Prefilled Syringe [Tresiba],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2386203,insulin degludec 100 UNT/ML Prefilled Syringe [Tresiba] Box of 10,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2510594,insulin degludec 200 UNT/ML Prefilled Syringe [Tresiba] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2545329,3 ML insulin degludec 200 UNT/ML Prefilled Syringe [Tresiba] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5160139,insulin aspart / insulin degludec Pen Injector [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4689504,"insulin degludec 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML Injectable Solution [RYZODEG FLEX TOUCH]",Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+OMOP4689508,insulin degludec 200 UNT/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP4689509,insulin degludec 200 UNT/ML [TRESIBA FLEXTOUCH],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP3038980,insulin degludec 100 UNT/ML Injectable Suspension [Tresiba] Box of 10,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+1994314,"insulin aspart, human / insulin degludec Pen Injector [Ryzodeg]",Drug,Branded Drug Form,S,RxNorm,RxNorm (NLM),ryzodeg
+1860174,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy],Drug,Branded Drug,S,RxNorm,RxNorm (NLM),xultophy
+OMOP4927477,3 ML insulin degludec 200 IU/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP4927480,3 ML insulin degludec 100 IU/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP4937823,insulin degludec 100 IU/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5123224,3 ML insulin degludec 200 UNT/ML Pen Injector [Tresiba] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5128000,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5128004,insulin degludec 200 UNT/ML Pen Injector [Tresiba] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5128582,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128587,insulin aspart / insulin degludec Cartridge [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128589,insulin aspart / insulin degludec Pen Injector [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP266121,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP305836,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP305834,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP4788362,insulin degludec 300 UNT [Tresiba],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+1670014,insulin degludec Pen Injector [Tresiba],Drug,Branded Drug Form,S,RxNorm,RxNorm (NLM),tresiba
+OMOP2751471,insulin degludec 100 UNT/ML Injectable Suspension [Tresiba],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2780830,3 ML insulin degludec 100 UNT/ML Injectable Suspension [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3098058,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3102303,3 ML insulin degludec 200 UNT/ML Injectable Solution [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3102337,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3102351,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5206730,insulin degludec 100 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5206727,insulin degludec Injectable Solution [TRESIBA FLEXTOUCH],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5209587,3 ML insulin degludec 200 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5209582,3 ML insulin degludec 200 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5209577,3 ML insulin degludec 100 UNT/ML Injectable Solution [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2198566,insulin degludec 100 UNT/ML Prefilled Syringe [Tresiba],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP4867790,insulin degludec 100 UNT/ML Pen Injector [Tresiba] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP4869799,3 ML insulin degludec 100 UNT/ML Pen Injector [Tresiba] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP4648537,"3 ML insulin degludec 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML Injectable Solution [RYZODEG FLEX TOUCH]",Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+OMOP4648539,3 ML insulin degludec 100 UNT/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP4689505,"insulin degludec 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML [RYZODEG FLEX TOUCH]",Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+OMOP4689512,insulin degludec Pen Injector [TRESIBA FLEXTOUCH],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+1994316,"3 ML insulin aspart, human 30 UNT/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg]",Drug,Quant Branded Drug,S,RxNorm,RxNorm (NLM),ryzodeg
+OMOP4937819,insulin degludec 200 IU/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP4937825,insulin degludec 100 IU/ML [TRESIBA FLEXTOUCH],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5123220,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5123226,3 ML insulin degludec 100 UNT/ML Cartridge [Tresiba] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5123227,3 ML insulin degludec 100 UNT/ML Cartridge [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5123246,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128579,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128583,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP305832,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP266116,insulin degludec / liraglutide Prefilled Syringe [Xultophy],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP4817883,insulin aspart / insulin degludec Prefilled Syringe [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+1670013,insulin degludec 100 UNT/ML [Tresiba],Drug,Branded Drug Comp,S,RxNorm,RxNorm (NLM),tresiba
+1670016,3 ML insulin degludec 100 UNT/ML Pen Injector [Tresiba],Drug,Quant Branded Drug,S,RxNorm,RxNorm (NLM),tresiba
+1670022,insulin degludec 200 UNT/ML [Tresiba],Drug,Branded Drug Comp,S,RxNorm,RxNorm (NLM),tresiba
+OMOP2781203,3 ML insulin degludec 100 UNT/ML Injectable Suspension [Tresiba] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3097282,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3102316,3 ML insulin degludec 200 UNT/ML Injectable Solution [Tresiba] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3102352,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5209580,3 ML insulin degludec 100 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP2544856,3 ML insulin degludec 100 UNT/ML Prefilled Syringe [Tresiba] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2546486,3 ML insulin degludec 100 UNT/ML Prefilled Syringe [Tresiba] Box of 10,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2546958,3 ML insulin degludec 200 UNT/ML Prefilled Syringe [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5160141,insulin aspart / insulin degludec Cartridge [Ryzodeg],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4648538,3 ML insulin degludec 200 UNT/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP3067861,3 ML insulin degludec 100 UNT/ML Injectable Suspension [Tresiba] Box of 10,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+1994313,"insulin aspart, human 30 UNT/ML / insulin degludec 70 UNT/ML [Ryzodeg]",Drug,Branded Drug Comp,S,RxNorm,RxNorm (NLM),ryzodeg
+1994318,"insulin aspart, human 30 UNT/ML / insulin degludec 70 UNT/ML Pen Injector [Ryzodeg]",Drug,Branded Drug,S,RxNorm,RxNorm (NLM),ryzodeg
+1860172,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy],Drug,Quant Branded Drug,S,RxNorm,RxNorm (NLM),xultophy
+OMOP5123241,3 ML insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP5128001,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5128006,insulin degludec 100 UNT/ML Cartridge [Tresiba] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5128578,insulin aspart 30 IU/ML / insulin degludec 70 UNT/ML Cartridge [Ryzodeg] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg
+OMOP4799598,insulin degludec 300 UNT Prefilled Syringe [Tresiba],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+1670018,insulin degludec 100 UNT/ML Pen Injector [Tresiba],Drug,Branded Drug,S,RxNorm,RxNorm (NLM),tresiba
+1670025,insulin degludec 200 UNT/ML Pen Injector [Tresiba],Drug,Branded Drug,S,RxNorm,RxNorm (NLM),tresiba
+OMOP2755163,insulin degludec Injectable Suspension [Tresiba],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP3100092,insulin degludec / liraglutide Injectable Solution [Xultophy],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3100330,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5206731,insulin degludec 200 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP5209578,3 ML insulin degludec 100 UNT/ML Injectable Solution [TRESIBA FLEXTOUCH],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP2136212,insulin degludec 100 UNT/ML Prefilled Syringe [Tresiba] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2417408,insulin degludec 200 UNT/ML Prefilled Syringe [Tresiba],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP2544857,3 ML insulin degludec 100 UNT/ML Prefilled Syringe [Tresiba],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP5160182,insulin degludec Cartridge [Tresiba],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,tresiba
+OMOP4689507,"insulin degludec / Insulin, Aspart, Human Injectable Solution [RYZODEG FLEX TOUCH]",Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,ryzodeg flex touch
+OMOP4689510,insulin degludec 100 UNT/ML Pen Injector [TRESIBA FLEXTOUCH],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+OMOP4689511,insulin degludec 100 UNT/ML [TRESIBA FLEXTOUCH],Drug,Branded Drug Comp,S,RxNorm Extension,OMOP RxNorm Extension,tresiba flextouch
+1860169,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML [Xultophy],Drug,Branded Drug Comp,S,RxNorm,RxNorm (NLM),xultophy
+1860170,insulin degludec / liraglutide Pen Injector [Xultophy],Drug,Branded Drug Form,S,RxNorm,RxNorm (NLM),xultophy
+OMOP5123221,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP266124,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP266122,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+1860174,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy],Drug,Branded Drug,S,RxNorm,RxNorm (NLM),xultophy
+OMOP5128000,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP266121,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP305836,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP305834,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3098058,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy],Drug,Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3102337,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3102351,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP5123220,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 5,Drug,Quant Branded Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP305832,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP266116,insulin degludec / liraglutide Prefilled Syringe [Xultophy],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3097282,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 5,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3102352,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy],Drug,Quant Branded Drug,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+1860172,3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy],Drug,Quant Branded Drug,S,RxNorm,RxNorm (NLM),xultophy
+OMOP5128001,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Pen Injector [Xultophy] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3100092,insulin degludec / liraglutide Injectable Solution [Xultophy],Drug,Branded Drug Form,S,RxNorm Extension,OMOP RxNorm Extension,xultophy
+OMOP3100330,insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Injectable Solution [Xultophy] Box of 3,Drug,Branded Drug Box,S,RxNorm Extension,OMOP RxNorm Extension,xultophy

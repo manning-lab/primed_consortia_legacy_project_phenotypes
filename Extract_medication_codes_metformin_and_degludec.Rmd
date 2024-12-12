@@ -1,0 +1,166 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Setup
+## libraries
+```{r setup1, echo=TRUE}
+library(tidyverse)
+library(SqlRender)
+library(DatabaseConnector)
+
+connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+```
+
+Output directory for the results: medication_protocol
+
+```{r setupdir}
+dir.create("medication_protocol",showWarnings = FALSE)
+```
+
+
+## functions
+
+```{r setup2, echo=TRUE}
+find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
+  connectionDetails <- createConnectionDetails(dbms="postgresql", 
+                                             user="primed", password="primed", 
+                                             server="localhost/primed", port=5432, 
+                                             pathToDriver="./JdbcDrivers/")
+  
+  sql <- render("SELECT  d.concept_code, d.concept_name, 
+        d.domain_id, d.concept_class_id, d.standard_concept,
+        d.vocabulary_id,
+        v.vocabulary_name
+ FROM primed.concept_ancestor ca
+        JOIN primed.concept d on d.concept_id = ca.descendant_concept_id
+        JOIN primed.concept a on a.concept_id = ca.ancestor_concept_id
+        JOIN primed.vocabulary v on d.vocabulary_id = v.vocabulary_id
+ WHERE  ca.ancestor_concept_id = @class_concept_id
+   AND  a.vocabulary_id = 'ATC'
+   AND  d.domain_id = 'Drug'
+   AND  (getdate() >= d.valid_start_date)
+   AND  (getdate() <= d.valid_end_date);",
+                    class_concept_id=class_concept_id)
+  #print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  return(results)
+}
+
+
+brand_name_search <- function(x) {
+  print(paste("Searching for brand names of",x["CONCEPT_NAME"], " with ATC code ", x["CONCEPT_CODE"]," and OMOP Concept ID ",x["CONCEPT_ID"]))
+  to_return <- find_drugs_by_ATC_class_concept_id(x["CONCEPT_ID"]) %>% 
+           filter(grepl("Brand",CONCEPT_CLASS_ID)) %>% #& VOCABULARY_ID=="RxNorm") %>% 
+           mutate(brand_name = str_extract(CONCEPT_NAME, "\\[.*\\]")) %>% 
+           mutate(brand_name = str_replace_all(brand_name,"\\[","")) %>% 
+           mutate(brand_name = str_replace_all(brand_name,"\\]","")) %>%
+           mutate(brand_name = str_to_lower(brand_name))
+  for(vocab in unique(to_return$VOCABULARY_ID)) {
+    print(paste("Found ",length(unique(to_return[to_return$VOCABULARY_ID==vocab,]$brand_name))," brand names in ",vocab,":", paste(unique(to_return[to_return$VOCABULARY_ID==vocab,]$brand_name),collapse=", ")))
+  }
+  return(to_return)
+}
+```
+
+
+
+# Sources
+
+In the current analysis, we will use the following sources:
+
+```{r sources1, echo=TRUE}
+  sql <- render("SELECT  c.vocabulary_id, c.concept_class_id, count(*) as n
+ FROM primed.concept c
+ WHERE  c.domain_id = 'Drug'
+ GROUP BY c.vocabulary_id, c.concept_class_id;")
+  #print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  results <- querySql(conn,sql)
+  disconnect(conn)
+  print(results)
+```
+
+# Protocol
+
+A search should begin with the chemical substance ([ATC 5th Level classification](https://www.who.int/tools/atc-ddd-toolkit/atc-classification)) of the drug. The chemical substance is the active ingredient of the drug.
+
+## Metformin:
+
+Chemical substance: "metformin"
+
+```{r protocol1, echo=TRUE}
+sql <- render("SELECT *
+ FROM primed.concept c
+ WHERE  
+ c.vocabulary_id = 'ATC' AND c.concept_class_id = 'ATC 5th' AND c.concept_name LIKE '%metformin%'")
+  #print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  metformin_concept_search_results <- querySql(conn,sql)
+print(metformin_concept_search_results)
+
+write_csv(metformin_concept_search_results,"medication_protocol/metformin_concept_search_results.csv")
+```
+
+### get brand names
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+metformin_OMOP_CDM_brand_name_search <- bind_rows( apply(metformin_concept_search_results,1,brand_name_search))
+data_frame(metformin=unique(metformin_OMOP_CDM_brand_name_search$brand_name))
+
+write_csv(metformin_OMOP_CDM_brand_name_search,"medication_protocol/metformin_OMOP_CDM_brand_name_search.csv")
+
+```
+
+Check list against that from Drugbank.com. Which of the following were obtained with the OMOP CDM search and the RxNorm database?
+```{r}
+
+drug_list_string <- "Actoplus Met,Apo-Metformin,Avandamet,Fortamet,Glucophage,Glucovance,Glumetza,Glycon,Invokamet,Janumet,Jentadueto,Kazano,Kombiglyze,Komboglyze,Qternmet,Riomet,Segluromet,Synjardy,Trijardy,Velmetia,Xigduo,Zituvimet"
+drug_list <- str_split(drug_list_string,",")[[1]]
+
+table(str_to_lower(drug_list) %in% unique(metformin_OMOP_CDM_brand_name_search$brand_name))
+str_to_lower(drug_list)[!str_to_lower(drug_list) %in% unique(metformin_OMOP_CDM_brand_name_search$brand_name)]
+
+```
+
+
+## Insulin degludec
+
+Chemical substance: "insulin degludec"
+### Find ATC codes
+```{r echo=TRUE}
+sql <- render("SELECT *
+ FROM primed.concept c
+ WHERE  
+ c.vocabulary_id = 'ATC' AND c.concept_class_id = 'ATC 5th' AND c.concept_name LIKE '%insulin degludec%'")
+  #print(sql)
+  sql <- translate(sql,targetDialect = "postgresql")
+  conn <- connect(connectionDetails)
+  degludec_concept_search_results <- querySql(conn,sql)
+print(degludec_concept_search_results)
+
+write_csv(degludec_concept_search_results,"medication_protocol/degludec_concept_search_results.csv")
+```
+## get brand names
+
+```{r}
+degludec_OMOP_CDM_brand_name_search <- bind_rows( apply(degludec_concept_search_results,1,brand_name_search))
+data_frame(degludec=unique(degludec_OMOP_CDM_brand_name_search$brand_name))
+
+write_csv(degludec_OMOP_CDM_brand_name_search,"medication_protocol/degludec_OMOP_CDM_brand_name_search.csv")
+
+```
+```
+
+
+
+
+
