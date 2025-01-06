@@ -6,18 +6,24 @@ output:
     toc: true
     number_sections: true
 ---
+```{r}
+# defaults for every cell
+# do not show messages or warnings
+
+```
+
 
 # PRIMED Consortium Legacy Project - Codes for Biobanks
 
 Release notes:
-
--   22 October 2024: Uploaded codes for Blood Cancers, HIV, End Stage Kidney Disease, spleen disorders
+-   27 November 2024: Added "brand name medication" query and code files which provide brand name medications for every 5th level ATC code
+-   18 November 2024: Refactored Exclusion codes to include additional vocabularies and simplify output
+-   22 October 2024: Uploaded codes for Blood Cancers, HIV, End Stage Kidney Disease, spleen disorders, Fibrosis, Cirrhosis of the Liver
 -   21 October2024: Uploaded Codes for Blood Disorders
 -   17 October2024: Fixed the codes to use for Trait queries. Started on Conditions
 -   15October2024: Added the codes to use for Trait queries
 -   30Sept2024.tsv: Added the codes to use for Drug queries
 
-Table of Contents
 
 ```{r setup, include=FALSE}
 library(DBI)
@@ -25,6 +31,7 @@ library(RPostgreSQL)
 library(DatabaseConnector)
 library(SqlRender)
 library(dplyr)
+library(readr)
 ```
 
 ## Common Data Model Vocabularies
@@ -37,30 +44,16 @@ Detailed documentation about [Standardized Vocabularies](https://ohdsi.github.io
 
 For documentation detailing the setup of a local database, please see [Set_up_database.html](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Set_up_database.html)
 
-| ID (CDM v4.5) | CODE (CDM v5) | Name | Required | Latest Update |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
-| 1 | SNOMED | Systematic Nomenclature of Medicine - Clinical Terms (IHTSDO) |  | 31-Jan-2024 |
-| 2 | ICD9CM | International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 1 and 2 (NCHS) |  | 30-Sep-2014 |
-| 3 | ICD9Proc | International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 3 (NCHS) |  | 30-Sep-2014 |
-| 4 | CPT4 | Current Procedural Terminology version 4 (AMA) | EULA required | 05-May-2024 |
-| 5 | HCPCS | Healthcare Common Procedure Coding System (CMS) |  | 30-Jun-2024 |
-| 6 | LOINC | Logical Observation Identifiers Names and Codes (Regenstrief Institute) |  | 26-Feb-2024 |
-| 8 | RxNorm | RxNorm (NLM) |  | 05-May-2024 |
-| 9 | NDC | National Drug Code (FDA and manufacturers) |  | 24-Aug-2024 |
-| 12 | Gender | OMOP Gender |  |  |
-| 13 | Race | Race and Ethnicity Code Set (USBC) |  |  |
-| 14 | CMS Place of Service | Place of Service Codes for Professional Claims (CMS) |  | 04-Aug-2024 |
-| 21 | ATC | WHO Anatomic Therapeutic Chemical Classification |  | 02-Jul-2024 |
-| 43 | Revenue Code | UB04/CMS1450 Revenue Codes (CMS) |  |  |
-| 44 | Ethnicity | OMOP Ethnicity |  |  |
-| 47 | NUCC | National Uniform Claim Committee Health Care Provider Taxonomy Code Set (NUCC) |  | 25-Jun-2018 |
-| 48 | Medicare Specialty | Medicare provider/supplier specialty codes (CMS) |  | 25-Jun-2018 |
-| 50 | SPL | Structured Product Labeling (FDA) |  | 24-Aug-2024 |
-| 65 | Currency | International Currency Symbol (ISO 4217) |  |  |
-| 70 | ICD10CM | International Classification of Diseases, Tenth Revision, Clinical Modification (NCHS) |  | 30-Sep-2024 |
-| 71 | ABMS | Provider Specialty (American Board of Medical Specialties) |  | 25-Jun-2018 |
-| 82 | RxNorm Extension | OMOP RxNorm Extension |  | 30-Jun-2024 |
-| 128 | OMOP Extension | OMOP Extension (OHDSI) |  | 15-Jul-2024 |
+```{r}
+in.vocabulary <- read_delim("vocabulary_download_v5_{d3fc0e41-71fa-4f84-9576-80ed6651d6a5}_1731967602015/VOCABULARY.csv", col_types = cols(
+  vocabulary_id = col_character(),
+  vocabulary_name = col_character(),
+  vocabulary_reference = col_character(),
+  vocabulary_version = col_character(),
+  vocabulary_concept_id = col_integer()))
+
+in.vocabulary
+```
 
 Common Data Model Queries
 
@@ -68,193 +61,9 @@ The queries we used were based on the ODSI Query Library
 
 The query used to generate the codes for traits, conditions and procedures is based on "**G06: Find concepts and their descendants that are covered by a given source code**
 
-```{r eval=FALSE, echo=FALSE}
-
-find_descendants_for_a_given_concept_id <- function(concept_id) {
-  connectionDetails <- createConnectionDetails(dbms="postgresql", 
-                                             user="primed", password="primed", 
-                                             server="localhost/primed", port=5432, 
-                                             pathToDriver="./JdbcDrivers/")
-  
-  sql <- render("SELECT
-  c.concept_id               AS descendant_concept_id,
-  c.concept_name             AS descendant_concept_name,
-  c.concept_code             AS descendant_concept_code,
-  c.concept_class_id         AS descendant_concept_class_id,
-  c.vocabulary_id            AS vocabulary_id,
-  a.min_levels_of_separation AS min_separation,
-  a.max_levels_of_separation AS max_separation,
-  c.invalid_reason           AS invalid_reason
-FROM primed.concept_ancestor AS a
-  JOIN primed.concept AS c ON a.descendant_concept_id = c.concept_id
-WHERE 
-  a.ancestor_concept_id != a.descendant_concept_id AND 
-  a.ancestor_concept_id = @concept_id
-ORDER BY vocabulary_id, min_separation
-;",
-                    concept_id=concept_id)
-  print(sql)
-  sql <- translate(sql,targetDialect = "postgresql")
-  conn <- connect(connectionDetails)
-  results <- querySql(conn,sql)
-  disconnect(conn)
-  return(results)
-}
-
-# G06: Find concepts and their descendants that are covered by a given source code
-```
-
-```{r eval=FALSE, echo=FALSE}
-
-find_descendants_for_a_given_concept_id <- function(concept_id) {
-  connectionDetails <- createConnectionDetails(dbms="postgresql", 
-                                             user="primed", password="primed", 
-                                             server="localhost/primed", port=5432, 
-                                             pathToDriver="./JdbcDrivers/")
-  
-  sql <- render("WITH dm AS ( -- collect direct maps
-    SELECT
-      c1.concept_code     AS source_code,
-      c1.vocabulary_id    AS source_vocabulary_id,
-      c1.domain_id        AS source_domain_id,
-      c2.concept_id       AS target_concept_id,
-      c2.concept_name     AS target_concept_name,
-      c2.concept_code     AS target_concept_code,
-      c2.concept_class_id AS target_concept_class_id,
-      c2.vocabulary_id    AS target_concept_vocab_id
-    FROM primed.concept_relationship AS cr
-      JOIN primed.concept AS c1 ON cr.concept_id_1 = c1.concept_id
-      JOIN primed.concept AS c2 ON cr.concept_id_2 = c2.concept_id
-    WHERE
-      cr.relationship_id = 'Maps to' AND
-      c1.concept_id IN (@concept_id) AND
-      c1.vocabulary_id = 'SNOMED'
-)
-SELECT
-  dm.source_code,
-  dm.source_vocabulary_id,
-  dm.source_domain_id,
-  dc.concept_id       AS target_concept_id,
-  dc.concept_name     AS target_concept_name,
-  dc.concept_code     AS target_concept_code,
-  dc.concept_class_id AS target_concept_class_id,
-  dc.vocabulary_id    AS target_concept_vocab_id
-FROM primed.concept_ancestor AS ca -- collect descendants which includes ancestor itself
-  JOIN dm ON ca.ancestor_concept_id = dm.target_concept_id
-  JOIN primed.concept AS dc ON ca.descendant_concept_id = dc.concept_id
-WHERE dc.standard_concept = 'S'
-;",
-                    concept_id=concept_id)
-#  print(sql)
-  sql <- translate(sql,targetDialect = "postgresql")
-  conn <- connect(connectionDetails)
-  results <- querySql(conn,sql)
-  disconnect(conn)
-  return(results)
-}
-
-find_descendants_for_a_given_concept_code <- function(concept_code, concept_vocabulary="SNOMED") {
-  connectionDetails <- createConnectionDetails(dbms="postgresql", 
-                                             user="primed", password="primed", 
-                                             server="localhost/primed", port=5432, 
-                                             pathToDriver="./JdbcDrivers/")
-  
-  sql <- render("WITH dm AS ( -- collect direct maps
-    SELECT
-      c1.concept_code     AS source_code,
-      c1.vocabulary_id    AS source_vocabulary_id,
-      c1.domain_id        AS source_domain_id,
-      c2.concept_id       AS target_concept_id,
-      c2.concept_name     AS target_concept_name,
-      c2.concept_code     AS target_concept_code,
-      c2.concept_class_id AS target_concept_class_id,
-      c2.vocabulary_id    AS target_concept_vocab_id
-    FROM primed.concept_relationship AS cr
-      JOIN primed.concept AS c1 ON cr.concept_id_1 = c1.concept_id
-      JOIN primed.concept AS c2 ON cr.concept_id_2 = c2.concept_id
-    WHERE
-      cr.relationship_id = 'Maps to' AND
-      c1.concept_code IN ('@concept_code') AND
-      c1.vocabulary_id = '@concept_vocabulary'
-)
-SELECT
-  dm.source_code,
-  dm.source_vocabulary_id,
-  dm.source_domain_id,
-  dc.concept_id       AS target_concept_id,
-  dc.concept_name     AS target_concept_name,
-  dc.concept_code     AS target_concept_code,
-  dc.concept_class_id AS target_concept_class_id,
-  dc.vocabulary_id    AS target_concept_vocab_id
-FROM primed.concept_ancestor AS ca -- collect descendants which includes ancestor itself
-  JOIN dm ON ca.ancestor_concept_id = dm.target_concept_id
-  JOIN primed.concept AS dc ON ca.descendant_concept_id = dc.concept_id
-WHERE dc.standard_concept = 'S'
-;",
-  concept_code=concept_code,
-  concept_vocabulary=concept_vocabulary)
-  print(sql)
-  sql <- translate(sql,targetDialect = "postgresql")
-  conn <- connect(connectionDetails)
-  results <- querySql(conn,sql)
-  disconnect(conn)
-  return(results)
-}
-```
 
 ```{r eval=TRUE, echo=TRUE}
-
-find_descendants_and_mappings_for_a_given_concept_id <- function(concept_id,file_label) {
-  connectionDetails <- createConnectionDetails(dbms="postgresql", 
-                                             user="primed", password="primed", 
-                                             server="localhost/primed", port=5432, 
-                                             pathToDriver="./JdbcDrivers/")
-  
-  sql <- render(
-"SELECT
-  a.concept_id	    AS target_concept_id,
-  a.concept_code  AS target_concept_code,
-  a.concept_name	AS	target_concept_name,
-  a.vocabulary_id AS target_vocab_id,
-  cr.relationship_id   AS relationship_id,
-  d.concept_id         AS concept_id,
-  d.concept_name       AS concept_name,
-  d.concept_code       AS concept_code,
-  d.concept_class_id   AS concept_class_id,
-  d.vocabulary_id      AS concept_vocab_id
-FROM primed.concept_relationship AS cr
-  JOIN primed.concept AS a ON cr.concept_id_1 = a.concept_id
-  JOIN primed.concept AS d ON cr.concept_id_2 = d.concept_id
-WHERE 
-  (a.concept_id = @concept_id OR
-  a.concept_id in ( -- this subquery gets all descendants of the concept
-    SELECT
-      c.concept_id               AS descendant_concept_id
-    FROM primed.concept_ancestor AS a
-      JOIN primed.concept AS c ON a.descendant_concept_id = c.concept_id
-    WHERE 
-      a.ancestor_concept_id != a.descendant_concept_id AND 
-      a.ancestor_concept_id = @concept_id
-      )) AND
-  NOT relationship_id In ('Is a','Has clinical course', 'Followed by','Occurs after','Has status','Has Module','Has finding site', 'Has pathology','Has asso morph','Has occurrence','Has interpretation','Contained in panel')
-  ORDER BY cr.concept_id_1
-;",
-  concept_id=concept_id)
-#  print(sql)
-  sql <- translate(sql,targetDialect = "postgresql")
-  conn <- connect(connectionDetails)
-  results <- querySql(conn,sql)
-  disconnect(conn)
-  print(paste("Number of results returned:", nrow(results),"; Unique Concept IDs:" ,sum(!duplicated(results$CONCEPT_ID))))
-  print(table(results$CONCEPT_CLASS_ID[!duplicated(results$CONCEPT_ID)], results$CONCEPT_VOCAB_ID[!duplicated(results$CONCEPT_ID)]))
-  write.table(results,file=paste0(file_label,"_ALL_MAPPINGS.csv"),sep=",",quote=FALSE,row.names=FALSE)
-  write.table(results[!duplicated(results$CONCEPT_ID),
-                      c("CONCEPT_ID","CONCEPT_NAME","CONCEPT_CLASS_ID","CONCEPT_VOCAB_ID")],
-              file=paste0(file_label,"_UNIQUE_CODES.csv"),sep=",",quote=FALSE,row.names=FALSE)
-
-  return(results)
-}
-
+source("find_descendants_and_mappings_for_a_given_concept_id.R")
 ```
 
 ## Codes to use for Trait Queries
@@ -269,23 +78,12 @@ white_blood_cell_count_OMOP_4298431 <- find_descendants_and_mappings_for_a_given
 Download files:
 
 -   [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_AKM_17Oct2024_UNIQUE_CODES.csv)
-
-### Lymphocytes \| Blood \| Hematology and Cell counts
-
-```{r}
-lymphocytes_in_blood_OMOP_3019198 <- find_descendants_and_mappings_for_a_given_concept_id(3019198, file_label="lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024")
-```
-
-Download files:
-
--   [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/lymphocytes_in_blood_LOINC_3019198_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/white_blood_cell_count_SNOMED_4298431_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Leukocytes \| Blood \| Hematology and Cell counts
 
 ```{r}
-leukocytes_in_blood_OMOP_37043992 <- find_descendants_and_mappings_for_a_given_concept_id(37043992, file_label="leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024")
+leukocytes_in_blood_LOINC_37043992 <- find_descendants_and_mappings_for_a_given_concept_id(37043992, file_label="leukocytes_in_blood_LOINC_37043992_AKM_17Oct2024")
 ```
 
 Download files:
@@ -303,7 +101,16 @@ hba1c_SNOMED_4184637 <- find_descendants_and_mappings_for_a_given_concept_id(418
 Download file:
 
 -   [hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv](%3Chttps://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_SNOMED_4184637_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+```{r}
+hba1c_LOINC_1621295 <- find_descendants_and_mappings_for_a_given_concept_id(1621295, file_label="hba1c_LOINC_1621295_AKM_17Oct2024")
+```
+
+Download files: 
+
+- [hba1c_LOINC_1621295_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_LOINC_1621295_AKM_17Oct2024_ALL_MAPPINGS.csv) 
+- [hba1c_LOINC_1621295_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hba1c_LOINC_1621295_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### SBP
 
@@ -404,130 +211,68 @@ Download file:
 
 ### Codes for Blood Disorders
 
-Files with ICD-9 and ICD-10 codes
-
--   [ICD-9-blood_diseases_AB_16Oct2024.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ICD-9-blood_diseases_AB_16Oct2024.csv)
--   [ICD-10-blood_diseases_AB_16Oct2024.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/ICD-10-blood_diseases_AB_16Oct2024.csv)
-
-#### Disorder of cellular component of blood
-
-```{r}
-disorder_of_cellular_component_of_blood_OMOP_443723 <- find_descendants_and_mappings_for_a_given_concept_id(443723, file_label="disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024")
-```
-
-Download Files:
-
--   [disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_cellular_component_of_blood_SNOMED_443723_AKM_17Oct2024_UNIQUE_CODES.csv)
-
-#### Disorder of hematopoietic structure
+SNOMED: Disorder of cellular component of blood
+SNOMED CODE: 414022008
+OMOP CONCEPT ID: 443723
+SNOMED: Disorder of hematopoietic structure 
+SNOMED CODE: 414027002
+OMOP CONCEPT ID: 317248
+SNOMED: Agranulocytosis
+SNOMED CODE: 17182001
+OMOP CONCEPT ID: 440689
+SNOMED: Bone marrow transplant present
+SNOMED CODE: 737300001
+OMOP CONCEPT ID: 42537745
 
 ```{r}
-disorder_of_hematopoietic_structure_SNOMED_317248 <- find_descendants_and_mappings_for_a_given_concept_id(317248, file_label="disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024")
+blood_disorders_SNOMED <- find_descendants_and_mappings_for_a_given_concept_id(c(443723,317248,440689,42537745), file_label="blood_disorders_SNOMED_AKM_21October2024")
 ```
-
-Download Files:
-
--   [disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_structure_SNOMED_317248_AKM_17Oct2024_UNIQUE_CODES.csv)
-
-#### Agranulocytosis
-
-```{r}
-agranulocytosis_SNOMED_440689 <- find_descendants_and_mappings_for_a_given_concept_id(440689, file_label="agranulocytosis_SNOMED_440689_AKM_17Oct2024")
-```
-
-Download Files:
-
--   [agranulocytosis_SNOMED_440689_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/agranulocytosis_SNOMED_440689_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [agranulocytosis_SNOMED_440689_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/agranulocytosis_SNOMED_440689_AKM_17Oct2024_UNIQUE_CODES.csv)
-
-#### Bone marrow transplant present
-
-```{r}
-bone_marrow_transplant_present_SNOMED_42537745 <- find_descendants_and_mappings_for_a_given_concept_id(42537745, file_label="bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024")
-```
-
-Download Files:
-
--   [bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/bone_marrow_transplant_present_SNOMED_42537745_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Codes for Blood Cancers
 
-Files with ICD-9 and ICD-10 codes
-
--   [ICD-9-XXXX.csv]()
--   [ICD-10-XXX.csv]()
-
-#### Leukemia
-
-```{r}
-leukemia_SNOMED_317510 <- find_descendants_and_mappings_for_a_given_concept_id(317510, file_label="leukemia_SNOMED_317510_AKM_17Oct2024")
-```
-
-Download Files:
-
--   [leukemia_SNOMED_317510_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukemia_SNOMED_317510_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [leukemia_SNOMED_317510_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/leukemia_SNOMED_317510_AKM_17Oct2024_UNIQUE_CODES.csv)
-
-#### Malignant lymphoma
+SNOMED: Leukemia
+SNOMED CODE: 93143009
+OMOP CONCEPT ID: 317510
+SNOMED: Malignant lymphoma
+SNOMED CODE: 118600007
+OMOP CONCEPT ID: 432571
+SNOMED: Disorder of hematopoietic morphology
+SNOMED CODE: 414026006
+OMOP CONCEPT ID: 4185470
 
 ```{r}
-malignant_lymphoma_SNOMED_432571 <- find_descendants_and_mappings_for_a_given_concept_id(432571, file_label="malignant_lymphoma_SNOMED_432571_AKM_17Oct2024")
+blood_cancers_SNOMED <- find_descendants_and_mappings_for_a_given_concept_id(c(317510,432571,4185470), file_label="blood_cancers_SNOMED_AKM_18November2024")
 ```
-
-Download Files:
-
--   [malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_lymphoma_SNOMED_432571_AKM_17Oct2024_UNIQUE_CODES.csv)
-
-#### Disorder of hematopoietic morphology
-
-```{r}
-disorder_of_hematopoietic_morphology_SNOMED_4185470 <- find_descendants_and_mappings_for_a_given_concept_id(4185470, file_label="disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024")
-```
-
-Download Files:
-
--   [disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_hematopoietic_morphology_SNOMED_4185470_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Codes for HIV infection
 
-Files with ICD-9 and ICD-10 codes
-
--   [ICD-9-XXXX.csv]()
--   [ICD-10-XXX.csv]()
-
-#### HIV infection
-
 ```{r}
-hiv_infection_SNOMED_439727 <- find_descendants_and_mappings_for_a_given_concept_id(439727, file_label="hiv_infection_SNOMED_439727_AKM_17Oct2024")
+hiv_infection_SNOMED_439727 <- find_descendants_and_mappings_for_a_given_concept_id(c(439727), file_label="hiv_infection_SNOMED_439727_AKM_27November2024")
 ```
-
-Download Files:
-
--   [hiv_infection_SNOMED_439727_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hiv_infection_SNOMED_439727_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [hiv_infection_SNOMED_439727_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/hiv_infection_SNOMED_439727_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Codes for End Stage Kidney Disease
 
-Files with ICD-9 and ICD-10 codes
+SNOMED: Dependence on renal dialysis
+SNOMED Code: 105502003
+OMOP Concept ID: 4019967
 
--   [ICD-9-XXXX.csv]()
--   [ICD-10-XXX.csv]()
+SNOMED: End-stage renal disease
+SNOMED Code: 46177005
+OMOP Concept ID: 193782
 
-#### Dependence on renal dialysis
+SNOMED: Chronic kidney disease stage 5
+SNOMED Code: 433146000
+OMOP Concept ID: 443611
+
+SNOMED Procedure: Renal dialysis
+SNOMED Code: 265764009
+OMOP Concept ID: 4146536
+
 
 ```{r}
-dependence_on_renal_dialysis_SNOMED_4019967 <- find_descendants_and_mappings_for_a_given_concept_id(4019967, file_label="dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024")
+ESKD_SNOMED <- find_descendants_and_mappings_for_a_given_concept_id(c(4019967, 193782,443611,4146536), file_label="ESKD_SNOMED_AKM_27Nov2024")
+
 ```
-
-Files to download:
-
--   [dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_ALL_MAPPINGS.csv)
--   [dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/dependence_on_renal_dialysis_SNOMED_4019967_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 #### End stage renal disease
 
@@ -569,7 +314,8 @@ Files with ICD-9 and ICD-10 codes
 -   [ICD-9-XXXX.csv]()
 -   [ICD-10-XXX.csv]()
 
-##  Disorder of spleen
+#### Disorder of spleen
+
 ```{r}
 disorder_of_spleen_SNOMED_201265 <- find_descendants_and_mappings_for_a_given_concept_id(201265, file_label="disorder_of_spleen_SNOMED_201265_AKM_17Oct2024")
 ```
@@ -580,14 +326,15 @@ Files to download:
 -   [disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/disorder_of_spleen_SNOMED_201265_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 #### Splenectomy
+
 ```{r}
 splenectomy_SNOMED_4125482 <- find_descendants_and_mappings_for_a_given_concept_id(4125482, file_label="splenectomy_SNOMED_4125482_AKM_17Oct2024")
 ```
 
 Files to download:
 
--  [splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv)
--  [splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/splenectomy_SNOMED_4125482_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ### Codes for Fibrosis, Cirrhosis of the Liver
 
@@ -597,13 +344,75 @@ Files with ICD-9 and ICD-10 codes
 -   [ICD-10-XXX.csv]()
 
 #### Cirrhosis of liver
+
 ```{r}
 cirrhosis_of_liver_SNOMED_4064161 <- find_descendants_and_mappings_for_a_given_concept_id(4064161, file_label="cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024")
 ```
+
 Files to download:
 
-- [cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv)
-- [cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv)
+-   [cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/cirrhosis_of_liver_SNOMED_4064161_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for blood transfusions
+
+#### Transfusion of blood product
+
+```{r}
+transfusion_of_blood_product_SNOMED_4024656 <- find_descendants_and_mappings_for_a_given_concept_id(4024656, file_label="transfusion_of_blood_product_SNOMED_4024656_AKM_17Oct2024")
+```
+
+-   [transfusion_of_blood_product_SNOMED_4024656_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/transfusion_of_blood_product_SNOMED_4024656_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [transfusion_of_blood_product_SNOMED_4024656_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/transfusion_of_blood_product_SNOMED_4024656_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes for Diabetes
+
+#### Diabetes mellitus
+
+```{r}
+diabetes_mellitus_SNOMED_201820 <- find_descendants_and_mappings_for_a_given_concept_id(201820, file_label="diabetes_mellitus_SNOMED_201820_AKM_17Oct2024")
+```
+
+Files to download:
+
+-   [diabetes_mellitus_SNOMED_201820_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/diabetes_mellitus_SNOMED_201820_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [diabetes_mellitus_SNOMED_201820_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/diabetes_mellitus_SNOMED_201820_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes to use for Cancer
+
+#### Malignant neoplastic disease
+
+```{r}
+malignant_neoplastic_disease_SNOMED_443392 <- find_descendants_and_mappings_for_a_given_concept_id(443392, file_label = "malignant_neoplastic_disease_SNOMED_443392_AKM_17Oct2024")
+```
+
+Files to download:
+
+-   [malignant_neoplastic_disease_SNOMED_443392_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_neoplastic_disease_SNOMED_443392_AKM_17Oct2024_ALL_MAPPINGS.csv)
+-   [malignant_neoplastic_disease_SNOMED_443392_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/malignant_neoplastic_disease_SNOMED_443392_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+### Codes used for pregnancy
+
+#### Pregnancy
+
+```{r}
+pregnancy_SNOMED_4299535 <- find_descendants_and_mappings_for_a_given_concept_id(4299535, file_label="pregnancy_SNOMED_4299535_AKM_17Oct2024")
+```
+Files to download:
+
+-  [pregnancy_SNOMED_4299535_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/pregnancy_SNOMED_4299535_AKM_17Oct2024_ALL_MAPPINGS.csv)
+- [pregnancy_SNOMED_4299535_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/pregnancy_SNOMED_4299535_AKM_17Oct2024_UNIQUE_CODES.csv)
+
+#### Complication occurring during pregnancy
+
+```{r}
+complication_occurring_during_pregnancy_SNOMED_43530950 <- find_descendants_and_mappings_for_a_given_concept_id(43530950, file_label="complication_occurring_during_pregnancy_SNOMED_43530950_AKM_17Oct2024")
+```
+
+Files to download:
+
+- [complication_occurring_during_pregnancy_SNOMED_43530950_AKM_17Oct2024_ALL_MAPPINGS.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/complication_occurring_during_pregnancy_SNOMED_43530950_AKM_17Oct2024_ALL_MAPPINGS.csv)
+- [complication_occurring_during_pregnancy_SNOMED_43530950_AKM_17Oct2024_UNIQUE_CODES.csv](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/complication_occurring_during_pregnancy_SNOMED_43530950_AKM_17Oct2024_UNIQUE_CODES.csv)
 
 ## Codes to use for Drugs Queries
 
@@ -612,43 +421,20 @@ This query is based on "D11: Find source codes by drug class"
 Query source: <https://data.ohdsi.org/QueryLibrary/>
 
 ```{r echo=TRUE}
-find_drugs_by_ATC_class_concept_id <- function(class_concept_id) {
-  connectionDetails <- createConnectionDetails(dbms="postgresql", 
-                                             user="primed", password="primed", 
-                                             server="localhost/primed", port=5432, 
-                                             pathToDriver="./JdbcDrivers/")
-  
-  sql <- render("SELECT  d.concept_code, d.concept_name, 
-        d.domain_id, d.concept_class_id, d.standard_concept,
-        d.vocabulary_id,
-        v.vocabulary_name
- FROM primed.concept_ancestor ca
-        JOIN primed.concept d on d.concept_id = ca.descendant_concept_id
-        JOIN primed.concept a on a.concept_id = ca.ancestor_concept_id
-        JOIN primed.vocabulary v on d.vocabulary_id = v.vocabulary_id
- WHERE  ca.ancestor_concept_id = @class_concept_id
-   AND  a.vocabulary_id = 'ATC'
-   AND  d.domain_id = 'Drug'
-   AND  (getdate() >= d.valid_start_date)
-   AND  (getdate() <= d.valid_end_date);",
-                    class_concept_id=class_concept_id)
-  #print(sql)
-  sql <- translate(sql,targetDialect = "postgresql")
-  conn <- connect(connectionDetails)
-  results <- querySql(conn,sql)
-  disconnect(conn)
-  return(results)
-}
-
+source("medication_functions.R")
+# create directory called medication_codes
+dir.create("medication_codes", showWarnings = FALSE)
 ```
 
 ### Diabetes Medications
-
+#### ATC 2nd level: A10: DRUGS USED IN DIABETES
 ATC 2nd level A10: DRUGS USED IN DIABETES <https://athena.ohdsi.org/search-terms/terms/21600712>
 
-```{r echo=TRUE}
+Download Current Release and Search/Filter Table: [Drugs used in Diabetes](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Drugs-used-in-Diabetes.html) for data download.
+
+```{r echo=TRUE, warning=FALSE}
 drugs_used_in_diabetes_OMOP_21600712 <- find_drugs_by_ATC_class_concept_id(21600712)
-write.table(drugs_used_in_diabetes_OMOP_21600712,file="drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+write.table(drugs_used_in_diabetes_OMOP_21600712,file="medication_codes/drugs_used_in_diabetes_OMOP_21600712_AKM_27November2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
 ```
 
 #### Table of CONCEPT_CLASS_ID vs VOCABULARY_ID
@@ -657,9 +443,26 @@ write.table(drugs_used_in_diabetes_OMOP_21600712,file="drugs_used_in_diabetes_OM
 table(drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID,drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_ID)
 ```
 
-#### Download Current Release and Search/Filter Table
+#### Brand name search will all 5th level ATC codes
+```{r echo=TRUE,warning=FALSE}
+brand_names_drugs_used_in_diabetes_OMOP_21600712 <-
+  bind_rows( apply(drugs_used_in_diabetes_OMOP_21600712 %>% filter(CONCEPT_CLASS_ID == "ATC 5th"),1,brand_name_search))
 
-[Drugs used in Diabetes](https://manning-lab.github.io/primed_consortia_legacy_project_phenotypes/Drugs-used-in-Diabetes.html) for data download.
+write.table(brand_names_drugs_used_in_diabetes_OMOP_21600712,file="medication_protocol/brand_names_drugs_used_in_diabetes_OMOP_21600712_AKM_27November2024.tsv",sep="\t",quote=FALSE,row.names=FALSE)
+
+
+```
+
+#### Count of ATC code vs Brand Name
+
+```{r}
+table(brand_names_drugs_used_in_diabetes_OMOP_21600712$ATC_5th, brand_names_drugs_used_in_diabetes_OMOP_21600712$VOCABULARY_ID)
+```
+
+#### Count of ATC Codes vs CONCEPT_CLASS_ID
+```{r}
+table(brand_names_drugs_used_in_diabetes_OMOP_21600712$ATC_5th, brand_names_drugs_used_in_diabetes_OMOP_21600712$CONCEPT_CLASS_ID)
+```
 
 ### Blood Pressure Medications
 

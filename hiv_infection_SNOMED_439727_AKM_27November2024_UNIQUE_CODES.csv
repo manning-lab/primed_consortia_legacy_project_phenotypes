@@ -1,0 +1,902 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+45769839,Human immunodeficiency virus (HIV) II infection category B1,Disorder,SNOMED
+44828699,Human immunodeficiency virus, type 2 [HIV-2],5-dig billing code,ICD9CM
+45561777,Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere,5-char billing code,ICD10CM
+42538960,Asymptomatic human immunodeficiency virus A2 infection,Disorder,SNOMED
+45920889,Human Immunodeficiency Virus II Infection,Diagnosis,CIEL
+3239249,Hiv-2 infection,Clinical Finding,Nebraska Lexicon
+45773072,Human immunodeficiency virus (HIV) II infection category B2,Disorder,SNOMED
+432554,Human immunodeficiency virus II infection,Disorder,SNOMED
+3654900,Encephalitis caused by human immunodeficiency virus type 2,Disorder,SNOMED
+45547443,Unspecified human immunodeficiency virus [HIV] disease,ICD10 Hierarchy,ICD10
+40380238,[X]HIV disease resulting in other viral infections,Disorder,SNOMED
+37017094,Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017082,Splenomegaly co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44798365,[X]HIV disease resulting in other viral infections,Disorder,SNOMED
+4008081,Acute HIV infection,Disorder,SNOMED
+40380250,[X]HIV disease resulting in other specified conditions,Disorder,SNOMED
+4160420,Lipodystrophy associated with Human immunodeficiency virus infection,Disorder,SNOMED
+44795102,[X] HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified,Disorder,SNOMED
+45942182,HIV disease resulting in lymphoid interstitial pneumonitis,Diagnosis,CIEL
+45946698,Human immunodeficiency virus infection with high viral load,Finding,CIEL
+3119908,Human immunodeficiency virus (HIV) disease resulting in other types of non-Hodgkin's lymphoma,Clinical Finding,Nebraska Lexicon
+37018755,Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44795859,[X]HIV disease resulting in multiple diseases classified elsewhere,Disorder,SNOMED
+3163543,Positive serological AND/OR viral culture findings for human immunodeficiency virus,Clinical Finding,Nebraska Lexicon
+3663234,Pruritus due to human immunodeficiency virus infection,Disorder,SNOMED
+37018711,Disorder of eye proper co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017244,Disorder of respiratory system co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+606040,Primary human immunodeficiency virus infection,Disorder,SNOMED
+3214945,Human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3119895,Human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+1340516,Progression of Human immunodeficiency virus infection,Disorder,OMOP Extension
+42709912,Diffuse infiltrative lymphocytosis syndrome,Disorder,SNOMED
+4089882,Human immunodef virus resulting in other disease,Disorder,SNOMED
+42484274,HIV disease resulting in multiple diseases classified elsewhere,KCD7 code,KCD7
+3120300,HIV disease resulting in multiple infections,Clinical Finding,Nebraska Lexicon
+4201627,Aseptic meningitis due to human immunodeficiency virus infection,Disorder,SNOMED
+4092689,HIV disease resulting in multiple infections,Disorder,SNOMED
+40380240,HIV disease resulting in multiple infections,Disorder,SNOMED
+42484279,HIV disease resulting in other specified conditions,KCD7 code,KCD7
+3655867,Seborrheic dermatitis due to human immunodeficiency virus infection,Disorder,SNOMED
+44794980,[X]HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue,Disorder,SNOMED
+37017248,Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44795877,[X]HIV disease resulting in other bacterial infections,Disorder,SNOMED
+45937581,Patient on second-line antiretroviral treatment for HIV,Finding,CIEL
+3655580,Mycosis due to human immunodeficiency virus infection,Disorder,SNOMED
+44792335,Family history of human immunodeficiency virus,Context-dependent,SNOMED
+44829737,Human immunodeficiency virus [HIV] disease,3-dig billing code,ICD9CM
+37017262,Neuritis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4093297,HIV disease resulting in mycobacterial infection,Disorder,SNOMED
+4298853,Oral hairy leukoplakia associated with HIV disease,Disorder,SNOMED
+4087606,HIV disease resulting in lymphoid interstitial pneumonitis,Disorder,SNOMED
+40380245,[X]HIV disease resulting in other malignant neoplasms,Disorder,SNOMED
+36687122,Human immunodeficiency virus infection with cognitive impairment,Disorder,SNOMED
+37162220,Infectious mononucleosis caused by human immunodeficiency virus,Disorder,SNOMED
+4186235,Leukoplakia of tongue associated with HIV disease,Disorder,SNOMED
+37017263,Lymphadenopathy co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40376599,[X]HIV disease resulting in multiple diseases classified elsewhere,Disorder,SNOMED
+3086998,HTLV-III/LAV infection -RETIRED-,Clinical Finding,Nebraska Lexicon
+40380241,[X]Hiv disease resulting in other infectious and parasitic diseases,Disorder,SNOMED
+605345,Psoriasis exacerbated by human immunodeficiency virus infection,Disorder,SNOMED
+3520467,HIV disease resulting in other types of non-Hodgkin's lymphoma,Disorder,SNOMED
+40380243,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Disorder,SNOMED
+3654682,Chronic hepatitis C co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3519572,Human immunodeficiency virus resulting in other disease,Disorder,SNOMED
+37017132,Anemia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4211792,Immune recovery uveitis,Disorder,SNOMED
+4210151,Human immunodeficiency virus counseling,Procedure,SNOMED
+35205776,Human immunodeficiency virus [HIV] disease,3-char billing code,ICD10CM
+44798219,[X]Unspecified human immunodeficiency virus [HIV] disease,Disorder,SNOMED
+606044,Parasitic disease due to human immunodeficiency virus infection,Disorder,SNOMED
+40288730,HTLV-III/LAV infection,Disorder,SNOMED
+3580699,[X]Hiv disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue,Disorder,SNOMED
+4188151,Hairy leukoplakia of tongue associated with HIV disease,Disorder,SNOMED
+4237443,HIV infection with infection by another virus,Disorder,SNOMED
+37167026,Motor neuron disease due to human immunodeficiency virus infection,Disorder,SNOMED
+37017456,Aspergillosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+762532,Maternal human immunodeficiency virus infection,Context-dependent,SNOMED
+45769855,Human immunodeficiency virus (HIV) infection category B1,Disorder,SNOMED
+40380247,[X]HIV disease resulting in multiple diseases classified elsewhere,Disorder,SNOMED
+44797022,[X]HIV disease resulting in other specified conditions,Disorder,SNOMED
+45941914,Human immunodeficiency virus disease resulting in other specified diseases,Diagnosis,CIEL
+40403276,AIDS virus infection, NEC,Disorder,SNOMED
+37017580,Microsporidiosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44796338,[X]Hiv disease resulting in other infectious and parasitic diseases,Disorder,SNOMED
+37019042,Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017453,Coccidiosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4083351,HIV-related gut disease - cause unknown,Disorder,SNOMED
+3161148,Human immunodeficiency virus infection with infection caused by another virus,Clinical Finding,Nebraska Lexicon
+4191703,Antenatal screening for human immunodeficiency virus,Procedure,SNOMED
+37017265,Enlargement of liver co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017279,Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+762873,Documentation of human immunodeficiency virus infection medication action plan,Procedure,SNOMED
+37017209,Hemophagocytic syndrome with human immunodeficiency virus infection,Disorder,SNOMED
+37017320,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44798263,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Disorder,SNOMED
+37018063,Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection,Disorder,SNOMED
+37162512,Enteritis of small intestine due to human immunodeficiency virus disease,Disorder,SNOMED
+37168542,Human immunodeficiency virus management program,Procedure,SNOMED
+40482214,Hepatitis B associated with Human immunodeficiency virus infection,Disorder,SNOMED
+45955892,Human immunodeficiency virus disease resulting in malignant neoplasm,Diagnosis,CIEL
+44795981,[X]HIV disease resulting in other mycoses,Disorder,SNOMED
+4241530,Asymptomatic human immunodeficiency virus infection,Disorder,SNOMED
+37017093,Heart disease co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017254,Candidiasis of mouth co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4093298,HIV disease resulting in other types of non-Hodgkin's lymphoma,Disorder,SNOMED
+37017284,Infective arthritis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44795858,[X]HIV disease resulting in unspecified malignant neoplasm,Disorder,SNOMED
+37162513,Enteritis of intestine due to human immunodeficiency virus disease,Disorder,SNOMED
+37166066,Autonomic disorder due to HIV infection,Disorder,SNOMED
+43531586,Symptomatic human immunodeficiency virus infection,Disorder,SNOMED
+36716522,Sequela of infection caused by Human immunodeficiency virus,Disorder,SNOMED
+434752,Positive serological AND/OR viral culture findings for human immunodeficiency virus,Disorder,SNOMED
+3119898,Human immunodeficiency virus with other clinical findings,Clinical Finding,Nebraska Lexicon
+3661697,Papular pruritic eruption of skin due to human immunodeficiency virus infection,Disorder,SNOMED
+4230566,Family history of human immunodeficiency virus infection,Context-dependent,SNOMED
+4253472,Human immunodeficiency virus I infection,Disorder,SNOMED
+4089881,Acquired human immunodeficiency virus infection syndrome NOS,Disorder,SNOMED
+607384,Primary effusion lymphoma due to human immune deficiency virus infection,Disorder,SNOMED
+37017579,Opportunistic mycosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40484012,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,Disorder,SNOMED
+45767673,Lipodystrophy due to Human immunodeficiency virus infection and antiretroviral therapy,Disorder,SNOMED
+3529048,[X]HIV disease resulting in unspecified malignant neoplasm,Disorder,SNOMED
+36715476,Human immunodeficiency virus complicating pregnancy childbirth and the puerperium,Disorder,SNOMED
+45769856,Human immunodeficiency virus (HIV) infection category B2,Disorder,SNOMED
+3655331,Esophagitis due to human immunodeficiency virus disease,Disorder,SNOMED
+606930,Disorder of skin due to human immunodeficiency virus infection,Disorder,SNOMED
+45915343,Positive Serological and/or Viral Culture Findings for Human Immunodeficiency Virus,Diagnosis,CIEL
+44801397,[X]Human immunodeficiency virus disease,Disorder,SNOMED
+762495,Human immunodeficiency virus education,Procedure,SNOMED
+3119901,Human immunodeficiency virus disease resulting in mycobacterial infection,Clinical Finding,Nebraska Lexicon
+40380251,[X]Unspecified human immunodeficiency virus [HIV] disease,Disorder,SNOMED
+45561749,HIV disease resulting in other specified conditions,ICD10 code,ICD10
+37017446,Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3654645,Bacterial infection due to human immunodeficiency virus infection,Disorder,SNOMED
+3119899,Acquired human immunodeficiency virus infection syndrome NOS,Clinical Finding,Nebraska Lexicon
+37017282,Agranulocytosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017455,Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+45590847,HIV disease resulting in multiple diseases classified elsewhere,ICD10 code,ICD10
+37017295,Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3655330,Eosinophilic folliculitis due to human immunodeficiency virus infection,Disorder,SNOMED
+37019034,Neuralgia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017283,Visual impairment co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40380244,[X]Hiv disease resulting in other malignant neoplasms of lymphoid, hematopoietic and related tissue,Disorder,SNOMED
+3119900,Human immunodef virus resulting in other disease,Clinical Finding,Nebraska Lexicon
+40380234,[X]Human immunodeficiency virus disease,Disorder,SNOMED
+37116831,Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3119905,Human immunodeficiency virus disease resulting in multiple infections,Clinical Finding,Nebraska Lexicon
+40380246,[X]HIV disease resulting in unspecified malignant neoplasm,Disorder,SNOMED
+40376617,[X]Hiv disease resulting in other malignant neoplasms of lymphoid, hematopoietic and related tissue,Disorder,SNOMED
+37018935,Dermatophytosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40380239,[X]HIV disease resulting in other mycoses,Disorder,SNOMED
+4093296,Human immunodeficiency virus with other clinical findings,Disorder,SNOMED
+37017454,Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017319,Disorder of central nervous system co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4236860,Pediatric human immunodeficiency virus infection,Disorder,SNOMED
+45915692,Human immunodeficiency virus (HIV) infection,Diagnosis,CIEL
+3129469,AIDS virus infection, NEC -RETIRED-,Clinical Finding,Nebraska Lexicon
+37017260,Disorder of kidney co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+4180254,Congenital human immunodeficiency virus infection,Disorder,SNOMED
+40376592,(AIDS) or (HIV infection),Disorder,SNOMED
+4087605,Human immunodeficiency virus with secondary cancers,Disorder,SNOMED
+4064903,HIV screening,Procedure,SNOMED
+40380235,[X]HIV disease resulting in other bacterial infections,Disorder,SNOMED
+40376600,[X]HIV disease resulting in unspecified malignant neoplasm,Disorder,SNOMED
+4298854,HIV seropositivity,Disorder,SNOMED
+37017125,Disorder of skin co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+44813431,[X]HIV disease resulting in other malignant neoplasms,Disorder,SNOMED
+37017124,Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017285,Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+606041,Pityriasis rubra pilaris due to human immunodeficiency virus infection,Disorder,SNOMED
+3655333,Enteritis due to human immunodeficiency virus disease,Disorder,SNOMED
+4241524,AIDS virus infection associated with pregnancy,Disorder,SNOMED
+37017655,Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+42484280,Unspecified human immunodeficiency virus [HIV] disease,KCD7 code,KCD7
+606047,Human immunodeficiency virus modified skin disease,Disorder,SNOMED
+3654950,Encephalitis caused by human immunodeficiency virus type 1,Disorder,SNOMED
+4314426,HIV infection with acute lymphadenitis,Disorder,SNOMED
+45929456,Generalized Skin Infection due to AIDS,Diagnosis,CIEL
+3333046,Acute human immunodeficiency virus seroconversion illness,Clinical Finding,Nebraska Lexicon
+4227053,Myocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+42484276,Acute HIV infection syndrome,KCD7 code,KCD7
+45929598,Acute HIV Infection,Diagnosis,CIEL
+45576260,Acute HIV infection syndrome,ICD10 code,ICD10
+3417701,Vacuolar myelopathy,Clinical Finding,Nebraska Lexicon
+45924914,Vacuolar Myelopathy,Diagnosis,CIEL
+4045982,Vacuolar myelopathy,Disorder,SNOMED
+3348072,Human immunodeficiency virus leucoencephalopathy,Clinical Finding,Nebraska Lexicon
+4047624,Human immunodeficiency virus leukoencephalopathy,Disorder,SNOMED
+3376452,Neuropathy caused by human immunodeficiency virus,Clinical Finding,Nebraska Lexicon
+4048033,Neuropathy caused by human immunodeficiency virus,Disorder,SNOMED
+40443170,Human immunodeficiency virus neuropathy,Disorder,SNOMED
+3138677,Human immunodeficiency virus neuropathy,Clinical Finding,Nebraska Lexicon
+3326029,Human immunodeficiency virus infection constitutional disease,Clinical Finding,Nebraska Lexicon
+4087603,Human immunodeficiency virus infection constitutional disease,Disorder,SNOMED
+4087604,Human immunodeficiency virus infection with neurological disease,Disorder,SNOMED
+3313627,Human immunodeficiency virus infection with neurological disease,Clinical Finding,Nebraska Lexicon
+3291339,Human immunodeficiency virus infection with secondary clinical infectious disease,Clinical Finding,Nebraska Lexicon
+45939586,Human Immunodeficiency Virus Infection Causing Specified Acute Infections,Diagnosis,CIEL
+42484251,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,KCD7 code,KCD7
+44801040,[X]Hiv disease resulting in unspecified infectious and parasitic disease,Disorder,SNOMED
+42484252,HIV disease resulting in mycobacterial infection,KCD7 code,KCD7
+45922145,human immunodeficiency virus disease HIV resulting in infectious or parasitic disease,Diagnosis,CIEL
+45585950,HIV disease resulting in candidiasis,ICD10 code,ICD10
+45542556,HIV disease resulting in other bacterial infections,ICD10 code,ICD10
+45566541,HIV disease resulting in other viral infections,ICD10 code,ICD10
+45542557,HIV disease resulting in multiple infections,ICD10 code,ICD10
+45571458,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,ICD10 Hierarchy,ICD10
+42484253,HIV disease resulting in other bacterial infections,KCD7 code,KCD7
+42484259,HIV disease resulting in multiple infections,KCD7 code,KCD7
+42484256,HIV disease resulting in candidiasis,KCD7 code,KCD7
+45552213,HIV disease resulting in mycobacterial infection,ICD10 code,ICD10
+42484255,HIV disease resulting in other viral infections,KCD7 code,KCD7
+40380242,[X]Hiv disease resulting in unspecified infectious and parasitic disease,Disorder,SNOMED
+45556931,HIV disease resulting in unspecified infectious or parasitic disease,ICD10 code,ICD10
+42484260,HIV disease resulting in other infectious and parasitic diseases,KCD7 code,KCD7
+42484261,HIV disease resulting in unspecified infectious or parasitic disease,KCD7 code,KCD7
+40376601,[X]Hiv disease resulting in unspecified infectious and parasitic disease,Disorder,SNOMED
+45556930,HIV disease resulting in other infectious and parasitic diseases,ICD10 code,ICD10
+4092686,Human immunodeficiency virus infection with secondary clinical infectious disease,Disorder,SNOMED
+4128060,Acquired immune deficiency syndrome-related nephropathy,Disorder,SNOMED
+3297618,Acquired immune deficiency syndrome-related nephropathy,Clinical Finding,Nebraska Lexicon
+45910975,HIV-associated nephropathy,Diagnosis,CIEL
+3225242,Human immunodeficiency virus encephalitis,Clinical Finding,Nebraska Lexicon
+45917742,Human immunodefiency virus encephalitis,Diagnosis,CIEL
+40515460,AIDS with encephalitis,Disorder,SNOMED
+4171124,Congenital acquired immune deficiency syndrome,Disorder,SNOMED
+3180937,Congenital acquired immune deficiency syndrome,Clinical Finding,Nebraska Lexicon
+3288613,Congenital human immunodeficiency virus positive status syndrome,Clinical Finding,Nebraska Lexicon
+4171125,Congenital human immunodeficiency virus positive status syndrome,Disorder,SNOMED
+4172009,HIV infection with infectious mononucleosis-like syndrome,Disorder,SNOMED
+3377833,Human immunodeficiency virus infection with infectious mononucleosis-like syndrome,Clinical Finding,Nebraska Lexicon
+3425363,Congenital human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+40525124,AIDS virus with aseptic meningitis,Disorder,SNOMED
+40640674,HIV infection with aseptic meningitis,Disorder,SNOMED
+3406340,Human immunodeficiency virus infection with aseptic meningitis,Clinical Finding,Nebraska Lexicon
+3147223,AIDS virus with aseptic meningitis,Clinical Finding,Nebraska Lexicon
+4211956,Neutropenia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3386288,Neutropenia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+432250,Infectious disease,Disorder,SNOMED
+4148615,Neutrophil count,Procedure,SNOMED
+4220603,Skin rash with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40285386,AIDS with rash,Disorder,SNOMED
+3266987,Skin rash associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3086651,AIDS with rash,Clinical Finding,Nebraska Lexicon
+40459343,AIDS with volume depletion,Disorder,SNOMED
+4228272,Failure to thrive in infant with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4222224,Hepatomegaly with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4222405,Acute endocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4228117,Hypovolemia associated with AIDS,Disorder,SNOMED
+4226662,Polyneuropathy with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4222383,Intestinal malabsorption with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40489022,AIDS with subcutaneous tissue disease,Disorder,SNOMED
+37166798,AIDS (acquired immunodeficiency syndrome) wasting syndrome,Disorder,SNOMED
+3159066,Subcutaneous tissue disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4228745,Neuralgia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3329308,Acquired immunodeficiency syndrome-associated disorder,Clinical Finding,Nebraska Lexicon
+4223585,Subcutaneous tissue disease associated with AIDS,Disorder,SNOMED
+4227821,Fever associated with AIDS,Disorder,SNOMED
+4226790,Blindness with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4228757,Low vision with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40319627,(AIDS with viral/chlamydial dis NOS) or (ornithosis) or (trachoma),Disorder,SNOMED
+40269491,AIDS with other disorders involving the immune mechanism,Disorder,SNOMED
+3054669,AIDS with volume depletion,Clinical Finding,Nebraska Lexicon
+4224553,Agranulocytosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4226110,Central nervous disorder with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4222402,Hematopoietic system disease with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4227077,Nutritional deficiency with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4228115,Retinopathy with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4225643,Respiratory disorder with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+44784137,Sepsis with acquired immunodeficiency syndrome,Disorder,SNOMED
+4227350,Subacute endocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4221911,Fatigue with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4226357,Malignant neoplasm with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+44783780,Cholangitis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4223738,Noninfectious gastroenteritis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4227519,Neuritis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4225027,Malaise with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4227957,Other disorder of immune system associated with AIDS,Disorder,SNOMED
+4224425,Subacute myocarditis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4226629,Salivary gland disease with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4226905,Thrombocytopenia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40493262,Infectious disease with acquired immune deficiency syndrome,Disorder,SNOMED
+3329397,Pneumococcal pneumonia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4221503,Pneumococcal pneumonia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3153052,AIDS with pneumococcal pneumonia,Clinical Finding,Nebraska Lexicon
+40553892,AIDS with pneumococcal pneumonia,Disorder,SNOMED
+3233324,Mycobacteriosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4221607,Mycobacteriosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40276911,AIDS with other and unspecified mycobacteriosis,Disorder,SNOMED
+3085901,AIDS with other and unspecified mycobacteriosis -RETIRED-,Clinical Finding,Nebraska Lexicon
+40276912,AIDS with mycobacteriosis,Disorder,SNOMED
+4226658,Tuberculosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3085902,AIDS with mycobacteriosis,Clinical Finding,Nebraska Lexicon
+3163018,AIDS with fatigue,Clinical Finding,Nebraska Lexicon
+3214777,Fatigue associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4234875,Energy / stamina,Observable Entity,SNOMED
+40625633,AIDS with fatigue,Disorder,SNOMED
+3354854,Candidiasis of lung associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40635689,AIDS with candidiasis of lung,Disorder,SNOMED
+4222062,Candidiasis of lung with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3164520,AIDS with candidiasis of lung,Clinical Finding,Nebraska Lexicon
+40299569,AIDS with hepatomegaly,Disorder,SNOMED
+3260555,Hepatomegaly associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3088459,AIDS with hepatomegaly,Clinical Finding,Nebraska Lexicon
+3157178,AIDS with encephalitis,Clinical Finding,Nebraska Lexicon
+4222717,Subacute adenoviral encephalitis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3349116,Encephalitis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40570042,AIDS with encephalitis,Disorder,SNOMED
+4222250,Encephalitis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3062678,Human immunodefiency virus subacute encephalitis,Clinical Finding,Nebraska Lexicon
+4228612,Encephalomyelitis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40430583,AIDS with intestinal malabsorption,Disorder,SNOMED
+3331113,Intestinal malabsorption associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3137417,AIDS with intestinal malabsorption,Clinical Finding,Nebraska Lexicon
+3147941,AIDS with haematopoietic system disease,Clinical Finding,Nebraska Lexicon
+4227200,Hypersplenism associated with AIDS,Disorder,SNOMED
+4227511,Lymphadenopathy associated with AIDS,Disorder,SNOMED
+40522596,AIDS with hematopoietic system disease,Disorder,SNOMED
+4228776,Splenomegaly associated with AIDS,Disorder,SNOMED
+3418966,Hematopoietic system disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4225810,Aplastic anemia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3251848,Acute endocarditis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40349877,AIDS with acute endocarditis,Disorder,SNOMED
+3140613,AIDS with acute endocarditis,Clinical Finding,Nebraska Lexicon
+3108519,AIDS with cryptococcosis,Clinical Finding,Nebraska Lexicon
+4222712,Cryptococcosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40321527,AIDS with cryptococcosis,Disorder,SNOMED
+3309131,Cryptococcosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3147083,AIDS with subacute adenoviral encephalitis,Clinical Finding,Nebraska Lexicon
+3214217,Subacute adenoviral encephalitis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40513338,AIDS with subacute adenoviral encephalitis,Disorder,SNOMED
+40287885,AIDS with subacute adenoviral encephalitis,Disorder,SNOMED
+3161379,AIDS with bacterial pneumonia,Clinical Finding,Nebraska Lexicon
+3267071,Bacterial pneumonia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40607612,AIDS with bacterial pneumonia,Disorder,SNOMED
+4226631,Progressive multifocal leukoencephalopathy with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4223276,Central nervous system demyelinating disease with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40638708,AIDS with CNS demyelinating disease,Disorder,SNOMED
+3164362,AIDS with CNS demyelinating disease,Clinical Finding,Nebraska Lexicon
+3277373,Central nervous system demyelinating disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3338866,Strongyloidiasis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3160496,AIDS with strongyloidiasis,Clinical Finding,Nebraska Lexicon
+40601201,AIDS with strongyloidiasis,Disorder,SNOMED
+4223597,Strongyloidiasis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3384494,Noninfectious gastroenteritis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40604980,AIDS with noninfectious gastroenteritis,Disorder,SNOMED
+3160952,AIDS with noninfectious gastroenteritis,Clinical Finding,Nebraska Lexicon
+3163320,AIDS with retinal vascular changes,Clinical Finding,Nebraska Lexicon
+4223918,Retinal vascular changes with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40628917,AIDS with retinal vascular changes,Disorder,SNOMED
+3364505,Retinal vascular changes associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40572055,AIDS with myelopathy,Disorder,SNOMED
+4227974,Myelitis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3302645,Myelopathy associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3156049,AIDS with myelopathy,Clinical Finding,Nebraska Lexicon
+45571460,HIV disease resulting in Kaposi sarcoma,ICD10 code,ICD10
+3119906,HIV disease resulting in Kaposi's sarcoma,Clinical Finding,Nebraska Lexicon
+4224096,Kaposi's sarcoma with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40627181,AIDS with Kaposi's sarcoma,Disorder,SNOMED
+40376611,HIV disease resulting in Kaposi's sarcoma,Disorder,SNOMED
+45934601,AIDS with Kaposi's sarcoma,Diagnosis,CIEL
+42484263,HIV disease resulting in Kaposi’s sarcoma,KCD7 code,KCD7
+3163483,AIDS with Kaposi's sarcoma,Clinical Finding,Nebraska Lexicon
+3369039,Kaposi's sarcoma associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40613401,AIDS with presenile dementia,Disorder,SNOMED
+4224240,Presenile dementia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4150851,Cognitive functions,Observable Entity,SNOMED
+3161516,AIDS with presenile dementia,Clinical Finding,Nebraska Lexicon
+3219916,Presenile dementia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3088335,AIDS with subacute myocarditis,Clinical Finding,Nebraska Lexicon
+3360288,Subacute myocarditis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40298405,AIDS with subacute myocarditis,Disorder,SNOMED
+3164687,AIDS with agranulocytosis,Clinical Finding,Nebraska Lexicon
+3284866,Agranulocytosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40652283,AIDS with agranulocytosis,Disorder,SNOMED
+4228760,Hyperhidrosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40612233,AIDS with skin disease,Disorder,SNOMED
+3161482,AIDS with skin disease,Clinical Finding,Nebraska Lexicon
+4227229,Dermatomycosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+45955931,Generalized skin disorder due to AIDS,Diagnosis,CIEL
+3215670,Skin disorder associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3399835,Nocardiosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3164418,AIDS with Nocardia infection,Clinical Finding,Nebraska Lexicon
+4224578,Nocardiosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40641147,AIDS with Nocardia infection,Disorder,SNOMED
+3424950,Coccidioidomycosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3161182,AIDS with coccidioidomycosis,Clinical Finding,Nebraska Lexicon
+40614849,AIDS with coccidioidomycosis,Disorder,SNOMED
+4224740,Coccidioidomycosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3164649,AIDS with organic dementia,Clinical Finding,Nebraska Lexicon
+3186327,Organic dementia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40641365,AIDS with organic dementia,Disorder,SNOMED
+4224860,Organic dementia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4225017,Salmonella infection with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3174397,Salmonella infection associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3360858,Malaise associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40641912,AIDS with malaise,Disorder,SNOMED
+3164591,AIDS with malaise,Clinical Finding,Nebraska Lexicon
+3164578,AIDS with histoplasmosis,Clinical Finding,Nebraska Lexicon
+4225170,Histoplasmosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3274872,Histoplasmosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40640008,AIDS with histoplasmosis,Disorder,SNOMED
+4225193,Microsporidiosis associated with acquired immunodeficiency syndrome,Disorder,SNOMED
+3160078,AIDS with microsporidiosis,Clinical Finding,Nebraska Lexicon
+40487286,AIDS with microsporidiosis,Disorder,SNOMED
+3225388,Microsporidiosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3315572,Viral pneumonia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3112231,Acquired immunodeficiency syndrome (AIDS) with viral pneumonia,Clinical Finding,Nebraska Lexicon
+4043934,AIDS with viral pneumonia,Disorder,SNOMED
+4225318,Viral pneumonia with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3346250,Respiratory disorder associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40642121,AIDS with respiratory abnormality,Disorder,SNOMED
+3164035,AIDS with respiratory abnormality,Clinical Finding,Nebraska Lexicon
+4228754,Dyspnea with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40642744,AIDS with aplastic anemia,Disorder,SNOMED
+3441084,Aplastic anaemia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4030871,Red blood cell count,Procedure,SNOMED
+3164049,AIDS with aplastic anaemia,Clinical Finding,Nebraska Lexicon
+4298431,White blood cell count,Procedure,SNOMED
+4267147,Platelet count,Procedure,SNOMED
+40480067,Measurement of total hemoglobin concentration,Procedure,SNOMED
+4254680,Hemostatic function,Observable Entity,SNOMED
+3163443,AIDS with infectious gastroenteritis,Clinical Finding,Nebraska Lexicon
+40634549,AIDS with infectious gastroenteritis,Disorder,SNOMED
+4225989,Infectious gastroenteritis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3347273,Infectious gastroenteritis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3145800,AIDS with central nervous system disorder,Clinical Finding,Nebraska Lexicon
+45910997,HIV-associated central nervous system disease,Diagnosis,CIEL
+40373839,AIDS with central nervous system disorder,Disorder,SNOMED
+40276915,AIDS with specified diseases of the central nervous system,Disorder,SNOMED
+3407330,Central nervous disorder associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3058696,AIDS with specified diseases of the central nervous system -RETIRED-,Clinical Finding,Nebraska Lexicon
+45926662,HIV-associated malignant neoplasm,Diagnosis,CIEL
+4226925,Immunoblastic lymphoma associated with AIDS,Disorder,SNOMED
+3417214,Malignant neoplasm associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4227969,Primary lymphoma of brain with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4228604,Burkitt's lymphoma associated with AIDS,Disorder,SNOMED
+4226388,Reticulosarcoma with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40313685,AIDS with reticulosarcoma,Disorder,SNOMED
+3266624,Reticulosarcoma associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3102677,AIDS with reticulosarcoma,Clinical Finding,Nebraska Lexicon
+40376608,HIV disease resulting in Pneumocystis carinii pneumonia,Disorder,SNOMED
+3119904,HIV disease resulting in Pneumocystis carinii pneumonia,Clinical Finding,Nebraska Lexicon
+3149525,AIDS with pneumocystosis,Clinical Finding,Nebraska Lexicon
+40533440,AIDS with pneumocystosis,Disorder,SNOMED
+45571459,HIV disease resulting in Pneumocystis jirovecii pneumonia,ICD10 code,ICD10
+3344769,Pneumocystosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+42484258,HIV disease resulting in Pneumocystis jirovecii pneumonia,KCD7 code,KCD7
+4226502,Pneumocystosis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40624329,AIDS with salivary gland disease,Disorder,SNOMED
+3161752,AIDS with salivary gland disease,Clinical Finding,Nebraska Lexicon
+3358492,Salivary gland disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40433809,AIDS with progressive multifocal leukoencephalopathy,Disorder,SNOMED
+3224220,Progressive multifocal leucoencephalopathy associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3137940,AIDS with progressive multifocal leucoencephalopathy,Clinical Finding,Nebraska Lexicon
+45918015,HIV STAGING - TUBERCULOSIS WITHIN YEAR,Diagnosis,CIEL
+3220790,Tuberculosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40327610,AIDS with tuberculosis,Disorder,SNOMED
+45942310,HIV STAGING - MYCOBACTERIUM AVIUM COMPLEX,Diagnosis,CIEL
+3110403,AIDS with tuberculosis,Clinical Finding,Nebraska Lexicon
+3162164,AIDS with polyneuropathy,Clinical Finding,Nebraska Lexicon
+3383147,Polyneuropathy associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4274025,Disease,Disorder,SNOMED
+40624705,AIDS with polyneuropathy,Disorder,SNOMED
+3164118,AIDS with blindness,Clinical Finding,Nebraska Lexicon
+40636708,AIDS with blindness,Disorder,SNOMED
+3377063,Blindness associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4226792,Candidiasis of mouth with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40299981,AIDS with candidiasis of mouth,Disorder,SNOMED
+3325190,Candidiasis of mouth associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3094558,AIDS with candidiasis of mouth,Clinical Finding,Nebraska Lexicon
+3164470,AIDS with secondary thrombocytopenia,Clinical Finding,Nebraska Lexicon
+45926663,thrombocytopenia associated with AIDS,Diagnosis,CIEL
+40643053,AIDS with secondary thrombocytopenia,Disorder,SNOMED
+3326151,Thrombocytopenia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40644474,AIDS with thrombocytopenia,Disorder,SNOMED
+3164078,AIDS with thrombocytopenia,Clinical Finding,Nebraska Lexicon
+3164084,AIDS with acute myocarditis,Clinical Finding,Nebraska Lexicon
+3349735,Myocarditis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40644516,AIDS with acute myocarditis,Disorder,SNOMED
+3149920,AIDS with radiculitis,Clinical Finding,Nebraska Lexicon
+4227072,Radiculitis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3182171,Radiculitis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40528131,AIDS with radiculitis,Disorder,SNOMED
+40458412,AIDS with nutritional deficiency,Disorder,SNOMED
+3140008,AIDS with nutritional deficiency,Clinical Finding,Nebraska Lexicon
+3377715,Nutritional deficiency associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4227205,Organic brain syndrome with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40273996,AIDS with organic brain syndrome,Disorder,SNOMED
+3408001,Organic brain syndrome associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3086045,AIDS with organic brain syndrome,Clinical Finding,Nebraska Lexicon
+3257321,Dermatomycosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4230396,AIDS with dermatomycosis,Disorder,SNOMED
+40615014,AIDS with dermatomycosis,Disorder,SNOMED
+3163378,AIDS with subacute endocarditis,Clinical Finding,Nebraska Lexicon
+3316782,Subacute endocarditis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40631402,AIDS with subacute endocarditis,Disorder,SNOMED
+3085900,AIDS with disseminated candidiasis,Clinical Finding,Nebraska Lexicon
+3407043,Disseminated candidiasis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40276909,AIDS with disseminated candidiasis,Disorder,SNOMED
+40276910,AIDS with disseminated candidiasis of other and unspecified sites,Disorder,SNOMED
+3054655,AIDS with disseminated candidiasis of other and unspecified sites -RETIRED-,Clinical Finding,Nebraska Lexicon
+4227380,Disseminated candidiasis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+40364496,AIDS with neuritis,Disorder,SNOMED
+3388634,Neuritis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3144749,AIDS with neuritis,Clinical Finding,Nebraska Lexicon
+3164349,AIDS with herpes zoster,Clinical Finding,Nebraska Lexicon
+4227539,Herpes zoster with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+3364739,Herpes zoster associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40638121,AIDS with herpes zoster,Disorder,SNOMED
+45912290,HIV STAGING - ADULT HERPES ZOSTER,Diagnosis,CIEL
+40611202,AIDS with primary lymphoma of the brain,Disorder,SNOMED
+3161672,AIDS with primary lymphoma of the brain,Clinical Finding,Nebraska Lexicon
+3419465,Primary lymphoma of brain associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3161137,Human immunodeficiency viral myelitis,Clinical Finding,Nebraska Lexicon
+3248578,Myelitis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40612548,AIDS with myelitis,Disorder,SNOMED
+40617177,AIDS with background retinopathy,Disorder,SNOMED
+3162212,Human immunodeficiency virus-associated retinitis,Clinical Finding,Nebraska Lexicon
+3246207,Retinopathy associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3122862,Acquired immune deficiency syndrome dementia complex,Clinical Finding,Nebraska Lexicon
+45566770,Dementia in human immunodeficiency virus [HIV] disease,ICD10 code,ICD10
+40295324,AIDS with dementia,Disorder,SNOMED
+40386897,Acquired immune deficiency syndrome dementia complex,Disorder,SNOMED
+3256262,Dementia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+42486501,Dementia in human immunodeficiency virus [HIV] disease(B22.0†),KCD7 code,KCD7
+3087490,Acquired immune deficiency syndrome dementia complex,Clinical Finding,Nebraska Lexicon
+40595410,AIDS with failure to thrive syndrome (in infant),Disorder,SNOMED
+3158983,AIDS with failure to thrive syndrome (in infant),Clinical Finding,Nebraska Lexicon
+3364791,Failure to thrive in infant associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3313869,Pneumonia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3085903,AIDS with pneumonia,Clinical Finding,Nebraska Lexicon
+40276913,AIDS with pneumonia,Disorder,SNOMED
+3159901,AIDS with infective arthritis,Clinical Finding,Nebraska Lexicon
+3364528,Infective arthritis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40490143,AIDS with infective arthritis,Disorder,SNOMED
+4228290,Infective arthritis with AIDS (acquired immunodeficiency syndrome),Disorder,SNOMED
+4221939,Prion disease associated with AIDS,Disorder,SNOMED
+3164583,AIDS with encephalopathy,Clinical Finding,Nebraska Lexicon
+40640059,AIDS with encephalopathy,Disorder,SNOMED
+3281664,Encephalopathy associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40485883,AIDS with encephalomyelitis,Disorder,SNOMED
+3160012,AIDS with encephalomyelitis,Clinical Finding,Nebraska Lexicon
+3370403,Encephalomyelitis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40300690,AIDS with neuralgia,Disorder,SNOMED
+3088542,AIDS with neuralgia,Clinical Finding,Nebraska Lexicon
+3310551,Neuralgia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40618514,AIDS with dyspnea,Disorder,SNOMED
+4094131,Ease of respiration,Observable Entity,SNOMED
+3187376,Dyspnoea associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3162826,AIDS with dyspnea,Clinical Finding,Nebraska Lexicon
+40322450,AIDS with low vision,Disorder,SNOMED
+3176917,Low vision associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3107203,AIDS with low vision,Clinical Finding,Nebraska Lexicon
+40282030,AIDS with hyperhidrosis,Disorder,SNOMED
+3189503,Hyperhidrosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4215206,Sweating,Observable Entity,SNOMED
+3086475,AIDS with hyperhidrosis,Clinical Finding,Nebraska Lexicon
+3271403,Paediatric human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4239722,Asymptomatic human immunodeficiency virus infection in pregnancy,Disorder,SNOMED
+4181040,General wellbeing,Observable Entity,SNOMED
+3183498,Asymptomatic human immunodeficiency virus infection in pregnancy,Clinical Finding,Nebraska Lexicon
+35225089,Asymptomatic human immunodeficiency virus [HIV] infection status,3-char billing code,ICD10CM
+42538959,Asymptomatic human immunodeficiency virus A1 infection,Disorder,SNOMED
+3571659,History of asymptomatic human immunodeficiency virus infection,Context-dependent,SNOMED
+45929094,Asymptomatic Human Immunodeficiency Virus Infection,Diagnosis,CIEL
+4332363,History of asymptomatic human immunodeficiency virus infection,Context-dependent,SNOMED
+42505286,Asymptomatic human immunodeficiency virus [HIV] infection status,KCD7 code,KCD7
+42536591,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria,Disorder,SNOMED
+45566407,Asymptomatic human immunodeficiency virus [HIV] infection status,ICD10 Hierarchy,ICD10
+3424477,Asymptomatic human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+45905816,Asymptomatic Human Immunodeficiency Virus Infection,Diagnosis,CIEL
+42536590,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis,Disorder,SNOMED
+44796986,[V]Asymptomatic human immunodeficiency virus infection status,Context-dependent,SNOMED
+44824945,Asymptomatic human immunodeficiency virus [HIV] infection status,3-dig billing V code,ICD9CM
+37162221,Infectious mononucleosis caused by human immunodeficiency virus type I,Disorder,SNOMED
+3290051,Human immunodeficiency virus I infection,Clinical Finding,Nebraska Lexicon
+45769864,Symptomatic human immunodeficiency virus (HIV) I infection,Disorder,SNOMED
+45950663,Human Immunodeficiency Virus I Infection,Diagnosis,CIEL
+45955961,Human immunodeficiency virus encephalopathy,Diagnosis,CIEL
+45595610,HIV disease resulting in encephalopathy,ICD10 code,ICD10
+3288848,Human immunodeficiency virus encephalopathy,Clinical Finding,Nebraska Lexicon
+4262297,Human immunodeficiency virus encephalopathy,Disorder,SNOMED
+42484271,HIV disease resulting in encephalopathy,KCD7 code,KCD7
+4224409,Slow virus infection associated with AIDS,Disorder,SNOMED
+4228444,Acquired hemolytic anemia associated with AIDS,Disorder,SNOMED
+40345081,Acquired immune deficiency syndrome (& [ARC]),Disorder,SNOMED
+40432812,Acquired immune deficiency syndrome,Disorder,SNOMED
+3104812,Acquired immune deficiency syndrome (& [ARC]),Clinical Finding,Nebraska Lexicon
+4227649,Non-arthropod-borne viral disease associated with AIDS,Disorder,SNOMED
+4223736,Dermatophytosis associated with AIDS,Disorder,SNOMED
+4225319,Isosporiasis associated with AIDS,Disorder,SNOMED
+40276918,AIDS-related complex with or without other conditions,Disorder,SNOMED
+4299361,AIDS with Salmonella infection,Disorder,SNOMED
+4269627,AIDS-like syndrome,Disorder,SNOMED
+4227834,Deficiency anemia associated with AIDS,Disorder,SNOMED
+3104717,AIDS with specified infection, NEC -RETIRED-,Clinical Finding,Nebraska Lexicon
+40319124,AIDS with specified infection, NEC,Disorder,SNOMED
+4225187,Herpes simplex associated with AIDS,Disorder,SNOMED
+40319628,Acquired immune deficiency syndrome (& [ARC]),Disorder,SNOMED
+4226260,Cytomegalic inclusion disease associated with AIDS,Disorder,SNOMED
+40276917,Other AIDS virus infection,Disorder,SNOMED
+4261935,Family history of acquired immune deficiency syndrome,Context-dependent,SNOMED
+4223573,Cryptosporidiosis associated with AIDS,Disorder,SNOMED
+4227531,Coccidiosis associated with AIDS,Disorder,SNOMED
+4226648,Candiasis of skin AND/OR nails associated with AIDS,Disorder,SNOMED
+45757102,Acquired immune deficiency syndrome complicating childbirth,Disorder,SNOMED
+40276914,AIDS with or without other conditions,Disorder,SNOMED
+45947457,ACQUIRED IMMUNODEFICIENCY SYNDROME,Diagnosis,CIEL
+3137932,Acquired immune deficiency syndrome,Clinical Finding,Nebraska Lexicon
+3377317,Immunodeficiency due to human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4228274,Toxoplasmosis associated with AIDS,Disorder,SNOMED
+45941535,AIDS,Diagnosis,CIEL
+4226120,Opportunistic mycosis associated with AIDS,Disorder,SNOMED
+40276916,AIDS with other specified conditions,Disorder,SNOMED
+4226111,Cachexia associated with AIDS,Clinical Finding,SNOMED
+45948833,AIDS (acquired immune deficiency syndrome),Diagnosis,CIEL
+4223031,Anemia associated with AIDS,Disorder,SNOMED
+3085904,AIDS with or without other conditions -RETIRED-,Clinical Finding,Nebraska Lexicon
+3085906,Other AIDS virus infection -RETIRED-,Clinical Finding,Nebraska Lexicon
+3085905,AIDS with other specified conditions -RETIRED-,Clinical Finding,Nebraska Lexicon
+4226787,Abnormal weight loss associated with AIDS,Clinical Finding,SNOMED
+3141512,Acquired immune deficiency syndrome,Clinical Finding,Nebraska Lexicon
+4227076,Ill-defined intestinal infection associated with AIDS,Disorder,SNOMED
+3231252,Human immunodeficiency virus infection with acute lymphadenitis,Clinical Finding,Nebraska Lexicon
+3117249,AIDS virus with acute lymphadenitis,Clinical Finding,Nebraska Lexicon
+40260457,AIDS virus with acute lymphadenitis,Disorder,SNOMED
+3117745,HIV infection with acute lymphadenitis,Clinical Finding,Nebraska Lexicon
+40263069,HIV infection with acute lymphadenitis,Disorder,SNOMED
+4320032,Persistent generalized lymphadenopathy,Disorder,SNOMED
+45922696,HIV STAGING - PERSISTENT GENERALIZED LYMPHADENOPATHY,Finding,CIEL
+3305806,Human immunodeficiency virus infection with persistent generalized lymphadenopathy,Clinical Finding,Nebraska Lexicon
+45953503,Persistent Generalized Lymphadenopathy,Diagnosis,CIEL
+45951260,human immunodeficiency virus enteropathy,Diagnosis,CIEL
+3419271,Human immunodeficiency virus non-pathogenic diarrhoea,Clinical Finding,Nebraska Lexicon
+4340791,Human immunodeficiency virus enteropathy,Disorder,SNOMED
+3243114,Human immunodeficiency virus myopathy,Clinical Finding,Nebraska Lexicon
+4347288,Human immunodeficiency virus myopathy,Disorder,SNOMED
+3150359,AIDS with coccidiosis,Clinical Finding,Nebraska Lexicon
+36674252,Infection caused by Coccidia co-occurrent with acquired immunodeficiency syndrome,Disorder,SNOMED
+3380555,Coccidiosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+36674254,Infection caused by Isospora co-occurrent with acquired immunodeficiency syndrome,Disorder,SNOMED
+40539091,AIDS with coccidiosis,Disorder,SNOMED
+36674253,Infection caused by Toxoplasma gondii co-occurrent with acquired immunodeficiency syndrome,Disorder,SNOMED
+40611164,AIDS with toxoplasmosis,Disorder,SNOMED
+3161667,AIDS with toxoplasmosis,Clinical Finding,Nebraska Lexicon
+3346584,Toxoplasmosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40388362,AIDS with coccidiosis,Disorder,SNOMED
+3347672,Isosporiasis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3150357,AIDS with isosporiasis,Clinical Finding,Nebraska Lexicon
+3124076,AIDS with coccidiosis (disorder) [Ambiguous],Clinical Finding,Nebraska Lexicon
+40539088,AIDS with isosporiasis,Disorder,SNOMED
+36714339,Candidiasis of upper respiratory tract co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3283761,Candidiasis of upper respiratory tract co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+45539221,Human immunodeficiency virus [HIV] disease complicating the puerperium,5-char billing code,ICD10CM
+45757132,Human immunodeficiency virus in mother complicating childbirth,Disorder,SNOMED
+3387442,Human immunodeficiency disease complicating pregnancy, childbirth and the puerperium,Clinical Finding,Nebraska Lexicon
+45606666,Human immunodeficiency virus [HIV] disease complicating pregnancy, first trimester,6-char billing code,ICD10CM
+45563193,Human immunodeficiency virus [HIV] disease complicating pregnancy, unspecified trimester,6-char billing code,ICD10CM
+45558346,Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium,4-char nonbill code,ICD10CM
+42495638,Human immunodeficiency virus [HIV] disease complicating pregnancy,childbirth and the puerperium,KCD7 code,KCD7
+45572902,Human immunodeficiency virus [HIV] disease complicating pregnancy, second trimester,6-char billing code,ICD10CM
+45534320,Human immunodeficiency virus [HIV] disease complicating pregnancy, third trimester,6-char billing code,ICD10CM
+1571918,Human immunodeficiency virus [HIV] disease complicating pregnancy,5-char nonbill code,ICD10CM
+3164791,Acquired immunodeficiency syndrome virus infection associated with pregnancy,Clinical Finding,Nebraska Lexicon
+42619327,Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium,ICD10 code,ICD10
+3255245,Parkinsonism due to human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+36716524,Parkinsonism due to human immunodeficiency virus infection,Disorder,SNOMED
+4113276,Movement,Observable Entity,SNOMED
+37017071,Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40517943,AIDS with slow virus infection,Disorder,SNOMED
+3159030,Slow virus infection associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3061906,AIDS with subacute adenoviral encephalitis (disorder) [Ambiguous],Clinical Finding,Nebraska Lexicon
+3073848,AIDS with slow virus infection,Clinical Finding,Nebraska Lexicon
+3365725,Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3159090,Splenomegaly associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3401956,Splenomegaly co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3159004,Hypersplenism associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3160080,AIDS with splenomegaly,Clinical Finding,Nebraska Lexicon
+40491089,AIDS with hypersplenism,Disorder,SNOMED
+3076799,AIDS with hypersplenism,Clinical Finding,Nebraska Lexicon
+40487312,AIDS with splenomegaly,Disorder,SNOMED
+37017092,Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3361151,Candidiasis of oesophagus co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017276,Cardiomyopathy co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3251993,Heart disease co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3265936,Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017296,Isosporiasis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3144792,Human immunodeficiency virus-related gut disease - cause unknown,Clinical Finding,Nebraska Lexicon
+4291606,HIV seroconversion exanthem,Disorder,SNOMED
+37017106,Eruption of skin co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3157521,Human immunodeficiency virus seroconversion exanthem,Clinical Finding,Nebraska Lexicon
+3425355,Eruption of skin co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3318510,Myocarditis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3386670,Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37019052,Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3175371,Strongyloidiasis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017652,Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3367281,Disorder of skin co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3137519,Human immunodeficiency virus myelitis,Clinical Finding,Nebraska Lexicon
+4045981,Human immunodeficiency virus myelitis,Disorder,SNOMED
+3401421,Myelitis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3159025,Deficiency anaemia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40538664,AIDS with deficiency anemia,Disorder,SNOMED
+3150537,AIDS with deficiency anaemia,Clinical Finding,Nebraska Lexicon
+3172692,Anaemia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3187225,Hemophagocytic syndrome co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017210,Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3314387,Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3323490,Reticulosarcoma co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3382655,Disorder of respiratory system co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+42484272,HIV disease resulting in lymphoid interstitial pneumonitis,KCD7 code,KCD7
+45561748,HIV disease resulting in lymphoid interstitial pneumonitis,ICD10 code,ICD10
+3218191,Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3219751,Presenile dementia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3371035,Pneumocystosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017249,Organic brain syndrome co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3331548,Organic brain syndrome co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3306205,Candidiasis of mouth co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3250128,Disorder of spinal cord co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3264851,Disorder of kidney co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017586,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017424,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+37017425,Renal failure syndrome co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3257391,Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3251430,Neuritis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017457,Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+45532868,HIV disease resulting in (persistent) generalized lymphadenopathy,ICD10 code,ICD10
+40401213,AIDS with lymphadenopathy,Disorder,SNOMED
+42484277,HIV disease resulting in (persistent) generalized lymphadenopathy,KCD7 code,KCD7
+3177314,Lymphadenopathy co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3128469,AIDS with lymphadenopathy,Clinical Finding,Nebraska Lexicon
+3159073,Lymphadenopathy associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3376778,Enlargement of liver co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3390683,Acute endocarditis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3218270,Cardiomyopathy co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017278,Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3294137,Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3288125,Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3337143,Agranulocytosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3307118,Visual impairment co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3335460,Infective arthritis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3451574,Acquired haemolytic anaemia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4224294,Hemolysis,Observable Entity,SNOMED
+3271777,Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3385376,Nocardiosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3171326,Isosporiasis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3174804,Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3401337,Disorder of central nervous system co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+37017442,Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+40629865,AIDS with malignant neoplasm,Disorder,SNOMED
+45571462,HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue,ICD10 code,ICD10
+3359542,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+42484262,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,KCD7 code,KCD7
+37017595,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+42484269,HIV disease resulting in unspecified malignant neoplasm,KCD7 code,KCD7
+42484266,HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue,KCD7 code,KCD7
+45532867,HIV disease resulting in unspecified malignant neoplasm,ICD10 code,ICD10
+45561747,HIV disease resulting in other malignant neoplasms,ICD10 code,ICD10
+42484267,HIV disease resulting in multiple malignant neoplasms,KCD7 code,KCD7
+3080608,AIDS with malignant neoplasm,Clinical Finding,Nebraska Lexicon
+37116830,Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+45755324,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,ICD10 Hierarchy,ICD10
+42484268,HIV disease resulting in other malignant neoplasms,KCD7 code,KCD7
+45581152,HIV disease resulting in multiple malignant neoplasms,ICD10 code,ICD10
+3345638,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4097664,Albumin measurement,Procedure,SNOMED
+4211845,Urine protein measurement,Procedure,SNOMED
+40282772,Renal function,Observable Entity,SNOMED
+3241356,Renal failure syndrome co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+40636102,AIDS with immunoblastic sarcoma,Disorder,SNOMED
+3359198,Immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3164111,AIDS with immunoblastic sarcoma,Clinical Finding,Nebraska Lexicon
+3159065,Immunoblastic lymphoma associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40532429,AIDS with cytomegalic inclusion disease,Disorder,SNOMED
+42484254,HIV disease resulting in cytomegaloviral disease,KCD7 code,KCD7
+45537755,HIV disease resulting in cytomegaloviral disease,ICD10 code,ICD10
+3059325,AIDS with cytomegalic inclusion disease,Clinical Finding,Nebraska Lexicon
+3384280,Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3159089,Cytomegalic inclusion disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+37017550,Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3247348,Coccidiosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+45912244,HIV STAGING - CHILD HSV INFECTION,Diagnosis,CIEL
+3161378,AIDS with herpes simplex,Clinical Finding,Nebraska Lexicon
+40607606,AIDS with herpes simplex,Disorder,SNOMED
+3159012,Herpes simplex associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3344652,Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3064929,AIDS with pyrexia -RETIRED-,Clinical Finding,Nebraska Lexicon
+40599235,AIDS with fever,Disorder,SNOMED
+3434966,Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3159021,Fever associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4302666,Body temperature,Observable Entity,SNOMED
+3160830,AIDS with fever,Clinical Finding,Nebraska Lexicon
+40641740,AIDS with pyrexia,Disorder,SNOMED
+3329162,Aspergillosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3223145,Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3397931,Dementia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3277888,Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+45951751,HIV STAGING - CRYPTOSPORIDIOSIS,Diagnosis,CIEL
+3153172,AIDS with cryptosporidiosis,Clinical Finding,Nebraska Lexicon
+40549354,AIDS with cryptosporidiosis,Disorder,SNOMED
+3159061,Cryptosporidiosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40390518,AIDS with opportunistic mycosis,Disorder,SNOMED
+3159076,Opportunistic mycosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3272016,Opportunistic mycosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3123108,AIDS with opportunistic mycosis,Clinical Finding,Nebraska Lexicon
+42484257,HIV disease resulting in other mycoses,KCD7 code,KCD7
+45600449,HIV disease resulting in other mycoses,ICD10 code,ICD10
+3307132,Microsporidiosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3332957,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3119907,Human immunodeficiency virus disease resulting in Burkitt's lymphoma,Clinical Finding,Nebraska Lexicon
+42484264,HIV disease resulting in Burkitt lymphoma,KCD7 code,KCD7
+40638817,AIDS with Burkitt's tumor,Disorder,SNOMED
+3062819,AIDS with Burkitt's tumor,Clinical Finding,Nebraska Lexicon
+3159078,Burkitt's lymphoma associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+4092690,HIV disease resulting in Burkitt's lymphoma,Disorder,SNOMED
+45571461,HIV disease resulting in Burkitt lymphoma,ICD10 code,ICD10
+3340490,Burkitt's lymphoma co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+45951752,HIV STAGING - LYMPHOMA,Diagnosis,CIEL
+45926400,HIV disease resulting in Burkitt's lymphoma,Diagnosis,CIEL
+3242794,Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3299920,Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4138015,Immune reconstitution reaction,Clinical Finding,SNOMED
+3375156,Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3368677,Immune recovery uveitis,Clinical Finding,Nebraska Lexicon
+3316961,Disorder of eye proper co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3292505,Radiculitis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3424852,Polyneuropathy co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3378250,Recurrent salmonella septicaemia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3234561,Dermatophytosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+40539101,AIDS with dermatophytosis,Disorder,SNOMED
+3159074,Dermatophytosis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3150362,AIDS with dermatophytosis,Clinical Finding,Nebraska Lexicon
+3385567,Neuralgia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3163408,Acquired immunodeficiency syndrome with Salmonella infection,Clinical Finding,Nebraska Lexicon
+3258439,Salmonellosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3185960,Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3456736,Aplastic anaemia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3172355,Bacterial pneumonia co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+3251351,Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+506725,Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+507647,Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection,Disorder,SNOMED
+3287246,Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4086522,Weight change,Observable Entity,SNOMED
+4086516,Distribution of body fat loss,Observable Entity,SNOMED
+4268890,Weight loss from baseline weight,Observable Entity,SNOMED
+40622364,AIDS with ill-defined intestinal infection,Disorder,SNOMED
+3072999,AIDS with non-arthropod-borne viral disease,Clinical Finding,Nebraska Lexicon
+3159085,Non-arthropod-borne viral disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40634504,AIDS with non-arthropod-borne viral disease,Disorder,SNOMED
+3423474,Infectious disease associated with acquired immune deficiency syndrome,Clinical Finding,Nebraska Lexicon
+3062565,AIDS with dermatomycosis (disorder) [Ambiguous],Clinical Finding,Nebraska Lexicon
+3159014,Prion disease associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3245376,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis,Clinical Finding,Nebraska Lexicon
+4013104,Human immunodeficiency virus antibody test,Procedure,SNOMED
+3264778,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria,Clinical Finding,Nebraska Lexicon
+42536592,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis,Disorder,SNOMED
+3416922,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis,Clinical Finding,Nebraska Lexicon
+42536593,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria,Disorder,SNOMED
+3327122,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria,Clinical Finding,Nebraska Lexicon
+42536594,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with malaria,Disorder,SNOMED
+3318088,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with malaria,Clinical Finding,Nebraska Lexicon
+42536595,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis,Disorder,SNOMED
+3368282,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis,Clinical Finding,Nebraska Lexicon
+3313673,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with malaria,Clinical Finding,Nebraska Lexicon
+42536596,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with malaria,Disorder,SNOMED
+3421968,Asymptomatic human immunodeficiency virus A1 infection,Clinical Finding,Nebraska Lexicon
+3387279,Asymptomatic human immunodeficiency virus A2 infection,Clinical Finding,Nebraska Lexicon
+42539031,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis,Disorder,SNOMED
+3298054,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis,Clinical Finding,Nebraska Lexicon
+45917373,HIV disease resulting in candidiasis,Diagnosis,CIEL
+45755326,Human immunodeficiency virus [HIV] disease resulting in other conditions,ICD10 Hierarchy,ICD10
+3119902,Human immunodeficiency virus disease resulting in cytomegaloviral disease,Clinical Finding,Nebraska Lexicon
+45755325,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,ICD10 Hierarchy,ICD10
+3251914,Symptomatic human immunodeficiency virus infection,Clinical Finding,Nebraska Lexicon
+4092688,HIV disease resulting in candidiasis,Disorder,SNOMED
+3138676,Acquired immune deficiency syndrome-related complex,Clinical Finding,Nebraska Lexicon
+45934412,HIV resulting in other conditions,Diagnosis,CIEL
+45928922,HIV disease resulting in multiple malignant neoplasms,Diagnosis,CIEL
+42484270,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,KCD7 code,KCD7
+4080601,Acquired immune deficiency syndrome-related complex,Disorder,SNOMED
+45955462,Acquired Immune Deficiency Syndrome-Related Complex,Diagnosis,CIEL
+46284256,HIV (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities,Disorder,SNOMED
+42484275,Human immunodeficiency virus [HIV] disease resulting in other conditions,KCD7 code,KCD7
+4092691,HIV disease resulting in multiple malignant neoplasms,Disorder,SNOMED
+4092687,HIV disease resulting in cytomegaloviral disease,Disorder,SNOMED
+4124361,Human immunodeficiency virus-associated periodontitis,Disorder,SNOMED
+3235411,Cholangitis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3159024,Septicemia associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+3055827,AIDS with septicaemia,Clinical Finding,Nebraska Lexicon
+4222094,Septicemia associated with AIDS,Disorder,SNOMED
+3313172,Sepsis associated with acquired immunodeficiency syndrome,Clinical Finding,Nebraska Lexicon
+40559500,AIDS with septicemia,Disorder,SNOMED
+3380238,Acquired immune deficiency syndrome complicating childbirth,Clinical Finding,Nebraska Lexicon
+3332687,Human immunodeficiency virus in mother complicating childbirth,Clinical Finding,Nebraska Lexicon
+45597051,Human immunodeficiency virus [HIV] disease complicating childbirth,5-char billing code,ICD10CM
+3395210,Symptomatic human immunodeficiency virus I infection,Clinical Finding,Nebraska Lexicon
+40380249,[X]Hiv disease resulting in hematological and immunological abnormalities, not elsewhere classified,Disorder,SNOMED
+40376597,[X]Hiv disease resulting in hematological and immunological abnormalities, not elsewhere classified,Disorder,SNOMED
+42484278,HIV disease resulting in haematological and immunological abnormalities, NEC,KCD7 code,KCD7
+45581153,HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified,ICD10 code,ICD10

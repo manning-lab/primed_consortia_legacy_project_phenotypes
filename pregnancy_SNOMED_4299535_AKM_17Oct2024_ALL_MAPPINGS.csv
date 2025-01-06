@@ -1,0 +1,1272 @@
+TARGET_CONCEPT_ID,TARGET_CONCEPT_CODE,TARGET_CONCEPT_NAME,TARGET_VOCAB_ID,RELATIONSHIP_ID,CONCEPT_ID,CONCEPT_NAME,CONCEPT_CODE,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+75015,80224003,Multiple gestation with one OR more fetal malpresentations,SNOMED,Mapped from,44822114,Multiple gestation with malpresentation of one fetus or more, unspecified as to episode of care or not applicable,652.60,5-dig billing code,ICD9CM
+75015,80224003,Multiple gestation with one OR more fetal malpresentations,SNOMED,Mapped from,44834903,Multiple gestation with malpresentation of one fetus or more,652.6,4-dig nonbill code,ICD9CM
+75015,80224003,Multiple gestation with one OR more fetal malpresentations,SNOMED,Mapped from,44837258,Multiple gestation with malpresentation of one fetus or more, delivered, with or without mention of antepartum condition,652.61,5-dig billing code,ICD9CM
+75015,80224003,Multiple gestation with one OR more fetal malpresentations,SNOMED,Maps to,75015,Multiple gestation with one OR more fetal malpresentations,80224003,Disorder,SNOMED
+75015,80224003,Multiple gestation with one OR more fetal malpresentations,SNOMED,Mapped from,75015,Multiple gestation with one OR more fetal malpresentations,80224003,Disorder,SNOMED
+197031,65727000,Intrauterine pregnancy,SNOMED,Mapped from,44821003,Abdominal pregnancy with intrauterine pregnancy,633.01,5-dig billing code,ICD9CM
+197031,65727000,Intrauterine pregnancy,SNOMED,Mapped from,44821007,Unspecified ectopic pregnancy with intrauterine pregnancy,633.91,5-dig billing code,ICD9CM
+197031,65727000,Intrauterine pregnancy,SNOMED,Subsumes,4135209,Combined pregnancy,31601007,Disorder,SNOMED
+197031,65727000,Intrauterine pregnancy,SNOMED,Mapped from,44833695,Other ectopic pregnancy with intrauterine pregnancy,633.81,5-dig billing code,ICD9CM
+197031,65727000,Intrauterine pregnancy,SNOMED,Mapped from,197031,Intrauterine pregnancy,65727000,Clinical Finding,SNOMED
+197031,65727000,Intrauterine pregnancy,SNOMED,Maps to,197031,Intrauterine pregnancy,65727000,Clinical Finding,SNOMED
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45534210,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, not applicable or unspecified,O31.22X0,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45558237,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 1,O31.20X1,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45548744,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 4,O31.23X4,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45558239,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 5,O31.21X5,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,10028,Continuing pregnancy after intrauterine death of one fetus or more, first trimester,O31.21,5-char nonbill code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45567910,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, other fetus,O31.23X9,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45572791,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 2,O31.21X2,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45543946,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 5,O31.20X5,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44834898,Triplet pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,651.40,5-dig billing code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,1571758,Continuing pregnancy after intrauterine death of one fetus or more,O31.2,4-char nonbill code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,10027,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester,O31.20,5-char nonbill code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44830233,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,651.53,5-dig billing code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45548742,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 2,O31.20X2,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45567909,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 1,O31.22X1,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Subsumes,4178154,Multiple pregnancy with one fetal loss,428511009,Disorder,SNOMED
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44821036,Other multiple pregnancy with fetal loss and retention of one or more fetus(es),651.6,4-dig nonbill code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44823255,Other multiple pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,651.63,5-dig billing code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45606569,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 1,O31.21X1,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45548743,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, not applicable or unspecified,O31.23X0,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45563090,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 1,O31.23X1,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45606570,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 3,O31.23X3,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45558238,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 3,O31.21X3,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44819873,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es),651.5,4-dig nonbill code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45606568,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, other fetus,O31.20X9,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44834899,Other multiple pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition,651.61,5-dig billing code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45592220,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, not applicable or unspecified,O31.21X0,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,10029,Continuing pregnancy after intrauterine death of one fetus or more, second trimester,O31.22,5-char nonbill code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45563089,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 5,O31.22X5,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45534211,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 5,O31.23X5,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Maps to,432373,Continuing pregnancy after intrauterine death of one or more fetuses,199307003,Disorder,SNOMED
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,432373,Continuing pregnancy after intrauterine death of one or more fetuses,199307003,Disorder,SNOMED
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45587306,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, other fetus,O31.21X9,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45592221,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 2,O31.23X2,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45601805,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 3,O31.20X3,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44831399,Other multiple pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,651.60,5-dig billing code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44824410,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,651.50,5-dig billing code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45596949,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 2,O31.22X2,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45596948,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 4,O31.20X4,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45577585,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 3,O31.22X3,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Concept poss_eq from,40443923,Continuing pregnancy after intrauterine death of sibling fetus (disorder),237248008,Disorder,SNOMED
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,40443923,Continuing pregnancy after intrauterine death of sibling fetus (disorder),237248008,Disorder,SNOMED
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45563088,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 4,O31.21X4,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,10030,Continuing pregnancy after intrauterine death of one fetus or more, third trimester,O31.23,5-char nonbill code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45596950,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, other fetus,O31.22X9,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45553500,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 4,O31.22X4,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44823254,Triplet pregnancy with fetal loss and retention of one or more fetus (es),651.4,4-dig nonbill code,ICD9CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,45563087,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, not applicable or unspecified,O31.20X0,7-char billing code,ICD10CM
+432373,199307003,Continuing pregnancy after intrauterine death of one or more fetuses,SNOMED,Mapped from,44837252,Triplet pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,651.43,5-dig billing code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Due to of,4118398,Fetal or neonatal effect of triplet pregnancy,206049000,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45606560,Triplet pregnancy with two or more monochorionic fetuses, first trimester,O30.111,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45592212,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,O30.101,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45539123,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,O30.109,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44834898,Triplet pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,651.40,5-dig billing code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,1595641,Triplet pregnancy, trichorionic/triamniotic, second trimester,O30.132,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,3662133,Monochorionic monoamniotic triplet pregnancy,1148801000000108,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,3662135,Dichorionic triamniotic triplet pregnancy,1148821000000104,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,35209587,Triplet pregnancy, trichorionic/triamniotic,O30.13,5-char nonbill code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,1571749,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs,O30.19,5-char nonbill code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Due to of,37167118,Fetal disorder due to triplet pregnancy,1263694000,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,3662136,Dichorionic diamniotic triplet pregnancy,1148841000000106,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,1571748,Triplet pregnancy,O30.1,4-char nonbill code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44824409,Triplet pregnancy, delivered, with or without mention of antepartum condition,651.11,5-dig billing code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45587302,Triplet pregnancy with two or more monochorionic fetuses, unspecified trimester,O30.119,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Concept poss_eq from,40332212,O/E - multiple presentation (& [triplet] or [twin]),163517005,Clinical Finding,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,1595642,Triplet pregnancy, trichorionic/triamniotic, third trimester,O30.133,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,35209586,Triplet pregnancy with two or more monoamniotic fetuses,O30.12,5-char nonbill code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45543942,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,O30.103,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44833177,Triplet gestation, unable to determine number of placenta and number of amniotic sacs,V91.19,5-dig billing V code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45572780,Triplet pregnancy with two or more monoamniotic fetuses, second trimester,O30.122,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,35209584,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs,O30.10,5-char nonbill code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45601800,Triplet pregnancy with two or more monochorionic fetuses, third trimester,O30.113,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44823254,Triplet pregnancy with fetal loss and retention of one or more fetus (es),651.4,4-dig nonbill code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45596939,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester,O30.192,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44835561,Triplet gestation, unspecified number of placenta and unspecified number of amniotic sacs,V91.10,5-dig billing V code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44830882,Triplet gestation, with two or more monochorionic fetuses,V91.11,5-dig billing V code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45582475,Triplet pregnancy with two or more monochorionic fetuses, second trimester,O30.112,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Concept same_as from,40318706,Triplet pregnancy,156152003,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,40318706,Triplet pregnancy,156152003,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Concept was_a from,3538110,Triplet pregnancy unspecified,644701000000107,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,3538110,Triplet pregnancy unspecified,644701000000107,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45592213,Triplet pregnancy with two or more monoamniotic fetuses, third trimester,O30.123,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45596940,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,O30.199,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,4062797,Triplet pregnancy NOS,199323003,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Concept was_a from,4062797,Triplet pregnancy NOS,199323003,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,3657367,Monochorionic diamniotic triplet pregnancy,1149411000000103,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45558227,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester,O30.193,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,3662134,Trichorionic triamniotic triplet pregnancy,1148811000000105,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,4059749,Triplet pregnancy unspecified,199320000,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Concept was_a from,4059749,Triplet pregnancy unspecified,199320000,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44836734,Triplet gestation, with two or more monoamniotic fetuses,V91.12,5-dig billing V code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45548735,Triplet pregnancy with two or more monoamniotic fetuses, unspecified trimester,O30.129,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,437931,Triplet pregnancy with antenatal problem,199322008,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44836093,Triplet pregnancy, unspecified as to episode of care or not applicable,651.10,5-dig billing code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45577578,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester,O30.191,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,35209585,Triplet pregnancy with two or more monochorionic fetuses,O30.11,5-char nonbill code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45890951,Triplet gestation placenta status,V91.1,4-dig nonbill V code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,1595643,Triplet pregnancy, trichorionic/triamniotic, unspecified trimester,O30.139,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Concept poss_eq from,40301603,O/E - multiple presentation (& [triplet] or [twin]),140724000,Clinical Finding,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,4129044,Delayed delivery of triplet,237321009,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,1595640,Triplet pregnancy, trichorionic/triamniotic, first trimester,O30.131,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45606561,Triplet pregnancy with two or more monoamniotic fetuses, first trimester,O30.121,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,45563080,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,O30.102,6-char billing code,ICD10CM
+432375,64254006,Triplet pregnancy,SNOMED,Due to of,37167119,Early neonatal disorder due to triplet pregnancy,1263695004,Disorder,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,44823252,Triplet pregnancy,651.1,4-dig nonbill code,ICD9CM
+432375,64254006,Triplet pregnancy,SNOMED,Mapped from,432375,Triplet pregnancy,64254006,Clinical Finding,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Maps to,432375,Triplet pregnancy,64254006,Clinical Finding,SNOMED
+432375,64254006,Triplet pregnancy,SNOMED,Subsumes,3657368,Monochorionic triamniotic triplet pregnancy,1149421000000109,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,4059754,Multiple pregnancy NOS with antenatal problem,199340007,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,44799340,[X]Other multiple gestation,451171000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44799340,[X]Other multiple gestation,451171000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4060433,Multiple pregnancy NOS,199337007,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45539126,Other specified multiple gestation with two or more monoamniotic fetuses, unspecified trimester,O30.829,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,432373,Continuing pregnancy after intrauterine death of one or more fetuses,199307003,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45606563,Other specified multiple gestation with two or more monochorionic fetuses, unspecified trimester,O30.819,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45567907,Other specified multiple gestation with two or more monochorionic fetuses, third trimester,O30.813,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Due to of,37167117,Early neonatal disorder due to multiple pregnancy,1263693006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,35209595,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses,O30.83,5-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45548740,Multiple gestation, unspecified, unspecified trimester,O30.90,5-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,35209592,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs,O30.80,5-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,3538113,Multiple pregnancy NOS,644731000000101,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,3538113,Multiple pregnancy NOS,644731000000101,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45890985,Multiple gestation placenta status,V91,3-dig nonbill V code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44834900,Multiple gestation following (elective) fetal reduction,delivered, with or without mention of antepartum condition,651.71,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44837408,Multiple pregnancy affecting fetus or newborn,761.5,4-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4126072,Born after multiple pregnancy,288259000,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45572785,Other specified multiple gestation with two or more monoamniotic fetuses, first trimester,O30.821,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Concept replaces,40455722,Other specified multiple gestation, NEC,2549002,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45577580,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, second trimester,O30.892,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4304316,Septuplet pregnancy,38720006,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45539125,Other specified multiple gestation with two or more monoamniotic fetuses, second trimester,O30.822,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,40455722,Other specified multiple gestation, NEC,2549002,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4216512,Quintuplet pregnancy,80997009,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4129021,Undiagnosed multiple pregnancy,237236005,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45558229,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, first trimester,O30.891,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,44799340,[X]Other multiple gestation,451171000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4060542,Multiple pregnancy with malpresentation,199378009,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,35209593,Other specified multiple gestation with two or more monochorionic fetuses,O30.81,5-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,40396169,Multiple pregnancy NOS,199341006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,40396169,Multiple pregnancy NOS,199341006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Due to of,4118411,Fetal or neonatal effect of multiple pregnancy,206046007,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44826790,Other specified multiple gestation,651.8,4-dig nonbill code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44823251,Multiple gestation,651,3-dig nonbill code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1571752,Other specified multiple gestation,O30.8,4-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45890966,Other specified multiple gestation placenta status,V91.9,4-dig nonbill V code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44827951,Other specified multiple gestation, antepartum condition or complication,651.83,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44819874,Multiple gestation following (elective) fetal reduction, unspecified as to episode of care or not applicable,651.70,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45534201,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,O30.803,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45567906,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,O30.802,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44837253,Unspecified multiple gestation, unspecified as to episode of care or not applicable,651.90,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1595648,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, first trimester,O30.831,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45582476,Other specified multiple gestation with two or more monochorionic fetuses, first trimester,O30.811,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4064149,Other multiple pregnancy with antenatal problem,199335004,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,4064149,Other multiple pregnancy with antenatal problem,199335004,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45577579,Other specified multiple gestation with two or more monochorionic fetuses, second trimester,O30.812,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4059752,Multiple pregnancy NOS, unspecified,199338002,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,4059752,Multiple pregnancy NOS, unspecified,199338002,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,3535591,Other multiple pregnancy,608121000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,3535591,Other multiple pregnancy,608121000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1595651,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, unspecified trimester,O30.839,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44820514,Other specified multiple gestation, with two or more monochorionic fetuses,V91.91,5-dig billing V code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,40394504,[X]Other multiple gestation,200508000,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,606917,Multiple pregnancy following assisted fertilization,1148848009,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1595650,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, third trimester,O30.833,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44829120,Multiple gestation following (elective) fetal reduction, antepartum condition or complication,651.73,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,3563229,Other multiple pregnancy unspecified,608131000000103,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,3520181,Other multiple pregnancy with antenatal problem,596811000000106,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,3520181,Other multiple pregnancy with antenatal problem,596811000000106,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1571740,Multiple gestation,O30,3-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,3563229,Other multiple pregnancy unspecified,608131000000103,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,40394504,[X]Other multiple gestation,200508000,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45539127,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, third trimester,O30.893,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45572784,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,O30.809,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44830234,Unspecified multiple gestation, antepartum condition or complication,651.93,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4185557,Sextuplet pregnancy,43990006,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept poss_eq from,40301603,O/E - multiple presentation (& [triplet] or [twin]),140724000,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44837890,Other specified multiple gestation, with two or more monoamniotic fetuses,V91.92,5-dig billing V code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1595649,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, second trimester,O30.832,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44821037,Unspecified multiple gestation, delivered, with or without mention of antepartum condition,651.91,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,432375,Triplet pregnancy,64254006,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45534202,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,O30.899,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44834901,Other specified multiple gestation, unspecified as to episode of care or not applicable,651.80,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Maps to,432969,Multiple pregnancy,16356006,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,432969,Multiple pregnancy,16356006,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,442594,Quadruplet pregnancy,60810003,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45572787,Multiple gestation, unspecified, second trimester,O30.92,5-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45572786,Other specified multiple gestation with two or more monoamniotic fetuses, third trimester,O30.823,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1571754,Multiple gestation, unspecified,O30.9,4-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4063165,Other multiple pregnancy NOS,199336003,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,35209594,Other specified multiple gestation with two or more monoamniotic fetuses,O30.82,5-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4129709,Continuing pregnancy after abortion of sibling fetus,237247003,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4135209,Combined pregnancy,31601007,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,4063165,Other multiple pregnancy NOS,199336003,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept same_as from,40318703,Multiple pregnancy,156150006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,40318703,Multiple pregnancy,156150006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44832540,Multiple gestation following (elective) fetal reduction,651.7,4-dig nonbill code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,4319561,Delayed delivery of second of multiple births,21987001,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,4063164,Other multiple pregnancy unspecified,199333006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4063164,Other multiple pregnancy unspecified,199333006,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44820515,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs,V91.99,5-dig billing V code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Due to of,37167116,Fetal disorder due to multiple pregnancy,1263692001,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,3520182,Other multiple pregnancy NOS,596821000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,40318708,Multiple pregnancy NOS,156154002,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,40318708,Multiple pregnancy NOS,156154002,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,3520182,Other multiple pregnancy NOS,596821000000100,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Concept was_a from,4062799,Other multiple pregnancy,199332001,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,1571753,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs,O30.89,5-char nonbill code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Concept poss_eq from,40332212,O/E - multiple presentation (& [triplet] or [twin]),163517005,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45534203,Multiple gestation, unspecified, third trimester,O30.93,5-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45572783,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,O30.801,6-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44819875,Unspecified multiple gestation,651.9,4-dig nonbill code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4059754,Multiple pregnancy NOS with antenatal problem,199340007,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Subsumes,441919,Twin pregnancy,65147003,Clinical Finding,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44837889,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs,V91.90,5-dig billing V code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,4062799,Other multiple pregnancy,199332001,Disorder,SNOMED
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,44832541,Other specified multiple gestation, delivered, with or without mention of antepartum condition,651.81,5-dig billing code,ICD9CM
+432969,16356006,Multiple pregnancy,SNOMED,Mapped from,45558230,Multiple gestation, unspecified, first trimester,O30.91,5-char billing code,ICD10CM
+432969,16356006,Multiple pregnancy,SNOMED,Asso finding of,4141779,FH: Multiple pregnancy,266906006,Context-dependent,SNOMED
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45587308,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, not applicable or unspecified,O31.32X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45534213,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 2,O31.32X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45596946,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 1,O31.10X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45548745,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, other fetus,O31.30X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45534215,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 5,O31.33X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45587307,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 3,O31.30X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45543948,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, other fetus,O31.33X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45539133,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 1,O31.32X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10031,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester,O31.30,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553504,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 4,O31.33X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45577584,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 1,O31.12X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45606572,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 3,O31.32X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45539131,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, other fetus,O31.10X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45601808,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 1,O31.33X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45592217,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 4,O31.10X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45601807,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 4,O31.32X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45582479,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, other fetus,O31.13X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45577582,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, not applicable or unspecified,O31.10X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45539132,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 1,O31.13X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45563086,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 5,O31.13X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,1571757,Continuing pregnancy after spontaneous abortion of one fetus or more,O31.1,4-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45582480,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, not applicable or unspecified,O31.31X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,1571759,Continuing pregnancy after elective fetal reduction of one fetus or more,O31.3,4-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10025,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester,O31.12,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45548746,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, not applicable or unspecified,O31.33X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10026,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester,O31.13,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45558234,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 3,O31.11X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45601804,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, not applicable or unspecified,O31.11X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553498,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 3,O31.12X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45563085,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 4,O31.12X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45592219,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, other fetus,O31.12X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45592218,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 2,O31.12X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10024,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester,O31.11,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45534209,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 1,O31.11X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45601806,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 1,O31.31X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45548741,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 3,O31.13X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45572792,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 1,O31.30X1,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45558236,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, not applicable or unspecified,O31.13X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45543945,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 5,O31.12X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10033,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester,O31.32,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45606571,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 5,O31.31X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553502,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 5,O31.30X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45587304,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 5,O31.11X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45567911,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, not applicable or unspecified,O31.30X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45582478,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 2,O31.13X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45534208,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 3,O31.10X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553501,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 4,O31.30X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45596947,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, other fetus,O31.11X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45558235,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, not applicable or unspecified,O31.12X0,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45543947,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 2,O31.30X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,433826,Continuing pregnancy after abortion of one fetus or more,199306007,Disorder,SNOMED
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Maps to,433826,Continuing pregnancy after abortion of one fetus or more,199306007,Disorder,SNOMED
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10032,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester,O31.31,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553496,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 2,O31.11X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45567908,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 5,O31.10X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553497,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 4,O31.11X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45563091,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 5,O31.32X5,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45558241,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, other fetus,O31.31X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45553503,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, other fetus,O31.32X9,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45592222,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 3,O31.31X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45534214,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 3,O31.33X3,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45534212,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 2,O31.31X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45558240,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 4,O31.31X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45606573,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 2,O31.33X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10023,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester,O31.10,5-char nonbill code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45587305,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 4,O31.13X4,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Subsumes,45757730,Quadruplet pregnancy with loss of one or more fetuses,35381000119101,Disorder,SNOMED
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,45577583,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 2,O31.10X2,7-char billing code,ICD10CM
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Subsumes,45757769,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,36801000119105,Disorder,SNOMED
+433826,199306007,Continuing pregnancy after abortion of one fetus or more,SNOMED,Mapped from,10034,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester,O31.33,5-char nonbill code,ICD10CM
+434097,199318003,Twin pregnancy with antenatal problem,SNOMED,Mapped from,44819872,Twin pregnancy with fetal loss and retention of one fetus, antepartum condition or complication,651.33,5-dig billing code,ICD9CM
+434097,199318003,Twin pregnancy with antenatal problem,SNOMED,Maps to,434097,Twin pregnancy with antenatal problem,199318003,Disorder,SNOMED
+434097,199318003,Twin pregnancy with antenatal problem,SNOMED,Mapped from,44831398,Twin pregnancy, antepartum condition or complication,651.03,5-dig billing code,ICD9CM
+434097,199318003,Twin pregnancy with antenatal problem,SNOMED,Mapped from,434097,Twin pregnancy with antenatal problem,199318003,Disorder,SNOMED
+437931,199322008,Triplet pregnancy with antenatal problem,SNOMED,Mapped from,44837252,Triplet pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,651.43,5-dig billing code,ICD9CM
+437931,199322008,Triplet pregnancy with antenatal problem,SNOMED,Mapped from,44837250,Triplet pregnancy, antepartum condition or complication,651.13,5-dig billing code,ICD9CM
+437931,199322008,Triplet pregnancy with antenatal problem,SNOMED,Maps to,437931,Triplet pregnancy with antenatal problem,199322008,Disorder,SNOMED
+437931,199322008,Triplet pregnancy with antenatal problem,SNOMED,Mapped from,437931,Triplet pregnancy with antenatal problem,199322008,Disorder,SNOMED
+437931,199322008,Triplet pregnancy with antenatal problem,SNOMED,Subsumes,45757769,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,36801000119105,Disorder,SNOMED
+440466,199326006,Quadruplet pregnancy with antenatal problem,SNOMED,Mapped from,44836094,Quadruplet pregnancy, antepartum condition or complication,651.23,5-dig billing code,ICD9CM
+440466,199326006,Quadruplet pregnancy with antenatal problem,SNOMED,Maps to,440466,Quadruplet pregnancy with antenatal problem,199326006,Disorder,SNOMED
+440466,199326006,Quadruplet pregnancy with antenatal problem,SNOMED,Subsumes,45757730,Quadruplet pregnancy with loss of one or more fetuses,35381000119101,Disorder,SNOMED
+440466,199326006,Quadruplet pregnancy with antenatal problem,SNOMED,Mapped from,440466,Quadruplet pregnancy with antenatal problem,199326006,Disorder,SNOMED
+440466,199326006,Quadruplet pregnancy with antenatal problem,SNOMED,Mapped from,44830233,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,651.53,5-dig billing code,ICD9CM
+441647,429187001,Continuing pregnancy after intrauterine death of twin fetus,SNOMED,Maps to,441647,Continuing pregnancy after intrauterine death of twin fetus,429187001,Disorder,SNOMED
+441647,429187001,Continuing pregnancy after intrauterine death of twin fetus,SNOMED,Subsumes,43020670,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,472321009,Disorder,SNOMED
+441647,429187001,Continuing pregnancy after intrauterine death of twin fetus,SNOMED,Mapped from,441647,Continuing pregnancy after intrauterine death of twin fetus,429187001,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4220445,Twin reversal arterial perfusion syndrome,417006004,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45534197,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,O30.001,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45582474,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester,O30.092,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4330861,Monozygotic twins,2256007,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,603226,Conjoined twin pregnancy,12275071000119109,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Due to of,37167120,Fetal disorder due to twin pregnancy,1263696003,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,1571747,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs,O30.09,5-char nonbill code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,44823919,Twin gestation, unspecified number of placenta, unspecified number of amniotic sacs,V91.00,5-dig billing V code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45543939,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,O30.002,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,1571742,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs,O30.00,5-char nonbill code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Concept poss_eq from,40332212,O/E - multiple presentation (& [triplet] or [twin]),163517005,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,37017322,Dizygotic twin pregnancy,713575004,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,44831397,Twin pregnancy, unspecified as to episode of care or not applicable,651.00,5-dig billing code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Asso with finding,43021775,Twins with discordant fetal growth,473420003,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,44824409,Triplet pregnancy, delivered, with or without mention of antepartum condition,651.11,5-dig billing code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Asso finding of,4166442,FH: Twin pregnancy,275133001,Context-dependent,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4028643,Undiagnosed twin pregnancy,237237001,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Has temp finding,4215480,Fetal blood loss from cut end of co-twin's cord,71119005,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,1571741,Twin pregnancy,O30.0,4-char nonbill code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45534198,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,O30.009,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45543941,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,O30.099,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4252093,Monoamniotic twins,73621009,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,43021054,Dichorionic diamniotic twin pregnancy,459166009,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,441919,Twin pregnancy,65147003,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Maps to,441919,Twin pregnancy,65147003,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45558226,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester,O30.091,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45577577,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,O30.003,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45890983,Twin gestation placenta status,V91.0,4-dig nonbill V code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4129025,Vanishing twin syndrome,237245006,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,44832028,Twin gestation, unable to determine number of placenta and number of amniotic sacs,V91.09,5-dig billing V code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,444386,Interlocked twins,69777007,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,40318705,Twin pregnancy,156151005,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Concept same_as from,40318705,Twin pregnancy,156151005,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4129026,Dizygotic twins,237246007,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Due to of,4070411,Fetal or neonatal effect of twin-to-twin transplacental transfusion,206083007,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,44832539,Twin pregnancy, delivered, with or without mention of antepartum condition,651.01,5-dig billing code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Due to of,4118413,Fetal or neonatal effect of twin pregnancy,206048008,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Concept poss_eq from,40301603,O/E - multiple presentation (& [triplet] or [twin]),140724000,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,44837249,Twin pregnancy,651.0,4-dig nonbill code,ICD9CM
+441919,65147003,Twin pregnancy,SNOMED,Due to of,37167121,Early neonatal disorder due to twin pregnancy,1263697007,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,37017323,Monozygotic twin pregnancy,713576003,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,43021055,Monochorionic twin pregnancy,459167000,Clinical Finding,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,441647,Continuing pregnancy after intrauterine death of twin fetus,429187001,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,45601799,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester,O30.093,6-char billing code,ICD10CM
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,4062796,Twin pregnancy NOS,199319006,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Concept was_a from,4062796,Twin pregnancy NOS,199319006,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Concept was_a from,4062795,Twin pregnancy unspecified,199316004,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Mapped from,4062795,Twin pregnancy unspecified,199316004,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,4170458,Delayed delivery of second twin,275429002,Disorder,SNOMED
+441919,65147003,Twin pregnancy,SNOMED,Subsumes,434097,Twin pregnancy with antenatal problem,199318003,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44829119,Quadruplet pregnancy,651.2,4-dig nonbill code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,35209588,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs,O30.20,5-char nonbill code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45534199,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester,O30.291,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45534200,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester,O30.293,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,1571751,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs,O30.29,5-char nonbill code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45596941,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,O30.209,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44829695,Quadruplet gestation, unspecified number of placenta and unspecified number of amniotic sacs,V91.20,5-dig billing V code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45558228,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,O30.201,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45890969,Quadruplet gestation placenta status,V91.2,4-dig nonbill V code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,35209591,Quadruplet pregnancy, quadrachorionic/quadra-amniotic,O30.23,5-char nonbill code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,35209589,Quadruplet pregnancy with two or more monochorionic fetuses,O30.21,5-char nonbill code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,1595646,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, third trimester,O30.233,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45572782,Quadruplet pregnancy with two or more monoamniotic fetuses, third trimester,O30.223,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Subsumes,440466,Quadruplet pregnancy with antenatal problem,199326006,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,1595647,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, unspecified trimester,O30.239,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,3535590,Quadruplet pregnancy NOS,608111000000106,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,442594,Quadruplet pregnancy,60810003,Clinical Finding,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Concept was_a from,3535590,Quadruplet pregnancy NOS,608111000000106,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44822772,Quadruplet gestation, with two or more monochorionic fetuses,V91.21,5-dig billing V code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Maps to,442594,Quadruplet pregnancy,60810003,Clinical Finding,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45601802,Quadruplet pregnancy with two or more monochorionic fetuses, unspecified trimester,O30.219,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Concept was_a from,3535791,Quadruplet pregnancy unspecified,610791000000104,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,1571750,Quadruplet pregnancy,O30.2,4-char nonbill code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44819871,Quadruplet pregnancy, delivered, with or without mention of antepartum condition,651.21,5-dig billing code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44824410,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,651.50,5-dig billing code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44819870,Quadruplet pregnancy, unspecified as to episode of care or not applicable,651.20,5-dig billing code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Concept was_a from,4062798,Quadruplet pregnancy unspecified,199324009,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,4062798,Quadruplet pregnancy unspecified,199324009,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45572781,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,O30.203,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45563081,Quadruplet pregnancy with two or more monochorionic fetuses, first trimester,O30.211,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Concept was_a from,4059750,Quadruplet pregnancy NOS,199327002,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45592215,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,O30.299,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45601801,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,O30.202,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44820513,Quadruplet gestation, with two or more monoamniotic fetuses,V91.22,5-dig billing V code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44825086,Quadruplet gestation, unable to determine number of placenta and number of amniotic sacs,V91.29,5-dig billing V code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Concept same_as from,40318707,Quadruplet pregnancy,156153008,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,40318707,Quadruplet pregnancy,156153008,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,4059750,Quadruplet pregnancy NOS,199327002,Disorder,SNOMED
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,44819873,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es),651.5,4-dig nonbill code,ICD9CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45592214,Quadruplet pregnancy with two or more monochorionic fetuses, second trimester,O30.212,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,1595644,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, first trimester,O30.231,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45596942,Quadruplet pregnancy with two or more monoamniotic fetuses, second trimester,O30.222,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,35209590,Quadruplet pregnancy with two or more monoamniotic fetuses,O30.22,5-char nonbill code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45548738,Quadruplet pregnancy with two or more monoamniotic fetuses, unspecified trimester,O30.229,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45548739,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester,O30.292,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45548737,Quadruplet pregnancy with two or more monochorionic fetuses, third trimester,O30.213,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,1595645,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, second trimester,O30.232,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,45606562,Quadruplet pregnancy with two or more monoamniotic fetuses, first trimester,O30.221,6-char billing code,ICD10CM
+442594,60810003,Quadruplet pregnancy,SNOMED,Mapped from,3535791,Quadruplet pregnancy unspecified,610791000000104,Disorder,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,4061857,Locked twins NOS,199789000,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Subsumes,442422,Locked twins - delivered,199787003,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,4028221,Compacted twins,13367001,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept poss_eq from,72700,Locked twins with antenatal problem,199788008,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept replaces,40603893,Locked twins obstructing labor,49824003,Disorder,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Subsumes,72700,Locked twins with antenatal problem,199788008,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,40603893,Locked twins obstructing labor,49824003,Disorder,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,44834916,Locked twins, delivered, with or without mention of antepartum condition,660.51,5-dig billing code,ICD9CM
+444386,69777007,Interlocked twins,SNOMED,Mapped from,44821054,Locked twins, unspecified as to episode of care or not applicable,660.50,5-dig billing code,ICD9CM
+444386,69777007,Interlocked twins,SNOMED,Subsumes,37167589,Obstructed labor due to interlocked twins,1268535008,Disorder,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,4064825,Locked twins unspecified,199786007,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept was_a from,4064825,Locked twins unspecified,199786007,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,4049777,Impacted twins,20949003,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept replaces,4049777,Impacted twins,20949003,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept was_a from,3538096,Locked twins unspecified,644531000000105,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,3538096,Locked twins unspecified,644531000000105,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,35210260,Obstructed labor due to locked twins,O66.1,4-char billing code,ICD10CM
+444386,69777007,Interlocked twins,SNOMED,Mapped from,44824426,Locked twins,660.5,4-dig nonbill code,ICD9CM
+444386,69777007,Interlocked twins,SNOMED,Mapped from,444386,Interlocked twins,69777007,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,44836110,Locked twins, antepartum condition or complication,660.53,5-dig billing code,ICD9CM
+444386,69777007,Interlocked twins,SNOMED,Maps to,444386,Interlocked twins,69777007,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept was_a from,3538097,Locked twins NOS,644541000000101,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Mapped from,3538097,Locked twins NOS,644541000000101,Clinical Finding,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Due to of,37167589,Obstructed labor due to interlocked twins,1268535008,Disorder,SNOMED
+444386,69777007,Interlocked twins,SNOMED,Concept was_a from,4061857,Locked twins NOS,199789000,Clinical Finding,SNOMED
+603226,12275071000119109,Conjoined twin pregnancy,SNOMED,Mapped from,603226,Conjoined twin pregnancy,12275071000119109,Disorder,SNOMED
+603226,12275071000119109,Conjoined twin pregnancy,SNOMED,Maps to,603226,Conjoined twin pregnancy,12275071000119109,Disorder,SNOMED
+606917,1148848009,Multiple pregnancy following assisted fertilization,SNOMED,Subsumes,607007,Higher order multiple pregnancy due to and following medically assisted reproduction,1148970006,Clinical Finding,SNOMED
+606917,1148848009,Multiple pregnancy following assisted fertilization,SNOMED,Maps to,606917,Multiple pregnancy following assisted fertilization,1148848009,Clinical Finding,SNOMED
+606917,1148848009,Multiple pregnancy following assisted fertilization,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+606917,1148848009,Multiple pregnancy following assisted fertilization,SNOMED,Mapped from,606917,Multiple pregnancy following assisted fertilization,1148848009,Clinical Finding,SNOMED
+607007,1148970006,Higher order multiple pregnancy due to and following medically assisted reproduction,SNOMED,Mapped from,607007,Higher order multiple pregnancy due to and following medically assisted reproduction,1148970006,Clinical Finding,SNOMED
+607007,1148970006,Higher order multiple pregnancy due to and following medically assisted reproduction,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+607007,1148970006,Higher order multiple pregnancy due to and following medically assisted reproduction,SNOMED,Maps to,607007,Higher order multiple pregnancy due to and following medically assisted reproduction,1148970006,Clinical Finding,SNOMED
+619056,890096007,Pregnancy with implant contraceptive,SNOMED,Maps to,619056,Pregnancy with implant contraceptive,890096007,Clinical Finding,SNOMED
+619056,890096007,Pregnancy with implant contraceptive,SNOMED,Mapped from,619056,Pregnancy with implant contraceptive,890096007,Clinical Finding,SNOMED
+1244607,1290152008,Singleton pregnancy,SNOMED,Mapped from,1244607,Singleton pregnancy,1290152008,Clinical Finding,SNOMED
+1244607,1290152008,Singleton pregnancy,SNOMED,Concept poss_eq from,4034087,Single pregnancy,237244005,Clinical Finding,SNOMED
+1244607,1290152008,Singleton pregnancy,SNOMED,Maps to,1244607,Singleton pregnancy,1290152008,Clinical Finding,SNOMED
+1245379,1300203003,Pregnancy resulting from natural conception,SNOMED,Mapped from,1245379,Pregnancy resulting from natural conception,1300203003,Clinical Finding,SNOMED
+1245379,1300203003,Pregnancy resulting from natural conception,SNOMED,Maps to,1245379,Pregnancy resulting from natural conception,1300203003,Clinical Finding,SNOMED
+1245407,1303255001,Medium risk pregnancy,SNOMED,Maps to,1245407,Medium risk pregnancy,1303255001,Clinical Finding,SNOMED
+1245407,1303255001,Medium risk pregnancy,SNOMED,Has interprets,1243777,Pregnancy risk level,1303221004,Observable Entity,SNOMED
+1245407,1303255001,Medium risk pregnancy,SNOMED,Mapped from,1245407,Medium risk pregnancy,1303255001,Clinical Finding,SNOMED
+3657367,1149411000000103,Monochorionic diamniotic triplet pregnancy,SNOMED,Mapped from,3657367,Monochorionic diamniotic triplet pregnancy,1149411000000103,Disorder,SNOMED
+3657367,1149411000000103,Monochorionic diamniotic triplet pregnancy,SNOMED,Maps to,3657367,Monochorionic diamniotic triplet pregnancy,1149411000000103,Disorder,SNOMED
+3657368,1149421000000109,Monochorionic triamniotic triplet pregnancy,SNOMED,Maps to,3657368,Monochorionic triamniotic triplet pregnancy,1149421000000109,Disorder,SNOMED
+3657368,1149421000000109,Monochorionic triamniotic triplet pregnancy,SNOMED,Mapped from,3657368,Monochorionic triamniotic triplet pregnancy,1149421000000109,Disorder,SNOMED
+3662133,1148801000000108,Monochorionic monoamniotic triplet pregnancy,SNOMED,Maps to,3662133,Monochorionic monoamniotic triplet pregnancy,1148801000000108,Disorder,SNOMED
+3662133,1148801000000108,Monochorionic monoamniotic triplet pregnancy,SNOMED,Mapped from,3662133,Monochorionic monoamniotic triplet pregnancy,1148801000000108,Disorder,SNOMED
+3662134,1148811000000105,Trichorionic triamniotic triplet pregnancy,SNOMED,Mapped from,3662134,Trichorionic triamniotic triplet pregnancy,1148811000000105,Disorder,SNOMED
+3662134,1148811000000105,Trichorionic triamniotic triplet pregnancy,SNOMED,Maps to,3662134,Trichorionic triamniotic triplet pregnancy,1148811000000105,Disorder,SNOMED
+3662135,1148821000000104,Dichorionic triamniotic triplet pregnancy,SNOMED,Mapped from,3662135,Dichorionic triamniotic triplet pregnancy,1148821000000104,Disorder,SNOMED
+3662135,1148821000000104,Dichorionic triamniotic triplet pregnancy,SNOMED,Maps to,3662135,Dichorionic triamniotic triplet pregnancy,1148821000000104,Disorder,SNOMED
+3662136,1148841000000106,Dichorionic diamniotic triplet pregnancy,SNOMED,Maps to,3662136,Dichorionic diamniotic triplet pregnancy,1148841000000106,Disorder,SNOMED
+3662136,1148841000000106,Dichorionic diamniotic triplet pregnancy,SNOMED,Mapped from,3662136,Dichorionic diamniotic triplet pregnancy,1148841000000106,Disorder,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Mapped from,3558880,Contraception failure,787771000000105,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,619056,Pregnancy with implant contraceptive,890096007,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4060235,Vasectomy failure,169548007,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4061420,Female sterilization failure,169550004,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Mapped from,4011629,Contraception failure,102955006,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4061415,Contraceptive sponge failure,169533001,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Concept same_as from,3558880,Contraception failure,787771000000105,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4061676,Pregnant, diaphragm failure,169501005,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4061672,IUD failure - pregnant,169488004,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Maps to,4011629,Contraception failure,102955006,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4061418,Symptothermal contraception failure,169539002,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4012089,Pregnancy on oral contraceptive,102872000,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4060231,Depot contraceptive failure,169524003,Clinical Finding,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Value mapped from,44793707,History of contraceptive failure,286651000000102,Context-dependent,SNOMED
+4011629,102955006,Contraception failure,SNOMED,Subsumes,4061411,Pregnant, sheath failure,169508004,Clinical Finding,SNOMED
+4012089,102872000,Pregnancy on oral contraceptive,SNOMED,Subsumes,4061683,Postcoital OCP failure,169544009,Clinical Finding,SNOMED
+4012089,102872000,Pregnancy on oral contraceptive,SNOMED,Subsumes,4060126,Combined oral contraceptive pill failure,169470007,Clinical Finding,SNOMED
+4012089,102872000,Pregnancy on oral contraceptive,SNOMED,Subsumes,4060127,Progestogen-only pill failure,169471006,Clinical Finding,SNOMED
+4012089,102872000,Pregnancy on oral contraceptive,SNOMED,Mapped from,4012089,Pregnancy on oral contraceptive,102872000,Clinical Finding,SNOMED
+4012089,102872000,Pregnancy on oral contraceptive,SNOMED,Maps to,4012089,Pregnancy on oral contraceptive,102872000,Clinical Finding,SNOMED
+4012559,102875003,Surrogate pregnancy,SNOMED,Mapped from,4012559,Surrogate pregnancy,102875003,Clinical Finding,SNOMED
+4012559,102875003,Surrogate pregnancy,SNOMED,Maps to,4012559,Surrogate pregnancy,102875003,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4132564,Gravida 7,127370001,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Mapped from,4012560,Multigravida,102876002,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Maps to,4012560,Multigravida,102876002,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4132565,Gravida more than 10,127374005,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4069849,Previous pregnancies 9,17618008,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4133724,Gravida 10,127373004,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4288592,Previous pregnancies more than 10,6867004,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4221287,Previous pregnancies 10,82634006,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,36684865,Normal pregnancy in multigravida,457821000124106,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4214878,Previous pregnancies 8,80856001,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Focus of,45765731,Supervision of high risk pregnancy for multigravida,702741002,Procedure,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4133030,Gravida 5,127368005,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Focus of,45765733,Supervision of high risk pregnancy for multigravida age 15 years or younger,702743004,Procedure,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4132563,Gravida 2,127365008,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4132100,Gravida 4,127367000,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4133032,Gravida 8,127371002,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4132099,Gravida 3,127366009,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4133033,Gravida 9,127372009,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,4132101,Gravida 6,127369002,Clinical Finding,SNOMED
+4012560,102876002,Multigravida,SNOMED,Subsumes,40481872,Multigravida of advanced maternal age,443460007,Clinical Finding,SNOMED
+4028643,237237001,Undiagnosed twin pregnancy,SNOMED,Maps to,4028643,Undiagnosed twin pregnancy,237237001,Disorder,SNOMED
+4028643,237237001,Undiagnosed twin pregnancy,SNOMED,Mapped from,4028643,Undiagnosed twin pregnancy,237237001,Disorder,SNOMED
+4031512,14418008,Precocious pregnancy,SNOMED,Maps to,4031512,Precocious pregnancy,14418008,Clinical Finding,SNOMED
+4031512,14418008,Precocious pregnancy,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4031512,14418008,Precocious pregnancy,SNOMED,Mapped from,4031512,Precocious pregnancy,14418008,Clinical Finding,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Mapped from,40310663,Postcoital IUCD failure,146778007,Clinical Finding,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Mapped from,4059977,Postcoital IUCD failure,169545005,Clinical Finding,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Concept replaces,40310663,Postcoital IUCD failure,146778007,Clinical Finding,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Finding asso with,40355609,Intrauterine contraceptive device,268460000,Physical Object,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Maps to,4059977,Postcoital IUCD failure,169545005,Clinical Finding,SNOMED
+4059977,169545005,Postcoital IUCD failure,SNOMED,Concept same_as from,40310663,Postcoital IUCD failure,146778007,Clinical Finding,SNOMED
+4059981,169560008,Pregnant - urine test confirms,SNOMED,Mapped from,40310678,Pregnant - urine test confirms,146791008,Context-dependent,SNOMED
+4059981,169560008,Pregnant - urine test confirms,SNOMED,Mapped from,4059981,Pregnant - urine test confirms,169560008,Clinical Finding,SNOMED
+4059981,169560008,Pregnant - urine test confirms,SNOMED,Maps to,4059981,Pregnant - urine test confirms,169560008,Clinical Finding,SNOMED
+4059981,169560008,Pregnant - urine test confirms,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4059981,169560008,Pregnant - urine test confirms,SNOMED,Concept same_as from,40310678,Pregnant - urine test confirms,146791008,Context-dependent,SNOMED
+4059982,169561007,Pregnant - blood test confirms,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4059982,169561007,Pregnant - blood test confirms,SNOMED,Mapped from,40310679,Pregnant - blood test confirms,146792001,Context-dependent,SNOMED
+4059982,169561007,Pregnant - blood test confirms,SNOMED,Concept same_as from,40310679,Pregnant - blood test confirms,146792001,Context-dependent,SNOMED
+4059982,169561007,Pregnant - blood test confirms,SNOMED,Mapped from,4059982,Pregnant - blood test confirms,169561007,Clinical Finding,SNOMED
+4059982,169561007,Pregnant - blood test confirms,SNOMED,Maps to,4059982,Pregnant - blood test confirms,169561007,Clinical Finding,SNOMED
+4059983,169562000,Pregnant - vaginal examination confirms,SNOMED,Mapped from,4059983,Pregnant - vaginal examination confirms,169562000,Clinical Finding,SNOMED
+4059983,169562000,Pregnant - vaginal examination confirms,SNOMED,Maps to,4059983,Pregnant - vaginal examination confirms,169562000,Clinical Finding,SNOMED
+4059983,169562000,Pregnant - vaginal examination confirms,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4059983,169562000,Pregnant - vaginal examination confirms,SNOMED,Concept same_as from,40310680,Pregnant - V.E. confirms,146793006,Context-dependent,SNOMED
+4059983,169562000,Pregnant - vaginal examination confirms,SNOMED,Mapped from,40310680,Pregnant - V.E. confirms,146793006,Context-dependent,SNOMED
+4059985,169568001,Unplanned pregnancy unknown if child is wanted,SNOMED,Mapped from,40310687,Pregnancy unplanned ? wanted,146800009,Clinical Finding,SNOMED
+4059985,169568001,Unplanned pregnancy unknown if child is wanted,SNOMED,Maps to,4059985,Unplanned pregnancy unknown if child is wanted,169568001,Clinical Finding,SNOMED
+4059985,169568001,Unplanned pregnancy unknown if child is wanted,SNOMED,Concept replaces,40310687,Pregnancy unplanned ? wanted,146800009,Clinical Finding,SNOMED
+4059985,169568001,Unplanned pregnancy unknown if child is wanted,SNOMED,Concept same_as from,40310687,Pregnancy unplanned ? wanted,146800009,Clinical Finding,SNOMED
+4059985,169568001,Unplanned pregnancy unknown if child is wanted,SNOMED,Mapped from,4059985,Unplanned pregnancy unknown if child is wanted,169568001,Clinical Finding,SNOMED
+4060126,169470007,Combined oral contraceptive pill failure,SNOMED,Maps to,4060126,Combined oral contraceptive pill failure,169470007,Clinical Finding,SNOMED
+4060126,169470007,Combined oral contraceptive pill failure,SNOMED,Concept same_as from,40310183,Combined O.C. pill failure,146706005,Context-dependent,SNOMED
+4060126,169470007,Combined oral contraceptive pill failure,SNOMED,Mapped from,40310183,Combined O.C. pill failure,146706005,Context-dependent,SNOMED
+4060126,169470007,Combined oral contraceptive pill failure,SNOMED,Mapped from,4060126,Combined oral contraceptive pill failure,169470007,Clinical Finding,SNOMED
+4060127,169471006,Progestogen-only pill failure,SNOMED,Mapped from,4060127,Progestogen-only pill failure,169471006,Clinical Finding,SNOMED
+4060127,169471006,Progestogen-only pill failure,SNOMED,Maps to,4060127,Progestogen-only pill failure,169471006,Clinical Finding,SNOMED
+4060127,169471006,Progestogen-only pill failure,SNOMED,Concept same_as from,40310184,Progestogen-only pill failure,146707001,Clinical Finding,SNOMED
+4060127,169471006,Progestogen-only pill failure,SNOMED,Mapped from,40310184,Progestogen-only pill failure,146707001,Clinical Finding,SNOMED
+4060127,169471006,Progestogen-only pill failure,SNOMED,Concept replaces,40310184,Progestogen-only pill failure,146707001,Clinical Finding,SNOMED
+4060231,169524003,Depot contraceptive failure,SNOMED,Mapped from,4060231,Depot contraceptive failure,169524003,Clinical Finding,SNOMED
+4060231,169524003,Depot contraceptive failure,SNOMED,Mapped from,40310641,Depot contraceptive failure,146758004,Context-dependent,SNOMED
+4060231,169524003,Depot contraceptive failure,SNOMED,Concept same_as from,40310641,Depot contraceptive failure,146758004,Context-dependent,SNOMED
+4060231,169524003,Depot contraceptive failure,SNOMED,Maps to,4060231,Depot contraceptive failure,169524003,Clinical Finding,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Concept same_as from,40310667,Vasectomy failure,146781002,Clinical Finding,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Mapped from,44795640,[V]Failed interruption of vas deferens,410921000000101,Context-dependent,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Concept poss_eq from,40524835,[V]Failed interruption of vas deferens,315933003,Context-dependent,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Concept poss_eq from,44799909,[V]Failed sterilisation NOS,453971000000104,Context-dependent,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Concept replaces,40310667,Vasectomy failure,146781002,Clinical Finding,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Mapped from,40310667,Vasectomy failure,146781002,Clinical Finding,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Maps to,4060235,Vasectomy failure,169548007,Clinical Finding,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Concept poss_eq from,44795640,[V]Failed interruption of vas deferens,410921000000101,Context-dependent,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Mapped from,4060235,Vasectomy failure,169548007,Clinical Finding,SNOMED
+4060235,169548007,Vasectomy failure,SNOMED,Concept poss_eq from,40524836,[V]Failed sterilization NOS,315934009,Context-dependent,SNOMED
+4060237,169566002,Pregnancy unplanned but wanted,SNOMED,Mapped from,4060237,Pregnancy unplanned but wanted,169566002,Clinical Finding,SNOMED
+4060237,169566002,Pregnancy unplanned but wanted,SNOMED,Mapped from,40310684,Pregnant - unplanned - wanted,146797007,Context-dependent,SNOMED
+4060237,169566002,Pregnancy unplanned but wanted,SNOMED,Concept same_as from,40310684,Pregnant - unplanned - wanted,146797007,Context-dependent,SNOMED
+4060237,169566002,Pregnancy unplanned but wanted,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4060237,169566002,Pregnancy unplanned but wanted,SNOMED,Maps to,4060237,Pregnancy unplanned but wanted,169566002,Clinical Finding,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Mapped from,4064155,Multiple pregnancy with malpresentation unspecified,199379001,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Maps to,4060542,Multiple pregnancy with malpresentation,199378009,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Concept was_a from,4064155,Multiple pregnancy with malpresentation unspecified,199379001,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Concept was_a from,3538949,Multiple pregnancy with malpresentation NOS,657151000000100,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Mapped from,4060542,Multiple pregnancy with malpresentation,199378009,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Subsumes,4063175,Multiple pregnancy with malpresentation with antenatal problem,199381004,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Subsumes,442082,Multiple pregnancy with malpresentation - delivered,199380003,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Mapped from,3538949,Multiple pregnancy with malpresentation NOS,657151000000100,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Concept replaces,4064157,Multiple pregnancy with malpresentation NOS,199382006,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Concept was_a from,4064157,Multiple pregnancy with malpresentation NOS,199382006,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Mapped from,4064157,Multiple pregnancy with malpresentation NOS,199382006,Disorder,SNOMED
+4060542,199378009,Multiple pregnancy with malpresentation,SNOMED,Subsumes,75015,Multiple gestation with one OR more fetal malpresentations,80224003,Disorder,SNOMED
+4061411,169508004,Pregnant, sheath failure,SNOMED,Concept same_as from,40310220,Pregnant, sheath failure,146740005,Context-dependent,SNOMED
+4061411,169508004,Pregnant, sheath failure,SNOMED,Mapped from,40310220,Pregnant, sheath failure,146740005,Context-dependent,SNOMED
+4061411,169508004,Pregnant, sheath failure,SNOMED,Maps to,4061411,Pregnant, sheath failure,169508004,Clinical Finding,SNOMED
+4061411,169508004,Pregnant, sheath failure,SNOMED,Mapped from,4061411,Pregnant, sheath failure,169508004,Clinical Finding,SNOMED
+4061415,169533001,Contraceptive sponge failure,SNOMED,Concept same_as from,40310649,Contraceptive sponge failure,146765007,Clinical Finding,SNOMED
+4061415,169533001,Contraceptive sponge failure,SNOMED,Maps to,4061415,Contraceptive sponge failure,169533001,Clinical Finding,SNOMED
+4061415,169533001,Contraceptive sponge failure,SNOMED,Mapped from,40310649,Contraceptive sponge failure,146765007,Clinical Finding,SNOMED
+4061415,169533001,Contraceptive sponge failure,SNOMED,Concept replaces,40310649,Contraceptive sponge failure,146765007,Clinical Finding,SNOMED
+4061415,169533001,Contraceptive sponge failure,SNOMED,Mapped from,4061415,Contraceptive sponge failure,169533001,Clinical Finding,SNOMED
+4061418,169539002,Symptothermal contraception failure,SNOMED,Mapped from,4061418,Symptothermal contraception failure,169539002,Clinical Finding,SNOMED
+4061418,169539002,Symptothermal contraception failure,SNOMED,Concept same_as from,40310657,Symptothermal contraception failure,146772008,Context-dependent,SNOMED
+4061418,169539002,Symptothermal contraception failure,SNOMED,Mapped from,40310657,Symptothermal contraception failure,146772008,Context-dependent,SNOMED
+4061418,169539002,Symptothermal contraception failure,SNOMED,Maps to,4061418,Symptothermal contraception failure,169539002,Clinical Finding,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Mapped from,44797244,[V]Failed interruption of fallopian tubes,428681000000102,Context-dependent,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Concept same_as from,40310669,Female sterilization failure,146783004,Clinical Finding,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Concept poss_eq from,40524834,[V]Failed interruption of fallopian tubes,315932008,Context-dependent,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Concept poss_eq from,44797244,[V]Failed interruption of fallopian tubes,428681000000102,Context-dependent,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Mapped from,4061420,Female sterilization failure,169550004,Clinical Finding,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Maps to,4061420,Female sterilization failure,169550004,Clinical Finding,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Mapped from,40310669,Female sterilization failure,146783004,Clinical Finding,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Concept poss_eq from,44799909,[V]Failed sterilisation NOS,453971000000104,Context-dependent,SNOMED
+4061420,169550004,Female sterilization failure,SNOMED,Concept poss_eq from,40524836,[V]Failed sterilization NOS,315934009,Context-dependent,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Finding asso with,40355609,Intrauterine contraceptive device,268460000,Physical Object,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Mapped from,40310203,IUD failure - pregnant,146724007,Clinical Finding,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Mapped from,4012557,Pregnancy on intrauterine device,102873005,Clinical Finding,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Concept same_as from,4012557,Pregnancy on intrauterine device,102873005,Clinical Finding,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Concept same_as from,40310203,IUD failure - pregnant,146724007,Clinical Finding,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Maps to,4061672,IUD failure - pregnant,169488004,Clinical Finding,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Mapped from,4061672,IUD failure - pregnant,169488004,Clinical Finding,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4061672,169488004,IUD failure - pregnant,SNOMED,Subsumes,4059977,Postcoital IUCD failure,169545005,Clinical Finding,SNOMED
+4061676,169501005,Pregnant, diaphragm failure,SNOMED,Mapped from,40310214,Pregnant, diaphragm failure,146734003,Context-dependent,SNOMED
+4061676,169501005,Pregnant, diaphragm failure,SNOMED,Mapped from,4061676,Pregnant, diaphragm failure,169501005,Clinical Finding,SNOMED
+4061676,169501005,Pregnant, diaphragm failure,SNOMED,Maps to,4061676,Pregnant, diaphragm failure,169501005,Clinical Finding,SNOMED
+4061676,169501005,Pregnant, diaphragm failure,SNOMED,Concept same_as from,40310214,Pregnant, diaphragm failure,146734003,Context-dependent,SNOMED
+4061683,169544009,Postcoital OCP failure,SNOMED,Concept same_as from,40310662,Postcoital OCP failure,146777002,Clinical Finding,SNOMED
+4061683,169544009,Postcoital OCP failure,SNOMED,Maps to,4061683,Postcoital OCP failure,169544009,Clinical Finding,SNOMED
+4061683,169544009,Postcoital OCP failure,SNOMED,Concept replaces,40310662,Postcoital OCP failure,146777002,Clinical Finding,SNOMED
+4061683,169544009,Postcoital OCP failure,SNOMED,Mapped from,40310662,Postcoital OCP failure,146777002,Clinical Finding,SNOMED
+4061683,169544009,Postcoital OCP failure,SNOMED,Mapped from,4061683,Postcoital OCP failure,169544009,Clinical Finding,SNOMED
+4061686,169563005,Pregnant - on history,SNOMED,Concept same_as from,40310681,Pregnant - on history,146794000,Context-dependent,SNOMED
+4061686,169563005,Pregnant - on history,SNOMED,Mapped from,4061686,Pregnant - on history,169563005,Clinical Finding,SNOMED
+4061686,169563005,Pregnant - on history,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4061686,169563005,Pregnant - on history,SNOMED,Mapped from,40310681,Pregnant - on history,146794000,Context-dependent,SNOMED
+4061686,169563005,Pregnant - on history,SNOMED,Maps to,4061686,Pregnant - on history,169563005,Clinical Finding,SNOMED
+4061784,169564004,Pregnant - on abdominal palpation,SNOMED,Mapped from,40310682,Pregnant - on abdom. palpation,146795004,Context-dependent,SNOMED
+4061784,169564004,Pregnant - on abdominal palpation,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4061784,169564004,Pregnant - on abdominal palpation,SNOMED,Maps to,4061784,Pregnant - on abdominal palpation,169564004,Clinical Finding,SNOMED
+4061784,169564004,Pregnant - on abdominal palpation,SNOMED,Mapped from,4061784,Pregnant - on abdominal palpation,169564004,Clinical Finding,SNOMED
+4061784,169564004,Pregnant - on abdominal palpation,SNOMED,Concept same_as from,40310682,Pregnant - on abdom. palpation,146795004,Context-dependent,SNOMED
+4061785,169567006,Pregnancy unplanned and unwanted,SNOMED,Maps to,4061785,Pregnancy unplanned and unwanted,169567006,Clinical Finding,SNOMED
+4061785,169567006,Pregnancy unplanned and unwanted,SNOMED,Concept same_as from,40310685,Pregnant -unplanned-not wanted,146798002,Context-dependent,SNOMED
+4061785,169567006,Pregnancy unplanned and unwanted,SNOMED,Mapped from,40310685,Pregnant -unplanned-not wanted,146798002,Context-dependent,SNOMED
+4061785,169567006,Pregnancy unplanned and unwanted,SNOMED,Mapped from,4061785,Pregnancy unplanned and unwanted,169567006,Clinical Finding,SNOMED
+4061785,169567006,Pregnancy unplanned and unwanted,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4063175,199381004,Multiple pregnancy with malpresentation with antenatal problem,SNOMED,Maps to,4063175,Multiple pregnancy with malpresentation with antenatal problem,199381004,Disorder,SNOMED
+4063175,199381004,Multiple pregnancy with malpresentation with antenatal problem,SNOMED,Mapped from,4063175,Multiple pregnancy with malpresentation with antenatal problem,199381004,Disorder,SNOMED
+4063175,199381004,Multiple pregnancy with malpresentation with antenatal problem,SNOMED,Mapped from,44819876,Multiple gestation with malpresentation of one fetus or more, antepartum condtion or complication,652.63,5-dig billing code,ICD9CM
+4064560,199863008,Delayed delivery second twin with antenatal problem,SNOMED,Maps to,4064560,Delayed delivery second twin with antenatal problem,199863008,Disorder,SNOMED
+4064560,199863008,Delayed delivery second twin with antenatal problem,SNOMED,Mapped from,44833765,Delayed delivery of second twin, triplet, etc., antepartum condition or complication,662.33,5-dig billing code,ICD9CM
+4064560,199863008,Delayed delivery second twin with antenatal problem,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+4064560,199863008,Delayed delivery second twin with antenatal problem,SNOMED,Mapped from,4064560,Delayed delivery second twin with antenatal problem,199863008,Disorder,SNOMED
+4069849,17618008,Previous pregnancies 9,SNOMED,Maps to,4069849,Previous pregnancies 9,17618008,Clinical Finding,SNOMED
+4069849,17618008,Previous pregnancies 9,SNOMED,Mapped from,4069849,Previous pregnancies 9,17618008,Clinical Finding,SNOMED
+4129021,237236005,Undiagnosed multiple pregnancy,SNOMED,Subsumes,4028643,Undiagnosed twin pregnancy,237237001,Disorder,SNOMED
+4129021,237236005,Undiagnosed multiple pregnancy,SNOMED,Mapped from,4129021,Undiagnosed multiple pregnancy,237236005,Disorder,SNOMED
+4129021,237236005,Undiagnosed multiple pregnancy,SNOMED,Maps to,4129021,Undiagnosed multiple pregnancy,237236005,Disorder,SNOMED
+4129022,237239003,Low risk pregnancy,SNOMED,Mapped from,4129022,Low risk pregnancy,237239003,Clinical Finding,SNOMED
+4129022,237239003,Low risk pregnancy,SNOMED,Maps to,4129022,Low risk pregnancy,237239003,Clinical Finding,SNOMED
+4129022,237239003,Low risk pregnancy,SNOMED,Has interprets,1243777,Pregnancy risk level,1303221004,Observable Entity,SNOMED
+4129025,237245006,Vanishing twin syndrome,SNOMED,Maps to,4129025,Vanishing twin syndrome,237245006,Disorder,SNOMED
+4129025,237245006,Vanishing twin syndrome,SNOMED,Mapped from,4129025,Vanishing twin syndrome,237245006,Disorder,SNOMED
+4129044,237321009,Delayed delivery of triplet,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+4129044,237321009,Delayed delivery of triplet,SNOMED,Mapped from,4129044,Delayed delivery of triplet,237321009,Disorder,SNOMED
+4129044,237321009,Delayed delivery of triplet,SNOMED,Maps to,4129044,Delayed delivery of triplet,237321009,Disorder,SNOMED
+4129709,237247003,Continuing pregnancy after abortion of sibling fetus,SNOMED,Maps to,4129709,Continuing pregnancy after abortion of sibling fetus,237247003,Disorder,SNOMED
+4129709,237247003,Continuing pregnancy after abortion of sibling fetus,SNOMED,Subsumes,433826,Continuing pregnancy after abortion of one fetus or more,199306007,Disorder,SNOMED
+4129709,237247003,Continuing pregnancy after abortion of sibling fetus,SNOMED,Mapped from,4129709,Continuing pregnancy after abortion of sibling fetus,237247003,Disorder,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Maps to,4132099,Gravida 3,127366009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Mapped from,4132099,Gravida 3,127366009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Concept replaces,40303206,Gravida 3,139009009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Mapped from,40324527,Gravida 3,161736009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Concept same_as from,40324527,Gravida 3,161736009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Concept same_as from,40303206,Gravida 3,139009009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Mapped from,40303206,Gravida 3,139009009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Concept replaces,40324527,Gravida 3,161736009,Clinical Finding,SNOMED
+4132099,127366009,Gravida 3,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Concept same_as from,40303207,Gravida 4,139010004,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Mapped from,40324528,Gravida 4,161737000,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Concept same_as from,40324528,Gravida 4,161737000,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Concept replaces,40324528,Gravida 4,161737000,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Mapped from,4132100,Gravida 4,127367000,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Maps to,4132100,Gravida 4,127367000,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Mapped from,40303207,Gravida 4,139010004,Clinical Finding,SNOMED
+4132100,127367000,Gravida 4,SNOMED,Concept replaces,40303207,Gravida 4,139010004,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Concept same_as from,40303210,Gravida 6,139012007,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Mapped from,40324530,Gravida 6,161739002,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Concept same_as from,40324530,Gravida 6,161739002,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Maps to,4132101,Gravida 6,127369002,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Concept replaces,40303210,Gravida 6,139012007,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Mapped from,4132101,Gravida 6,127369002,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Concept replaces,40324530,Gravida 6,161739002,Clinical Finding,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4132101,127369002,Gravida 6,SNOMED,Mapped from,40303210,Gravida 6,139012007,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Mapped from,40324526,Gravida 2,161735008,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Maps to,4132563,Gravida 2,127365008,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Mapped from,4132563,Gravida 2,127365008,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Concept replaces,40303205,Gravida 2,139008001,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Concept same_as from,40303205,Gravida 2,139008001,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Mapped from,40303205,Gravida 2,139008001,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Concept replaces,40324526,Gravida 2,161735008,Clinical Finding,SNOMED
+4132563,127365008,Gravida 2,SNOMED,Concept same_as from,40324526,Gravida 2,161735008,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Concept same_as from,40303211,Gravida 7,139013002,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Maps to,4132564,Gravida 7,127370001,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Mapped from,40324531,Gravida 7,161740000,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Mapped from,40303211,Gravida 7,139013002,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Concept replaces,40324531,Gravida 7,161740000,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Mapped from,4132564,Gravida 7,127370001,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Concept replaces,40303211,Gravida 7,139013002,Clinical Finding,SNOMED
+4132564,127370001,Gravida 7,SNOMED,Concept same_as from,40324531,Gravida 7,161740000,Clinical Finding,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Concept same_as from,3560151,Gravida more than 10,887841000000109,Clinical Finding,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Maps to,4132565,Gravida more than 10,127374005,Clinical Finding,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Mapped from,4132565,Gravida more than 10,127374005,Clinical Finding,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Mapped from,3560151,Gravida more than 10,887841000000109,Clinical Finding,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Mapped from,3560188,Gravida more than 10,891421000000106,Undefined,SNOMED
+4132565,127374005,Gravida more than 10,SNOMED,Concept same_as from,3560188,Gravida more than 10,891421000000106,Undefined,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Maps to,4133030,Gravida 5,127368005,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Concept replaces,40303209,Gravida 5,139011000,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Mapped from,40324529,Gravida 5,161738005,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Concept same_as from,40324529,Gravida 5,161738005,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Concept replaces,40324529,Gravida 5,161738005,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Mapped from,40303209,Gravida 5,139011000,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Concept same_as from,40303209,Gravida 5,139011000,Clinical Finding,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4133030,127368005,Gravida 5,SNOMED,Mapped from,4133030,Gravida 5,127368005,Clinical Finding,SNOMED
+4133032,127371002,Gravida 8,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4133032,127371002,Gravida 8,SNOMED,Maps to,4133032,Gravida 8,127371002,Clinical Finding,SNOMED
+4133032,127371002,Gravida 8,SNOMED,Mapped from,4133032,Gravida 8,127371002,Clinical Finding,SNOMED
+4133032,127371002,Gravida 8,SNOMED,Mapped from,3553133,Gravida 8,177871000000102,Clinical Finding,SNOMED
+4133032,127371002,Gravida 8,SNOMED,Concept same_as from,3553133,Gravida 8,177871000000102,Clinical Finding,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Concept same_as from,3572378,Gravida 9,189481000000104,Undefined,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Mapped from,3572378,Gravida 9,189481000000104,Undefined,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Mapped from,3553130,Gravida 9,177111000000103,Clinical Finding,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Concept same_as from,3553130,Gravida 9,177111000000103,Clinical Finding,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Mapped from,4133033,Gravida 9,127372009,Clinical Finding,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Maps to,4133033,Gravida 9,127372009,Clinical Finding,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Concept same_as from,3553147,Gravida 9,186041000000109,Undefined,SNOMED
+4133033,127372009,Gravida 9,SNOMED,Mapped from,3553147,Gravida 9,186041000000109,Undefined,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Concept same_as from,3553134,Gravida 10,177881000000100,Clinical Finding,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Mapped from,3553134,Gravida 10,177881000000100,Clinical Finding,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Concept same_as from,3553148,Gravida 10,186051000000107,Undefined,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Mapped from,4133724,Gravida 10,127373004,Clinical Finding,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Concept same_as from,3553256,Gravida 10,189491000000102,Undefined,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Mapped from,3553256,Gravida 10,189491000000102,Undefined,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Mapped from,3553148,Gravida 10,186051000000107,Undefined,SNOMED
+4133724,127373004,Gravida 10,SNOMED,Maps to,4133724,Gravida 10,127373004,Clinical Finding,SNOMED
+4135209,31601007,Combined pregnancy,SNOMED,Mapped from,37200951,Unspecified ectopic pregnancy with intrauterine pregnancy,O00.91,5-char billing code,ICD10CM
+4135209,31601007,Combined pregnancy,SNOMED,Mapped from,37200949,Other ectopic pregnancy with intrauterine pregnancy,O00.81,5-char billing code,ICD10CM
+4135209,31601007,Combined pregnancy,SNOMED,Maps to,4135209,Combined pregnancy,31601007,Disorder,SNOMED
+4135209,31601007,Combined pregnancy,SNOMED,Mapped from,4135209,Combined pregnancy,31601007,Disorder,SNOMED
+4135209,31601007,Combined pregnancy,SNOMED,Subsumes,44783183,Combined intrauterine and ovarian pregnancy,699240001,Disorder,SNOMED
+4135209,31601007,Combined pregnancy,SNOMED,Subsumes,40483581,Combined tubal and intrauterine pregnancy,442478007,Disorder,SNOMED
+4163701,45307008,Extrachorial pregnancy,SNOMED,Maps to,4163701,Extrachorial pregnancy,45307008,Clinical Finding,SNOMED
+4163701,45307008,Extrachorial pregnancy,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4163701,45307008,Extrachorial pregnancy,SNOMED,Mapped from,4163701,Extrachorial pregnancy,45307008,Clinical Finding,SNOMED
+4170458,275429002,Delayed delivery of second twin,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+4170458,275429002,Delayed delivery of second twin,SNOMED,Subsumes,4064560,Delayed delivery second twin with antenatal problem,199863008,Disorder,SNOMED
+4170458,275429002,Delayed delivery of second twin,SNOMED,Subsumes,4064559,Delayed delivery second twin - delivered,199862003,Disorder,SNOMED
+4170458,275429002,Delayed delivery of second twin,SNOMED,Maps to,4170458,Delayed delivery of second twin,275429002,Disorder,SNOMED
+4170458,275429002,Delayed delivery of second twin,SNOMED,Mapped from,44825618,Delayed delivery of second twin, triplet, etc., delivered, with or without mention of antepartum condition,662.31,5-dig billing code,ICD9CM
+4170458,275429002,Delayed delivery of second twin,SNOMED,Mapped from,4170458,Delayed delivery of second twin,275429002,Disorder,SNOMED
+4178154,428511009,Multiple pregnancy with one fetal loss,SNOMED,Subsumes,4129025,Vanishing twin syndrome,237245006,Disorder,SNOMED
+4178154,428511009,Multiple pregnancy with one fetal loss,SNOMED,Mapped from,4178154,Multiple pregnancy with one fetal loss,428511009,Disorder,SNOMED
+4178154,428511009,Multiple pregnancy with one fetal loss,SNOMED,Maps to,4178154,Multiple pregnancy with one fetal loss,428511009,Disorder,SNOMED
+4178154,428511009,Multiple pregnancy with one fetal loss,SNOMED,Subsumes,441647,Continuing pregnancy after intrauterine death of twin fetus,429187001,Disorder,SNOMED
+4178154,428511009,Multiple pregnancy with one fetal loss,SNOMED,Concept poss_eq from,40443923,Continuing pregnancy after intrauterine death of sibling fetus (disorder),237248008,Disorder,SNOMED
+4185557,43990006,Sextuplet pregnancy,SNOMED,Maps to,4185557,Sextuplet pregnancy,43990006,Clinical Finding,SNOMED
+4185557,43990006,Sextuplet pregnancy,SNOMED,Mapped from,4185557,Sextuplet pregnancy,43990006,Clinical Finding,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571620,Supervision of pregnancy with insufficient antenatal care,O09.3,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45577554,Supervision of young primigravida, unspecified trimester,O09.619,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Concept same_as from,40524817,[V]Other specified high-risk pregnancy,315917001,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,40524817,[V]Other specified high-risk pregnancy,315917001,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45534164,Supervision of pregnancy with other poor reproductive or obstetric history, first trimester,O09.291,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45563045,Supervision of young multigravida, second trimester,O09.622,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45567884,Supervision of pregnancy resulting from assisted reproductive technology, unspecified trimester,O09.819,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571614,Supervision of high risk pregnancy,O09,3-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45587275,Supervision of pregnancy with insufficient antenatal care, third trimester,O09.33,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44800210,[V]Other specified high-risk pregnancy,463921000000109,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45592181,Supervision of other high risk pregnancies, unspecified trimester,O09.899,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Concept same_as from,40524818,[V]Unspecified high-risk pregnancy,315918006,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,40524818,[V]Unspecified high-risk pregnancy,315918006,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,36717636,Supervision of pregnancy with history of insufficient antenatal care,717795009,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Concept same_as from,44800210,[V]Other specified high-risk pregnancy,463921000000109,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Has interprets,1243777,Pregnancy risk level,1303221004,Observable Entity,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Concept same_as from,44800919,[V]Unspecified high-risk pregnancy,479681000000109,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44800919,[V]Unspecified high-risk pregnancy,479681000000109,Context-dependent,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44827338,Supervision of high-risk pregnancy with history of infertility,V23.0,4-dig billing V code,ICD9CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571627,Supervision of young multigravida,O09.62,5-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45596912,Supervision of pregnancy with other poor reproductive or obstetric history, third trimester,O09.293,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45572759,Supervision of young primigravida, second trimester,O09.612,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,37200953,Supervision of pregnancy with history of molar pregnancy, unspecified trimester,O09.A0,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45553474,Supervision of young primigravida, third trimester,O09.613,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45548693,Supervision of pregnancy with grand multiparity, unspecified trimester,O09.40,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571621,Supervision of pregnancy with grand multiparity,O09.4,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45558196,Supervision of young multigravida, third trimester,O09.623,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45577555,Supervision of pregnancy resulting from assisted reproductive technology, second trimester,O09.812,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,37200952,Supervision of pregnancy with history of molar pregnancy,O09.A,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45534167,Supervision of high risk pregnancy, unspecified, first trimester,O09.91,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45601776,Supervision of pregnancy resulting from assisted reproductive technology, third trimester,O09.813,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45596913,Supervision of elderly multigravida, first trimester,O09.521,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765734,Supervision of high risk pregnancy for primigravida age 15 years or younger,702744005,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,4060101,Antenatal care: primiparous, under 17 years,169603000,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45543911,Supervision of high risk pregnancy due to social problems, first trimester,O09.71,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45601774,Supervision of elderly multigravida, second trimester,O09.522,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765729,Supervision of high risk pregnancy with history of previous molar pregnancy,702739003,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45601775,Supervision of young multigravida, first trimester,O09.621,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017164,Supervision of high risk pregnancy with family history of diabetes mellitus,713387007,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,4061432,Antenatal care: 10 years plus since last pregnancy,169602005,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571630,Supervision of pregnancy resulting from assisted reproductive technology,O09.81,5-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45534165,Supervision of high risk pregnancy due to social problems, second trimester,O09.72,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765731,Supervision of high risk pregnancy for multigravida,702741002,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45582441,Supervision of elderly primigravida, third trimester,O09.513,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765733,Supervision of high risk pregnancy for multigravida age 15 years or younger,702743004,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45563046,Supervision of young multigravida, unspecified trimester,O09.629,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45548696,Supervision of high risk pregnancy, unspecified, third trimester,O09.93,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017058,Supervision of high risk pregnancy with poor reproductive history,713242006,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571628,Supervision of high risk pregnancy due to social problems,O09.7,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45577553,Supervision of young primigravida, first trimester,O09.611,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45582440,Supervision of elderly primigravida, second trimester,O09.512,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45558192,Supervision of pregnancy with history of infertility, first trimester,O09.01,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45548692,Supervision of pregnancy with other poor reproductive or obstetric history, unspecified trimester,O09.299,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765728,Supervision of high risk pregnancy,702738006,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45587276,Supervision of pregnancy with grand multiparity, third trimester,O09.43,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017050,Supervision of high risk pregnancy with history of previous neonatal death,713233004,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017057,Supervision of high risk pregnancy with history of previous fetal distress,713241004,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,4188598,High risk pregnancy,47200007,Clinical Finding,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Maps to,4188598,High risk pregnancy,47200007,Clinical Finding,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44820399,Supervision of high-risk pregnancy with other poor reproductive history,V23.5,4-dig billing V code,ICD9CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017051,Supervision of high risk pregnancy with history of previous intrauterine death,713234005,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45572760,Supervision of pregnancy resulting from assisted reproductive technology, first trimester,O09.811,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45587273,Supervision of pregnancy with history of infertility, third trimester,O09.03,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45563044,Supervision of elderly multigravida, unspecified trimester,O09.529,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45548694,Supervision of pregnancy with grand multiparity, second trimester,O09.42,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,36713460,Supervision of pregnancy with history of infertility,717794008,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45592180,Supervision of pregnancy with insufficient antenatal care, first trimester,O09.31,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45773399,Supervision of high risk pregnancy with history of gestational diabetes mellitus,702737001,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017053,Supervision of high risk pregnancy with history of previous big baby,713237003,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,37200955,Supervision of pregnancy with history of molar pregnancy, second trimester,O09.A2,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44835444,Supervision of high-risk pregnancy with insufficient prenatal care,V23.7,4-dig billing V code,ICD9CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,4302252,High risk pregnancy care,386322007,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45558193,Supervision of pregnancy with history of infertility, second trimester,O09.02,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765727,Supervision of high risk pregnancy with history of previous cesarean section,702736005,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571615,Supervision of pregnancy with history of infertility,O09.0,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45601773,Supervision of pregnancy with other poor reproductive or obstetric history, second trimester,O09.292,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Subsumes,37018878,High risk pregnancy due to recurrent pregnancy loss,134781000119106,Clinical Finding,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571625,Supervision of young primigravida and multigravida,O09.6,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45582439,Supervision of pregnancy with insufficient antenatal care, second trimester,O09.32,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571632,Supervision of other high risk pregnancies,O09.89,5-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45587279,Supervision of other high risk pregnancies, second trimester,O09.892,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017056,Supervision of high risk pregnancy with poor obstetric history,713240003,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45606534,Supervision of elderly primigravida, first trimester,O09.511,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017163,Supervision of high risk pregnancy for maternal short stature,713386003,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44836632,Supervision of high-risk pregnancy with other poor obstetric history,V23.4,4-dig nonbill V code,ICD9CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571626,Supervision of young primigravida,O09.61,5-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45606536,Supervision of other high risk pregnancies, third trimester,O09.893,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,37200954,Supervision of pregnancy with history of molar pregnancy, first trimester,O09.A1,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765730,Supervision of high risk pregnancy with history of previous precipitate labor,702740001,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571629,Supervision of other high risk pregnancies,O09.8,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45592182,Supervision of high risk pregnancy, unspecified, unspecified trimester,O09.90,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571624,Supervision of elderly multigravida,O09.52,5-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45592179,Supervision of pregnancy with insufficient antenatal care, unspecified trimester,O09.30,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571633,Supervision of high risk pregnancy, unspecified,O09.9,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45587277,Supervision of elderly multigravida, third trimester,O09.523,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,4061429,Antenatal care: under 5ft tall,169600002,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Subsumes,40480278,High risk pregnancy due to history of preterm labor,444661007,Clinical Finding,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571622,Supervision of elderly primigravida and multigravida,O09.5,4-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37019031,Supervision of high risk pregnancy with history of previous antepartum hemorrhage,713235006,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45558199,Supervision of other high risk pregnancies, first trimester,O09.891,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45553473,Supervision of pregnancy with grand multiparity, first trimester,O09.41,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45558195,Supervision of elderly primigravida, unspecified trimester,O09.519,6-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017054,Supervision of high risk pregnancy with history of previous abnormal baby,713238008,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45606535,Supervision of high risk pregnancy due to social problems, unspecified trimester,O09.70,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45592175,Supervision of pregnancy with history of infertility, unspecified trimester,O09.00,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45534168,Supervision of high risk pregnancy, unspecified, second trimester,O09.92,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,37017055,Supervision of high risk pregnancy with history of previous primary postpartum hemorrhage,713239000,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,45543912,Supervision of high risk pregnancy due to social problems, third trimester,O09.73,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Focus of,45765732,Supervision of high risk pregnancy for social problem,702742009,Procedure,SNOMED
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,37200956,Supervision of pregnancy with history of molar pregnancy, third trimester,O09.A3,5-char billing code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44834254,Pregnancy with history of in utero procedure during previous pregnancy,V23.86,5-dig billing V code,ICD9CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,1571623,Supervision of elderly primigravida,O09.51,5-char nonbill code,ICD10CM
+4188598,47200007,High risk pregnancy,SNOMED,Mapped from,44828516,Pregnancy with other poor obstetric history,V23.49,5-dig billing V code,ICD9CM
+4214878,80856001,Previous pregnancies 8,SNOMED,Maps to,4214878,Previous pregnancies 8,80856001,Clinical Finding,SNOMED
+4214878,80856001,Previous pregnancies 8,SNOMED,Mapped from,4214878,Previous pregnancies 8,80856001,Clinical Finding,SNOMED
+4216512,80997009,Quintuplet pregnancy,SNOMED,Mapped from,4216512,Quintuplet pregnancy,80997009,Clinical Finding,SNOMED
+4216512,80997009,Quintuplet pregnancy,SNOMED,Maps to,4216512,Quintuplet pregnancy,80997009,Clinical Finding,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Mapped from,44800910,[V]Normal pregnancy,479581000000108,Context-dependent,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Concept same_as from,40524796,[V]Normal pregnancy,315899003,Context-dependent,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Maps to,4217975,Normal pregnancy,72892002,Clinical Finding,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Mapped from,40524796,[V]Normal pregnancy,315899003,Context-dependent,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Mapped from,44827337,Normal pregnancy,V22,3-dig nonbill V code,ICD9CM
+4217975,72892002,Normal pregnancy,SNOMED,Subsumes,36684865,Normal pregnancy in multigravida,457821000124106,Clinical Finding,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Concept same_as from,44800910,[V]Normal pregnancy,479581000000108,Context-dependent,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Mapped from,4217975,Normal pregnancy,72892002,Clinical Finding,SNOMED
+4217975,72892002,Normal pregnancy,SNOMED,Subsumes,36684864,Normal pregnancy in primigravida,457811000124103,Clinical Finding,SNOMED
+4220445,417006004,Twin reversal arterial perfusion syndrome,SNOMED,Maps to,4220445,Twin reversal arterial perfusion syndrome,417006004,Disorder,SNOMED
+4220445,417006004,Twin reversal arterial perfusion syndrome,SNOMED,Mapped from,4220445,Twin reversal arterial perfusion syndrome,417006004,Disorder,SNOMED
+4221287,82634006,Previous pregnancies 10,SNOMED,Maps to,4221287,Previous pregnancies 10,82634006,Clinical Finding,SNOMED
+4221287,82634006,Previous pregnancies 10,SNOMED,Mapped from,4221287,Previous pregnancies 10,82634006,Clinical Finding,SNOMED
+4231297,89244003,Entanglement of cords of twins in monoamniotic sac,SNOMED,Mapped from,40368836,Umbilical cord of intertwined twins,28984000,Disorder,SNOMED
+4231297,89244003,Entanglement of cords of twins in monoamniotic sac,SNOMED,Mapped from,4231297,Entanglement of cords of twins in monoamniotic sac,89244003,Disorder,SNOMED
+4231297,89244003,Entanglement of cords of twins in monoamniotic sac,SNOMED,Maps to,4231297,Entanglement of cords of twins in monoamniotic sac,89244003,Disorder,SNOMED
+4231297,89244003,Entanglement of cords of twins in monoamniotic sac,SNOMED,Concept replaces,40368836,Umbilical cord of intertwined twins,28984000,Disorder,SNOMED
+4231507,439311009,Intends to continue pregnancy,SNOMED,Maps to,4231507,Intends to continue pregnancy,439311009,Clinical Finding,SNOMED
+4231507,439311009,Intends to continue pregnancy,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4231507,439311009,Intends to continue pregnancy,SNOMED,Concept same_as from,3572581,Intends to continue with pregnancy,339231000000100,Clinical Finding,SNOMED
+4231507,439311009,Intends to continue pregnancy,SNOMED,Mapped from,3572581,Intends to continue with pregnancy,339231000000100,Clinical Finding,SNOMED
+4231507,439311009,Intends to continue pregnancy,SNOMED,Mapped from,4231507,Intends to continue pregnancy,439311009,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Maps to,4239301,Unwanted pregnancy,58532003,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Focus of,4209199,Counseling for unwanted pregnancy,440215007,Procedure,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Subsumes,4061785,Pregnancy unplanned and unwanted,169567006,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Mapped from,40299686,Unwanted: [pregnancy] or [child],138150008,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Mapped from,4239301,Unwanted pregnancy,58532003,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Concept poss_eq from,40330240,Unwanted: [pregnancy] or [child],160798004,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Mapped from,40330240,Unwanted: [pregnancy] or [child],160798004,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Concept same_as from,40299686,Unwanted: [pregnancy] or [child],138150008,Clinical Finding,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Focus of,46272585,Prevention of unwanted pregnancy,710973002,Procedure,SNOMED
+4239301,58532003,Unwanted pregnancy,SNOMED,Mapped from,44835512,Other unwanted pregnancy,V61.7,4-dig billing V code,ICD9CM
+4244660,9279009,Extra-amniotic pregnancy,SNOMED,Mapped from,4244660,Extra-amniotic pregnancy,9279009,Clinical Finding,SNOMED
+4244660,9279009,Extra-amniotic pregnancy,SNOMED,Maps to,4244660,Extra-amniotic pregnancy,9279009,Clinical Finding,SNOMED
+4244660,9279009,Extra-amniotic pregnancy,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+4249470,72957006,Diamniotic-monochorionic twins,SNOMED,Maps to,4249470,Diamniotic-monochorionic twins,72957006,Clinical Finding,SNOMED
+4249470,72957006,Diamniotic-monochorionic twins,SNOMED,Mapped from,4249470,Diamniotic-monochorionic twins,72957006,Clinical Finding,SNOMED
+4252093,73621009,Monoamniotic twins,SNOMED,Mapped from,4252093,Monoamniotic twins,73621009,Clinical Finding,SNOMED
+4252093,73621009,Monoamniotic twins,SNOMED,Maps to,4252093,Monoamniotic twins,73621009,Clinical Finding,SNOMED
+4252093,73621009,Monoamniotic twins,SNOMED,Subsumes,4231297,Entanglement of cords of twins in monoamniotic sac,89244003,Disorder,SNOMED
+4288592,6867004,Previous pregnancies more than 10,SNOMED,Mapped from,4288592,Previous pregnancies more than 10,6867004,Clinical Finding,SNOMED
+4288592,6867004,Previous pregnancies more than 10,SNOMED,Maps to,4288592,Previous pregnancies more than 10,6867004,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4052190,Wife pregnant,160884000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015296,Antenatal 12 weeks examination,169712008,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4060195,Past pregnancy history of premature delivery,161765003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1247032,Past pregnancy history of neonatal death,1290167007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,37111308,Past pregnancy history of live birth,726001007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111308,Past pregnancy history of live birth,726001007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4012560,Multigravida,102876002,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40357633,(Full term baby) or (H/O delivery: [full term] or [normal]),267153002,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111270,Past pregnancy history of episiotomy,725944002,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,1245379,Pregnancy resulting from natural conception,1300203003,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40303220,H/O: premature delivery,139021008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,40356206,(Patient pregnant) or (pregnancy care (& [antenatal] or [postnatal])),268571001,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40303217,H/O: ectopic pregnancy,139019003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,44801120,[V]Pregnancy confirmed,480401000000102,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept same_as from,44801120,[V]Pregnancy confirmed,480401000000102,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4059480,Past pregnancy history of stillbirth,161743003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4047564,Routine antenatal care,134435003,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4059480,Past pregnancy history of stillbirth,161743003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4112701,Prenatal examination and care of mother,18114009,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,763375,History of poor pregnancy outcome,439221000124101,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4058565,Past pregnancy history of cesarean section,161805006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,1245407,Medium risk pregnancy,1303255001,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4156043,History of pregnancy,271903000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,1244609,Shared antenatal care,1290175001,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37117934,Past pregnancy history of retained placenta,725948004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,40479205,Past pregnancy history of premature labor,441493008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4156043,History of pregnancy,271903000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,1314451,Patients who have a diagnosis of pregnancy at any time during the measurement period (Deprecated),G9778,HCPCS,HCPCS
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37017385,Past pregnancy history of pregnancy with abortive outcome,713651007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4058566,Past pregnancy history of eclampsia,161806007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40479205,Past pregnancy history of premature labor,441493008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4301073,Childbirth preparation,386235000,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,600680,Past pregnancy history of Rhesus isoimmunization affecting pregnancy,1156098006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,600680,Past pregnancy history of Rhesus isoimmunization affecting pregnancy,1156098006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111592,Past pregnancy history of postpartum psychosis,726623007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,44783809,Past pregnancy history of induced termination of pregnancy under unsafe conditions,697994009,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4129022,Low risk pregnancy,237239003,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4061686,Pregnant - on history,169563005,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,45767173,Partner pregnant,704502000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,43021968,Past pregnancy history of gestational diabetes mellitus,472971004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,37118028,Past pregnancy history of small for gestational age baby,726565008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37118028,Past pregnancy history of small for gestational age baby,726565008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4307820,Unplanned pregnancy,83074005,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111517,Past pregnancy history of hemolysis-elevated liver enzymes-low platelet count syndrome,726513006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Precondition of,1247082,Glucose in blood one hour after glucose dose in pregnancy,372731000119106,Observable Entity,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,506626,H/O: live birth,1052441000000100,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4059937,Past pregnancy history of postpartum hemorrhage,161809000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4060188,Past pregnancy history of miscarriage,161744009,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4058564,Past pregnancy history of antepartum hemorrhage,161804005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4188598,High risk pregnancy,47200007,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4058564,Past pregnancy history of antepartum hemorrhage,161804005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,40310686,Possible pregnancy,146799005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,197031,Intrauterine pregnancy,65727000,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,4088930,Confirmation of pregnancy,248992004,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4210126,Pregnancy-related examination,312891008,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,44796292,[V]Unspecified pregnant state,415971000000106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,44796292,[V]Unspecified pregnant state,415971000000106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015141,Antenatal 24 week examination,169715005,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111273,Past pregnancy history of placenta accreta,725950007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1247001,Past pregnancy history of recurrent miscarriage,1290209002,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4061784,Pregnant - on abdominal palpation,169564004,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,44808981,Antenatal 31 week examination,861321000000101,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept was_a from,4060238,Patient pregnant NOS,169571009,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,4060238,Patient pregnant NOS,169571009,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4059484,Past pregnancy history of ectopic pregnancy,161763005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4059484,Past pregnancy history of ectopic pregnancy,161763005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014148,Antenatal booking examination,169711001,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,36714390,Past pregnancy history of defibulation of vulva to facilitate delivery,719594003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1247031,Past pregnancy history of perinatal death,1290143004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4059983,Pregnant - vaginal examination confirms,169562000,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Precondition of,37311258,Measured gestational weight loss,816172003,Observable Entity,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4077344,Past pregnancy history of delivery with no details,275569003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,44808980,Antenatal 25 week examination,861301000000105,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111254,Past pregnancy history of placenta previa,725924008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014152,Antenatal 38 week examination,169723007,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015298,Antenatal 34 week examination,169719004,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,42539246,Past pregnancy history of pregnancy loss in non-pregnant woman,15011000119104,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,40310676,Patient currently pregnant,146790009,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept same_as from,40310676,Patient currently pregnant,146790009,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4172038,Prenatal supplemental visit,422808006,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4058885,H/O: obstetric problem,161803004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4058885,H/O: obstetric problem,161803004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4059938,Past pregnancy history of prolonged labor,161810005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,600682,Past pregnancy history of pregnancy with normal glucose tolerance test,1156101005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,600682,Past pregnancy history of pregnancy with normal glucose tolerance test,1156101005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,42534993,History of operation on cervix in currently pregnant patient,126111000119106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37116878,Past pregnancy history of fetal growth restriction,733899004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37312100,Past pregnancy history of placental abruption,789776003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4231507,Intends to continue pregnancy,439311009,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,42537366,Past pregnancy history of gestational trophoblastic disease,736725001,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,40524801,[V]Pregnancy confirmed,315902000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept same_as from,40524801,[V]Pregnancy confirmed,315902000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,3519479,Patient pregnant NOS,539611000000108,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4058886,Past pregnancy history of previous forceps delivery,161813007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept was_a from,3519479,Patient pregnant NOS,539611000000108,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015300,Antenatal 39 week examination,169724001,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,763390,History of previous small for gestational age newborn,440191000124101,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37019066,Past pregnancy history of induced termination of pregnancy,713649008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111268,Past pregnancy history of fourth degree perineal laceration,725942003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4059938,Past pregnancy history of prolonged labor,161810005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37153141,Past pregnancy history of short umbilical cord,1208622001,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4244660,Extra-amniotic pregnancy,9279009,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1247033,Past pregnancy history of early neonatal death,1290170006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4239301,Unwanted pregnancy,58532003,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111269,Past pregnancy history of second degree perineal laceration,725943008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,601970,Past pregnancy history of postpartum gestational hypertension,16916061000119102,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,1244611,Midwifery led antenatal care,1290177009,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4156063,Past pregnancy history of delivery procedure,272058002,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4058567,Past pregnancy history of severe pre-eclampsia,161807003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111272,Past pregnancy history of elective cesarean section,725949007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015142,Antenatal 37 week examination,169722002,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,46273804,Past pregnancy history of gestational hypertension,709881001,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37109042,History of cholestasis in pregnancy,16216781000119107,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37117282,Past pregnancy history of spontaneous onset of labor,726597008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4311447,Prenatal initial visit,424441002,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4059981,Pregnant - urine test confirms,169560008,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Due to of,37019032,Pyogenic granuloma of gingiva due to pregnancy,713249002,Disorder,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,44837787,Pregnancy with history of ectopic pregnancy,V23.42,5-dig billing V code,ICD9CM
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014434,Antenatal 35 week examination,169720005,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4012559,Surrogate pregnancy,102875003,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,37153633,Counseling for pregnancy,1230101008,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111276,Past pregnancy history of induced onset of labor,725954003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Due to of,40491825,Granuloma gravidarum,447222001,Disorder,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,44800205,[V]Pregnant state, incidental,463841000000106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,44800205,[V]Pregnant state, incidental,463841000000106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4172643,Pre-admission observation, undelivered mother,42102002,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,40524802,[V]Pregnant state, incidental,315903005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014151,Antenatal 30 week examination,169717002,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40303219,(Full term baby) or (H/O delivery: [full term] or [normal]),139020009,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4163701,Extrachorial pregnancy,45307008,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,40310675,(Patient pregnant) or (pregnancy care (& [antenatal] or [postnatal])),146789000,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4078113,Past pregnancy history of normal delivery,275568006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4323351,Past pregnancy history of choriocarcinoma of placenta,428978004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,600678,Past pregnancy history of complication occurring during labor and delivery,1156096005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,40524805,[V]Unspecified pregnant state,315906002,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015299,Antenatal 36 week examination,169721009,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,1244607,Singleton pregnancy,1290152008,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,44806658,Pregnancy resulting from assisted conception,813541000000100,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40303214,H/O: stillbirth,139016005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Precondition of,37311266,Measured gestational weight gain,816161008,Observable Entity,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso with finding,4060312,Infections of urethra in pregnancy,199206009,Disorder,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37016105,Past pregnancy history of pre-eclampsia,105651000119100,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014149,Antenatal 16 week examination,169713003,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,4088440,Periods have stopped,248975008,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,1244610,Hospital antenatal care,1290176000,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,4299535,Pregnancy,77386006,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Maps to,4299535,Pregnancy,77386006,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,764109,Past pregnancy history of complication of pregnancy, childbirth and/or puerperium,450891000124109,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111267,Past pregnancy history of third degree perineal laceration,725941005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1246973,Past pregnancy history of multiple induced termination of pregnancy,1300163008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,37109041,Past pregnancy history of intrauterine fetal death,16216731000119106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37109041,Past pregnancy history of intrauterine fetal death,16216731000119106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1247034,Past pregnancy history of late neonatal death,1290171005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4217975,Normal pregnancy,72892002,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111274,Past pregnancy history of emergency cesarean section,725951006,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015302,Antenatal 41 week examination,169726004,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept poss_eq from,40340540,(Patient pregnant) or (pregnancy care [& antenatal]),169559003,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37109043,Past pregnancy history of molar pregnancy,16216821000119102,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4143056,Past pregnancy history of full term delivery,267015005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,4143056,Past pregnancy history of full term delivery,267015005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,44808979,Antenatal 22 week examination,861281000000109,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015297,Antenatal 32 week examination,169718007,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,600681,Past pregnancy history of pregnancy with abnormal glucose tolerance test,1156099003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37311274,Past pregnancy history of shoulder dystocia,816150000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,37173067,Pregnancy after cervical conization,568141000005106,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,1244612,General practitioner led antenatal care,1290178004,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40303269,H/O: prolonged labor,139066004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40303262,H/O: antepartum hemorrhage,139060005,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,600681,Past pregnancy history of pregnancy with abnormal glucose tolerance test,1156099003,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso with finding,4325357,Gastrointestinal tract finding associated with pregnancy,430257003,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4031512,Precocious pregnancy,14418008,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014435,Antenatal 42 week examination,169727008,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111594,Past pregnancy history of first degree perineal laceration,726625000,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,42539228,Past pregnancy history of preterm premature rupture of membranes,108951000119100,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014150,Antenatal 20 week examination,169714009,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4014433,Antenatal 28 week examination,169716006,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,507693,H/O: previous baby small for gestational age,1054341000000100,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4260758,Past pregnancy history of medical termination of pregnancy,412758008,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,1246975,Past pregnancy history of multiple miscarriages,1290210007,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,432969,Multiple pregnancy,16356006,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,44792121,Partner pregnant,311741000000106,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,762490,Pregnancy and lactation education,423011000124102,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37111593,Past pregnancy history of previous delivery by vacuum extraction,726624001,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,600679,Past pregnancy history of complication of puerperium,1156097001,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Concept was_a from,40310691,Patient pregnant NOS,146802001,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Mapped from,40310691,Patient pregnant NOS,146802001,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4059982,Pregnant - blood test confirms,169561007,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Subsumes,4132562,Number of pregnancies, currently pregnant,127363001,Clinical Finding,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,40324558,H/O delivery: [full term] or [normal] or [no details],161764004,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,37016298,Past pregnancy history of delivery of macrosomal infant,32271000119102,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Value mapped from,507693,H/O: previous baby small for gestational age,1054341000000100,Context-dependent,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4313474,Prenatal visit,424619006,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Focus of,4015301,Antenatal 40 week examination,169725000,Procedure,SNOMED
+4299535,77386006,Pregnancy,SNOMED,Asso finding of,4060195,Past pregnancy history of premature delivery,161765003,Context-dependent,SNOMED
+4304316,38720006,Septuplet pregnancy,SNOMED,Maps to,4304316,Septuplet pregnancy,38720006,Clinical Finding,SNOMED
+4304316,38720006,Septuplet pregnancy,SNOMED,Mapped from,4304316,Septuplet pregnancy,38720006,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Subsumes,4012557,Pregnancy on intrauterine device,102873005,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Mapped from,45600319,Pregnant state, incidental,Z33.1,4-char billing code,ICD10CM
+4307820,83074005,Unplanned pregnancy,SNOMED,Mapped from,1576058,Pregnant state,Z33,3-char nonbill code,ICD10CM
+4307820,83074005,Unplanned pregnancy,SNOMED,Maps to,4307820,Unplanned pregnancy,83074005,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Subsumes,4061785,Pregnancy unplanned and unwanted,169567006,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Mapped from,4307820,Unplanned pregnancy,83074005,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Subsumes,4059985,Unplanned pregnancy unknown if child is wanted,169568001,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Focus of,4298265,Unplanned pregnancy counseling,386302008,Procedure,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Mapped from,44837786,Pregnant state, incidental,V22.2,4-dig billing V code,ICD9CM
+4307820,83074005,Unplanned pregnancy,SNOMED,Concept same_as from,40340552,Unplanned pregnancy,169570005,Context-dependent,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Pathology of,37159122,At increased risk for unplanned pregnancy,1286875007,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Mapped from,40340552,Unplanned pregnancy,169570005,Context-dependent,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Subsumes,4011629,Contraception failure,102955006,Clinical Finding,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Asso finding of,45763564,At risk of unplanned pregnancy,52651000119105,Context-dependent,SNOMED
+4307820,83074005,Unplanned pregnancy,SNOMED,Subsumes,4060237,Pregnancy unplanned but wanted,169566002,Clinical Finding,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,438213,Delayed delivery of second twin, triplet etc,199860006,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Concept poss_eq from,4060155,Delayed delivery second twin etc NOS,199864002,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Concept poss_eq from,438213,Delayed delivery of second twin, triplet etc,199860006,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,4060155,Delayed delivery second twin etc NOS,199864002,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,35210193,Delayed delivery of second twin, triplet, etc.,O63.2,4-char billing code,ICD10CM
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Maps to,4319561,Delayed delivery of second of multiple births,21987001,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,4319561,Delayed delivery of second of multiple births,21987001,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Concept poss_eq from,3583156,Delayed delivery second twin unspecified,608431000000107,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Concept was_a from,3535071,Delayed delivery second twin etc NOS,599651000000103,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,3535071,Delayed delivery second twin etc NOS,599651000000103,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Concept poss_eq from,4060154,Delayed delivery second twin unspecified,199861005,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,44826817,Delayed delivery of second twin, triplet, etc.,662.3,4-dig nonbill code,ICD9CM
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,3583156,Delayed delivery second twin unspecified,608431000000107,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Mapped from,44819905,Delayed delivery of second twin, triplet, etc., unspecified as to episode of care or not applicable,662.30,5-dig billing code,ICD9CM
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Subsumes,4170458,Delayed delivery of second twin,275429002,Disorder,SNOMED
+4319561,21987001,Delayed delivery of second of multiple births,SNOMED,Concept was_a from,3583156,Delayed delivery second twin unspecified,608431000000107,Disorder,SNOMED
+4330861,2256007,Monozygotic twins,SNOMED,Subsumes,4249470,Diamniotic-monochorionic twins,72957006,Clinical Finding,SNOMED
+4330861,2256007,Monozygotic twins,SNOMED,Maps to,4330861,Monozygotic twins,2256007,Clinical Finding,SNOMED
+4330861,2256007,Monozygotic twins,SNOMED,Mapped from,4330861,Monozygotic twins,2256007,Clinical Finding,SNOMED
+36684864,457811000124103,Normal pregnancy in primigravida,SNOMED,Maps to,36684864,Normal pregnancy in primigravida,457811000124103,Clinical Finding,SNOMED
+36684864,457811000124103,Normal pregnancy in primigravida,SNOMED,Has interprets,4060186,Gravida,161732006,Observable Entity,SNOMED
+36684864,457811000124103,Normal pregnancy in primigravida,SNOMED,Mapped from,36684864,Normal pregnancy in primigravida,457811000124103,Clinical Finding,SNOMED
+36684865,457821000124106,Normal pregnancy in multigravida,SNOMED,Maps to,36684865,Normal pregnancy in multigravida,457821000124106,Clinical Finding,SNOMED
+36684865,457821000124106,Normal pregnancy in multigravida,SNOMED,Mapped from,36684865,Normal pregnancy in multigravida,457821000124106,Clinical Finding,SNOMED
+36684865,457821000124106,Normal pregnancy in multigravida,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+37017322,713575004,Dizygotic twin pregnancy,SNOMED,Concept poss_eq from,40633740,Dizygotic twins,7514001,Clinical Finding,SNOMED
+37017322,713575004,Dizygotic twin pregnancy,SNOMED,Mapped from,37017322,Dizygotic twin pregnancy,713575004,Clinical Finding,SNOMED
+37017322,713575004,Dizygotic twin pregnancy,SNOMED,Mapped from,4129026,Dizygotic twins,237246007,Disorder,SNOMED
+37017322,713575004,Dizygotic twin pregnancy,SNOMED,Maps to,37017322,Dizygotic twin pregnancy,713575004,Clinical Finding,SNOMED
+37017322,713575004,Dizygotic twin pregnancy,SNOMED,Mapped from,40633740,Dizygotic twins,7514001,Clinical Finding,SNOMED
+37017322,713575004,Dizygotic twin pregnancy,SNOMED,Concept poss_eq from,4129026,Dizygotic twins,237246007,Disorder,SNOMED
+37017323,713576003,Monozygotic twin pregnancy,SNOMED,Maps to,37017323,Monozygotic twin pregnancy,713576003,Clinical Finding,SNOMED
+37017323,713576003,Monozygotic twin pregnancy,SNOMED,Mapped from,37017323,Monozygotic twin pregnancy,713576003,Clinical Finding,SNOMED
+37018878,134781000119106,High risk pregnancy due to recurrent pregnancy loss,SNOMED,Mapped from,37018878,High risk pregnancy due to recurrent pregnancy loss,134781000119106,Clinical Finding,SNOMED
+37018878,134781000119106,High risk pregnancy due to recurrent pregnancy loss,SNOMED,Has interprets,1243777,Pregnancy risk level,1303221004,Observable Entity,SNOMED
+37018878,134781000119106,High risk pregnancy due to recurrent pregnancy loss,SNOMED,Mapped from,45558218,Pregnancy care for patient with recurrent pregnancy loss, third trimester,O26.23,5-char billing code,ICD10CM
+37018878,134781000119106,High risk pregnancy due to recurrent pregnancy loss,SNOMED,Mapped from,45587296,Pregnancy care for patient with recurrent pregnancy loss, second trimester,O26.22,5-char billing code,ICD10CM
+37018878,134781000119106,High risk pregnancy due to recurrent pregnancy loss,SNOMED,Maps to,37018878,High risk pregnancy due to recurrent pregnancy loss,134781000119106,Clinical Finding,SNOMED
+37018878,134781000119106,High risk pregnancy due to recurrent pregnancy loss,SNOMED,Mapped from,45606551,Pregnancy care for patient with recurrent pregnancy loss, first trimester,O26.21,5-char billing code,ICD10CM
+37167589,1268535008,Obstructed labor due to interlocked twins,SNOMED,Concept poss_eq from,72700,Locked twins with antenatal problem,199788008,Clinical Finding,SNOMED
+37167589,1268535008,Obstructed labor due to interlocked twins,SNOMED,During,4128030,Delivery procedure,236973005,Procedure,SNOMED
+37167589,1268535008,Obstructed labor due to interlocked twins,SNOMED,Maps to,37167589,Obstructed labor due to interlocked twins,1268535008,Disorder,SNOMED
+37167589,1268535008,Obstructed labor due to interlocked twins,SNOMED,Mapped from,37167589,Obstructed labor due to interlocked twins,1268535008,Disorder,SNOMED
+37173067,568141000005106,Pregnancy after cervical conization,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+37173067,568141000005106,Pregnancy after cervical conization,SNOMED,Mapped from,37173067,Pregnancy after cervical conization,568141000005106,Clinical Finding,SNOMED
+37173067,568141000005106,Pregnancy after cervical conization,SNOMED,Maps to,37173067,Pregnancy after cervical conization,568141000005106,Clinical Finding,SNOMED
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,45572758,Supervision of pregnancy with history of pre-term labor, unspecified trimester,O09.219,6-char billing code,ICD10CM
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,45587274,Supervision of pregnancy with history of pre-term labor, third trimester,O09.213,6-char billing code,ICD10CM
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,45572757,Supervision of pregnancy with history of pre-term labor, first trimester,O09.211,6-char billing code,ICD10CM
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,40480278,High risk pregnancy due to history of preterm labor,444661007,Clinical Finding,SNOMED
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Maps to,40480278,High risk pregnancy due to history of preterm labor,444661007,Clinical Finding,SNOMED
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,45592178,Supervision of pregnancy with history of pre-term labor, second trimester,O09.212,6-char billing code,ICD10CM
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,1571618,Supervision of pregnancy with history of pre-term labor,O09.21,5-char nonbill code,ICD10CM
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Has interprets,1243777,Pregnancy risk level,1303221004,Observable Entity,SNOMED
+40480278,444661007,High risk pregnancy due to history of preterm labor,SNOMED,Mapped from,44821530,Pregnancy with history of pre-term labor,V23.41,5-dig billing V code,ICD9CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,44821050,Elderly multigravida, unspecified as to episode of care or not applicable,659.60,5-dig billing code,ICD9CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,45563044,Supervision of elderly multigravida, unspecified trimester,O09.529,6-char billing code,ICD10CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,45601774,Supervision of elderly multigravida, second trimester,O09.522,6-char billing code,ICD10CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,1571624,Supervision of elderly multigravida,O09.52,5-char nonbill code,ICD10CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,44836107,Elderly multigravida, antepartum condition or complication,659.63,5-dig billing code,ICD9CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,44833760,Elderly multigravida,659.6,4-dig nonbill code,ICD9CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,40481872,Multigravida of advanced maternal age,443460007,Clinical Finding,SNOMED
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,45587277,Supervision of elderly multigravida, third trimester,O09.523,6-char billing code,ICD10CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,44829139,Elderly multigravida, delivered with or without mention of antepartum condition,659.61,5-dig billing code,ICD9CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Mapped from,45596913,Supervision of elderly multigravida, first trimester,O09.521,6-char billing code,ICD10CM
+40481872,443460007,Multigravida of advanced maternal age,SNOMED,Maps to,40481872,Multigravida of advanced maternal age,443460007,Clinical Finding,SNOMED
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Mapped from,1326732,Left tubal pregnancy with intrauterine pregnancy,O00.112,6-char billing code,ICD10CM
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Mapped from,37200945,Tubal pregnancy with intrauterine pregnancy,O00.11,5-char nonbill code,ICD10CM
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Mapped from,44823216,Tubal pregnancy with intrauterine pregnancy,633.11,5-dig billing code,ICD9CM
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Mapped from,1326731,Right tubal pregnancy with intrauterine pregnancy,O00.111,6-char billing code,ICD10CM
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Mapped from,1326733,Unspecified tubal pregnancy with intrauterine pregnancy,O00.119,6-char billing code,ICD10CM
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Mapped from,40483581,Combined tubal and intrauterine pregnancy,442478007,Disorder,SNOMED
+40483581,442478007,Combined tubal and intrauterine pregnancy,SNOMED,Maps to,40483581,Combined tubal and intrauterine pregnancy,442478007,Disorder,SNOMED
+43020670,472321009,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,SNOMED,Mapped from,44823253,Twin pregnancy with fetal loss and retention of one fetus,651.3,4-dig nonbill code,ICD9CM
+43020670,472321009,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,SNOMED,Maps to,43020670,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,472321009,Disorder,SNOMED
+43020670,472321009,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,SNOMED,Mapped from,43020670,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,472321009,Disorder,SNOMED
+43020670,472321009,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,SNOMED,Mapped from,44837251,Twin pregnancy with fetal loss and retention of one fetus, delivered, with or without mention of antepartum condition,651.31,5-dig billing code,ICD9CM
+43020670,472321009,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,SNOMED,Mapped from,44819872,Twin pregnancy with fetal loss and retention of one fetus, antepartum condition or complication,651.33,5-dig billing code,ICD9CM
+43020670,472321009,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,SNOMED,Mapped from,44825605,Twin pregnancy with fetal loss and retention of one fetus, unspecified as to episode of care or not applicable,651.30,5-dig billing code,ICD9CM
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,43021054,Dichorionic diamniotic twin pregnancy,459166009,Clinical Finding,SNOMED
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Maps to,43021054,Dichorionic diamniotic twin pregnancy,459166009,Clinical Finding,SNOMED
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,1571746,Twin pregnancy, dichorionic/diamniotic,O30.04,5-char nonbill code,ICD10CM
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,45567905,Twin pregnancy, dichorionic/diamniotic, second trimester,O30.042,6-char billing code,ICD10CM
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,45548734,Twin pregnancy, dichorionic/diamniotic, third trimester,O30.043,6-char billing code,ICD10CM
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,44823920,Twin gestation, dichorionic/diamniotic (two placentae, two amniotic sacs),V91.03,5-dig billing V code,ICD9CM
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,45592210,Twin pregnancy, dichorionic/diamniotic, first trimester,O30.041,6-char billing code,ICD10CM
+43021054,459166009,Dichorionic diamniotic twin pregnancy,SNOMED,Mapped from,45543940,Twin pregnancy, dichorionic/diamniotic, unspecified trimester,O30.049,6-char billing code,ICD10CM
+43021055,459167000,Monochorionic twin pregnancy,SNOMED,Mapped from,43021055,Monochorionic twin pregnancy,459167000,Clinical Finding,SNOMED
+43021055,459167000,Monochorionic twin pregnancy,SNOMED,Maps to,43021055,Monochorionic twin pregnancy,459167000,Clinical Finding,SNOMED
+43021055,459167000,Monochorionic twin pregnancy,SNOMED,Subsumes,43021952,Monochorionic monoamniotic twin pregnancy,459171002,Clinical Finding,SNOMED
+43021055,459167000,Monochorionic twin pregnancy,SNOMED,Subsumes,43021951,Monochorionic diamniotic twin pregnancy,459168005,Clinical Finding,SNOMED
+43021056,459169002,Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes,SNOMED,Maps to,43021056,Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes,459169002,Clinical Finding,SNOMED
+43021056,459169002,Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes,SNOMED,Mapped from,43021056,Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes,459169002,Clinical Finding,SNOMED
+43021057,459170001,Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes,SNOMED,Mapped from,43021057,Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes,459170001,Disorder,SNOMED
+43021057,459170001,Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes,SNOMED,Maps to,43021057,Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes,459170001,Disorder,SNOMED
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,43021951,Monochorionic diamniotic twin pregnancy,459168005,Clinical Finding,SNOMED
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Subsumes,43021056,Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes,459169002,Clinical Finding,SNOMED
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,45563079,Twin pregnancy, monochorionic/diamniotic, unspecified trimester,O30.039,6-char billing code,ICD10CM
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,45582473,Twin pregnancy, monochorionic/diamniotic, second trimester,O30.032,6-char billing code,ICD10CM
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,45572779,Twin pregnancy, monochorionic/diamniotic, first trimester,O30.031,6-char billing code,ICD10CM
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,44830881,Twin gestation, monochorionic/diamniotic (one placenta, two amniotic sacs),V91.02,5-dig billing V code,ICD9CM
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,45548733,Twin pregnancy, monochorionic/diamniotic, third trimester,O30.033,6-char billing code,ICD10CM
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Maps to,43021951,Monochorionic diamniotic twin pregnancy,459168005,Clinical Finding,SNOMED
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Mapped from,1571745,Twin pregnancy, monochorionic/diamniotic,O30.03,5-char nonbill code,ICD10CM
+43021951,459168005,Monochorionic diamniotic twin pregnancy,SNOMED,Subsumes,43021057,Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes,459170001,Disorder,SNOMED
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,45563077,Twin pregnancy, monochorionic/monoamniotic, unspecified trimester,O30.019,6-char billing code,ICD10CM
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,43021952,Monochorionic monoamniotic twin pregnancy,459171002,Clinical Finding,SNOMED
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,45592209,Twin pregnancy, monochorionic/monoamniotic, second trimester,O30.012,6-char billing code,ICD10CM
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,45606558,Twin pregnancy, monochorionic/monoamniotic, third trimester,O30.013,6-char billing code,ICD10CM
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,1571743,Twin pregnancy, monochorionic/monoamniotic,O30.01,5-char nonbill code,ICD10CM
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,44833176,Twin gestation, monochorionic/monoamniotic (one placenta, one amniotic sac),V91.01,5-dig billing V code,ICD9CM
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Mapped from,45596938,Twin pregnancy, monochorionic/monoamniotic, first trimester,O30.011,6-char billing code,ICD10CM
+43021952,459171002,Monochorionic monoamniotic twin pregnancy,SNOMED,Maps to,43021952,Monochorionic monoamniotic twin pregnancy,459171002,Clinical Finding,SNOMED
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Maps to,44783183,Combined intrauterine and ovarian pregnancy,699240001,Disorder,SNOMED
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,1326737,Right ovarian pregnancy with intrauterine pregnancy,O00.211,6-char billing code,ICD10CM
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,1326738,Left ovarian pregnancy with intrauterine pregnancy,O00.212,6-char billing code,ICD10CM
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,44821005,Ovarian pregnancy with intrauterine pregnancy,633.21,5-dig billing code,ICD9CM
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,1326739,Unspecified ovarian pregnancy with intrauterine pregnancy,O00.219,6-char billing code,ICD10CM
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,37200947,Ovarian pregnancy with intrauterine pregnancy,O00.21,5-char nonbill code,ICD10CM
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,44783183,Combined intrauterine and ovarian pregnancy,699240001,Disorder,SNOMED
+44783183,699240001,Combined intrauterine and ovarian pregnancy,SNOMED,Mapped from,1326735,Left ovarian pregnancy without intrauterine pregnancy,O00.202,6-char billing code,ICD10CM
+44806658,813541000000100,Pregnancy resulting from assisted conception,SNOMED,Has interprets,4270154,Pregnancy observable,364320009,Observable Entity,SNOMED
+44806658,813541000000100,Pregnancy resulting from assisted conception,SNOMED,Subsumes,606917,Multiple pregnancy following assisted fertilization,1148848009,Clinical Finding,SNOMED
+44806658,813541000000100,Pregnancy resulting from assisted conception,SNOMED,Maps to,44806658,Pregnancy resulting from assisted conception,813541000000100,Clinical Finding,SNOMED
+44806658,813541000000100,Pregnancy resulting from assisted conception,SNOMED,Mapped from,44806658,Pregnancy resulting from assisted conception,813541000000100,Clinical Finding,SNOMED
+45757730,35381000119101,Quadruplet pregnancy with loss of one or more fetuses,SNOMED,Mapped from,45757730,Quadruplet pregnancy with loss of one or more fetuses,35381000119101,Disorder,SNOMED
+45757730,35381000119101,Quadruplet pregnancy with loss of one or more fetuses,SNOMED,Maps to,45757730,Quadruplet pregnancy with loss of one or more fetuses,35381000119101,Disorder,SNOMED
+45757730,35381000119101,Quadruplet pregnancy with loss of one or more fetuses,SNOMED,Mapped from,44833731,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition,651.51,5-dig billing code,ICD9CM
+45757769,36801000119105,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,SNOMED,Mapped from,44830232,Triplet pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition,651.41,5-dig billing code,ICD9CM
+45757769,36801000119105,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,SNOMED,Maps to,45757769,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,36801000119105,Disorder,SNOMED
+45757769,36801000119105,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,SNOMED,Mapped from,45757769,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,36801000119105,Disorder,SNOMED

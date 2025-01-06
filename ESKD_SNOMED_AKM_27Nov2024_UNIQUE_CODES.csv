@@ -1,0 +1,687 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+3372285,End stage renal disease,Clinical Finding,Nebraska Lexicon
+37018886,End stage renal disease due to hypertension,Disorder,SNOMED
+40395607,End stage renal failure,Disorder,SNOMED
+4128200,End stage renal failure untreated by renal replacement therapy,Disorder,SNOMED
+45601717,End-stage renal disease,ICD10 code,ICD10
+40395140,Renal failure: [chronic] or [end stage],Disorder,SNOMED
+4125970,End stage renal failure with renal transplant,Disorder,SNOMED
+1126443,Patients with a diagnosis of end stage renal disease (esrd),HCPCS,HCPCS
+46287046,Family history of end stage renal disease,Context-dependent,SNOMED
+4179226,Dependence on dialysis due to end stage renal disease,Clinical Finding,SNOMED
+40395141,End stage renal failure,Disorder,SNOMED
+4181476,Dependence on hemodialysis due to end stage renal disease,Clinical Finding,SNOMED
+44827889,End stage renal disease,4-dig billing code,ICD9CM
+3554166,End stage renal disease,Undefined,SNOMED
+3125969,End stage renal failure,Clinical Finding,Nebraska Lexicon
+193782,End-stage renal disease,Disorder,SNOMED
+45924283,Chronic Renal Insufficiency, Stage V,Diagnosis,CIEL
+4030520,End stage renal failure on dialysis,Disorder,SNOMED
+45947399,ESRD (end-stage renal disease),Diagnosis,CIEL
+44782813,Hypertensive renal disease with end stage renal failure,Disorder,SNOMED
+45548653,End stage renal disease,4-char billing code,ICD10CM
+3126013,End stage renal failure,Clinical Finding,Nebraska Lexicon
+40317621,Renal failure: [chronic] or [end stage],Disorder,SNOMED
+4177685,Dependence on peritoneal dialysis due to end stage renal disease,Clinical Finding,SNOMED
+37209515,Dependence on continuous ambulatory peritoneal dialysis due to end stage renal disease,Clinical Finding,SNOMED
+40282772,Renal function,Observable Entity,SNOMED
+3125968,Renal failure: [chronic] or [end stage],Clinical Finding,Nebraska Lexicon
+45768813,Anemia in end stage renal disease,Disorder,SNOMED
+601166,End stage renal disease on dialysis due to drug induced diabetes mellitus,Disorder,SNOMED
+45757392,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus,Disorder,SNOMED
+45769904,End stage renal disease on dialysis due to type 1 diabetes mellitus,Disorder,SNOMED
+45772751,Hypertension concurrent and due to end stage renal disease on dialysis,Disorder,SNOMED
+45757393,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,Disorder,SNOMED
+43021864,Malignant hypertensive end stage renal disease on dialysis,Disorder,SNOMED
+3242693,End stage renal failure on dialysis,Clinical Finding,Nebraska Lexicon
+45926096,end stage renal failure on dialysis,Diagnosis,CIEL
+45769906,End stage renal disease on dialysis due to type 2 diabetes mellitus,Disorder,SNOMED
+3229385,End stage renal failure with renal transplant,Clinical Finding,Nebraska Lexicon
+3280225,End stage renal failure untreated by renal replacement therapy,Clinical Finding,Nebraska Lexicon
+3223181,End stage renal disease due to hypertension,Clinical Finding,Nebraska Lexicon
+43020455,Malignant hypertensive end stage renal disease,Disorder,SNOMED
+46273164,End stage renal disease due to benign hypertension,Disorder,SNOMED
+3162306,Hypertensive renal disease with end stage renal failure,Clinical Finding,Nebraska Lexicon
+44782717,End stage renal disease on dialysis due to hypertension,Disorder,SNOMED
+762973,Hypertensive end stage renal disease,Disorder,SNOMED
+3333785,End stage renal disease due to hypertension,Clinical Finding,Nebraska Lexicon
+3380470,Malignant hypertensive end stage renal disease,Clinical Finding,Nebraska Lexicon
+44825426,Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease,5-dig billing code,ICD9CM
+3368936,Malignant hypertensive end stage renal disease on dialysis,Clinical Finding,Nebraska Lexicon
+3302754,End stage renal disease on dialysis due to hypertension,Clinical Finding,Nebraska Lexicon
+4326744,Blood pressure,Observable Entity,SNOMED
+3304855,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+3365166,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+3432432,Anaemia co-occurrent and due to end stage renal disease,Clinical Finding,Nebraska Lexicon
+3392187,End stage renal disease on dialysis due to type 1 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+3169388,End stage renal disease on dialysis due to type 2 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+3265509,Hypertension concurrent and due to end stage renal disease on dialysis,Clinical Finding,Nebraska Lexicon
+3258026,End stage renal disease due to benign hypertension,Clinical Finding,Nebraska Lexicon
+601165,Chronic kidney disease stage 5 due to drug induced diabetes mellitus,Disorder,SNOMED
+37017813,Chronic kidney disease stage 5 on dialysis,Disorder,SNOMED
+35209278,Chronic kidney disease, stage 5,4-char billing code,ICD10CM
+37018761,Chronic kidney disease stage 5 with transplant,Disorder,SNOMED
+3422269,Chronic kidney disease stage 5,Clinical Finding,Nebraska Lexicon
+44792254,Chronic kidney disease stage 5 with proteinuria,Disorder,SNOMED
+443611,Chronic kidney disease stage 5,Disorder,SNOMED
+45926955,Chronic Kidney Disease, Stage V,Diagnosis,CIEL
+42506066,Chronic kidney disease, stage 5,KCD7 code,KCD7
+37395652,Anemia in chronic kidney disease stage 5,Disorder,SNOMED
+44792255,Chronic kidney disease stage 5 without proteinuria,Disorder,SNOMED
+43531562,Chronic kidney disease stage 5 due to type 2 diabetes mellitus,Disorder,SNOMED
+1126399,Patients with a diagnosis of chronic kidney disease (ckd) stage 5,HCPCS,HCPCS
+606970,Inflammation of retina due to chronic kidney disease stage 5,Disorder,SNOMED
+3559379,Chronic kidney disease stage 5,Undefined,SNOMED
+44837192,Chronic kidney disease, Stage V,4-dig billing code,ICD9CM
+45769903,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,Disorder,SNOMED
+44782690,Chronic kidney disease stage 5 due to hypertension,Disorder,SNOMED
+45582394,Chronic kidney disease, stage 5,ICD10 code,ICD10
+3553409,Chronic kidney disease stage 5,Disorder,SNOMED
+3275047,Benign hypertensive heart disease and chronic kidney disease stage 5,Clinical Finding,Nebraska Lexicon
+760850,Benign hypertensive heart disease and chronic renal disease stage 5,Disorder,SNOMED
+3233078,Chronic kidney disease stage 5 on dialysis,Clinical Finding,Nebraska Lexicon
+3221264,Chronic kidney disease stage 5 with transplant,Clinical Finding,Nebraska Lexicon
+43020437,Malignant hypertensive chronic kidney disease stage 5,Disorder,SNOMED
+3296191,Malignant hypertensive chronic kidney disease stage 5,Clinical Finding,Nebraska Lexicon
+45757444,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,Disorder,SNOMED
+3237151,Diabetic stage 5 chronic renal impairment due to type 2 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+46270356,Chronic kidney disease stage 5 due to benign hypertension,Disorder,SNOMED
+44828971,Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease,5-dig billing code,ICD9CM
+3295955,Chronic kidney disease stage 5 due to hypertension,Clinical Finding,Nebraska Lexicon
+44784638,Hypertensive heart AND chronic kidney disease stage 5,Disorder,SNOMED
+3393270,Hypertensive heart AND chronic kidney disease stage 5,Clinical Finding,Nebraska Lexicon
+46284600,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1,Disorder,SNOMED
+3555445,Chronic kidney disease stage 5 with proteinuria,Undefined,SNOMED
+46284602,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2,Disorder,SNOMED
+46284603,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3,Disorder,SNOMED
+3555446,Chronic kidney disease stage 5 with proteinuria,Undefined,SNOMED
+3555448,Chronic kidney disease stage 5 without proteinuria,Undefined,SNOMED
+3555447,Chronic kidney disease stage 5 without proteinuria,Undefined,SNOMED
+3244126,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+3248084,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,Clinical Finding,Nebraska Lexicon
+3325243,Chronic kidney disease stage 5 due to benign hypertension,Clinical Finding,Nebraska Lexicon
+3561158,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1,Undefined,SNOMED
+3561159,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2,Undefined,SNOMED
+3561160,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3,Undefined,SNOMED
+604484,Dependence on prolonged intermittent renal replacement therapy due to renal failure,Clinical Finding,SNOMED
+4086154,Function,Observable Entity,SNOMED
+3194066,Requires sustained low efficiency dialysis,Clinical Finding,Nebraska Lexicon
+3269256,Functional observable,Observable Entity,Nebraska Lexicon
+42505949,Dependence on renal dialysis,KCD7 code,KCD7
+3561568,Dependence on renal dialysis,Undefined,SNOMED
+45581097,Dependence on renal dialysis,ICD10 code,ICD10
+35225436,Dependence on renal dialysis,4-char billing code,ICD10CM
+40482357,Dependence on peritoneal dialysis,Clinical Finding,SNOMED
+40480136,Dependence on hemodialysis,Clinical Finding,SNOMED
+4264843,Functional observable,Observable Entity,SNOMED
+3426910,Dependence on peritoneal dialysis due to end stage renal disease,Clinical Finding,Nebraska Lexicon
+3446758,Dependence on dialysis due to end stage renal disease,Clinical Finding,Nebraska Lexicon
+36713020,Hyperparathyroidism due to end stage renal disease on dialysis,Disorder,SNOMED
+3468346,Dependence on haemodialysis due to end stage renal disease,Clinical Finding,Nebraska Lexicon
+45917365,hemodialysis status,Diagnosis,CIEL
+3435447,Dependence on haemodialysis,Clinical Finding,Nebraska Lexicon
+46269985,Dependence on continuous cycling peritoneal dialysis,Clinical Finding,SNOMED
+3465225,Dependence on peritoneal dialysis,Clinical Finding,Nebraska Lexicon
+3459331,Dependence on continuous ambulatory peritoneal dialysis,Clinical Finding,Nebraska Lexicon
+3453268,Dependence on continuous cycling peritoneal dialysis,Clinical Finding,Nebraska Lexicon
+619390,Prolonged intermittent renal replacement therapy,Procedure,SNOMED
+44783963,Sustained low-efficiency dialysis,Procedure,SNOMED
+4231018,Filtration - action,Qualifier Value,SNOMED
+801350,The number of adult patient-months in the denominator who were on maintenance hemodialysis under the care of the same practitioner or group partner as of the last hemodialysis session of the reporting month using a catheter continuously for less than t...,HCPCS,HCPCS
+801351,The number of adult patient-months in the denominator who were on maintenance hemodialysis using a catheter continuously for three months or longer under the care of the same practitioner or group partner as of the last hemodialysis session of the repo...,HCPCS,HCPCS
+1126186,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+1126187,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+1126188,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+1126203,Dialysis circuit, introduction of needle(s) and/or catheter(s), with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...,HCPCS,HCPCS
+2101833,,CPT4,CPT4
+4162085,Development of care plan,Procedure,SNOMED
+4130003,Documentation procedure,Procedure,SNOMED
+4051328,Continuous arteriovenous hemodialysis,Procedure,SNOMED
+2108564,,CPT4,CPT4
+2108566,,CPT4,CPT4
+2108567,,CPT4,CPT4
+4297090,Evaluation procedure,Procedure,SNOMED
+2213572,,CPT4,CPT4
+2213573,,CPT4,CPT4
+4013066,Change of prescription,Procedure,SNOMED
+4223358,Indicator dilution flow measurement,Procedure,SNOMED
+2213575,,CPT4,CPT4
+3171077,Emergent dialysis,Procedure,Nebraska Lexicon
+3216901,Filtration - action,Qualifier Value,Nebraska Lexicon
+3335825,Emergency,Qualifier Value,Nebraska Lexicon
+4002872,Stabilizing hemodialysis,Procedure,SNOMED
+4044535,Perfusion - action,Qualifier Value,SNOMED
+3318940,Stabilising haemodialysis,Procedure,Nebraska Lexicon
+42288474,Continuous Arteriovenous Hemofiltraion,Neonate Emergency Nighttime,Procedure,EDI
+42146171,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency holiday,Procedure,EDI
+42153800,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42206116,Continuous Arteriovenous Hemofiltraion,regional trauma center, severe trauma Nighttime,Procedure,EDI
+42252756,Continuous Arteriovenous Hemofiltraion,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42286187,Continuous Arteriovenous Hemofiltraion,Neonate Emergency,Procedure,EDI
+42168250,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42110890,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months holiday,Procedure,EDI
+42203483,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42194114,Continuous Arteriovenous Hemofiltraion,regional trauma center, Severe trauma,Procedure,EDI
+42194946,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42237960,Continuous Arteriovenous Hemofiltraion,More than 12 months~ Under 72 months,Procedure,EDI
+42231162,Continuous Arteriovenous Hemofiltraion,Under 12 months Emergency Nighttime,Procedure,EDI
+3309463,Continuous arteriovenous haemofiltration,Procedure,Nebraska Lexicon
+42196797,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728632,Continuous Arteriovenous Hemofiltraion,Procedure,EDI
+42238305,Continuous Arteriovenous Hemofiltraion,More than 12 months~ Under 72 months,Procedure,EDI
+42273564,Continuous Arteriovenous Hemofiltraion,Neonate, holiday,Procedure,EDI
+42272694,Continuous Arteriovenous Hemofiltraion,Neonate,Procedure,EDI
+42206630,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42252665,Continuous Arteriovenous Hemofiltraion,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42121364,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42217973,Continuous Arteriovenous Hemofiltraion,Public holidays for children under 1 year of age,Procedure,EDI
+19728634,Continuous Arteriovenous Hemofiltraion,Procedure,EDI
+42245434,Continuous Arteriovenous Hemofiltraion,Nighttime for children over 1 year old and under 6 years old,Procedure,EDI
+42228891,Continuous Arteriovenous Hemofiltraion,Under 12 months, emergency,Procedure,EDI
+42115516,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months Nighttime,Procedure,EDI
+42177987,Continuous Arteriovenous Hemofiltraion,clinic, dental clinic(including Public Health and Medical care center) Nighttime, Saturday, holiday,Procedure,EDI
+42322041,Continuous Arteriovenous Hemofiltraion,Emergency Nighttime,Procedure,EDI
+42319371,Continuous Arteriovenous Hemofiltraion,emergency,Procedure,EDI
+42214679,Continuous Arteriovenous Hemofiltraion,Under 12 months,Procedure,EDI
+42287187,Continuous Arteriovenous Hemofiltraion,Neonate Emergency holiday,Procedure,EDI
+42156493,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate holiday,Procedure,EDI
+4050867,Continuous arteriovenous hemodiafiltration,Procedure,SNOMED
+42132232,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+4049844,Continuous arteriovenous hemofiltration,Procedure,SNOMED
+42145852,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42131195,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42145069,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42194688,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42366318,Continuous arteriovenous hemofiltration - same day of catheter insertion [catheter insertion fee included],Proc Hierarchy,EDI
+42177467,Continuous Arteriovenous Hemofiltraion,Procedure,EDI
+42106724,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42254983,Continuous Arteriovenous Hemofiltraion,More than 12 months~ Under 72 months Emergency Nighttime,Procedure,EDI
+42272448,Continuous Arteriovenous Hemofiltraion,Neonate,Procedure,EDI
+42285968,Continuous Arteriovenous Hemofiltraion,Neonate Emergency,Procedure,EDI
+42193579,Continuous Arteriovenous Hemofiltraion,regional trauma center, Severe trauma,Procedure,EDI
+42196670,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42214684,Continuous Arteriovenous Hemofiltraion,Under 12 months,Procedure,EDI
+42253358,Continuous Arteriovenous Hemofiltraion,More than 12 months~ Under 72 months Emergency holiday,Procedure,EDI
+42314462,Continuous Arteriovenous Hemofiltraion,emergency,Procedure,EDI
+42366055,Continuous arteriovenous hemofiltration - from the day after catheter insertion [per day],Proc Hierarchy,EDI
+42169612,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate emergency holiday,Procedure,EDI
+42121815,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42320021,Continuous Arteriovenous Hemofiltraion,Emergency holiday,Procedure,EDI
+42209367,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42295613,Continuous arteriovenous hemofiltration - on the day of catheter insertion [catheter insertion fee included],Nighttime,Procedure,EDI
+19728633,Continuous Arteriovenous Hemofiltraion,Procedure,EDI
+42198398,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42199793,Continuous Arteriovenous Hemofiltraion,regional trauma center, severe trauma holiday,Procedure,EDI
+42139671,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Nighttime,Procedure,EDI
+19728636,Continuous Arteriovenous Hemofiltraion,holiday,Procedure,EDI
+42221673,Continuous Arteriovenous Hemofiltraion,Nighttime for children under 1 year old,Procedure,EDI
+42241405,Continuous Arteriovenous Hemofiltraion,Public holidays for children over 1 year old and under 6 years old,Procedure,EDI
+42208384,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42200628,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42279775,Continuous Arteriovenous Hemofiltraion,Neonate, Nighttime,Procedure,EDI
+42168336,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+19728635,Continuous Arteriovenous Hemofiltraion,Nighttime,Procedure,EDI
+42171130,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate emergency Nighttime,Procedure,EDI
+42147840,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency Nighttime,Procedure,EDI
+42202332,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42133750,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months holiday,Procedure,EDI
+42123778,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months emergency Nighttime,Procedure,EDI
+42229592,Continuous Arteriovenous Hemofiltraion,Under 12 months, emergency,Procedure,EDI
+42186877,Continuous arteriovenous hemofiltration - on the day of catheter insertion [catheter insertion fee included],holiday,Procedure,EDI
+42230285,Continuous Arteriovenous Hemofiltraion,Under 12 months Emergency holiday,Procedure,EDI
+42198178,Continuous Arteriovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42161456,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate Nighttime,Procedure,EDI
+42122414,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months emergency holiday,Procedure,EDI
+42155310,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42107573,Continuous Arteriovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+46270934,Emergency hemodiafiltration,Procedure,SNOMED
+4050866,Continuous hemodiafiltration,Procedure,SNOMED
+3217187,Haemodiafiltration,Procedure,Nebraska Lexicon
+4052538,Intermittent hemodiafiltration,Procedure,SNOMED
+4049845,Hemodiafiltration,Procedure,SNOMED
+46270932,Maintenance hemodiafiltration,Procedure,SNOMED
+4049846,Continuous venovenous hemodiafiltration,Procedure,SNOMED
+3265555,Continuous venovenous haemodiafiltration,Procedure,Nebraska Lexicon
+4104340,Venous structure,Body Structure,SNOMED
+4050862,Intermittent hemodialysis with continuous ultrafiltration,Procedure,SNOMED
+3219011,Intermittent haemodialysis with continuous ultrafiltration,Procedure,Nebraska Lexicon
+3252938,Continuous haemodialysis,Procedure,Nebraska Lexicon
+4050863,Continuous hemodialysis,Procedure,SNOMED
+3220865,Haemofiltration therapy,Procedure,Nebraska Lexicon
+46270935,Maintenance hemofiltration,Procedure,SNOMED
+37396069,Emergency hemofiltration,Procedure,SNOMED
+3525710,Haemofiltration,Undefined,SNOMED
+4050865,Intermittent hemofiltration,Procedure,SNOMED
+3321636,Intermittent haemofiltration,Procedure,Nebraska Lexicon
+3325957,Continuous haemodiafiltration,Procedure,Nebraska Lexicon
+3257479,Continuous arteriovenous haemodiafiltration,Procedure,Nebraska Lexicon
+42253040,Hemodialysis,More than 12 months~ Under 72 months Emergency holiday,Procedure,EDI
+42108805,Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42237837,Hemodialysis,More than 12 months~ Under 72 months,Procedure,EDI
+42111283,Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months holiday,Procedure,EDI
+42146297,Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency holiday,Procedure,EDI
+42200611,Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42228943,Hemodialysis,Under 12 months, emergency,Procedure,EDI
+42162970,Hemodialysis,(Senior General Hospital, General Hospital) Neonate Nighttime,Procedure,EDI
+42168987,Hemodialysis,(Senior General Hospital, General Hospital) Neonate emergency holiday,Procedure,EDI
+42136780,Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42279231,Hemodialysis,Neonate, Nighttime,Procedure,EDI
+19728585,Hemodialysis,under 8 years old Nighttime,Procedure,EDI
+42271556,Hemodialysis,Neonate,Procedure,EDI
+42198027,Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+19728584,Hemodialysis,under 8 years old,Procedure,EDI
+42086515,Hemodialysis [per session],Proc Hierarchy,EDI
+42217688,Hemodialysis,Public holidays for children under 1 year of age,Procedure,EDI
+42118107,Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42222493,Hemodialysis,Nighttime for children under 1 year old,Procedure,EDI
+42196565,Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42194709,Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42252182,Hemodialysis,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42240023,Hemodialysis,Public holidays for children over 1 year old and under 6 years old,Procedure,EDI
+42275220,Hemodialysis,Neonate, holiday,Procedure,EDI
+42193529,Hemodialysis,regional trauma center, Severe trauma,Procedure,EDI
+42209315,Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42116190,Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Nighttime,Procedure,EDI
+42319034,Hemodialysis,emergency,Procedure,EDI
+42254527,Hemodialysis,More than 12 months~ Under 72 months Emergency Nighttime,Procedure,EDI
+42137570,Hemodialysis,holiday,Procedure,EDI
+42122059,Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months emergency holiday,Procedure,EDI
+42206255,Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42170533,Hemodialysis,(Senior General Hospital, General Hospital) Neonate emergency Nighttime,Procedure,EDI
+42231224,Hemodialysis,Under 12 months Emergency Nighttime,Procedure,EDI
+42132725,Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728587,Hemodialysis,Emergency night for children under 8 years old,Procedure,EDI
+42085945,Hemodialysis,Neonate Emergency holiday,Procedure,EDI
+42294991,Hemodialysis,Nighttime,Procedure,EDI
+19728586,Hemodialysis,Emergency for children under 8 years old,Procedure,EDI
+19728589,Hemodialysis,under 8 years old holiday,Procedure,EDI
+42147635,Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency Nighttime,Procedure,EDI
+42155383,Hemodialysis,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42286031,Hemodialysis,Neonate Emergency,Procedure,EDI
+42288490,Hemodialysis,Neonate Emergency Nighttime,Procedure,EDI
+42167891,Hemodialysis,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42203509,Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+3298569,Intermittent haemodialysis,Procedure,Nebraska Lexicon
+42201677,Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728588,Hemodialysis,Emergency holidays for children under 8 years of age,Procedure,EDI
+42139780,Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Nighttime,Procedure,EDI
+42200099,Hemodialysis,regional trauma center, severe trauma holiday,Procedure,EDI
+42085658,Hemodialysis,Nighttime for children over 1 year old and under 6 years old,Procedure,EDI
+42201816,Hemodialysis,regional trauma center, severe trauma Nighttime,Procedure,EDI
+42124514,Hemodialysis,(Senior General Hospital, General Hospital) Neonate holiday,Procedure,EDI
+42322164,Hemodialysis,Emergency Nighttime,Procedure,EDI
+42207663,Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42229714,Hemodialysis,Under 12 months Emergency holiday,Procedure,EDI
+42134482,Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months holiday,Procedure,EDI
+42124040,Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months emergency Nighttime,Procedure,EDI
+42214891,Hemodialysis,Under 12 months,Procedure,EDI
+4051327,Intermittent hemodialysis with sequential ultrafiltration,Procedure,SNOMED
+42319678,Hemodialysis,Emergency holiday,Procedure,EDI
+3382199,Intermittent haemodialysis with sequential ultrafiltration,Procedure,Nebraska Lexicon
+19728601,Continuous Arteriovenous Hemodialysis,Procedure,EDI
+42252522,Continuous Arteriovenous Hemodialysis,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42143868,Continuous Arteriovenous Hemodialysis,Under 12 months,Procedure,EDI
+42206585,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42168784,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42196801,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42200394,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+3289907,Continuous arteriovenous haemodialysis filtration,Procedure,Nebraska Lexicon
+42278316,Continuous Arteriovenous Hemodialysis,Neonate, Nighttime,Procedure,EDI
+42154620,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42252161,Continuous Arteriovenous Hemodialysis,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42272684,Continuous Arteriovenous Hemodialysis,Neonate,Procedure,EDI
+42194915,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42203164,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+19728606,Continuous Arteriovenous Hemodialysis,Emergency holidays for children under 8 years of age,Procedure,EDI
+42123548,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months emergency Nighttime,Procedure,EDI
+42153692,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42240177,Continuous Arteriovenous Hemodialysis,Public holidays for children over 1 year old and under 6 years old,Procedure,EDI
+19728602,Continuous Arteriovenous Hemodialysis,under 8 years old,Procedure,EDI
+42157152,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate holiday,Procedure,EDI
+42221822,Continuous Arteriovenous Hemodialysis,Nighttime for children under 1 year old,Procedure,EDI
+42273604,Continuous Arteriovenous Hemodialysis,Neonate, holiday,Procedure,EDI
+42193825,Continuous Arteriovenous Hemodialysis,regional trauma center, Severe trauma,Procedure,EDI
+42168494,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42145836,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42170429,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate emergency Nighttime,Procedure,EDI
+19728607,Continuous Arteriovenous Hemodialysis,under 8 years old holiday,Procedure,EDI
+42286259,Continuous Arteriovenous Hemodialysis,Neonate Emergency,Procedure,EDI
+42319144,Continuous Arteriovenous Hemodialysis,emergency,Procedure,EDI
+42288571,Continuous Arteriovenous Hemodialysis,Neonate Emergency Nighttime,Procedure,EDI
+42177851,Continuous Arteriovenous Hemodialysis,Procedure,EDI
+42216655,Continuous Arteriovenous Hemodialysis,Public holidays for children under 1 year of age,Procedure,EDI
+42293888,Continuous arteriovenous hemodialysis - same day as catheter insertion [catheter insertion fee included],Nighttime,Procedure,EDI
+42145726,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42285992,Continuous Arteriovenous Hemodialysis,Neonate Emergency,Procedure,EDI
+42362271,Continuous arteriovenous hemodialysis - same day of catheter insertion [catheter insertion fee included],Proc Hierarchy,EDI
+42270798,Continuous Arteriovenous Hemodialysis,Neonate,Procedure,EDI
+42215383,Continuous Arteriovenous Hemodialysis,Under 12 months,Procedure,EDI
+42238137,Continuous Arteriovenous Hemodialysis,More than 12 months~ Under 72 months,Procedure,EDI
+19728604,Continuous Arteriovenous Hemodialysis,Emergency for children under 8 years old,Procedure,EDI
+42286534,Continuous Arteriovenous Hemodialysis,Neonate Emergency holiday,Procedure,EDI
+42208307,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42229565,Continuous Arteriovenous Hemodialysis,Under 12 months, emergency,Procedure,EDI
+42187554,Continuous arteriovenous hemodialysis - same day as catheter insertion [catheter insertion fee included],holiday,Procedure,EDI
+19728609,Continuous Arteriovenous Hemodialysis,Procedure,EDI
+42253072,Continuous Arteriovenous Hemodialysis,More than 12 months~ Under 72 months Emergency holiday,Procedure,EDI
+42199730,Continuous Arteriovenous Hemodialysis,regional trauma center, severe trauma holiday,Procedure,EDI
+42231170,Continuous Arteriovenous Hemodialysis,Under 12 months Emergency Nighttime,Procedure,EDI
+19728608,Continuous Arteriovenous Hemodialysis,Procedure,EDI
+42246151,Continuous Arteriovenous Hemodialysis,Nighttime for children over 1 year old and under 6 years old,Procedure,EDI
+42194610,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42114667,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Nighttime,Procedure,EDI
+42107858,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42238769,Continuous Arteriovenous Hemodialysis,More than 12 months~ Under 72 months,Procedure,EDI
+42319951,Continuous Arteriovenous Hemodialysis,Emergency holiday,Procedure,EDI
+42318765,Continuous Arteriovenous Hemodialysis,emergency,Procedure,EDI
+42147651,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency Nighttime,Procedure,EDI
+42111045,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months holiday,Procedure,EDI
+42202063,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42121816,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42177864,Continuous Arteriovenous Hemodialysis,clinic, dental clinic(including Public Health and Medical care center) Nighttime, Saturday, holiday,Procedure,EDI
+42134375,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months holiday,Procedure,EDI
+42229693,Continuous Arteriovenous Hemodialysis,Under 12 months Emergency holiday,Procedure,EDI
+42107751,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42169187,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate emergency holiday,Procedure,EDI
+42121263,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42359147,Continuous arteriovenous hemodialysis - from the day after catheter insertion [per day],Proc Hierarchy,EDI
+19728610,Continuous Arteriovenous Hemodialysis,Nighttime,Procedure,EDI
+42194244,Continuous Arteriovenous Hemodialysis,regional trauma center, Severe trauma,Procedure,EDI
+42322250,Continuous Arteriovenous Hemodialysis,Emergency Nighttime,Procedure,EDI
+42198037,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42138498,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Nighttime,Procedure,EDI
+42161243,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate Nighttime,Procedure,EDI
+42146196,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency holiday,Procedure,EDI
+19728603,Continuous Arteriovenous Hemodialysis,under 8 years old Nighttime,Procedure,EDI
+42229148,Continuous Arteriovenous Hemodialysis,Under 12 months, emergency,Procedure,EDI
+42205670,Continuous Arteriovenous Hemodialysis,regional trauma center, severe trauma Nighttime,Procedure,EDI
+42198072,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42209440,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42131278,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42132068,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728605,Continuous Arteriovenous Hemodialysis,Emergency night for children under 8 years old,Procedure,EDI
+42255100,Continuous Arteriovenous Hemodialysis,More than 12 months~ Under 72 months Emergency Nighttime,Procedure,EDI
+19728611,Continuous Arteriovenous Hemodialysis,holiday,Procedure,EDI
+42122365,Continuous Arteriovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months emergency holiday,Procedure,EDI
+19728612,Continuous Arteriovenous Hemodialysis,under 8 years old,Procedure,EDI
+42196047,Continuous Arteriovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728613,Continuous Arteriovenous Hemodialysis,Emergency for children under 8 years old,Procedure,EDI
+19728211,Continuous Venovenous Hemodialysis,Procedure,EDI
+42110868,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months holiday,Procedure,EDI
+42155135,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+19728593,Continuous Venovenous Hemodialysis,Emergency for children under 8 years old,Procedure,EDI
+42157546,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate holiday,Procedure,EDI
+19728594,Continuous Venovenous Hemodialysis,Emergency night for children under 8 years old,Procedure,EDI
+42122061,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months emergency holiday,Procedure,EDI
+42365329,Continuous intravenous hemodialysis - same day of catheter insertion [catheter insertion fee included],Proc Hierarchy,EDI
+42285845,Continuous Venovenous Hemodialysis,Neonate Emergency,Procedure,EDI
+42141143,Continuous Venovenous Hemodialysis,Under 12 months,Procedure,EDI
+42238657,Continuous Venovenous Hemodialysis,More than 12 months~ Under 72 months,Procedure,EDI
+42229108,Continuous Venovenous Hemodialysis,Under 12 months, emergency,Procedure,EDI
+42146678,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency holiday,Procedure,EDI
+42116079,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Nighttime,Procedure,EDI
+42161906,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate Nighttime,Procedure,EDI
+42203349,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42295340,Continuous intravenous hemodialysis - same day as catheter insertion [catheter insertion fee included],Nighttime,Procedure,EDI
+42229029,Continuous Venovenous Hemodialysis,Under 12 months, emergency,Procedure,EDI
+19728592,Continuous Venovenous Hemodialysis,under 8 years old Nighttime,Procedure,EDI
+42206046,Continuous Venovenous Hemodialysis,regional trauma center, severe trauma Nighttime,Procedure,EDI
+42132720,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728598,Continuous Venovenous Hemodialysis- After the next day of catheterization (per day),holiday,Procedure,EDI
+42255213,Continuous Venovenous Hemodialysis,More than 12 months~ Under 72 months Emergency Nighttime,Procedure,EDI
+42319874,Continuous Venovenous Hemodialysis,Emergency holiday,Procedure,EDI
+19728595,Continuous Venovenous Hemodialysis,Emergency holidays for children under 8 years of age,Procedure,EDI
+42241689,Continuous Venovenous Hemodialysis,Public holidays for children over 1 year old and under 6 years old,Procedure,EDI
+42288033,Continuous Venovenous Hemodialysis,Neonate Emergency Nighttime,Procedure,EDI
+19728599,Continuous Venovenous Hemodialysis,under 8 years old,Procedure,EDI
+42140099,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Nighttime,Procedure,EDI
+19728590,Continuous Venovenous Hemodialysis,Procedure,EDI
+42194418,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42132054,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42229896,Continuous Venovenous Hemodialysis,Under 12 months Emergency holiday,Procedure,EDI
+42196816,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+3373080,Continuous venovenous haemodialysis filtration,Procedure,Nebraska Lexicon
+42187894,Continuous intravenous hemodialysis - same day as catheter insertion [catheter insertion fee included],holiday,Procedure,EDI
+42198335,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42271171,Continuous Venovenous Hemodialysis,Neonate,Procedure,EDI
+42201737,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42194828,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+19728600,Continuous Venovenous Hemodialysis,Emergency for children under 8 years old,Procedure,EDI
+42108369,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42322343,Continuous Venovenous Hemodialysis,Emergency Nighttime,Procedure,EDI
+42196161,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42252387,Continuous Venovenous Hemodialysis,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42145983,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42177737,Continuous Venovenous Hemodialysis,clinic, dental clinic(including Public Health and Medical care center) Nighttime, Saturday, holiday,Procedure,EDI
+42200606,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42168695,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42285698,Continuous Venovenous Hemodialysis,Neonate Emergency,Procedure,EDI
+42169131,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate emergency holiday,Procedure,EDI
+42199908,Continuous Venovenous Hemodialysis,regional trauma center, severe trauma holiday,Procedure,EDI
+42274368,Continuous Venovenous Hemodialysis,Neonate, holiday,Procedure,EDI
+42178016,Continuous Venovenous Hemodialysis,Procedure,EDI
+42245893,Continuous Venovenous Hemodialysis,Nighttime for children over 1 year old and under 6 years old,Procedure,EDI
+19728591,Continuous Venovenous Hemodialysis,under 8 years old,Procedure,EDI
+42124158,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months emergency Nighttime,Procedure,EDI
+42206966,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42253649,Continuous Venovenous Hemodialysis,More than 12 months~ Under 72 months Emergency holiday,Procedure,EDI
+19728596,Continuous Venovenous Hemodialysis,under 8 years old holiday,Procedure,EDI
+42286687,Continuous Venovenous Hemodialysis,Neonate Emergency holiday,Procedure,EDI
+42194245,Continuous Venovenous Hemodialysis,regional trauma center, Severe trauma,Procedure,EDI
+42170549,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate emergency Nighttime,Procedure,EDI
+42208164,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42278349,Continuous Venovenous Hemodialysis,Neonate, Nighttime,Procedure,EDI
+42238237,Continuous Venovenous Hemodialysis,More than 12 months~ Under 72 months,Procedure,EDI
+42272605,Continuous Venovenous Hemodialysis,Neonate,Procedure,EDI
+42218516,Continuous Venovenous Hemodialysis,Public holidays for children under 1 year of age,Procedure,EDI
+42209734,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42108258,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+19728597,Continuous Venovenous Hemodialysis- After the next day of catheterization (per day),Nighttime,Procedure,EDI
+42252760,Continuous Venovenous Hemodialysis,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42121734,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42198427,Continuous Venovenous Hemodialysis,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42145290,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42364509,Continuous intravenous hemodialysis - from the day after catheter insertion [per day],Proc Hierarchy,EDI
+42148051,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency Nighttime,Procedure,EDI
+19728255,Continuous Venovenous Hemodialysis,Procedure,EDI
+42318979,Continuous Venovenous Hemodialysis,emergency,Procedure,EDI
+42319178,Continuous Venovenous Hemodialysis,emergency,Procedure,EDI
+42193896,Continuous Venovenous Hemodialysis,regional trauma center, Severe trauma,Procedure,EDI
+42121744,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42168662,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42231368,Continuous Venovenous Hemodialysis,Under 12 months Emergency Nighttime,Procedure,EDI
+42135192,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months holiday,Procedure,EDI
+42215707,Continuous Venovenous Hemodialysis,Under 12 months,Procedure,EDI
+42142330,Continuous Venovenous Hemodialysis,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42223023,Continuous Venovenous Hemodialysis,Nighttime for children under 1 year old,Procedure,EDI
+42229022,Continuous Venovenous Hemofiltraion,Under 12 months, emergency,Procedure,EDI
+42154861,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42168425,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42286088,Continuous Venovenous Hemofiltraion,Neonate Emergency,Procedure,EDI
+42254821,Continuous Venovenous Hemofiltraion,More than 12 months~ Under 72 months Emergency Nighttime,Procedure,EDI
+42155117,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42275132,Continuous Venovenous Hemofiltraion,Neonate, holiday,Procedure,EDI
+42214054,Continuous Venovenous Hemofiltraion,Under 12 months,Procedure,EDI
+42231343,Continuous Venovenous Hemofiltraion,Under 12 months Emergency Nighttime,Procedure,EDI
+42198205,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42214761,Continuous Venovenous Hemofiltraion,Under 12 months,Procedure,EDI
+42169491,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate emergency holiday,Procedure,EDI
+42200678,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42271430,Continuous Venovenous Hemofiltraion,Neonate,Procedure,EDI
+42177489,Continuous Venovenous Hemofiltraion,clinic, dental clinic(including Public Health and Medical care center) Nighttime, Saturday, holiday,Procedure,EDI
+42286781,Continuous Venovenous Hemofiltraion,Neonate Emergency holiday,Procedure,EDI
+42123987,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months emergency Nighttime,Procedure,EDI
+42134744,Continuous intravenous hemofiltration - on the day of catheter insertion [catheter insertion fee included],holiday,Procedure,EDI
+42221607,Continuous Venovenous Hemofiltraion,Nighttime for children under 1 year old,Procedure,EDI
+42272624,Continuous Venovenous Hemofiltraion,Neonate,Procedure,EDI
+42252610,Continuous Venovenous Hemofiltraion,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42194639,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42133382,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months holiday,Procedure,EDI
+42236759,Continuous Venovenous Hemofiltraion,More than 12 months~ Under 72 months,Procedure,EDI
+42109218,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months holiday,Procedure,EDI
+42322013,Continuous Venovenous Hemofiltraion,Emergency Nighttime,Procedure,EDI
+19728623,Continuous Venovenous Hemofiltraion,Procedure,EDI
+19713421,Continuous Venovenous Hemofiltraion,Procedure,EDI
+42121327,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42132308,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+19728631,Continuous Venovenous Hemofiltraion,Emergency for children under 8 years old,Procedure,EDI
+19728628,Continuous Venovenous Hemofiltraion,Emergency holidays for children under 8 years of age,Procedure,EDI
+42252170,Continuous Venovenous Hemofiltraion,More than 12 months~ Under 72 months, emergency,Procedure,EDI
+42121637,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months Emergency,Procedure,EDI
+42319019,Continuous Venovenous Hemofiltraion,emergency,Procedure,EDI
+42285859,Continuous Venovenous Hemofiltraion,Neonate Emergency,Procedure,EDI
+19728627,Continuous Venovenous Hemofiltraion,Emergency night for children under 8 years old,Procedure,EDI
+42108063,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42160749,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate Nighttime,Procedure,EDI
+42230199,Continuous Venovenous Hemofiltraion,Under 12 months Emergency holiday,Procedure,EDI
+42365939,Continuous intravenous hemofiltration - on the day of catheter insertion [catheter insertion fee included],Proc Hierarchy,EDI
+42239600,Continuous Venovenous Hemofiltraion,Public holidays for children over 1 year old and under 6 years old,Procedure,EDI
+19712813,Continuous Venovenous Hemofiltraion,Procedure,EDI
+42253133,Continuous Venovenous Hemofiltraion,More than 12 months~ Under 72 months Emergency holiday,Procedure,EDI
+19728626,Continuous Venovenous Hemofiltraion,Emergency for children under 8 years old,Procedure,EDI
+42229114,Continuous Venovenous Hemofiltraion,Under 12 months, emergency,Procedure,EDI
+42244604,Continuous Venovenous Hemofiltraion,Nighttime for children over 1 year old and under 6 years old,Procedure,EDI
+42206477,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42295962,Continuous intravenous hemofiltration - on the day of catheter insertion [catheter insertion fee included],Nighttime,Procedure,EDI
+42365168,Continuous intravenous hemofiltration - from the day after catheter insertion [per day],Proc Hierarchy,EDI
+3258304,Continuous venovenous haemofiltration,Procedure,Nebraska Lexicon
+42198065,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital Neonate,Procedure,EDI
+42177464,Continuous Venovenous Hemofiltraion,Procedure,EDI
+42288427,Continuous Venovenous Hemofiltraion,Neonate Emergency Nighttime,Procedure,EDI
+42171103,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate emergency Nighttime,Procedure,EDI
+42146828,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency Nighttime,Procedure,EDI
+42318735,Continuous Venovenous Hemofiltraion,emergency,Procedure,EDI
+42145814,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+19644916,Continuous Venovenous Hemofiltraion,under 8 years old,Procedure,EDI
+42203244,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+19728630,Continuous Venovenous Hemofiltraion- After the next day of catheterization (per day),holiday,Procedure,EDI
+42113864,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months Nighttime,Procedure,EDI
+19728577,Continuous Venovenous Hemofiltraion,under 8 years old holiday,Procedure,EDI
+42209334,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) Neonate,Procedure,EDI
+42131971,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42196502,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42201321,Continuous Venovenous Hemofiltraion,regional trauma center, severe trauma Nighttime,Procedure,EDI
+42208195,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma Nighttime (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42145563,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Emergency,Procedure,EDI
+42138807,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months Nighttime,Procedure,EDI
+19728629,Continuous Venovenous Hemofiltraion- After the next day of catheterization (per day),Nighttime,Procedure,EDI
+19728625,Continuous Venovenous Hemofiltraion,under 8 years old Nighttime,Procedure,EDI
+42279529,Continuous Venovenous Hemofiltraion,Neonate, Nighttime,Procedure,EDI
+42122053,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months emergency holiday,Procedure,EDI
+42216750,Continuous Venovenous Hemofiltraion,Public holidays for children under 1 year of age,Procedure,EDI
+42193931,Continuous Venovenous Hemofiltraion,regional trauma center, Severe trauma,Procedure,EDI
+42202019,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma Holiday (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42194622,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42196209,Continuous Venovenous Hemofiltraion,Regional trauma center severe trauma (Senior General Hospital, General Hospital) More than 12 months~ Under 72 months,Procedure,EDI
+42155983,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate holiday,Procedure,EDI
+42108652,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Under 12 months,Procedure,EDI
+42196226,Continuous Venovenous Hemofiltraion,regional trauma center, severe trauma holiday,Procedure,EDI
+42146137,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) More than 12 months~ Under 72 months emergency holiday,Procedure,EDI
+19728624,Continuous Venovenous Hemofiltraion,under 8 years old,Procedure,EDI
+42168283,Continuous Venovenous Hemofiltraion,(Senior General Hospital, General Hospital) Neonate Emergency,Procedure,EDI
+42193997,Continuous Venovenous Hemofiltraion,regional trauma center, Severe trauma,Procedure,EDI
+42319432,Continuous Venovenous Hemofiltraion,Emergency holiday,Procedure,EDI
+42237339,Continuous Venovenous Hemofiltraion,More than 12 months~ Under 72 months,Procedure,EDI
+3190545,Continuous haemofiltration,Procedure,Nebraska Lexicon
+3388072,Intermittent haemodiafiltration,Procedure,Nebraska Lexicon
+4300099,Hemodialysis-associated pruritus,Disorder,SNOMED
+3254613,Extracorporeal haemodialysis,Procedure,Nebraska Lexicon
+46270073,Thrombosis of arteriovenous graft caused by hemodialysis arteriovenous access device,Disorder,SNOMED
+3146796,Haemodialysis procedure,Procedure,Nebraska Lexicon
+2002282,Hemodialysis,4-dig billing code,ICD9Proc
+40350725,Hemodialysis,Procedure,SNOMED
+4137616,Hemodialysis-associated amyloidosis,Disorder,SNOMED
+40313128,Renal dialysis (& hemodialysis),Procedure,SNOMED
+4140589,Extracorporeal albumin hemodialysis,Procedure,SNOMED
+40376653,(Renal dialysis) or (Thomas intravascular dialysis shunt),Procedure,SNOMED
+4126124,Acute disorder of hemodialysis,Disorder,SNOMED
+42364570,Medical benefits- Hemodialysis, Case payment (per once),Proc Hierarchy,EDI
+4238836,Initial hemodialysis,Procedure,SNOMED
+3537777,Haemodialysis NEC,Procedure,SNOMED
+4272012,Insertion of cannula for hemodialysis,Procedure,SNOMED
+4234610,Hemodialysis therapy discontinued,Context-dependent,SNOMED
+40513647,Hemodialysis,Procedure,SNOMED
+4297919,Hemodialysis-associated pseudoporphyria,Disorder,SNOMED
+761997,History of hemodialysis,Context-dependent,SNOMED
+40664693,Hemodialysis treatment performed exactly three times per week for > 90 days (Deprecated),HCPCS,HCPCS
+46270524,Increase dialyzer size for hemodialysis,Procedure,SNOMED
+4245156,Hemodialysis education at home,Procedure,SNOMED
+3141884,Dialysis - renal,Procedure,Nebraska Lexicon
+42872870,Insertion of nontunneled hemodialysis catheter,Procedure,SNOMED
+435649,Complication of hemodialysis,Disorder,SNOMED
+40376652,Compensation for renal failure (& dialysis),Procedure,SNOMED
+4286500,Hemodialysis, supervision at home,Procedure,SNOMED
+42537496,Insertion of hemodialysis catheter,Procedure,SNOMED
+37157733,Nocturnal home hemodialysis,Procedure,SNOMED
+45773389,Inadequate hemodialysis,Disorder,SNOMED
+3118283,Haemodialysis NEC,Procedure,Nebraska Lexicon
+37108856,Hemodialysis procedure done,Context-dependent,SNOMED
+45771002,Spondyloarthropathy due to hemodialysis-associated amyloidosis,Disorder,SNOMED
+4314555,Dialysis disequilibrium syndrome,Disorder,SNOMED
+45956292,Hemodialysis,Procedure,CIEL
+4297658,Hemodialysis-associated secondary amyloidosis of skin,Disorder,SNOMED
+762945,Hemodialysis access failure,Disorder,SNOMED
+40348035,Renal dialysis (& hemodialysis),Procedure,SNOMED
+4103072,Hemodialysis education,Procedure,SNOMED
+4300106,Skin lesion associated with hemodialysis,Disorder,SNOMED
+4128232,First use syndrome of dialysis,Disorder,SNOMED
+42539666,Insertion of tunneled hemodialysis catheter,Procedure,SNOMED
+46270933,Emergency hemodialysis,Procedure,SNOMED
+42364660,Materials and Drugs used in Hemodialysis (Excluding dialysate) [per once],Proc Hierarchy,EDI
+4080241,Hemodialysis NEC,Procedure,SNOMED
+2514586,,CPT4,CPT4
+40664745,Hemodialysis treatment performed less than three times per week or greater than three times per week (Deprecated),HCPCS,HCPCS
+4121921,Extracorporeal kidney,Procedure,SNOMED
+40313129,Extracorporeal kidney,Procedure,SNOMED
+3102546,Extracorporeal kidney,Procedure,Nebraska Lexicon
+3224406,Extracorporeal kidney,Procedure,Nebraska Lexicon
+3221521,Extracorporeal albumin haemodialysis,Procedure,Nebraska Lexicon
+3526283,Extracorporeal albumin haemodialysis,Procedure,SNOMED
+40302715,H/O: renal dialysis,Context-dependent,SNOMED
+46269993,Renal dialysis done,Context-dependent,SNOMED
+3537778,Other specified compensation for renal failure,Procedure,SNOMED
+4214705,Removal of arteriovenous shunt for renal dialysis,Procedure,SNOMED
+1576114,Preparatory care for renal dialysis,4-char nonbill code,ICD10CM
+3118285,Compensation for renal failure NOS,Procedure,Nebraska Lexicon
+3102545,Dialysis - renal,Procedure,Nebraska Lexicon
+3118281,Compensation for renal failure,Procedure,Nebraska Lexicon
+4078738,Compensation for renal failure NOS,Procedure,SNOMED
+3118282,Renal dialysis,Procedure,Nebraska Lexicon
+44831947,Renal dialysis status,5-dig billing V code,ICD9CM
+37110379,Osteonecrosis due to and following renal dialysis,Disorder,SNOMED
+3118284,Other specified compensation for renal failure,Procedure,Nebraska Lexicon
+438624,Complication of renal dialysis,Disorder,SNOMED
+44835472,Postsurgical renal dialysis status,4-dig nonbill V code,ICD9CM
+4108837,Other specified compensation for renal failure,Procedure,SNOMED
+607547,Matrix stone formation during renal dialysis,Disorder,SNOMED
+4059475,History of renal dialysis,Context-dependent,SNOMED
+3335861,Compensation for renal failure,Procedure,Nebraska Lexicon
+4142536,Compensation for renal failure,Procedure,SNOMED
+1126406,Patients receiving rrt,HCPCS,HCPCS
+4183419,Arteriovenous shunt for renal dialysis by external cannula,Procedure,SNOMED
+4299719,Maintenance - action,Qualifier Value,SNOMED
+4146649,Hemodialysis, maintenance in hospital,Procedure,SNOMED
+3281914,Haemodialysis, maintenance in hospital,Procedure,Nebraska Lexicon
+4195714,Hemodialysis, maintenance at home,Procedure,SNOMED
+2721479,Home therapy, hemodialysis; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem,HCPCS,HCPCS
+3332199,Haemodialysis, maintenance at home,Procedure,Nebraska Lexicon
+3306922,Initial haemodialysis,Procedure,Nebraska Lexicon
+3453394,Haemodialysis, supervision at home,Procedure,Nebraska Lexicon
+4044176,Evaluation - action,Qualifier Value,SNOMED
+40378452,Artificial blood circulation (& treatment),Procedure,SNOMED
+4163566,Renal replacement,Procedure,SNOMED
+3285814,Continuous renal replacement therapy,Procedure,Nebraska Lexicon
+37164760,Education about nocturnal home hemodialysis,Procedure,SNOMED
+4226865,Blood,Substance,SNOMED
+3298630,Emergency haemofiltration,Procedure,Nebraska Lexicon
+4093606,Emergency,Qualifier Value,SNOMED
+3169420,Sustained low-efficiency dialysis,Procedure,Nebraska Lexicon
+3169668,Increase dialyser size for haemodialysis,Procedure,Nebraska Lexicon
+3416428,Maintenance haemodiafiltration,Procedure,Nebraska Lexicon
+3356932,Emergency haemodialysis,Procedure,Nebraska Lexicon
+3300467,Emergency haemodiafiltration,Procedure,Nebraska Lexicon
+3391168,Maintenance haemofiltration,Procedure,Nebraska Lexicon
+43533281,Patient receiving maintenance hemodialysis in an outpatient dialysis facility,HCPCS,HCPCS
+801384,With maintenance hemodialysis (in-center and home hd) for the complete reporting month,HCPCS,HCPCS
+3270087,Maintenance haemodialysis,Procedure,Nebraska Lexicon
+43533282,Patient not receiving maintenance hemodialysis in an outpatient dialysis facility (Deprecated),HCPCS,HCPCS

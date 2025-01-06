@@ -1,0 +1,823 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+44822114,Multiple gestation with malpresentation of one fetus or more, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+44834903,Multiple gestation with malpresentation of one fetus or more,4-dig nonbill code,ICD9CM
+44837258,Multiple gestation with malpresentation of one fetus or more, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+75015,Multiple gestation with one OR more fetal malpresentations,Disorder,SNOMED
+44821003,Abdominal pregnancy with intrauterine pregnancy,5-dig billing code,ICD9CM
+44821007,Unspecified ectopic pregnancy with intrauterine pregnancy,5-dig billing code,ICD9CM
+4135209,Combined pregnancy,Disorder,SNOMED
+44833695,Other ectopic pregnancy with intrauterine pregnancy,5-dig billing code,ICD9CM
+197031,Intrauterine pregnancy,Clinical Finding,SNOMED
+45534210,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45558237,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 1,7-char billing code,ICD10CM
+45548744,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 4,7-char billing code,ICD10CM
+45558239,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 5,7-char billing code,ICD10CM
+10028,Continuing pregnancy after intrauterine death of one fetus or more, first trimester,5-char nonbill code,ICD10CM
+45567910,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, other fetus,7-char billing code,ICD10CM
+45572791,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 2,7-char billing code,ICD10CM
+45543946,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 5,7-char billing code,ICD10CM
+44834898,Triplet pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+1571758,Continuing pregnancy after intrauterine death of one fetus or more,4-char nonbill code,ICD10CM
+10027,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester,5-char nonbill code,ICD10CM
+44830233,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,5-dig billing code,ICD9CM
+45548742,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 2,7-char billing code,ICD10CM
+45567909,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 1,7-char billing code,ICD10CM
+4178154,Multiple pregnancy with one fetal loss,Disorder,SNOMED
+44821036,Other multiple pregnancy with fetal loss and retention of one or more fetus(es),4-dig nonbill code,ICD9CM
+44823255,Other multiple pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,5-dig billing code,ICD9CM
+45606569,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 1,7-char billing code,ICD10CM
+45548743,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45563090,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 1,7-char billing code,ICD10CM
+45606570,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 3,7-char billing code,ICD10CM
+45558238,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 3,7-char billing code,ICD10CM
+44819873,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es),4-dig nonbill code,ICD9CM
+45606568,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, other fetus,7-char billing code,ICD10CM
+44834899,Other multiple pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+45592220,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, not applicable or unspecified,7-char billing code,ICD10CM
+10029,Continuing pregnancy after intrauterine death of one fetus or more, second trimester,5-char nonbill code,ICD10CM
+45563089,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 5,7-char billing code,ICD10CM
+45534211,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 5,7-char billing code,ICD10CM
+432373,Continuing pregnancy after intrauterine death of one or more fetuses,Disorder,SNOMED
+45587306,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, other fetus,7-char billing code,ICD10CM
+45592221,Continuing pregnancy after intrauterine death of one fetus or more, third trimester, fetus 2,7-char billing code,ICD10CM
+45601805,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 3,7-char billing code,ICD10CM
+44831399,Other multiple pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+44824410,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+45596949,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 2,7-char billing code,ICD10CM
+45596948,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, fetus 4,7-char billing code,ICD10CM
+45577585,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 3,7-char billing code,ICD10CM
+40443923,Continuing pregnancy after intrauterine death of sibling fetus (disorder),Disorder,SNOMED
+45563088,Continuing pregnancy after intrauterine death of one fetus or more, first trimester, fetus 4,7-char billing code,ICD10CM
+10030,Continuing pregnancy after intrauterine death of one fetus or more, third trimester,5-char nonbill code,ICD10CM
+45596950,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, other fetus,7-char billing code,ICD10CM
+45553500,Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 4,7-char billing code,ICD10CM
+44823254,Triplet pregnancy with fetal loss and retention of one or more fetus (es),4-dig nonbill code,ICD9CM
+45563087,Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester, not applicable or unspecified,7-char billing code,ICD10CM
+44837252,Triplet pregnancy with fetal loss and retention of one or more fetus(es), antepartum condition or complication,5-dig billing code,ICD9CM
+4118398,Fetal or neonatal effect of triplet pregnancy,Disorder,SNOMED
+45606560,Triplet pregnancy with two or more monochorionic fetuses, first trimester,6-char billing code,ICD10CM
+45592212,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+45539123,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+1595641,Triplet pregnancy, trichorionic/triamniotic, second trimester,6-char billing code,ICD10CM
+3662133,Monochorionic monoamniotic triplet pregnancy,Disorder,SNOMED
+3662135,Dichorionic triamniotic triplet pregnancy,Disorder,SNOMED
+35209587,Triplet pregnancy, trichorionic/triamniotic,5-char nonbill code,ICD10CM
+1571749,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs,5-char nonbill code,ICD10CM
+37167118,Fetal disorder due to triplet pregnancy,Disorder,SNOMED
+3662136,Dichorionic diamniotic triplet pregnancy,Disorder,SNOMED
+1571748,Triplet pregnancy,4-char nonbill code,ICD10CM
+44824409,Triplet pregnancy, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+45587302,Triplet pregnancy with two or more monochorionic fetuses, unspecified trimester,6-char billing code,ICD10CM
+40332212,O/E - multiple presentation (& [triplet] or [twin]),Clinical Finding,SNOMED
+1595642,Triplet pregnancy, trichorionic/triamniotic, third trimester,6-char billing code,ICD10CM
+35209586,Triplet pregnancy with two or more monoamniotic fetuses,5-char nonbill code,ICD10CM
+45543942,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+44833177,Triplet gestation, unable to determine number of placenta and number of amniotic sacs,5-dig billing V code,ICD9CM
+45572780,Triplet pregnancy with two or more monoamniotic fetuses, second trimester,6-char billing code,ICD10CM
+35209584,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs,5-char nonbill code,ICD10CM
+45601800,Triplet pregnancy with two or more monochorionic fetuses, third trimester,6-char billing code,ICD10CM
+45596939,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+44835561,Triplet gestation, unspecified number of placenta and unspecified number of amniotic sacs,5-dig billing V code,ICD9CM
+44830882,Triplet gestation, with two or more monochorionic fetuses,5-dig billing V code,ICD9CM
+45582475,Triplet pregnancy with two or more monochorionic fetuses, second trimester,6-char billing code,ICD10CM
+40318706,Triplet pregnancy,Disorder,SNOMED
+3538110,Triplet pregnancy unspecified,Disorder,SNOMED
+45592213,Triplet pregnancy with two or more monoamniotic fetuses, third trimester,6-char billing code,ICD10CM
+45596940,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+4062797,Triplet pregnancy NOS,Disorder,SNOMED
+3657367,Monochorionic diamniotic triplet pregnancy,Disorder,SNOMED
+45558227,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+3662134,Trichorionic triamniotic triplet pregnancy,Disorder,SNOMED
+4059749,Triplet pregnancy unspecified,Disorder,SNOMED
+44836734,Triplet gestation, with two or more monoamniotic fetuses,5-dig billing V code,ICD9CM
+45548735,Triplet pregnancy with two or more monoamniotic fetuses, unspecified trimester,6-char billing code,ICD10CM
+437931,Triplet pregnancy with antenatal problem,Disorder,SNOMED
+44836093,Triplet pregnancy, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+45577578,Triplet pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+35209585,Triplet pregnancy with two or more monochorionic fetuses,5-char nonbill code,ICD10CM
+45890951,Triplet gestation placenta status,4-dig nonbill V code,ICD9CM
+1595643,Triplet pregnancy, trichorionic/triamniotic, unspecified trimester,6-char billing code,ICD10CM
+40301603,O/E - multiple presentation (& [triplet] or [twin]),Clinical Finding,SNOMED
+4129044,Delayed delivery of triplet,Disorder,SNOMED
+1595640,Triplet pregnancy, trichorionic/triamniotic, first trimester,6-char billing code,ICD10CM
+45606561,Triplet pregnancy with two or more monoamniotic fetuses, first trimester,6-char billing code,ICD10CM
+45563080,Triplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+37167119,Early neonatal disorder due to triplet pregnancy,Disorder,SNOMED
+44823252,Triplet pregnancy,4-dig nonbill code,ICD9CM
+432375,Triplet pregnancy,Clinical Finding,SNOMED
+3657368,Monochorionic triamniotic triplet pregnancy,Disorder,SNOMED
+4059754,Multiple pregnancy NOS with antenatal problem,Disorder,SNOMED
+44799340,[X]Other multiple gestation,Disorder,SNOMED
+4060433,Multiple pregnancy NOS,Disorder,SNOMED
+45539126,Other specified multiple gestation with two or more monoamniotic fetuses, unspecified trimester,6-char billing code,ICD10CM
+45606563,Other specified multiple gestation with two or more monochorionic fetuses, unspecified trimester,6-char billing code,ICD10CM
+45567907,Other specified multiple gestation with two or more monochorionic fetuses, third trimester,6-char billing code,ICD10CM
+37167117,Early neonatal disorder due to multiple pregnancy,Disorder,SNOMED
+35209595,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses,5-char nonbill code,ICD10CM
+45548740,Multiple gestation, unspecified, unspecified trimester,5-char billing code,ICD10CM
+35209592,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs,5-char nonbill code,ICD10CM
+3538113,Multiple pregnancy NOS,Disorder,SNOMED
+45890985,Multiple gestation placenta status,3-dig nonbill V code,ICD9CM
+44834900,Multiple gestation following (elective) fetal reduction,delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+44837408,Multiple pregnancy affecting fetus or newborn,4-dig billing code,ICD9CM
+4126072,Born after multiple pregnancy,Disorder,SNOMED
+45572785,Other specified multiple gestation with two or more monoamniotic fetuses, first trimester,6-char billing code,ICD10CM
+40455722,Other specified multiple gestation, NEC,Disorder,SNOMED
+45577580,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+4304316,Septuplet pregnancy,Clinical Finding,SNOMED
+45539125,Other specified multiple gestation with two or more monoamniotic fetuses, second trimester,6-char billing code,ICD10CM
+4216512,Quintuplet pregnancy,Clinical Finding,SNOMED
+4129021,Undiagnosed multiple pregnancy,Disorder,SNOMED
+45558229,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+4060542,Multiple pregnancy with malpresentation,Disorder,SNOMED
+35209593,Other specified multiple gestation with two or more monochorionic fetuses,5-char nonbill code,ICD10CM
+40396169,Multiple pregnancy NOS,Disorder,SNOMED
+4118411,Fetal or neonatal effect of multiple pregnancy,Disorder,SNOMED
+44826790,Other specified multiple gestation,4-dig nonbill code,ICD9CM
+44823251,Multiple gestation,3-dig nonbill code,ICD9CM
+1571752,Other specified multiple gestation,4-char nonbill code,ICD10CM
+45890966,Other specified multiple gestation placenta status,4-dig nonbill V code,ICD9CM
+44827951,Other specified multiple gestation, antepartum condition or complication,5-dig billing code,ICD9CM
+44819874,Multiple gestation following (elective) fetal reduction, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+45534201,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+45567906,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+44837253,Unspecified multiple gestation, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+1595648,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, first trimester,6-char billing code,ICD10CM
+45582476,Other specified multiple gestation with two or more monochorionic fetuses, first trimester,6-char billing code,ICD10CM
+4064149,Other multiple pregnancy with antenatal problem,Disorder,SNOMED
+45577579,Other specified multiple gestation with two or more monochorionic fetuses, second trimester,6-char billing code,ICD10CM
+4059752,Multiple pregnancy NOS, unspecified,Disorder,SNOMED
+3535591,Other multiple pregnancy,Disorder,SNOMED
+1595651,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, unspecified trimester,6-char billing code,ICD10CM
+44820514,Other specified multiple gestation, with two or more monochorionic fetuses,5-dig billing V code,ICD9CM
+40394504,[X]Other multiple gestation,Disorder,SNOMED
+606917,Multiple pregnancy following assisted fertilization,Clinical Finding,SNOMED
+1595650,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, third trimester,6-char billing code,ICD10CM
+44829120,Multiple gestation following (elective) fetal reduction, antepartum condition or complication,5-dig billing code,ICD9CM
+3563229,Other multiple pregnancy unspecified,Disorder,SNOMED
+3520181,Other multiple pregnancy with antenatal problem,Disorder,SNOMED
+1571740,Multiple gestation,3-char nonbill code,ICD10CM
+45539127,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+45572784,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+44830234,Unspecified multiple gestation, antepartum condition or complication,5-dig billing code,ICD9CM
+4185557,Sextuplet pregnancy,Clinical Finding,SNOMED
+44837890,Other specified multiple gestation, with two or more monoamniotic fetuses,5-dig billing V code,ICD9CM
+1595649,Other specified multiple gestation, number of chorions and amnions are both equal to the number of fetuses, second trimester,6-char billing code,ICD10CM
+44821037,Unspecified multiple gestation, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+45534202,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+44834901,Other specified multiple gestation, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+432969,Multiple pregnancy,Clinical Finding,SNOMED
+442594,Quadruplet pregnancy,Clinical Finding,SNOMED
+45572787,Multiple gestation, unspecified, second trimester,5-char billing code,ICD10CM
+45572786,Other specified multiple gestation with two or more monoamniotic fetuses, third trimester,6-char billing code,ICD10CM
+1571754,Multiple gestation, unspecified,4-char nonbill code,ICD10CM
+4063165,Other multiple pregnancy NOS,Disorder,SNOMED
+35209594,Other specified multiple gestation with two or more monoamniotic fetuses,5-char nonbill code,ICD10CM
+4129709,Continuing pregnancy after abortion of sibling fetus,Disorder,SNOMED
+40318703,Multiple pregnancy,Disorder,SNOMED
+44832540,Multiple gestation following (elective) fetal reduction,4-dig nonbill code,ICD9CM
+4319561,Delayed delivery of second of multiple births,Disorder,SNOMED
+4063164,Other multiple pregnancy unspecified,Disorder,SNOMED
+44820515,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs,5-dig billing V code,ICD9CM
+37167116,Fetal disorder due to multiple pregnancy,Disorder,SNOMED
+3520182,Other multiple pregnancy NOS,Disorder,SNOMED
+40318708,Multiple pregnancy NOS,Disorder,SNOMED
+4062799,Other multiple pregnancy,Disorder,SNOMED
+1571753,Other specified multiple gestation, unable to determine number of placenta and number of amniotic sacs,5-char nonbill code,ICD10CM
+45534203,Multiple gestation, unspecified, third trimester,5-char billing code,ICD10CM
+45572783,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+44819875,Unspecified multiple gestation,4-dig nonbill code,ICD9CM
+441919,Twin pregnancy,Clinical Finding,SNOMED
+44837889,Other specified multiple gestation, unspecified number of placenta and unspecified number of amniotic sacs,5-dig billing V code,ICD9CM
+44832541,Other specified multiple gestation, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+45558230,Multiple gestation, unspecified, first trimester,5-char billing code,ICD10CM
+4141779,FH: Multiple pregnancy,Context-dependent,SNOMED
+45587308,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45534213,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 2,7-char billing code,ICD10CM
+45596946,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 1,7-char billing code,ICD10CM
+45548745,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, other fetus,7-char billing code,ICD10CM
+45534215,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 5,7-char billing code,ICD10CM
+45587307,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 3,7-char billing code,ICD10CM
+45543948,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, other fetus,7-char billing code,ICD10CM
+45539133,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 1,7-char billing code,ICD10CM
+10031,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester,5-char nonbill code,ICD10CM
+45553504,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 4,7-char billing code,ICD10CM
+45577584,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 1,7-char billing code,ICD10CM
+45606572,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 3,7-char billing code,ICD10CM
+45539131,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, other fetus,7-char billing code,ICD10CM
+45601808,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 1,7-char billing code,ICD10CM
+45592217,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 4,7-char billing code,ICD10CM
+45601807,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 4,7-char billing code,ICD10CM
+45582479,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, other fetus,7-char billing code,ICD10CM
+45577582,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45539132,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 1,7-char billing code,ICD10CM
+45563086,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 5,7-char billing code,ICD10CM
+1571757,Continuing pregnancy after spontaneous abortion of one fetus or more,4-char nonbill code,ICD10CM
+45582480,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, not applicable or unspecified,7-char billing code,ICD10CM
+1571759,Continuing pregnancy after elective fetal reduction of one fetus or more,4-char nonbill code,ICD10CM
+10025,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester,5-char nonbill code,ICD10CM
+45548746,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, not applicable or unspecified,7-char billing code,ICD10CM
+10026,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester,5-char nonbill code,ICD10CM
+45558234,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 3,7-char billing code,ICD10CM
+45601804,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45553498,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 3,7-char billing code,ICD10CM
+45563085,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 4,7-char billing code,ICD10CM
+45592219,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, other fetus,7-char billing code,ICD10CM
+45592218,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 2,7-char billing code,ICD10CM
+10024,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester,5-char nonbill code,ICD10CM
+45534209,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 1,7-char billing code,ICD10CM
+45601806,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 1,7-char billing code,ICD10CM
+45548741,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 3,7-char billing code,ICD10CM
+45572792,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 1,7-char billing code,ICD10CM
+45558236,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45543945,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, fetus 5,7-char billing code,ICD10CM
+10033,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester,5-char nonbill code,ICD10CM
+45606571,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 5,7-char billing code,ICD10CM
+45553502,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 5,7-char billing code,ICD10CM
+45587304,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 5,7-char billing code,ICD10CM
+45567911,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45582478,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 2,7-char billing code,ICD10CM
+45534208,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 3,7-char billing code,ICD10CM
+45553501,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 4,7-char billing code,ICD10CM
+45596947,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, other fetus,7-char billing code,ICD10CM
+45558235,Continuing pregnancy after spontaneous abortion of one fetus or more, second trimester, not applicable or unspecified,7-char billing code,ICD10CM
+45543947,Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 2,7-char billing code,ICD10CM
+433826,Continuing pregnancy after abortion of one fetus or more,Disorder,SNOMED
+10032,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester,5-char nonbill code,ICD10CM
+45553496,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 2,7-char billing code,ICD10CM
+45567908,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 5,7-char billing code,ICD10CM
+45553497,Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 4,7-char billing code,ICD10CM
+45563091,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, fetus 5,7-char billing code,ICD10CM
+45558241,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, other fetus,7-char billing code,ICD10CM
+45553503,Continuing pregnancy after elective fetal reduction of one fetus or more, second trimester, other fetus,7-char billing code,ICD10CM
+45592222,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 3,7-char billing code,ICD10CM
+45534214,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 3,7-char billing code,ICD10CM
+45534212,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 2,7-char billing code,ICD10CM
+45558240,Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, fetus 4,7-char billing code,ICD10CM
+45606573,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 2,7-char billing code,ICD10CM
+10023,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester,5-char nonbill code,ICD10CM
+45587305,Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 4,7-char billing code,ICD10CM
+45757730,Quadruplet pregnancy with loss of one or more fetuses,Disorder,SNOMED
+45577583,Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 2,7-char billing code,ICD10CM
+45757769,Continuing triplet pregnancy after spontaneous abortion of one or more fetuses,Disorder,SNOMED
+10034,Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester,5-char nonbill code,ICD10CM
+44819872,Twin pregnancy with fetal loss and retention of one fetus, antepartum condition or complication,5-dig billing code,ICD9CM
+434097,Twin pregnancy with antenatal problem,Disorder,SNOMED
+44831398,Twin pregnancy, antepartum condition or complication,5-dig billing code,ICD9CM
+44837250,Triplet pregnancy, antepartum condition or complication,5-dig billing code,ICD9CM
+44836094,Quadruplet pregnancy, antepartum condition or complication,5-dig billing code,ICD9CM
+440466,Quadruplet pregnancy with antenatal problem,Disorder,SNOMED
+441647,Continuing pregnancy after intrauterine death of twin fetus,Disorder,SNOMED
+43020670,Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin,Disorder,SNOMED
+4220445,Twin reversal arterial perfusion syndrome,Disorder,SNOMED
+45534197,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+45582474,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+4330861,Monozygotic twins,Clinical Finding,SNOMED
+603226,Conjoined twin pregnancy,Disorder,SNOMED
+37167120,Fetal disorder due to twin pregnancy,Disorder,SNOMED
+1571747,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs,5-char nonbill code,ICD10CM
+44823919,Twin gestation, unspecified number of placenta, unspecified number of amniotic sacs,5-dig billing V code,ICD9CM
+45543939,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+1571742,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs,5-char nonbill code,ICD10CM
+37017322,Dizygotic twin pregnancy,Clinical Finding,SNOMED
+44831397,Twin pregnancy, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+43021775,Twins with discordant fetal growth,Disorder,SNOMED
+4166442,FH: Twin pregnancy,Context-dependent,SNOMED
+4028643,Undiagnosed twin pregnancy,Disorder,SNOMED
+4215480,Fetal blood loss from cut end of co-twin's cord,Disorder,SNOMED
+1571741,Twin pregnancy,4-char nonbill code,ICD10CM
+45534198,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+45543941,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+4252093,Monoamniotic twins,Clinical Finding,SNOMED
+43021054,Dichorionic diamniotic twin pregnancy,Clinical Finding,SNOMED
+45558226,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+45577577,Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+45890983,Twin gestation placenta status,4-dig nonbill V code,ICD9CM
+4129025,Vanishing twin syndrome,Disorder,SNOMED
+44832028,Twin gestation, unable to determine number of placenta and number of amniotic sacs,5-dig billing V code,ICD9CM
+444386,Interlocked twins,Clinical Finding,SNOMED
+40318705,Twin pregnancy,Disorder,SNOMED
+4129026,Dizygotic twins,Disorder,SNOMED
+4070411,Fetal or neonatal effect of twin-to-twin transplacental transfusion,Disorder,SNOMED
+44832539,Twin pregnancy, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+4118413,Fetal or neonatal effect of twin pregnancy,Disorder,SNOMED
+44837249,Twin pregnancy,4-dig nonbill code,ICD9CM
+37167121,Early neonatal disorder due to twin pregnancy,Disorder,SNOMED
+37017323,Monozygotic twin pregnancy,Clinical Finding,SNOMED
+43021055,Monochorionic twin pregnancy,Clinical Finding,SNOMED
+45601799,Twin pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+4062796,Twin pregnancy NOS,Disorder,SNOMED
+4062795,Twin pregnancy unspecified,Disorder,SNOMED
+4170458,Delayed delivery of second twin,Disorder,SNOMED
+44829119,Quadruplet pregnancy,4-dig nonbill code,ICD9CM
+35209588,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs,5-char nonbill code,ICD10CM
+45534199,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+45534200,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+1571751,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs,5-char nonbill code,ICD10CM
+45596941,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+44829695,Quadruplet gestation, unspecified number of placenta and unspecified number of amniotic sacs,5-dig billing V code,ICD9CM
+45558228,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester,6-char billing code,ICD10CM
+45890969,Quadruplet gestation placenta status,4-dig nonbill V code,ICD9CM
+35209591,Quadruplet pregnancy, quadrachorionic/quadra-amniotic,5-char nonbill code,ICD10CM
+35209589,Quadruplet pregnancy with two or more monochorionic fetuses,5-char nonbill code,ICD10CM
+1595646,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, third trimester,6-char billing code,ICD10CM
+45572782,Quadruplet pregnancy with two or more monoamniotic fetuses, third trimester,6-char billing code,ICD10CM
+1595647,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, unspecified trimester,6-char billing code,ICD10CM
+3535590,Quadruplet pregnancy NOS,Disorder,SNOMED
+44822772,Quadruplet gestation, with two or more monochorionic fetuses,5-dig billing V code,ICD9CM
+45601802,Quadruplet pregnancy with two or more monochorionic fetuses, unspecified trimester,6-char billing code,ICD10CM
+3535791,Quadruplet pregnancy unspecified,Disorder,SNOMED
+1571750,Quadruplet pregnancy,4-char nonbill code,ICD10CM
+44819871,Quadruplet pregnancy, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+44819870,Quadruplet pregnancy, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+4062798,Quadruplet pregnancy unspecified,Disorder,SNOMED
+45572781,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester,6-char billing code,ICD10CM
+45563081,Quadruplet pregnancy with two or more monochorionic fetuses, first trimester,6-char billing code,ICD10CM
+4059750,Quadruplet pregnancy NOS,Disorder,SNOMED
+45592215,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester,6-char billing code,ICD10CM
+45601801,Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+44820513,Quadruplet gestation, with two or more monoamniotic fetuses,5-dig billing V code,ICD9CM
+44825086,Quadruplet gestation, unable to determine number of placenta and number of amniotic sacs,5-dig billing V code,ICD9CM
+40318707,Quadruplet pregnancy,Disorder,SNOMED
+45592214,Quadruplet pregnancy with two or more monochorionic fetuses, second trimester,6-char billing code,ICD10CM
+1595644,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, first trimester,6-char billing code,ICD10CM
+45596942,Quadruplet pregnancy with two or more monoamniotic fetuses, second trimester,6-char billing code,ICD10CM
+35209590,Quadruplet pregnancy with two or more monoamniotic fetuses,5-char nonbill code,ICD10CM
+45548738,Quadruplet pregnancy with two or more monoamniotic fetuses, unspecified trimester,6-char billing code,ICD10CM
+45548739,Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester,6-char billing code,ICD10CM
+45548737,Quadruplet pregnancy with two or more monochorionic fetuses, third trimester,6-char billing code,ICD10CM
+1595645,Quadruplet pregnancy, quadrachorionic/quadra-amniotic, second trimester,6-char billing code,ICD10CM
+45606562,Quadruplet pregnancy with two or more monoamniotic fetuses, first trimester,6-char billing code,ICD10CM
+4061857,Locked twins NOS,Clinical Finding,SNOMED
+442422,Locked twins - delivered,Clinical Finding,SNOMED
+4028221,Compacted twins,Clinical Finding,SNOMED
+72700,Locked twins with antenatal problem,Clinical Finding,SNOMED
+40603893,Locked twins obstructing labor,Disorder,SNOMED
+44834916,Locked twins, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+44821054,Locked twins, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+37167589,Obstructed labor due to interlocked twins,Disorder,SNOMED
+4064825,Locked twins unspecified,Clinical Finding,SNOMED
+4049777,Impacted twins,Clinical Finding,SNOMED
+3538096,Locked twins unspecified,Clinical Finding,SNOMED
+35210260,Obstructed labor due to locked twins,4-char billing code,ICD10CM
+44824426,Locked twins,4-dig nonbill code,ICD9CM
+44836110,Locked twins, antepartum condition or complication,5-dig billing code,ICD9CM
+3538097,Locked twins NOS,Clinical Finding,SNOMED
+607007,Higher order multiple pregnancy due to and following medically assisted reproduction,Clinical Finding,SNOMED
+4270154,Pregnancy observable,Observable Entity,SNOMED
+619056,Pregnancy with implant contraceptive,Clinical Finding,SNOMED
+1244607,Singleton pregnancy,Clinical Finding,SNOMED
+4034087,Single pregnancy,Clinical Finding,SNOMED
+1245379,Pregnancy resulting from natural conception,Clinical Finding,SNOMED
+1245407,Medium risk pregnancy,Clinical Finding,SNOMED
+1243777,Pregnancy risk level,Observable Entity,SNOMED
+3558880,Contraception failure,Clinical Finding,SNOMED
+4060235,Vasectomy failure,Clinical Finding,SNOMED
+4061420,Female sterilization failure,Clinical Finding,SNOMED
+4011629,Contraception failure,Clinical Finding,SNOMED
+4061415,Contraceptive sponge failure,Clinical Finding,SNOMED
+4061676,Pregnant, diaphragm failure,Clinical Finding,SNOMED
+4061672,IUD failure - pregnant,Clinical Finding,SNOMED
+4061418,Symptothermal contraception failure,Clinical Finding,SNOMED
+4012089,Pregnancy on oral contraceptive,Clinical Finding,SNOMED
+4060231,Depot contraceptive failure,Clinical Finding,SNOMED
+44793707,History of contraceptive failure,Context-dependent,SNOMED
+4061411,Pregnant, sheath failure,Clinical Finding,SNOMED
+4061683,Postcoital OCP failure,Clinical Finding,SNOMED
+4060126,Combined oral contraceptive pill failure,Clinical Finding,SNOMED
+4060127,Progestogen-only pill failure,Clinical Finding,SNOMED
+4012559,Surrogate pregnancy,Clinical Finding,SNOMED
+4132564,Gravida 7,Clinical Finding,SNOMED
+4012560,Multigravida,Clinical Finding,SNOMED
+4132565,Gravida more than 10,Clinical Finding,SNOMED
+4069849,Previous pregnancies 9,Clinical Finding,SNOMED
+4133724,Gravida 10,Clinical Finding,SNOMED
+4288592,Previous pregnancies more than 10,Clinical Finding,SNOMED
+4221287,Previous pregnancies 10,Clinical Finding,SNOMED
+36684865,Normal pregnancy in multigravida,Clinical Finding,SNOMED
+4214878,Previous pregnancies 8,Clinical Finding,SNOMED
+45765731,Supervision of high risk pregnancy for multigravida,Procedure,SNOMED
+4133030,Gravida 5,Clinical Finding,SNOMED
+45765733,Supervision of high risk pregnancy for multigravida age 15 years or younger,Procedure,SNOMED
+4132563,Gravida 2,Clinical Finding,SNOMED
+4132100,Gravida 4,Clinical Finding,SNOMED
+4133032,Gravida 8,Clinical Finding,SNOMED
+4132099,Gravida 3,Clinical Finding,SNOMED
+4133033,Gravida 9,Clinical Finding,SNOMED
+4132101,Gravida 6,Clinical Finding,SNOMED
+40481872,Multigravida of advanced maternal age,Clinical Finding,SNOMED
+4031512,Precocious pregnancy,Clinical Finding,SNOMED
+40310663,Postcoital IUCD failure,Clinical Finding,SNOMED
+4059977,Postcoital IUCD failure,Clinical Finding,SNOMED
+40355609,Intrauterine contraceptive device,Physical Object,SNOMED
+40310678,Pregnant - urine test confirms,Context-dependent,SNOMED
+4059981,Pregnant - urine test confirms,Clinical Finding,SNOMED
+40310679,Pregnant - blood test confirms,Context-dependent,SNOMED
+4059982,Pregnant - blood test confirms,Clinical Finding,SNOMED
+4059983,Pregnant - vaginal examination confirms,Clinical Finding,SNOMED
+40310680,Pregnant - V.E. confirms,Context-dependent,SNOMED
+40310687,Pregnancy unplanned ? wanted,Clinical Finding,SNOMED
+4059985,Unplanned pregnancy unknown if child is wanted,Clinical Finding,SNOMED
+40310183,Combined O.C. pill failure,Context-dependent,SNOMED
+40310184,Progestogen-only pill failure,Clinical Finding,SNOMED
+40310641,Depot contraceptive failure,Context-dependent,SNOMED
+40310667,Vasectomy failure,Clinical Finding,SNOMED
+44795640,[V]Failed interruption of vas deferens,Context-dependent,SNOMED
+40524835,[V]Failed interruption of vas deferens,Context-dependent,SNOMED
+44799909,[V]Failed sterilisation NOS,Context-dependent,SNOMED
+40524836,[V]Failed sterilization NOS,Context-dependent,SNOMED
+4060237,Pregnancy unplanned but wanted,Clinical Finding,SNOMED
+40310684,Pregnant - unplanned - wanted,Context-dependent,SNOMED
+4064155,Multiple pregnancy with malpresentation unspecified,Disorder,SNOMED
+3538949,Multiple pregnancy with malpresentation NOS,Disorder,SNOMED
+4063175,Multiple pregnancy with malpresentation with antenatal problem,Disorder,SNOMED
+442082,Multiple pregnancy with malpresentation - delivered,Disorder,SNOMED
+4064157,Multiple pregnancy with malpresentation NOS,Disorder,SNOMED
+40310220,Pregnant, sheath failure,Context-dependent,SNOMED
+40310649,Contraceptive sponge failure,Clinical Finding,SNOMED
+40310657,Symptothermal contraception failure,Context-dependent,SNOMED
+44797244,[V]Failed interruption of fallopian tubes,Context-dependent,SNOMED
+40310669,Female sterilization failure,Clinical Finding,SNOMED
+40524834,[V]Failed interruption of fallopian tubes,Context-dependent,SNOMED
+40310203,IUD failure - pregnant,Clinical Finding,SNOMED
+4012557,Pregnancy on intrauterine device,Clinical Finding,SNOMED
+40310214,Pregnant, diaphragm failure,Context-dependent,SNOMED
+40310662,Postcoital OCP failure,Clinical Finding,SNOMED
+40310681,Pregnant - on history,Context-dependent,SNOMED
+4061686,Pregnant - on history,Clinical Finding,SNOMED
+40310682,Pregnant - on abdom. palpation,Context-dependent,SNOMED
+4061784,Pregnant - on abdominal palpation,Clinical Finding,SNOMED
+4061785,Pregnancy unplanned and unwanted,Clinical Finding,SNOMED
+40310685,Pregnant -unplanned-not wanted,Context-dependent,SNOMED
+44819876,Multiple gestation with malpresentation of one fetus or more, antepartum condtion or complication,5-dig billing code,ICD9CM
+4064560,Delayed delivery second twin with antenatal problem,Disorder,SNOMED
+44833765,Delayed delivery of second twin, triplet, etc., antepartum condition or complication,5-dig billing code,ICD9CM
+4128030,Delivery procedure,Procedure,SNOMED
+4129022,Low risk pregnancy,Clinical Finding,SNOMED
+40303206,Gravida 3,Clinical Finding,SNOMED
+40324527,Gravida 3,Clinical Finding,SNOMED
+4060186,Gravida,Observable Entity,SNOMED
+40303207,Gravida 4,Clinical Finding,SNOMED
+40324528,Gravida 4,Clinical Finding,SNOMED
+40303210,Gravida 6,Clinical Finding,SNOMED
+40324530,Gravida 6,Clinical Finding,SNOMED
+40324526,Gravida 2,Clinical Finding,SNOMED
+40303205,Gravida 2,Clinical Finding,SNOMED
+40303211,Gravida 7,Clinical Finding,SNOMED
+40324531,Gravida 7,Clinical Finding,SNOMED
+3560151,Gravida more than 10,Clinical Finding,SNOMED
+3560188,Gravida more than 10,Undefined,SNOMED
+40303209,Gravida 5,Clinical Finding,SNOMED
+40324529,Gravida 5,Clinical Finding,SNOMED
+3553133,Gravida 8,Clinical Finding,SNOMED
+3572378,Gravida 9,Undefined,SNOMED
+3553130,Gravida 9,Clinical Finding,SNOMED
+3553147,Gravida 9,Undefined,SNOMED
+3553134,Gravida 10,Clinical Finding,SNOMED
+3553148,Gravida 10,Undefined,SNOMED
+3553256,Gravida 10,Undefined,SNOMED
+37200951,Unspecified ectopic pregnancy with intrauterine pregnancy,5-char billing code,ICD10CM
+37200949,Other ectopic pregnancy with intrauterine pregnancy,5-char billing code,ICD10CM
+44783183,Combined intrauterine and ovarian pregnancy,Disorder,SNOMED
+40483581,Combined tubal and intrauterine pregnancy,Disorder,SNOMED
+4163701,Extrachorial pregnancy,Clinical Finding,SNOMED
+4064559,Delayed delivery second twin - delivered,Disorder,SNOMED
+44825618,Delayed delivery of second twin, triplet, etc., delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+1571620,Supervision of pregnancy with insufficient antenatal care,4-char nonbill code,ICD10CM
+45577554,Supervision of young primigravida, unspecified trimester,6-char billing code,ICD10CM
+40524817,[V]Other specified high-risk pregnancy,Context-dependent,SNOMED
+45534164,Supervision of pregnancy with other poor reproductive or obstetric history, first trimester,6-char billing code,ICD10CM
+45563045,Supervision of young multigravida, second trimester,6-char billing code,ICD10CM
+45567884,Supervision of pregnancy resulting from assisted reproductive technology, unspecified trimester,6-char billing code,ICD10CM
+1571614,Supervision of high risk pregnancy,3-char nonbill code,ICD10CM
+45587275,Supervision of pregnancy with insufficient antenatal care, third trimester,5-char billing code,ICD10CM
+44800210,[V]Other specified high-risk pregnancy,Context-dependent,SNOMED
+45592181,Supervision of other high risk pregnancies, unspecified trimester,6-char billing code,ICD10CM
+40524818,[V]Unspecified high-risk pregnancy,Context-dependent,SNOMED
+36717636,Supervision of pregnancy with history of insufficient antenatal care,Procedure,SNOMED
+44800919,[V]Unspecified high-risk pregnancy,Context-dependent,SNOMED
+44827338,Supervision of high-risk pregnancy with history of infertility,4-dig billing V code,ICD9CM
+1571627,Supervision of young multigravida,5-char nonbill code,ICD10CM
+45596912,Supervision of pregnancy with other poor reproductive or obstetric history, third trimester,6-char billing code,ICD10CM
+45572759,Supervision of young primigravida, second trimester,6-char billing code,ICD10CM
+37200953,Supervision of pregnancy with history of molar pregnancy, unspecified trimester,5-char billing code,ICD10CM
+45553474,Supervision of young primigravida, third trimester,6-char billing code,ICD10CM
+45548693,Supervision of pregnancy with grand multiparity, unspecified trimester,5-char billing code,ICD10CM
+1571621,Supervision of pregnancy with grand multiparity,4-char nonbill code,ICD10CM
+45558196,Supervision of young multigravida, third trimester,6-char billing code,ICD10CM
+45577555,Supervision of pregnancy resulting from assisted reproductive technology, second trimester,6-char billing code,ICD10CM
+37200952,Supervision of pregnancy with history of molar pregnancy,4-char nonbill code,ICD10CM
+45534167,Supervision of high risk pregnancy, unspecified, first trimester,5-char billing code,ICD10CM
+45601776,Supervision of pregnancy resulting from assisted reproductive technology, third trimester,6-char billing code,ICD10CM
+45596913,Supervision of elderly multigravida, first trimester,6-char billing code,ICD10CM
+45765734,Supervision of high risk pregnancy for primigravida age 15 years or younger,Procedure,SNOMED
+4060101,Antenatal care: primiparous, under 17 years,Procedure,SNOMED
+45543911,Supervision of high risk pregnancy due to social problems, first trimester,5-char billing code,ICD10CM
+45601774,Supervision of elderly multigravida, second trimester,6-char billing code,ICD10CM
+45765729,Supervision of high risk pregnancy with history of previous molar pregnancy,Procedure,SNOMED
+45601775,Supervision of young multigravida, first trimester,6-char billing code,ICD10CM
+37017164,Supervision of high risk pregnancy with family history of diabetes mellitus,Procedure,SNOMED
+4061432,Antenatal care: 10 years plus since last pregnancy,Procedure,SNOMED
+1571630,Supervision of pregnancy resulting from assisted reproductive technology,5-char nonbill code,ICD10CM
+45534165,Supervision of high risk pregnancy due to social problems, second trimester,5-char billing code,ICD10CM
+45582441,Supervision of elderly primigravida, third trimester,6-char billing code,ICD10CM
+45563046,Supervision of young multigravida, unspecified trimester,6-char billing code,ICD10CM
+45548696,Supervision of high risk pregnancy, unspecified, third trimester,5-char billing code,ICD10CM
+37017058,Supervision of high risk pregnancy with poor reproductive history,Procedure,SNOMED
+1571628,Supervision of high risk pregnancy due to social problems,4-char nonbill code,ICD10CM
+45577553,Supervision of young primigravida, first trimester,6-char billing code,ICD10CM
+45582440,Supervision of elderly primigravida, second trimester,6-char billing code,ICD10CM
+45558192,Supervision of pregnancy with history of infertility, first trimester,5-char billing code,ICD10CM
+45548692,Supervision of pregnancy with other poor reproductive or obstetric history, unspecified trimester,6-char billing code,ICD10CM
+45765728,Supervision of high risk pregnancy,Procedure,SNOMED
+45587276,Supervision of pregnancy with grand multiparity, third trimester,5-char billing code,ICD10CM
+37017050,Supervision of high risk pregnancy with history of previous neonatal death,Procedure,SNOMED
+37017057,Supervision of high risk pregnancy with history of previous fetal distress,Procedure,SNOMED
+4188598,High risk pregnancy,Clinical Finding,SNOMED
+44820399,Supervision of high-risk pregnancy with other poor reproductive history,4-dig billing V code,ICD9CM
+37017051,Supervision of high risk pregnancy with history of previous intrauterine death,Procedure,SNOMED
+45572760,Supervision of pregnancy resulting from assisted reproductive technology, first trimester,6-char billing code,ICD10CM
+45587273,Supervision of pregnancy with history of infertility, third trimester,5-char billing code,ICD10CM
+45563044,Supervision of elderly multigravida, unspecified trimester,6-char billing code,ICD10CM
+45548694,Supervision of pregnancy with grand multiparity, second trimester,5-char billing code,ICD10CM
+36713460,Supervision of pregnancy with history of infertility,Procedure,SNOMED
+45592180,Supervision of pregnancy with insufficient antenatal care, first trimester,5-char billing code,ICD10CM
+45773399,Supervision of high risk pregnancy with history of gestational diabetes mellitus,Procedure,SNOMED
+37017053,Supervision of high risk pregnancy with history of previous big baby,Procedure,SNOMED
+37200955,Supervision of pregnancy with history of molar pregnancy, second trimester,5-char billing code,ICD10CM
+44835444,Supervision of high-risk pregnancy with insufficient prenatal care,4-dig billing V code,ICD9CM
+4302252,High risk pregnancy care,Procedure,SNOMED
+45558193,Supervision of pregnancy with history of infertility, second trimester,5-char billing code,ICD10CM
+45765727,Supervision of high risk pregnancy with history of previous cesarean section,Procedure,SNOMED
+1571615,Supervision of pregnancy with history of infertility,4-char nonbill code,ICD10CM
+45601773,Supervision of pregnancy with other poor reproductive or obstetric history, second trimester,6-char billing code,ICD10CM
+37018878,High risk pregnancy due to recurrent pregnancy loss,Clinical Finding,SNOMED
+1571625,Supervision of young primigravida and multigravida,4-char nonbill code,ICD10CM
+45582439,Supervision of pregnancy with insufficient antenatal care, second trimester,5-char billing code,ICD10CM
+1571632,Supervision of other high risk pregnancies,5-char nonbill code,ICD10CM
+45587279,Supervision of other high risk pregnancies, second trimester,6-char billing code,ICD10CM
+37017056,Supervision of high risk pregnancy with poor obstetric history,Procedure,SNOMED
+45606534,Supervision of elderly primigravida, first trimester,6-char billing code,ICD10CM
+37017163,Supervision of high risk pregnancy for maternal short stature,Procedure,SNOMED
+44836632,Supervision of high-risk pregnancy with other poor obstetric history,4-dig nonbill V code,ICD9CM
+1571626,Supervision of young primigravida,5-char nonbill code,ICD10CM
+45606536,Supervision of other high risk pregnancies, third trimester,6-char billing code,ICD10CM
+37200954,Supervision of pregnancy with history of molar pregnancy, first trimester,5-char billing code,ICD10CM
+45765730,Supervision of high risk pregnancy with history of previous precipitate labor,Procedure,SNOMED
+1571629,Supervision of other high risk pregnancies,4-char nonbill code,ICD10CM
+45592182,Supervision of high risk pregnancy, unspecified, unspecified trimester,5-char billing code,ICD10CM
+1571624,Supervision of elderly multigravida,5-char nonbill code,ICD10CM
+45592179,Supervision of pregnancy with insufficient antenatal care, unspecified trimester,5-char billing code,ICD10CM
+1571633,Supervision of high risk pregnancy, unspecified,4-char nonbill code,ICD10CM
+45587277,Supervision of elderly multigravida, third trimester,6-char billing code,ICD10CM
+4061429,Antenatal care: under 5ft tall,Procedure,SNOMED
+40480278,High risk pregnancy due to history of preterm labor,Clinical Finding,SNOMED
+1571622,Supervision of elderly primigravida and multigravida,4-char nonbill code,ICD10CM
+37019031,Supervision of high risk pregnancy with history of previous antepartum hemorrhage,Procedure,SNOMED
+45558199,Supervision of other high risk pregnancies, first trimester,6-char billing code,ICD10CM
+45553473,Supervision of pregnancy with grand multiparity, first trimester,5-char billing code,ICD10CM
+45558195,Supervision of elderly primigravida, unspecified trimester,6-char billing code,ICD10CM
+37017054,Supervision of high risk pregnancy with history of previous abnormal baby,Procedure,SNOMED
+45606535,Supervision of high risk pregnancy due to social problems, unspecified trimester,5-char billing code,ICD10CM
+45592175,Supervision of pregnancy with history of infertility, unspecified trimester,5-char billing code,ICD10CM
+45534168,Supervision of high risk pregnancy, unspecified, second trimester,5-char billing code,ICD10CM
+37017055,Supervision of high risk pregnancy with history of previous primary postpartum hemorrhage,Procedure,SNOMED
+45543912,Supervision of high risk pregnancy due to social problems, third trimester,5-char billing code,ICD10CM
+45765732,Supervision of high risk pregnancy for social problem,Procedure,SNOMED
+37200956,Supervision of pregnancy with history of molar pregnancy, third trimester,5-char billing code,ICD10CM
+44834254,Pregnancy with history of in utero procedure during previous pregnancy,5-dig billing V code,ICD9CM
+1571623,Supervision of elderly primigravida,5-char nonbill code,ICD10CM
+44828516,Pregnancy with other poor obstetric history,5-dig billing V code,ICD9CM
+44800910,[V]Normal pregnancy,Context-dependent,SNOMED
+40524796,[V]Normal pregnancy,Context-dependent,SNOMED
+4217975,Normal pregnancy,Clinical Finding,SNOMED
+44827337,Normal pregnancy,3-dig nonbill V code,ICD9CM
+36684864,Normal pregnancy in primigravida,Clinical Finding,SNOMED
+40368836,Umbilical cord of intertwined twins,Disorder,SNOMED
+4231297,Entanglement of cords of twins in monoamniotic sac,Disorder,SNOMED
+4231507,Intends to continue pregnancy,Clinical Finding,SNOMED
+3572581,Intends to continue with pregnancy,Clinical Finding,SNOMED
+4239301,Unwanted pregnancy,Clinical Finding,SNOMED
+4209199,Counseling for unwanted pregnancy,Procedure,SNOMED
+40299686,Unwanted: [pregnancy] or [child],Clinical Finding,SNOMED
+40330240,Unwanted: [pregnancy] or [child],Clinical Finding,SNOMED
+46272585,Prevention of unwanted pregnancy,Procedure,SNOMED
+44835512,Other unwanted pregnancy,4-dig billing V code,ICD9CM
+4244660,Extra-amniotic pregnancy,Clinical Finding,SNOMED
+4249470,Diamniotic-monochorionic twins,Clinical Finding,SNOMED
+4052190,Wife pregnant,Context-dependent,SNOMED
+4015296,Antenatal 12 weeks examination,Procedure,SNOMED
+4060195,Past pregnancy history of premature delivery,Context-dependent,SNOMED
+1247032,Past pregnancy history of neonatal death,Context-dependent,SNOMED
+37111308,Past pregnancy history of live birth,Context-dependent,SNOMED
+40357633,(Full term baby) or (H/O delivery: [full term] or [normal]),Clinical Finding,SNOMED
+37111270,Past pregnancy history of episiotomy,Context-dependent,SNOMED
+40303220,H/O: premature delivery,Context-dependent,SNOMED
+40356206,(Patient pregnant) or (pregnancy care (& [antenatal] or [postnatal])),Clinical Finding,SNOMED
+40303217,H/O: ectopic pregnancy,Context-dependent,SNOMED
+44801120,[V]Pregnancy confirmed,Context-dependent,SNOMED
+4059480,Past pregnancy history of stillbirth,Context-dependent,SNOMED
+4047564,Routine antenatal care,Procedure,SNOMED
+4112701,Prenatal examination and care of mother,Procedure,SNOMED
+763375,History of poor pregnancy outcome,Context-dependent,SNOMED
+4058565,Past pregnancy history of cesarean section,Context-dependent,SNOMED
+4156043,History of pregnancy,Context-dependent,SNOMED
+1244609,Shared antenatal care,Procedure,SNOMED
+37117934,Past pregnancy history of retained placenta,Context-dependent,SNOMED
+40479205,Past pregnancy history of premature labor,Context-dependent,SNOMED
+1314451,Patients who have a diagnosis of pregnancy at any time during the measurement period (Deprecated),HCPCS,HCPCS
+37017385,Past pregnancy history of pregnancy with abortive outcome,Context-dependent,SNOMED
+4058566,Past pregnancy history of eclampsia,Context-dependent,SNOMED
+4301073,Childbirth preparation,Procedure,SNOMED
+600680,Past pregnancy history of Rhesus isoimmunization affecting pregnancy,Context-dependent,SNOMED
+37111592,Past pregnancy history of postpartum psychosis,Context-dependent,SNOMED
+44783809,Past pregnancy history of induced termination of pregnancy under unsafe conditions,Context-dependent,SNOMED
+45767173,Partner pregnant,Context-dependent,SNOMED
+43021968,Past pregnancy history of gestational diabetes mellitus,Context-dependent,SNOMED
+37118028,Past pregnancy history of small for gestational age baby,Context-dependent,SNOMED
+4307820,Unplanned pregnancy,Clinical Finding,SNOMED
+37111517,Past pregnancy history of hemolysis-elevated liver enzymes-low platelet count syndrome,Context-dependent,SNOMED
+1247082,Glucose in blood one hour after glucose dose in pregnancy,Observable Entity,SNOMED
+506626,H/O: live birth,Context-dependent,SNOMED
+4059937,Past pregnancy history of postpartum hemorrhage,Context-dependent,SNOMED
+4060188,Past pregnancy history of miscarriage,Context-dependent,SNOMED
+4058564,Past pregnancy history of antepartum hemorrhage,Context-dependent,SNOMED
+40310686,Possible pregnancy,Context-dependent,SNOMED
+4088930,Confirmation of pregnancy,Clinical Finding,SNOMED
+4210126,Pregnancy-related examination,Procedure,SNOMED
+44796292,[V]Unspecified pregnant state,Context-dependent,SNOMED
+4015141,Antenatal 24 week examination,Procedure,SNOMED
+37111273,Past pregnancy history of placenta accreta,Context-dependent,SNOMED
+1247001,Past pregnancy history of recurrent miscarriage,Context-dependent,SNOMED
+44808981,Antenatal 31 week examination,Procedure,SNOMED
+4060238,Patient pregnant NOS,Clinical Finding,SNOMED
+4059484,Past pregnancy history of ectopic pregnancy,Context-dependent,SNOMED
+4014148,Antenatal booking examination,Procedure,SNOMED
+36714390,Past pregnancy history of defibulation of vulva to facilitate delivery,Context-dependent,SNOMED
+1247031,Past pregnancy history of perinatal death,Context-dependent,SNOMED
+37311258,Measured gestational weight loss,Observable Entity,SNOMED
+4077344,Past pregnancy history of delivery with no details,Context-dependent,SNOMED
+44808980,Antenatal 25 week examination,Procedure,SNOMED
+37111254,Past pregnancy history of placenta previa,Context-dependent,SNOMED
+4014152,Antenatal 38 week examination,Procedure,SNOMED
+4015298,Antenatal 34 week examination,Procedure,SNOMED
+42539246,Past pregnancy history of pregnancy loss in non-pregnant woman,Context-dependent,SNOMED
+40310676,Patient currently pregnant,Clinical Finding,SNOMED
+4172038,Prenatal supplemental visit,Procedure,SNOMED
+4058885,H/O: obstetric problem,Context-dependent,SNOMED
+4059938,Past pregnancy history of prolonged labor,Context-dependent,SNOMED
+600682,Past pregnancy history of pregnancy with normal glucose tolerance test,Context-dependent,SNOMED
+42534993,History of operation on cervix in currently pregnant patient,Context-dependent,SNOMED
+37116878,Past pregnancy history of fetal growth restriction,Context-dependent,SNOMED
+37312100,Past pregnancy history of placental abruption,Context-dependent,SNOMED
+42537366,Past pregnancy history of gestational trophoblastic disease,Context-dependent,SNOMED
+40524801,[V]Pregnancy confirmed,Context-dependent,SNOMED
+3519479,Patient pregnant NOS,Clinical Finding,SNOMED
+4058886,Past pregnancy history of previous forceps delivery,Context-dependent,SNOMED
+4015300,Antenatal 39 week examination,Procedure,SNOMED
+763390,History of previous small for gestational age newborn,Context-dependent,SNOMED
+37019066,Past pregnancy history of induced termination of pregnancy,Context-dependent,SNOMED
+37111268,Past pregnancy history of fourth degree perineal laceration,Context-dependent,SNOMED
+37153141,Past pregnancy history of short umbilical cord,Context-dependent,SNOMED
+1247033,Past pregnancy history of early neonatal death,Context-dependent,SNOMED
+37111269,Past pregnancy history of second degree perineal laceration,Context-dependent,SNOMED
+601970,Past pregnancy history of postpartum gestational hypertension,Context-dependent,SNOMED
+1244611,Midwifery led antenatal care,Procedure,SNOMED
+4156063,Past pregnancy history of delivery procedure,Context-dependent,SNOMED
+4058567,Past pregnancy history of severe pre-eclampsia,Context-dependent,SNOMED
+37111272,Past pregnancy history of elective cesarean section,Context-dependent,SNOMED
+4015142,Antenatal 37 week examination,Procedure,SNOMED
+46273804,Past pregnancy history of gestational hypertension,Context-dependent,SNOMED
+37109042,History of cholestasis in pregnancy,Context-dependent,SNOMED
+37117282,Past pregnancy history of spontaneous onset of labor,Context-dependent,SNOMED
+4311447,Prenatal initial visit,Procedure,SNOMED
+37019032,Pyogenic granuloma of gingiva due to pregnancy,Disorder,SNOMED
+44837787,Pregnancy with history of ectopic pregnancy,5-dig billing V code,ICD9CM
+4014434,Antenatal 35 week examination,Procedure,SNOMED
+37153633,Counseling for pregnancy,Procedure,SNOMED
+37111276,Past pregnancy history of induced onset of labor,Context-dependent,SNOMED
+40491825,Granuloma gravidarum,Disorder,SNOMED
+44800205,[V]Pregnant state, incidental,Context-dependent,SNOMED
+4172643,Pre-admission observation, undelivered mother,Procedure,SNOMED
+40524802,[V]Pregnant state, incidental,Context-dependent,SNOMED
+4014151,Antenatal 30 week examination,Procedure,SNOMED
+40303219,(Full term baby) or (H/O delivery: [full term] or [normal]),Context-dependent,SNOMED
+40310675,(Patient pregnant) or (pregnancy care (& [antenatal] or [postnatal])),Clinical Finding,SNOMED
+4078113,Past pregnancy history of normal delivery,Context-dependent,SNOMED
+4323351,Past pregnancy history of choriocarcinoma of placenta,Context-dependent,SNOMED
+600678,Past pregnancy history of complication occurring during labor and delivery,Context-dependent,SNOMED
+40524805,[V]Unspecified pregnant state,Context-dependent,SNOMED
+4015299,Antenatal 36 week examination,Procedure,SNOMED
+44806658,Pregnancy resulting from assisted conception,Clinical Finding,SNOMED
+40303214,H/O: stillbirth,Context-dependent,SNOMED
+37311266,Measured gestational weight gain,Observable Entity,SNOMED
+4060312,Infections of urethra in pregnancy,Disorder,SNOMED
+37016105,Past pregnancy history of pre-eclampsia,Context-dependent,SNOMED
+4014149,Antenatal 16 week examination,Procedure,SNOMED
+4088440,Periods have stopped,Clinical Finding,SNOMED
+1244610,Hospital antenatal care,Procedure,SNOMED
+4299535,Pregnancy,Clinical Finding,SNOMED
+764109,Past pregnancy history of complication of pregnancy, childbirth and/or puerperium,Context-dependent,SNOMED
+37111267,Past pregnancy history of third degree perineal laceration,Context-dependent,SNOMED
+1246973,Past pregnancy history of multiple induced termination of pregnancy,Context-dependent,SNOMED
+37109041,Past pregnancy history of intrauterine fetal death,Context-dependent,SNOMED
+1247034,Past pregnancy history of late neonatal death,Context-dependent,SNOMED
+37111274,Past pregnancy history of emergency cesarean section,Context-dependent,SNOMED
+4015302,Antenatal 41 week examination,Procedure,SNOMED
+40340540,(Patient pregnant) or (pregnancy care [& antenatal]),Clinical Finding,SNOMED
+37109043,Past pregnancy history of molar pregnancy,Context-dependent,SNOMED
+4143056,Past pregnancy history of full term delivery,Context-dependent,SNOMED
+44808979,Antenatal 22 week examination,Procedure,SNOMED
+4015297,Antenatal 32 week examination,Procedure,SNOMED
+600681,Past pregnancy history of pregnancy with abnormal glucose tolerance test,Context-dependent,SNOMED
+37311274,Past pregnancy history of shoulder dystocia,Context-dependent,SNOMED
+37173067,Pregnancy after cervical conization,Clinical Finding,SNOMED
+1244612,General practitioner led antenatal care,Procedure,SNOMED
+40303269,H/O: prolonged labor,Context-dependent,SNOMED
+40303262,H/O: antepartum hemorrhage,Context-dependent,SNOMED
+4325357,Gastrointestinal tract finding associated with pregnancy,Clinical Finding,SNOMED
+4014435,Antenatal 42 week examination,Procedure,SNOMED
+37111594,Past pregnancy history of first degree perineal laceration,Context-dependent,SNOMED
+42539228,Past pregnancy history of preterm premature rupture of membranes,Context-dependent,SNOMED
+4014150,Antenatal 20 week examination,Procedure,SNOMED
+4014433,Antenatal 28 week examination,Procedure,SNOMED
+507693,H/O: previous baby small for gestational age,Context-dependent,SNOMED
+4260758,Past pregnancy history of medical termination of pregnancy,Context-dependent,SNOMED
+1246975,Past pregnancy history of multiple miscarriages,Context-dependent,SNOMED
+44792121,Partner pregnant,Context-dependent,SNOMED
+762490,Pregnancy and lactation education,Procedure,SNOMED
+37111593,Past pregnancy history of previous delivery by vacuum extraction,Context-dependent,SNOMED
+600679,Past pregnancy history of complication of puerperium,Context-dependent,SNOMED
+40310691,Patient pregnant NOS,Clinical Finding,SNOMED
+4132562,Number of pregnancies, currently pregnant,Clinical Finding,SNOMED
+40324558,H/O delivery: [full term] or [normal] or [no details],Context-dependent,SNOMED
+37016298,Past pregnancy history of delivery of macrosomal infant,Context-dependent,SNOMED
+4313474,Prenatal visit,Procedure,SNOMED
+4015301,Antenatal 40 week examination,Procedure,SNOMED
+45600319,Pregnant state, incidental,4-char billing code,ICD10CM
+1576058,Pregnant state,3-char nonbill code,ICD10CM
+4298265,Unplanned pregnancy counseling,Procedure,SNOMED
+44837786,Pregnant state, incidental,4-dig billing V code,ICD9CM
+40340552,Unplanned pregnancy,Context-dependent,SNOMED
+37159122,At increased risk for unplanned pregnancy,Clinical Finding,SNOMED
+45763564,At risk of unplanned pregnancy,Context-dependent,SNOMED
+438213,Delayed delivery of second twin, triplet etc,Disorder,SNOMED
+4060155,Delayed delivery second twin etc NOS,Disorder,SNOMED
+35210193,Delayed delivery of second twin, triplet, etc.,4-char billing code,ICD10CM
+3583156,Delayed delivery second twin unspecified,Disorder,SNOMED
+3535071,Delayed delivery second twin etc NOS,Disorder,SNOMED
+4060154,Delayed delivery second twin unspecified,Disorder,SNOMED
+44826817,Delayed delivery of second twin, triplet, etc.,4-dig nonbill code,ICD9CM
+44819905,Delayed delivery of second twin, triplet, etc., unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+40633740,Dizygotic twins,Clinical Finding,SNOMED
+45558218,Pregnancy care for patient with recurrent pregnancy loss, third trimester,5-char billing code,ICD10CM
+45587296,Pregnancy care for patient with recurrent pregnancy loss, second trimester,5-char billing code,ICD10CM
+45606551,Pregnancy care for patient with recurrent pregnancy loss, first trimester,5-char billing code,ICD10CM
+45572758,Supervision of pregnancy with history of pre-term labor, unspecified trimester,6-char billing code,ICD10CM
+45587274,Supervision of pregnancy with history of pre-term labor, third trimester,6-char billing code,ICD10CM
+45572757,Supervision of pregnancy with history of pre-term labor, first trimester,6-char billing code,ICD10CM
+45592178,Supervision of pregnancy with history of pre-term labor, second trimester,6-char billing code,ICD10CM
+1571618,Supervision of pregnancy with history of pre-term labor,5-char nonbill code,ICD10CM
+44821530,Pregnancy with history of pre-term labor,5-dig billing V code,ICD9CM
+44821050,Elderly multigravida, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+44836107,Elderly multigravida, antepartum condition or complication,5-dig billing code,ICD9CM
+44833760,Elderly multigravida,4-dig nonbill code,ICD9CM
+44829139,Elderly multigravida, delivered with or without mention of antepartum condition,5-dig billing code,ICD9CM
+1326732,Left tubal pregnancy with intrauterine pregnancy,6-char billing code,ICD10CM
+37200945,Tubal pregnancy with intrauterine pregnancy,5-char nonbill code,ICD10CM
+44823216,Tubal pregnancy with intrauterine pregnancy,5-dig billing code,ICD9CM
+1326731,Right tubal pregnancy with intrauterine pregnancy,6-char billing code,ICD10CM
+1326733,Unspecified tubal pregnancy with intrauterine pregnancy,6-char billing code,ICD10CM
+44823253,Twin pregnancy with fetal loss and retention of one fetus,4-dig nonbill code,ICD9CM
+44837251,Twin pregnancy with fetal loss and retention of one fetus, delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+44825605,Twin pregnancy with fetal loss and retention of one fetus, unspecified as to episode of care or not applicable,5-dig billing code,ICD9CM
+1571746,Twin pregnancy, dichorionic/diamniotic,5-char nonbill code,ICD10CM
+45567905,Twin pregnancy, dichorionic/diamniotic, second trimester,6-char billing code,ICD10CM
+45548734,Twin pregnancy, dichorionic/diamniotic, third trimester,6-char billing code,ICD10CM
+44823920,Twin gestation, dichorionic/diamniotic (two placentae, two amniotic sacs),5-dig billing V code,ICD9CM
+45592210,Twin pregnancy, dichorionic/diamniotic, first trimester,6-char billing code,ICD10CM
+45543940,Twin pregnancy, dichorionic/diamniotic, unspecified trimester,6-char billing code,ICD10CM
+43021952,Monochorionic monoamniotic twin pregnancy,Clinical Finding,SNOMED
+43021951,Monochorionic diamniotic twin pregnancy,Clinical Finding,SNOMED
+43021056,Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes,Clinical Finding,SNOMED
+43021057,Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes,Disorder,SNOMED
+45563079,Twin pregnancy, monochorionic/diamniotic, unspecified trimester,6-char billing code,ICD10CM
+45582473,Twin pregnancy, monochorionic/diamniotic, second trimester,6-char billing code,ICD10CM
+45572779,Twin pregnancy, monochorionic/diamniotic, first trimester,6-char billing code,ICD10CM
+44830881,Twin gestation, monochorionic/diamniotic (one placenta, two amniotic sacs),5-dig billing V code,ICD9CM
+45548733,Twin pregnancy, monochorionic/diamniotic, third trimester,6-char billing code,ICD10CM
+1571745,Twin pregnancy, monochorionic/diamniotic,5-char nonbill code,ICD10CM
+45563077,Twin pregnancy, monochorionic/monoamniotic, unspecified trimester,6-char billing code,ICD10CM
+45592209,Twin pregnancy, monochorionic/monoamniotic, second trimester,6-char billing code,ICD10CM
+45606558,Twin pregnancy, monochorionic/monoamniotic, third trimester,6-char billing code,ICD10CM
+1571743,Twin pregnancy, monochorionic/monoamniotic,5-char nonbill code,ICD10CM
+44833176,Twin gestation, monochorionic/monoamniotic (one placenta, one amniotic sac),5-dig billing V code,ICD9CM
+45596938,Twin pregnancy, monochorionic/monoamniotic, first trimester,6-char billing code,ICD10CM
+1326737,Right ovarian pregnancy with intrauterine pregnancy,6-char billing code,ICD10CM
+1326738,Left ovarian pregnancy with intrauterine pregnancy,6-char billing code,ICD10CM
+44821005,Ovarian pregnancy with intrauterine pregnancy,5-dig billing code,ICD9CM
+1326739,Unspecified ovarian pregnancy with intrauterine pregnancy,6-char billing code,ICD10CM
+37200947,Ovarian pregnancy with intrauterine pregnancy,5-char nonbill code,ICD10CM
+1326735,Left ovarian pregnancy without intrauterine pregnancy,6-char billing code,ICD10CM
+44833731,Quadruplet pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM
+44830232,Triplet pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition,5-dig billing code,ICD9CM

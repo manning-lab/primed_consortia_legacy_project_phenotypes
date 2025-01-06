@@ -1,0 +1,27 @@
+---
+title: "CPT4 Codes"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+library(DBI)
+library(RPostgreSQL)
+library(DatabaseConnector)
+library(SqlRender)
+library(dplyr)
+library(readr)
+```
+
+```{r eval=TRUE, echo=TRUE}
+source("find_descendants_and_mappings_for_a_given_concept_id.R")
+```
+
+# Dialysis
+
+
+
+```{r eval=TRUE, echo=TRUE}
+
+dialysis_CPT4_Heirarchy_OMOP_45889365 <- find_descendants_and_mappings_for_a_given_concept_id(45889365, file_label = "dialysis_CPT4_Heirarchy_OMOP_45889365")
+
+```

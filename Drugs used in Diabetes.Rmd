@@ -10,9 +10,15 @@ library(DT)
 library(readr)
 ```
 
-Current release: [drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv](https://raw.githubusercontent.com/manning-lab/primed_consortia_legacy_project_phenotypes/refs/heads/main/drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv)
+Current release:
+ - medication_codes/drugs_used_in_diabetes_OMOP_21600712_AKM_27November2024.tsv
+ - medication_protocol/brand_names_drugs_used_in_diabetes_OMOP_21600712_AKM_27November2024.tsv
 
+
+Old release: drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv
+
+# Brand names of drugs used in diabetes
 ```{r}
-drugs_used_in_diabetes_OMOP_21600712 <- read_delim("drugs_used_in_diabetes_OMOP_21600712_AKM_30Sept2024.tsv", delim =  "\t")
-DT::datatable(drugs_used_in_diabetes_OMOP_21600712, rownames = FALSE, filter="top", extensions = 'Buttons', options = list(dom = 'Bfrtip', buttons = c('copy', 'csv', 'excel')))
+brand_names_drugs_used_in_diabetes_OMOP_21600712 <- read_delim("medication_protocol/brand_names_drugs_used_in_diabetes_OMOP_21600712_AKM_27November2024.tsv", delim =  "\t")
+DT::datatable(brand_names_drugs_used_in_diabetes_OMOP_21600712, rownames = FALSE, filter="top", extensions = 'Buttons', options = list(dom = 'Bfrtip', buttons = c('copy', 'csv', 'excel')))
 ```

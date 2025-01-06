@@ -1,0 +1,8 @@
+CONCEPT_ID,CONCEPT_NAME,CONCEPT_CLASS_ID,CONCEPT_VOCAB_ID
+4120120,Hemodialysis,Procedure,SNOMED
+4297090,Evaluation procedure,Procedure,SNOMED
+4013066,Change of prescription,Procedure,SNOMED
+4223358,Indicator dilution flow measurement,Procedure,SNOMED
+4300839,Dialysis care management,Procedure,SNOMED
+4155973,Outpatient procedure,Procedure,SNOMED
+4214577,Inpatient care,Procedure,SNOMED
